@@ -1,4 +1,4 @@
-# BDX-IO-2022-SUBSTITLE
+# BDX-IO-2022-SOUS-TITRE
 
 Suite à la conférence BDX I/O du vendredi 02 décembre et plus particlièrement suite au talk de Anne-Laure Gaillard : <q>Contribuer à l'Open Source ? Yes, you can!</q> (à revoir sur YouTube https://www.youtube.com/watch?v=gyhR5m4RgyE),
 je vous propose de toutes et tous de participer à la communauté en prenant un peu de temps pour écrire les sous-titres des vidéos.
