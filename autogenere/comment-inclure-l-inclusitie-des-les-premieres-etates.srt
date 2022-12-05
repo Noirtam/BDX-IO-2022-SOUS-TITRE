@@ -1,0 +1,1984 @@
+1
+00:00:01,840 --> 00:00:13,009
+[Musique]
+
+2
+00:00:13,259 --> 00:00:16,199
+bonjour à tous merci d'être présent pour
+
+3
+00:00:16,199 --> 00:00:18,359
+ce taule moi je vous parlais
+
+4
+00:00:18,359 --> 00:00:20,699
+d'inclusivité et un plus précisément de
+
+5
+00:00:20,699 --> 00:00:22,859
+comment inclure l'activité dès les
+
+6
+00:00:22,859 --> 00:00:24,180
+premières étapes de conception d'un
+
+7
+00:00:24,180 --> 00:00:26,580
+service ou d'un produit digital donc on
+
+8
+00:00:26,580 --> 00:00:28,560
+sait on peut voir rien qu'avec les
+
+9
+00:00:28,560 --> 00:00:29,939
+sujets qu'on a aujourd'hui et la
+
+10
+00:00:29,939 --> 00:00:31,679
+thématique de Bdx Ayo que l'inclusivité
+
+11
+00:00:31,679 --> 00:00:33,840
+ça gagne quand même du terrain et ça
+
+12
+00:00:33,840 --> 00:00:36,739
+commence à être dans dans les débats et
+
+13
+00:00:36,739 --> 00:00:39,480
+voilà certaines marques s'y mettent un
+
+14
+00:00:39,480 --> 00:00:41,879
+petit moment d'autres plus affirme un
+
+15
+00:00:41,879 --> 00:00:43,920
+peu plus
+
+16
+00:00:43,920 --> 00:00:47,760
+du coup je vais me présenter Noémie moi
+
+17
+00:00:47,760 --> 00:00:51,180
+je suis designer depuis à peu près 12
+
+18
+00:00:51,180 --> 00:00:53,940
+ans sur Bordeaux et du coup actuellement
+
+19
+00:00:53,940 --> 00:00:57,860
+je suis designer chez onepoint
+
+20
+00:00:58,079 --> 00:00:59,520
+du coup on va commencer par les bases
+
+21
+00:00:59,520 --> 00:01:02,219
+donc moi je vais revenir sur qu'est-ce
+
+22
+00:01:02,219 --> 00:01:04,260
+que l'inclusivité donc ce terme ça
+
+23
+00:01:04,260 --> 00:01:05,700
+signifie vraiment inclure tout le monde
+
+24
+00:01:05,700 --> 00:01:08,340
+sans exception et à l'opposé on a
+
+25
+00:01:08,340 --> 00:01:09,960
+l'exclusion qui peut être faite par
+
+26
+00:01:09,960 --> 00:01:12,479
+justement la couleur de peau le genre
+
+27
+00:01:12,479 --> 00:01:15,000
+l'orientation sexuelle la classe sociale
+
+28
+00:01:15,000 --> 00:01:18,540
+la validité la nationalité la langue les
+
+29
+00:01:18,540 --> 00:01:20,159
+particularités physiques et bien
+
+30
+00:01:20,159 --> 00:01:22,580
+d'autres choses
+
+31
+00:01:23,460 --> 00:01:25,080
+comme nous dit l'entreprise Microsoft
+
+32
+00:01:25,080 --> 00:01:26,400
+effectivement concevoir de manière
+
+33
+00:01:26,400 --> 00:01:28,259
+inclusive ça ne signifie pas que ne vous
+
+34
+00:01:28,259 --> 00:01:30,000
+faites une chose pour tout le monde vous
+
+35
+00:01:30,000 --> 00:01:31,560
+concevez une diversité de moyens pour
+
+36
+00:01:31,560 --> 00:01:33,119
+que chacun puisse participer à une
+
+37
+00:01:33,119 --> 00:01:34,619
+expérience avec un sentiment
+
+38
+00:01:34,619 --> 00:01:36,659
+d'appartenance donc vraiment le mot clé
+
+39
+00:01:36,659 --> 00:01:38,159
+c'est le mot appartenance quand on parle
+
+40
+00:01:38,159 --> 00:01:40,640
+d'inclusivité
+
+41
+00:01:42,119 --> 00:01:43,560
+du coup quand on parle l'inclusivité
+
+42
+00:01:43,560 --> 00:01:46,920
+forcément on va quand j'en parle on me
+
+43
+00:01:46,920 --> 00:01:48,420
+dit mais c'est comme l'accessibilité non
+
+44
+00:01:48,420 --> 00:01:51,180
+c'est deux notions différentes
+
+45
+00:01:51,180 --> 00:01:53,399
+du coup on va voir pourquoi le
+
+46
+00:01:53,399 --> 00:01:54,479
+gouvernement français il définit
+
+47
+00:01:54,479 --> 00:01:55,680
+l'accessibilité numérique comme
+
+48
+00:01:55,680 --> 00:01:57,659
+consistant à rendre les contenus et
+
+49
+00:01:57,659 --> 00:01:59,460
+services numériques compréhensibles et
+
+50
+00:01:59,460 --> 00:02:00,960
+utilisables pour les personnes en
+
+51
+00:02:00,960 --> 00:02:04,020
+situation de handicap donc en France en
+
+52
+00:02:04,020 --> 00:02:05,939
+fait on a le RGA donc ça va être un
+
+53
+00:02:05,939 --> 00:02:08,520
+référentiel sur l'accessibilité donc des
+
+54
+00:02:08,520 --> 00:02:10,199
+règles à respecter les administrations
+
+55
+00:02:10,199 --> 00:02:12,720
+publiques elles sont obligées de d'être
+
+56
+00:02:12,720 --> 00:02:15,239
+conforme RGEA et d'avoir un taux de
+
+57
+00:02:15,239 --> 00:02:16,580
+conformité
+
+58
+00:02:16,580 --> 00:02:18,920
+acceptable par contre
+
+59
+00:02:18,920 --> 00:02:21,780
+effectivement pour l'inclusivité il y a
+
+60
+00:02:21,780 --> 00:02:23,580
+rien qui est réglementé donc c'est
+
+61
+00:02:23,580 --> 00:02:25,739
+vraiment au bon vouloir de chaque
+
+62
+00:02:25,739 --> 00:02:28,739
+entreprise et enfin pour pouvoir le
+
+63
+00:02:28,739 --> 00:02:30,900
+prendre en compte
+
+64
+00:02:30,900 --> 00:02:32,160
+du coup comme il y a une différence
+
+65
+00:02:32,160 --> 00:02:34,860
+entre l'accessibilité et l'inclusivité
+
+66
+00:02:34,860 --> 00:02:37,200
+une interface elle peut être accessible
+
+67
+00:02:37,200 --> 00:02:39,780
+mais pas inclusive donc là par exemple
+
+68
+00:02:39,780 --> 00:02:42,180
+sur l'exemple que j'ai mis c'est c'est
+
+69
+00:02:42,180 --> 00:02:43,879
+un
+
+70
+00:02:43,879 --> 00:02:46,200
+champ de formulaire où on demande de
+
+71
+00:02:46,200 --> 00:02:47,480
+saisir le genre
+
+72
+00:02:47,480 --> 00:02:49,980
+en terme d'accessibilité on va se dire
+
+73
+00:02:49,980 --> 00:02:52,080
+que le contraste il est suffisant que le
+
+74
+00:02:52,080 --> 00:02:53,879
+formulaire il est codé de manière à
+
+75
+00:02:53,879 --> 00:02:56,040
+supporter les lecteurs d'écran et que le
+
+76
+00:02:56,040 --> 00:02:57,599
+formulaire est codé pour supporter le
+
+77
+00:02:57,599 --> 00:02:59,780
+zoom par contre en terme d'inclusivité
+
+78
+00:02:59,780 --> 00:03:03,959
+sachant que le champ est obligatoire on
+
+79
+00:03:03,959 --> 00:03:05,819
+va exclure toutes les personnes qui ne
+
+80
+00:03:05,819 --> 00:03:07,860
+se sentent pas binairement homme ou
+
+81
+00:03:07,860 --> 00:03:09,660
+femme et en plus il faut se poser la
+
+82
+00:03:09,660 --> 00:03:10,500
+question c'est est-ce que cette
+
+83
+00:03:10,500 --> 00:03:11,700
+information elle est réellement
+
+84
+00:03:11,700 --> 00:03:14,760
+nécessaire ça va ça ne va pas exclure
+
+85
+00:03:14,760 --> 00:03:17,400
+les personnes d'utiliser le service mais
+
+86
+00:03:17,400 --> 00:03:19,260
+ça va quand même provoquer une sorte de
+
+87
+00:03:19,260 --> 00:03:20,580
+un sentiment de gêne ou de
+
+88
+00:03:20,580 --> 00:03:22,140
+non-appartenance je vois pas pourquoi
+
+89
+00:03:22,140 --> 00:03:24,000
+j'ai à spécifié je suis un homme ou une
+
+90
+00:03:24,000 --> 00:03:25,920
+femme et en plus je me sens pas homme ou
+
+91
+00:03:25,920 --> 00:03:27,980
+femme
+
+92
+00:03:29,040 --> 00:03:31,080
+et du coup tout comme on peut être
+
+93
+00:03:31,080 --> 00:03:33,360
+inclusif mais pas accessible donc par
+
+94
+00:03:33,360 --> 00:03:35,340
+exemple l'écriture inclusive avec les
+
+95
+00:03:35,340 --> 00:03:36,840
+points médian donc exemple utilisateur
+
+96
+00:03:36,840 --> 00:03:38,580
+point risque c'est pas accessible parce
+
+97
+00:03:38,580 --> 00:03:40,620
+que ça rend difficile la lecture pour
+
+98
+00:03:40,620 --> 00:03:42,720
+les dyslexiques c'est pas bien supporté
+
+99
+00:03:42,720 --> 00:03:44,819
+par les lecteurs d'écran pour les
+
+100
+00:03:44,819 --> 00:03:46,860
+personnes en situation d'handicap visuel
+
+101
+00:03:46,860 --> 00:03:48,480
+et en plus ça complexifie la lecture
+
+102
+00:03:48,480 --> 00:03:49,620
+pour les personnes qui ne sont pas
+
+103
+00:03:49,620 --> 00:03:52,140
+pleinement à l'aise avec le français
+
+104
+00:03:52,140 --> 00:03:53,819
+usuel
+
+105
+00:03:53,819 --> 00:03:58,319
+du coup on va se demander aussi mais bon
+
+106
+00:03:58,319 --> 00:04:01,140
+du coup comme le dit l'entreprise 99
+
+107
+00:04:01,140 --> 00:04:03,060
+design le design accessible tant être
+
+108
+00:04:03,060 --> 00:04:05,400
+l'un des éléments du design inclusif car
+
+109
+00:04:05,400 --> 00:04:06,599
+les deux vis à atteindre le même
+
+110
+00:04:06,599 --> 00:04:08,220
+objectif à savoir créer des produits
+
+111
+00:04:08,220 --> 00:04:12,019
+adaptés à un large éventail de personnes
+
+112
+00:04:12,060 --> 00:04:14,659
+du coup pourquoi pourquoi être inclusif
+
+113
+00:04:14,659 --> 00:04:17,399
+donc forcément le bien-être des
+
+114
+00:04:17,399 --> 00:04:19,699
+utilisateurs
+
+115
+00:04:19,699 --> 00:04:22,800
+pour gagner et fidéliser des clients
+
+116
+00:04:22,800 --> 00:04:24,960
+forcément et pour augmenter son chiffre
+
+117
+00:04:24,960 --> 00:04:26,820
+d'affaires il y a des clients qui
+
+118
+00:04:26,820 --> 00:04:28,500
+peuvent se détourner d'une marque parce
+
+119
+00:04:28,500 --> 00:04:30,120
+que elle n'est pas inclusive ou
+
+120
+00:04:30,120 --> 00:04:31,620
+quelqu'un clairement des propos
+
+121
+00:04:31,620 --> 00:04:33,900
+exclusifs on a pu le voir dans
+
+122
+00:04:33,900 --> 00:04:36,000
+l'actualité ces derniers temps il y en a
+
+123
+00:04:36,000 --> 00:04:40,340
+qui qui se positionne cette manière
+
+124
+00:04:40,580 --> 00:04:44,160
+et du coup des chiffres en fait pour
+
+125
+00:04:44,160 --> 00:04:46,979
+montrer la valeur d'être inclusif donc
+
+126
+00:04:46,979 --> 00:04:49,259
+ça peut apporter plus 25% d'amélioration
+
+127
+00:04:49,259 --> 00:04:51,000
+sur la satisfaction des utilisateurs
+
+128
+00:04:51,000 --> 00:04:53,759
+plus 40% d'augmentation des
+
+129
+00:04:53,759 --> 00:04:57,300
+recommandations positives positives plus
+
+130
+00:04:57,300 --> 00:04:59,280
+30 % d'impact positif sur les ventes
+
+131
+00:04:59,280 --> 00:05:02,460
+plus 9 % de probabilité de réachat et
+
+132
+00:05:02,460 --> 00:05:05,100
+plus 83% en performance business donc
+
+133
+00:05:05,100 --> 00:05:07,199
+c'est pas négligeable
+
+134
+00:05:07,199 --> 00:05:09,120
+du coup l'inclusivité c'est la
+
+135
+00:05:09,120 --> 00:05:11,520
+responsabilité de qui
+
+136
+00:05:11,520 --> 00:05:12,840
+faut bien trouver faut bien trouver
+
+137
+00:05:12,840 --> 00:05:15,360
+quelqu'un pour s'en charger donc dans
+
+138
+00:05:15,360 --> 00:05:16,199
+les entreprises qui ne sont pas
+
+139
+00:05:16,199 --> 00:05:20,820
+forcément matures sur sur le sujet on
+
+140
+00:05:20,820 --> 00:05:22,560
+peut on peut on peut imaginer que la
+
+141
+00:05:22,560 --> 00:05:23,940
+responsabilité va être portée par
+
+142
+00:05:23,940 --> 00:05:25,800
+différentes personnes donc ça pourrait
+
+143
+00:05:25,800 --> 00:05:27,600
+être le responsable produit ça pourrait
+
+144
+00:05:27,600 --> 00:05:30,000
+être le produit que manager le chef de
+
+145
+00:05:30,000 --> 00:05:32,340
+projet le designer le développeur ou
+
+146
+00:05:32,340 --> 00:05:34,500
+toute personne qui s'en concernées je
+
+147
+00:05:34,500 --> 00:05:36,419
+pense qu'on va sentir plus concerné
+
+148
+00:05:36,419 --> 00:05:38,039
+quand on appartient à une minorité on va
+
+149
+00:05:38,039 --> 00:05:40,460
+vouloir justement porter ce sujet
+
+150
+00:05:40,460 --> 00:05:43,220
+en talk
+
+151
+00:05:43,220 --> 00:05:46,500
+après dans une entreprise mature sur ces
+
+152
+00:05:46,500 --> 00:05:48,060
+problématiques d'exclusion on pourrait
+
+153
+00:05:48,060 --> 00:05:50,759
+imaginer un garant ou un responsable
+
+154
+00:05:50,759 --> 00:05:52,800
+dédié à l'accessibilité et à
+
+155
+00:05:52,800 --> 00:05:54,300
+l'inclusivité des produits et des
+
+156
+00:05:54,300 --> 00:05:56,820
+services digitaux et même au sein de
+
+157
+00:05:56,820 --> 00:05:59,280
+l'entreprise garantir l'accessibilité et
+
+158
+00:05:59,280 --> 00:06:02,840
+l'inclusivité pour ces salariés
+
+159
+00:06:03,180 --> 00:06:04,979
+concrètement
+
+160
+00:06:04,979 --> 00:06:06,360
+qu'on va avoir un peu qu'est-ce qu'on
+
+161
+00:06:06,360 --> 00:06:07,500
+mange qu'est-ce qu'on peut faire pour le
+
+162
+00:06:07,500 --> 00:06:08,840
+mettre en place
+
+163
+00:06:08,840 --> 00:06:11,160
+l'inclusivité faut vraiment qu'elle soit
+
+164
+00:06:11,160 --> 00:06:13,020
+considérée dès le début d'un projet
+
+165
+00:06:13,020 --> 00:06:16,259
+parce que si on considère à la fin en
+
+166
+00:06:16,259 --> 00:06:18,259
+fait on risque d'avoir des résultats
+
+167
+00:06:18,259 --> 00:06:21,240
+superficiels et ce sera pas forcément
+
+168
+00:06:21,240 --> 00:06:23,660
+positif
+
+169
+00:06:23,660 --> 00:06:26,759
+l'idée c'est on va pas forcément
+
+170
+00:06:26,759 --> 00:06:29,100
+rajouter énormément de complexité au
+
+171
+00:06:29,100 --> 00:06:31,860
+projet mais faut simplement se poser les
+
+172
+00:06:31,860 --> 00:06:33,180
+bonnes questions pour apporter les
+
+173
+00:06:33,180 --> 00:06:34,740
+meilleures réponses à appliquer à son
+
+174
+00:06:34,740 --> 00:06:36,300
+produit comme ils aiment Microsoft au
+
+175
+00:06:36,300 --> 00:06:37,860
+début on essaye de faire son maximum
+
+176
+00:06:37,860 --> 00:06:41,280
+mais on pourra peut-être pas tout faire
+
+177
+00:06:41,280 --> 00:06:42,800
+du coup
+
+178
+00:06:42,800 --> 00:06:45,960
+comme dit l'entreprise effectivement 99
+
+179
+00:06:45,960 --> 00:06:47,759
+le design inclusif c'est pas une simple
+
+180
+00:06:47,759 --> 00:06:49,500
+cage à cocher mais bien un mode de
+
+181
+00:06:49,500 --> 00:06:52,620
+pensée à part entière
+
+182
+00:06:52,620 --> 00:06:54,000
+premièrement on peut passer par une
+
+183
+00:06:54,000 --> 00:06:55,800
+étape de sensibilisation donc une
+
+184
+00:06:55,800 --> 00:06:57,660
+présentation sur l'inclusivité sur les
+
+185
+00:06:57,660 --> 00:06:59,699
+enjeux sur les implications à plus ou
+
+186
+00:06:59,699 --> 00:07:00,800
+moins long terme dans un projet donc
+
+187
+00:07:00,800 --> 00:07:03,180
+c'est comme beaucoup de sujets enfin
+
+188
+00:07:03,180 --> 00:07:05,340
+faut sensibiliser faut en parler c'est
+
+189
+00:07:05,340 --> 00:07:07,800
+c'est la même problématique pour le
+
+190
+00:07:07,800 --> 00:07:09,419
+design de manière générale dans une
+
+191
+00:07:09,419 --> 00:07:10,680
+entreprise il faut en parler il faut
+
+192
+00:07:10,680 --> 00:07:12,840
+sensibiliser
+
+193
+00:07:12,840 --> 00:07:15,120
+après du coup comment on peut être
+
+194
+00:07:15,120 --> 00:07:16,740
+inclusif dans les formulaires et le
+
+195
+00:07:16,740 --> 00:07:18,720
+recueil de données donc il y a un
+
+196
+00:07:18,720 --> 00:07:20,400
+premier sujet ça va être vraiment se
+
+197
+00:07:20,400 --> 00:07:22,080
+poser la question sur la nécessité des
+
+198
+00:07:22,080 --> 00:07:23,160
+données récoltées est-ce qu'on a
+
+199
+00:07:23,160 --> 00:07:24,780
+vraiment besoin de savoir Monsieur
+
+200
+00:07:24,780 --> 00:07:26,160
+Madame est-ce qu'on a vraiment besoin de
+
+201
+00:07:26,160 --> 00:07:28,460
+savoir si c'est un homme ou une femme
+
+202
+00:07:28,460 --> 00:07:30,900
+si c'est vraiment nécessaire
+
+203
+00:07:30,900 --> 00:07:32,819
+effectivement il va falloir adapter les
+
+204
+00:07:32,819 --> 00:07:34,220
+formulaires faut qu'on ait plus de choix
+
+205
+00:07:34,220 --> 00:07:36,599
+de dire je suis pas juste un homme ou
+
+206
+00:07:36,599 --> 00:07:39,599
+juste une femme et après aussi penser au
+
+207
+00:07:39,599 --> 00:07:40,800
+caractère spéciaux pour les noms et
+
+208
+00:07:40,800 --> 00:07:42,960
+prénoms au nom composé au nom très longs
+
+209
+00:07:42,960 --> 00:07:44,720
+par exemple si
+
+210
+00:07:44,720 --> 00:07:46,680
+moi j'ai un champ de formulaire en fait
+
+211
+00:07:46,680 --> 00:07:48,240
+si je peux pas mettre d'accent je peux
+
+212
+00:07:48,240 --> 00:07:49,680
+pas écrire mon nom correctement je peux
+
+213
+00:07:49,680 --> 00:07:51,800
+pas écrire mon prénom correctement
+
+214
+00:07:51,800 --> 00:07:54,780
+il y a les noms composés si un tiret et
+
+215
+00:07:54,780 --> 00:07:56,160
+que c'est pas autorisé le tirer je peux
+
+216
+00:07:56,160 --> 00:07:58,919
+pas écrire mon nom correctement si j'ai
+
+217
+00:07:58,919 --> 00:08:01,139
+un nom ou un prénom très très long par
+
+218
+00:08:01,139 --> 00:08:02,520
+exemple les Espagnols ils ont des noms
+
+219
+00:08:02,520 --> 00:08:04,199
+très très longs si mon champ est limité
+
+220
+00:08:04,199 --> 00:08:06,300
+à 10 caractères en fait je pourrai pas
+
+221
+00:08:06,300 --> 00:08:08,220
+donner mon nom en entier
+
+222
+00:08:08,220 --> 00:08:10,259
+je vais me débrouiller mais c'est
+
+223
+00:08:10,259 --> 00:08:12,240
+l'expérience c'est pas optimale pareil
+
+224
+00:08:12,240 --> 00:08:14,099
+on peut avoir des noms chinois ou en
+
+225
+00:08:14,099 --> 00:08:16,380
+fait ça va être de l'être mais en fait
+
+226
+00:08:16,380 --> 00:08:18,360
+si mon champ c'est mini 23 là je peux
+
+227
+00:08:18,360 --> 00:08:20,520
+pas saisir mon non plus
+
+228
+00:08:20,520 --> 00:08:21,900
+donc voilà je pense que les personnes
+
+229
+00:08:21,900 --> 00:08:23,580
+dans ces gens se débrouillent mais
+
+230
+00:08:23,580 --> 00:08:25,500
+l'expérience elle est pas optimale enfin
+
+231
+00:08:25,500 --> 00:08:30,960
+ça met dans des conditions pas top
+
+232
+00:08:31,560 --> 00:08:33,659
+après comment on peut être inclusif
+
+233
+00:08:33,659 --> 00:08:35,820
+visuellement donc là ça va être vraiment
+
+234
+00:08:35,820 --> 00:08:38,159
+différent diversifiant les contenus
+
+235
+00:08:38,159 --> 00:08:40,020
+visuels donc tout ce qui est
+
+236
+00:08:40,020 --> 00:08:40,860
+iconographie
+
+237
+00:08:40,860 --> 00:08:42,899
+icône avatar couleur photo et
+
+238
+00:08:42,899 --> 00:08:45,480
+illustration adaptée donc par exemple si
+
+239
+00:08:45,480 --> 00:08:46,740
+on met des photos faut pas que ce soit
+
+240
+00:08:46,740 --> 00:08:49,200
+que des hommes blancs si genre ou des
+
+241
+00:08:49,200 --> 00:08:51,480
+familles un homme blanc une femme
+
+242
+00:08:51,480 --> 00:08:53,580
+blanche et deux enfants blancs on peut
+
+243
+00:08:53,580 --> 00:08:55,920
+université et pareil on possède la
+
+244
+00:08:55,920 --> 00:08:59,220
+diversité dans l'âge c'est pas des des
+
+245
+00:08:59,220 --> 00:09:00,839
+jeunes que des jeunes de 20 ans ça peut
+
+246
+00:09:00,839 --> 00:09:02,880
+aussi des personnes plus âgées ou des
+
+247
+00:09:02,880 --> 00:09:03,899
+retraités enfin faut vraiment
+
+248
+00:09:03,899 --> 00:09:06,779
+diversifier pour pour toutes les gens se
+
+249
+00:09:06,779 --> 00:09:09,899
+sentent inclus et puis appartenir ou
+
+250
+00:09:09,899 --> 00:09:11,760
+penser que le service qu'on propose
+
+251
+00:09:11,760 --> 00:09:14,880
+enfin ils peuvent s'en servir
+
+252
+00:09:14,880 --> 00:09:17,100
+et aussi utiliser des émoji adaptées non
+
+253
+00:09:17,100 --> 00:09:20,459
+pas que des emojis blanc donc on peut
+
+254
+00:09:20,459 --> 00:09:23,720
+utiliser jaune du coup on se retrouve
+
+255
+00:09:23,720 --> 00:09:26,160
+ensuite alors comment écrire de manière
+
+256
+00:09:26,160 --> 00:09:28,140
+inclusive donc là on va voir un ux
+
+257
+00:09:28,140 --> 00:09:31,560
+lighting adapté donc on peut adopter des
+
+258
+00:09:31,560 --> 00:09:32,880
+formulations qui évitent l'utilisation
+
+259
+00:09:32,880 --> 00:09:34,459
+de Monsieur Madame
+
+260
+00:09:34,459 --> 00:09:36,720
+on peut aussi employer des termes qui
+
+261
+00:09:36,720 --> 00:09:39,300
+sont non genre par exemple les termes
+
+262
+00:09:39,300 --> 00:09:41,580
+épicène les personnes ou des singuliers
+
+263
+00:09:41,580 --> 00:09:43,980
+collectifs la direction au lieu de le
+
+264
+00:09:43,980 --> 00:09:46,080
+directeur la directrice ou le directeur
+
+265
+00:09:46,080 --> 00:09:47,880
+et la directrice ou les doubles
+
+266
+00:09:47,880 --> 00:09:50,880
+désignations les collaboratrices et les
+
+267
+00:09:50,880 --> 00:09:52,380
+collaborateurs
+
+268
+00:09:52,380 --> 00:09:54,240
+on doit aussi utiliser du vocabulaire
+
+269
+00:09:54,240 --> 00:09:56,640
+qui n'est pas discriminant donc exemple
+
+270
+00:09:56,640 --> 00:09:59,820
+bloc liste au lieu de blacklist il faut
+
+271
+00:09:59,820 --> 00:10:01,080
+aussi faire attention à l'emploi de
+
+272
+00:10:01,080 --> 00:10:02,459
+l'humour qui ne peut pas être compris
+
+273
+00:10:02,459 --> 00:10:04,620
+par tout le monde il y a des neuro
+
+274
+00:10:04,620 --> 00:10:06,540
+atypiques qui vont pas forcément
+
+275
+00:10:06,540 --> 00:10:09,120
+comprendre l'humour et du coup naviguer
+
+276
+00:10:09,120 --> 00:10:10,680
+dans une interface ça va être compliqué
+
+277
+00:10:10,680 --> 00:10:13,500
+pour eux ils vont s'en sortir mais ça va
+
+278
+00:10:13,500 --> 00:10:15,360
+quand même être compliqué et après
+
+279
+00:10:15,360 --> 00:10:16,800
+utiliser des mots simples à comprendre
+
+280
+00:10:16,800 --> 00:10:18,600
+c'est à dire que qui font sens pour tout
+
+281
+00:10:18,600 --> 00:10:20,399
+le monde on évite le jargon car tout le
+
+282
+00:10:20,399 --> 00:10:22,080
+monde n'est pas avec le même bagage
+
+283
+00:10:22,080 --> 00:10:23,640
+culturel par contre moi je suis
+
+284
+00:10:23,640 --> 00:10:25,500
+bordelais je dis sadaigavé je suis pas
+
+285
+00:10:25,500 --> 00:10:28,100
+sûr tout le monde comprenne
+
+286
+00:10:29,580 --> 00:10:30,959
+et du coup il y a aussi l'inclusivité
+
+287
+00:10:30,959 --> 00:10:32,540
+dans le numérique donc l'inclusivité
+
+288
+00:10:32,540 --> 00:10:34,740
+matérielle donc faut vraiment penser aux
+
+289
+00:10:34,740 --> 00:10:35,880
+personnes qui ne possèdent pas
+
+290
+00:10:35,880 --> 00:10:38,040
+d'ordinateur ou et qui possèdent juste
+
+291
+00:10:38,040 --> 00:10:40,740
+un smartphone un versement si on conçoit
+
+292
+00:10:40,740 --> 00:10:42,779
+un service qui fonctionne uniquement sur
+
+293
+00:10:42,779 --> 00:10:44,820
+PC mais en fait on va exclure toutes les
+
+294
+00:10:44,820 --> 00:10:47,160
+personnes qui n'ont pas les moyens ou le
+
+295
+00:10:47,160 --> 00:10:49,339
+besoin d'acquérir
+
+296
+00:10:49,339 --> 00:10:52,440
+un ordinateur et qui navigue depuis un
+
+297
+00:10:52,440 --> 00:10:54,899
+smartphone donc déjà en fait vous
+
+298
+00:10:54,899 --> 00:10:56,459
+effectuez des personnes de votre service
+
+299
+00:10:56,459 --> 00:10:59,160
+et des potentiels clients et du coup un
+
+300
+00:10:59,160 --> 00:11:02,779
+potentiel meilleur chiffre d'affaires
+
+301
+00:11:02,880 --> 00:11:05,519
+après du coup donc quand on peut aussi
+
+302
+00:11:05,519 --> 00:11:08,000
+pérenniser la démarche donc
+
+303
+00:11:08,000 --> 00:11:10,140
+quand on conçoit un produit on peut
+
+304
+00:11:10,140 --> 00:11:12,660
+avoir un design system donc dans ce
+
+305
+00:11:12,660 --> 00:11:13,500
+design system on va retrouver
+
+306
+00:11:13,500 --> 00:11:15,720
+effectivement peut-être des normes
+
+307
+00:11:15,720 --> 00:11:17,640
+d'accessibilité des normes
+
+308
+00:11:17,640 --> 00:11:19,380
+d'éco-conception et on peut aussi
+
+309
+00:11:19,380 --> 00:11:21,060
+retrouver des principes d'inclusivité
+
+310
+00:11:21,060 --> 00:11:23,519
+écrit et compris par chute personne qui
+
+311
+00:11:23,519 --> 00:11:25,740
+intervient sur le design et qu'il porte
+
+312
+00:11:25,740 --> 00:11:28,680
+donc ça permet de d'un système ça permet
+
+313
+00:11:28,680 --> 00:11:30,600
+de vraiment de centraliser qu'est-ce
+
+314
+00:11:30,600 --> 00:11:31,740
+qu'on doit faire dans nos produits dans
+
+315
+00:11:31,740 --> 00:11:34,279
+nos interfaces et du coup le respecter
+
+316
+00:11:34,279 --> 00:11:37,019
+et après dans la user racercht on peut
+
+317
+00:11:37,019 --> 00:11:40,079
+faire des tests lors des tests ou des
+
+318
+00:11:40,079 --> 00:11:41,459
+interviews utilisateurs faut s'assurer
+
+319
+00:11:41,459 --> 00:11:43,019
+la diversité des personnes interrogées
+
+320
+00:11:43,019 --> 00:11:44,640
+autant pour l'inclusivité que
+
+321
+00:11:44,640 --> 00:11:46,680
+l'accessibilité parce qu'effectivement
+
+322
+00:11:46,680 --> 00:11:48,600
+comme dit l'entreprise une vision est-ce
+
+323
+00:11:48,600 --> 00:11:49,440
+que vous avez déjà fait des têtes
+
+324
+00:11:49,440 --> 00:11:50,760
+utilisateurs avec une personne aveugle
+
+325
+00:11:50,760 --> 00:11:52,380
+est-ce que vous avez déjà fait des tests
+
+326
+00:11:52,380 --> 00:11:53,640
+utilisateurs avec une personne qui a une
+
+327
+00:11:53,640 --> 00:11:55,140
+seule main je pense pas que beaucoup de
+
+328
+00:11:55,140 --> 00:11:57,740
+personnes déjà fait
+
+329
+00:11:58,140 --> 00:12:01,079
+du coup pour conclure pour pour moi
+
+330
+00:12:01,079 --> 00:12:02,519
+l'inclusivité c'est un enjeu sociétal
+
+331
+00:12:02,519 --> 00:12:04,380
+important parce que chacun et chacune
+
+332
+00:12:04,380 --> 00:12:06,120
+mérite d'être reconnu dans sa diversité
+
+333
+00:12:06,120 --> 00:12:09,660
+telle qu'elle soit et l'inclusivité elle
+
+334
+00:12:09,660 --> 00:12:11,339
+est pas forcément pleinement intégrée
+
+335
+00:12:11,339 --> 00:12:13,380
+dans le récit collectif enfin moi quand
+
+336
+00:12:13,380 --> 00:12:14,779
+j'en parle des fois c'est difficile
+
+337
+00:12:14,779 --> 00:12:17,519
+c'est difficile de l'expliquer de le
+
+338
+00:12:17,519 --> 00:12:18,779
+faire comprendre de le faire comprendre
+
+339
+00:12:18,779 --> 00:12:20,100
+parce qu'on se touche à des convictions
+
+340
+00:12:20,100 --> 00:12:23,839
+très personnelles et bien ancrées et
+
+341
+00:12:23,839 --> 00:12:26,579
+voilà et du coup pour avec
+
+342
+00:12:26,579 --> 00:12:28,140
+l'illustration pour moi il faudrait
+
+343
+00:12:28,140 --> 00:12:29,940
+concevoir un monde pour tout c'est pas
+
+344
+00:12:29,940 --> 00:12:31,200
+forcément pour le groupe standard
+
+345
+00:12:31,200 --> 00:12:34,260
+d'homme blanc hétérosexuel si genre
+
+346
+00:12:34,260 --> 00:12:37,019
+neurotypique et valide
+
+347
+00:12:37,019 --> 00:12:39,540
+on reprend un peu le graphe de Narcisse
+
+348
+00:12:39,540 --> 00:12:41,399
+matin ou est-ce que vous êtes privilégié
+
+349
+00:12:41,399 --> 00:12:42,899
+ou pas
+
+350
+00:12:42,899 --> 00:12:44,040
+et du coup pour aller plus loin
+
+351
+00:12:44,040 --> 00:12:45,779
+effectivement l'inclusivité ça dépasse
+
+352
+00:12:45,779 --> 00:12:47,579
+les interfaces digitales et ça s'illus
+
+353
+00:12:47,579 --> 00:12:49,200
+dans notre quotidien des produits de
+
+354
+00:12:49,200 --> 00:12:50,519
+consommation aux campagnes de
+
+355
+00:12:50,519 --> 00:12:53,399
+communication effectivement enfin là moi
+
+356
+00:12:53,399 --> 00:12:56,459
+j'ai une illustration d'une famille la
+
+357
+00:12:56,459 --> 00:12:58,320
+famille c'est pas forcément une femme en
+
+358
+00:12:58,320 --> 00:13:01,079
+robe et un homme et comme ça une famille
+
+359
+00:13:01,079 --> 00:13:03,680
+ça peut être aussi bête de femme ça peut
+
+360
+00:13:03,680 --> 00:13:06,180
+mais pas elle les représentations on
+
+361
+00:13:06,180 --> 00:13:07,380
+peut aller beaucoup plus en moi je le
+
+362
+00:13:07,380 --> 00:13:08,480
+vois par exemple
+
+363
+00:13:08,480 --> 00:13:10,380
+moi je le vois de plus en plus donc
+
+364
+00:13:10,380 --> 00:13:11,760
+quand je vois une communication je vois
+
+365
+00:13:11,760 --> 00:13:13,019
+que des personnes blanches ça me fait
+
+366
+00:13:13,019 --> 00:13:14,160
+bizarre quand je vois une représente
+
+367
+00:13:14,160 --> 00:13:16,920
+façon de famille où c'est vraiment un
+
+368
+00:13:16,920 --> 00:13:18,720
+homme une femme blanche avec deux
+
+369
+00:13:18,720 --> 00:13:21,600
+enfants blancs ou c'est bien typé une
+
+370
+00:13:21,600 --> 00:13:23,540
+petite fille un petit garçon
+
+371
+00:13:23,540 --> 00:13:27,180
+on se dit on n'y est pas encore quoi et
+
+372
+00:13:27,180 --> 00:13:28,560
+par contre c'est super positif c'est
+
+373
+00:13:28,560 --> 00:13:29,940
+quand on voit un spot publicitaire en
+
+374
+00:13:29,940 --> 00:13:31,079
+fait il dit ah mais là en fait ils ont
+
+375
+00:13:31,079 --> 00:13:33,060
+mis un couple de femmes en fait elles
+
+376
+00:13:33,060 --> 00:13:35,339
+sont pas blanches enfin voilà du coup on
+
+377
+00:13:35,339 --> 00:13:36,959
+voit qu'il y en a quand même qui qui en
+
+378
+00:13:36,959 --> 00:13:39,440
+sont conscients
+
+379
+00:13:40,620 --> 00:13:42,420
+du coup j'ai fini merci pour votre
+
+380
+00:13:42,420 --> 00:13:44,700
+attention je suis dans les temps est-ce
+
+381
+00:13:44,700 --> 00:13:46,980
+que vous avez des questions
+
+382
+00:13:46,980 --> 00:13:53,940
+[Applaudissements]
+
+383
+00:13:53,940 --> 00:13:56,820
+et si vous voulez j'ai en fait ma
+
+384
+00:13:56,820 --> 00:13:57,720
+présentation elle est basée sur un
+
+385
+00:13:57,720 --> 00:13:59,279
+article que j'ai écrit en début d'année
+
+386
+00:13:59,279 --> 00:14:01,380
+donc il a un peu plus complet que la
+
+387
+00:14:01,380 --> 00:14:03,180
+présentation donc si vous voulez le
+
+388
+00:14:03,180 --> 00:14:06,920
+consulter vous avez le lien juste en bas
+
+389
+00:14:16,459 --> 00:14:19,820
+bonjour merci pour cette présentation
+
+390
+00:14:19,820 --> 00:14:21,959
+j'ai une question qui m'est venue
+
+391
+00:14:21,959 --> 00:14:24,300
+pendant la présentation par rapport à
+
+392
+00:14:24,300 --> 00:14:26,060
+l'emoji jaune
+
+393
+00:14:26,060 --> 00:14:28,079
+justement moi je me posais la question
+
+394
+00:14:28,079 --> 00:14:29,579
+est-ce qu'il est vraiment neutre cette
+
+395
+00:14:29,579 --> 00:14:31,639
+emoji jaune
+
+396
+00:14:31,639 --> 00:14:33,420
+dans le sens où si je prends par exemple
+
+397
+00:14:33,420 --> 00:14:34,880
+comme référence
+
+398
+00:14:34,880 --> 00:14:37,800
+les Simpsons qui sont donc les
+
+399
+00:14:37,800 --> 00:14:39,199
+personnages sont jaunes
+
+400
+00:14:39,199 --> 00:14:41,880
+historiquement pour une question de coup
+
+401
+00:14:41,880 --> 00:14:44,399
+de peinture je crois mais du coup dans
+
+402
+00:14:44,399 --> 00:14:46,579
+les Simpsons des blancs sont jaunes donc
+
+403
+00:14:46,579 --> 00:14:48,660
+je me dis que inconsciemment le jeu
+
+404
+00:14:48,660 --> 00:14:50,279
+n'est pas forcément neutre le jaune
+
+405
+00:14:50,279 --> 00:14:53,420
+représente le blanc quelque part
+
+406
+00:14:54,680 --> 00:14:57,480
+sera forcément plus plus neutre que les
+
+407
+00:14:57,480 --> 00:15:00,260
+magies noires ou l'emoji blanc du coup
+
+408
+00:15:00,260 --> 00:15:03,019
+sinon vous mettez pas d'emoji
+
+409
+00:15:03,019 --> 00:15:06,480
+le problème est réglé
+
+410
+00:15:06,480 --> 00:15:10,279
+sinon pas d'emoji de bonhomme
+
+411
+00:15:20,699 --> 00:15:22,699
+merci beaucoup pour cette présentation
+
+412
+00:15:22,699 --> 00:15:26,160
+j'avais une question par rapport aux à
+
+413
+00:15:26,160 --> 00:15:27,959
+nos utilisateurs cibles nos utilisateurs
+
+414
+00:15:27,959 --> 00:15:29,779
+finaux en tant que designer en tant que
+
+415
+00:15:29,779 --> 00:15:33,079
+produit designer etc
+
+416
+00:15:33,079 --> 00:15:36,060
+est-ce que du coup travailler sur la
+
+417
+00:15:36,060 --> 00:15:39,260
+inclusivité ça veut dire de
+
+418
+00:15:39,560 --> 00:15:42,060
+faire en sorte d'avoir des interfaces et
+
+419
+00:15:42,060 --> 00:15:44,120
+des logiciels qui sont
+
+420
+00:15:44,120 --> 00:15:46,139
+inclusifs pour tout le monde et du coup
+
+421
+00:15:46,139 --> 00:15:49,380
+de ne plus prendre en considération nos
+
+422
+00:15:49,380 --> 00:15:50,880
+utilisateurs finaux etc six mois demain
+
+423
+00:15:50,880 --> 00:15:52,519
+mes utilisateur ça va être
+
+424
+00:15:52,519 --> 00:15:56,120
+des femmes noires qui
+
+425
+00:15:56,120 --> 00:15:58,320
+n'ont enfin qui viennent d'une culture
+
+426
+00:15:58,320 --> 00:16:00,720
+en particulier etc je vais pas forcément
+
+427
+00:16:00,720 --> 00:16:02,940
+travailler sur une inclusivité donc du
+
+428
+00:16:02,940 --> 00:16:04,740
+coup enfin je suis pas sûr que ça soit
+
+429
+00:16:04,740 --> 00:16:06,839
+vraiment
+
+430
+00:16:06,839 --> 00:16:08,940
+utile ou vraiment intéressant est-ce que
+
+431
+00:16:08,940 --> 00:16:10,680
+c'est quelque chose que tu conseilles
+
+432
+00:16:10,680 --> 00:16:12,839
+quand même de dans toutes nos interfaces
+
+433
+00:16:12,839 --> 00:16:15,000
+ou dans tous nos dans nos parcours dans
+
+434
+00:16:15,000 --> 00:16:16,860
+toutes nos solutions qu'on va concevoir
+
+435
+00:16:16,860 --> 00:16:19,260
+designer de travailler quand même sur
+
+436
+00:16:19,260 --> 00:16:22,019
+cet aspect quand bien même on connaît
+
+437
+00:16:22,019 --> 00:16:25,279
+notre cible et on sait où aller
+
+438
+00:16:29,060 --> 00:16:31,560
+j'essaye de faire l'avocat du diable je
+
+439
+00:16:31,560 --> 00:16:33,120
+suis d'accord enfin c'était très
+
+440
+00:16:33,120 --> 00:16:35,760
+intéressant et j'adhère avec presque
+
+441
+00:16:35,760 --> 00:16:37,199
+tout ce que tu as dit mais ça
+
+442
+00:16:37,199 --> 00:16:39,079
+m'intéressait d'avoir ce que le fait de
+
+443
+00:16:39,079 --> 00:16:41,639
+justement de normaliser un peu cette
+
+444
+00:16:41,639 --> 00:16:43,860
+inclusivité est-ce que c'était
+
+445
+00:16:43,860 --> 00:16:45,420
+intéressant dans tous les tous les
+
+446
+00:16:45,420 --> 00:16:46,380
+points de vue dans tous les cas etc
+
+447
+00:16:46,380 --> 00:16:48,120
+après
+
+448
+00:16:48,120 --> 00:16:51,300
+effectivement si ton produit je sais pas
+
+449
+00:16:51,300 --> 00:16:52,259
+ce que ça peut être mais c'est vraiment
+
+450
+00:16:52,259 --> 00:16:56,339
+orienté pour les femmes noires enfin je
+
+451
+00:16:56,339 --> 00:16:57,480
+sais pas si par exemple je vais
+
+452
+00:16:57,480 --> 00:16:59,759
+peut-être du du maquillage pour femme
+
+453
+00:16:59,759 --> 00:17:01,339
+noire
+
+454
+00:17:01,339 --> 00:17:04,380
+effectivement il faut que les le public
+
+455
+00:17:04,380 --> 00:17:07,079
+cible s'identifie donc si tu mets une
+
+456
+00:17:07,079 --> 00:17:08,400
+photo d'une femme blanche je vais dire
+
+457
+00:17:08,400 --> 00:17:09,900
+mais en fait c'est pas pour moi donc
+
+458
+00:17:09,900 --> 00:17:12,240
+effectivement je pense c'est dans des
+
+459
+00:17:12,240 --> 00:17:14,520
+produits en fait où la cible est quand
+
+460
+00:17:14,520 --> 00:17:17,599
+même assez large ou tu vas
+
+461
+00:17:17,599 --> 00:17:19,799
+l'idée c'est pas c'est pas non plus de
+
+462
+00:17:19,799 --> 00:17:22,319
+restreindre restreindre quand ta cible
+
+463
+00:17:22,319 --> 00:17:24,559
+elle est elle est elle est
+
+464
+00:17:24,559 --> 00:17:26,880
+enfin elle est elle est très large quoi
+
+465
+00:17:26,880 --> 00:17:28,740
+tu fais un formules enfin tu fais une
+
+466
+00:17:28,740 --> 00:17:33,799
+interface pour un produit un produit
+
+467
+00:17:33,980 --> 00:17:37,500
+je cherche un exemple pour une interface
+
+468
+00:17:37,500 --> 00:17:40,620
+pour suivre des formations en ligne mais
+
+469
+00:17:40,620 --> 00:17:43,620
+en fait ton public ça peut être il est
+
+470
+00:17:43,620 --> 00:17:44,880
+hyper large donc en fait vaut mieux pas
+
+471
+00:17:44,880 --> 00:17:46,679
+que dans tes photos tu es mis que des
+
+472
+00:17:46,679 --> 00:17:49,140
+femmes blanches ou que des hommes ou que
+
+473
+00:17:49,140 --> 00:17:50,760
+des trentenaires ou que des personnes
+
+474
+00:17:50,760 --> 00:17:52,500
+valides quoi l'idée c'est que pour
+
+475
+00:17:52,500 --> 00:17:55,020
+toucher un maximum de gens il faut que
+
+476
+00:17:55,020 --> 00:17:58,200
+les gens sentent que mais enfin qu'ils
+
+477
+00:17:58,200 --> 00:17:59,400
+aient le sentiment d'appartenance avec
+
+478
+00:17:59,400 --> 00:18:00,720
+ton produit sinon ils vont pas forcément
+
+479
+00:18:00,720 --> 00:18:04,580
+y aller après tout ce qui est formulaire
+
+480
+00:18:04,580 --> 00:18:06,900
+enfin effectivement il y a des gens
+
+481
+00:18:06,900 --> 00:18:08,760
+enfin déjà ce questionné est-ce que j'ai
+
+482
+00:18:08,760 --> 00:18:10,140
+besoin de savoir si c'est un homme ou
+
+483
+00:18:10,140 --> 00:18:11,400
+une femme si j'ai besoin vraiment de
+
+484
+00:18:11,400 --> 00:18:13,919
+savoir son genre mais donner au moins la
+
+485
+00:18:13,919 --> 00:18:18,600
+possibilité de j'ai le droit de j'ai le
+
+486
+00:18:18,600 --> 00:18:20,160
+droit d'avoir un éventail et de pouvoir
+
+487
+00:18:20,160 --> 00:18:22,860
+sélectionner ce que je veux ou de ne pas
+
+488
+00:18:22,860 --> 00:18:24,419
+le dire mais faut quand même donner la
+
+489
+00:18:24,419 --> 00:18:27,919
+possibilité aux gens de enfin de
+
+490
+00:18:27,919 --> 00:18:30,539
+enfin d'être enfin je veux dire d'être
+
+491
+00:18:30,539 --> 00:18:33,440
+qui sont qui qui sont quoi mais
+
+492
+00:18:33,440 --> 00:18:35,280
+je sais pas si j'ai répondu à ta
+
+493
+00:18:35,280 --> 00:18:37,559
+question au final
+
+494
+00:18:37,559 --> 00:18:40,039
+une réponse
+
+495
+00:18:42,780 --> 00:18:45,080
+merci
+
+496
+00:18:49,250 --> 00:18:52,940
+[Applaudissements]
+

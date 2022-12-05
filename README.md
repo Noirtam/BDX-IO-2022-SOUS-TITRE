@@ -15,5 +15,40 @@ Un petit plus, n'oublions pas que avoir des sous-titres propres, et des transcri
 en situation d'handicap par exemple.
 
 
+## Arboresence
+* `autogenere` : répertoire contenant les sous-titres auto-générés des talks. La génération est réalisée via DownSub.com, l'url `https://subtitle.to/{lien YouTube}` (exemple https://subtitle.to/www.youtube.com/watch?v=gyhR5m4RgyE)
+* `final` : sous-titre des talks dans leur version finale
+
+
+## Avancement
+```mermaid
+flowchart TB
+    subgraph Terminé
+    Z(fa:fa-spinner);
+    end
+    
+    subgraph En attente de validation
+    A["Contribuer à l'open source"]
+    end
+
+    subgraph A faire
+    B["Introduction aux Design Tokens"]
+    C["Inclure l'inclusivité"]
+    end
+```
+
 ## Liste des conférences
 * <q>Contribuer à l'Open Source ? Yes, you can!</q> - Anne-Laure Gaillard
+  * Etat : `En attente de validation speaker`
+  * Vidéo Youtube : https://www.youtube.com/watch?v=gyhR5m4RgyE
+  * [Fichier sous-titre ./final/contributer-open-source.srt](./final/contributer-open-source.srt)
+
+* <q>Introduction aux Design Tokens</q> - François Garrigues
+  * Etat : `Autogeneré`
+  * Vidéo Youtube : https://www.youtube.com/watch?v=7BoFBcrXY1g
+  * fichier autogéné : [autogenere/introduction-aux-design-tokens.srt](autogenere/introduction-aux-design-tokens.srt)
+
+* <q>Comment inclure l’inclusivité dès les premières étapes de conception d'un service ou d'un produit digital</q> - Noémie M. Rivière
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=KNlVkRs9a94&t=243s
+  * Fichier autogénéré : [./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt](./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt)
