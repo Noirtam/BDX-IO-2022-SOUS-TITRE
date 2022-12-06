@@ -1,1365 +1,1819 @@
+1
 00:00:01,830 --> 00:00:12,900
 [Musique]
 
+2
 00:00:12,900 --> 00:00:14,759
 Est-ce que vous
 
+3
 00:00:14,759 --> 00:00:15,020
 contribuez à l'open source ?
 
-00:00:15,020 --> 00:00:15,70
+4
+00:00:15,020 --> 00:00:15,380
 Ouais ne soyez pas timide
 
+5
 00:00:15,380 --> 00:00:21,359
 si vous contribuez ! ok ! Pour tout
 
+5
 00:00:21,800 --> 00:00:23,660
 ce qu'on devait la main, merci beaucoup !
 
+6
 00:00:23,660 --> 00:00:25,619
 j'espère que vous apprendrez des choses
 
+7
 00:00:25,619 --> 00:00:27,480
 dans cette présentation. Pour tous les
 
+8
 00:00:27,480 --> 00:00:29,099
 autres la, qui n'ont pas à lever leurs mains,
 
+9
 00:00:29,099 --> 00:00:30,180
 parce que j'en ai vu beaucoup des mains
 
+10
 00:00:30,180 --> 00:00:31,040
 qui ne sont pas levées :
 
+11
 00:00:31,040 --> 00:00:33,899
 Bienvenue et contribuer à l'Open Source,
 
+12
 00:00:33,899 --> 00:00:37,520
 Oui vous aussi vous pouvez !!
 
+13
 00:00:38,160 --> 00:00:40,860
 Alors ma définition d'open source
 
+14
 00:00:40,860 --> 00:00:44,700
 ici dans ce talk c'est : "libre accès au code source".
 
+15
 00:00:44,700 --> 00:00:47,340
 Il y a des sondages sur combien de
 
+16
 00:00:47,340 --> 00:00:48,899
 pourcentages d'entreprises utilisent
 
+17
 00:00:48,899 --> 00:00:51,059
 l'Open Source. Alors on en a qui disent 70%
 
+18
 00:00:51,059 --> 00:00:54,360
 et ça montee jusqu'à 97%. Peut-être que
 
+19
 00:00:54,360 --> 00:00:56,219
 ce nombre vous étonne un peu mais si je
 
+20
 00:00:56,219 --> 00:00:58,680
 vous dis "Distribution Linux", langage de
 
+21
 00:00:58,680 --> 00:01:01,739
 programmation comme C, C++, Kotlin,
 
+22
 00:01:01,739 --> 00:01:06,080
 si je vous dis "Jenkins",
 
+23
 00:01:07,730 --> 00:01:08,840
-"Gimp", "VLC",
+Gimp, "VLC",
 
+24
 00:01:08,840 --> 00:01:13,860
 etc etc. En fait moi ça m'étonne même
 
+25
 00:01:13,860 --> 00:01:15,540
 que ce soit pas 100% mais bon ça c'est
 
+26
 00:01:15,540 --> 00:01:18,119
 un autre discours.
 
+27
 00:01:18,119 --> 00:01:21,000
 alors pourquoi est-ce qu'on contribue à
 
+28
 00:01:21,000 --> 00:01:23,400
 l'Open Source ? Ca peut être pour monter
 
+29
 00:01:23,400 --> 00:01:25,860
 en compétences, pour apprendre de
 
+30
 00:01:25,860 --> 00:01:27,840
 nouvelles choses, peut-être aussi pour
 
+31
 00:01:27,840 --> 00:01:29,340
 sortir de sa zone de confort, il y a un
 
+32
 00:01:29,340 --> 00:01:30,979
 talk aussi sur la zone de confort.
 
+33
 00:01:30,979 --> 00:01:34,320
 Ca peut être aussi pour valider des
 
+34
 00:01:34,320 --> 00:01:37,799
 acquis, pour montrer que l'on sait faire, ça
 
+35
 00:01:37,799 --> 00:01:40,439
 peut être pour de l'argent, parce que ça
 
+36
 00:01:40,439 --> 00:01:42,119
 peut être dans le cadre de votre mission
 
+37
 00:01:42,119 --> 00:01:43,740
 professionnelle. Ou ça peut être pour
 
+38
 00:01:43,740 --> 00:01:45,540
 faire un portfolio, parce que voilà vous
 
+39
 00:01:45,540 --> 00:01:48,000
 voulez montrer que vous savez faire des
 
+40
 00:01:48,000 --> 00:01:49,259
 choses et du coup vous voulez pouvoir le
 
+41
 00:01:49,259 --> 00:01:52,619
 vendre pour un futur recrutement. Puis la
 
+42
 00:01:52,619 --> 00:01:54,180
 dernière raison
 
+43
 00:01:54,180 --> 00:01:57,540
 c'est, à priori, d'après en tout cas ce
 
+44
 00:01:57,540 --> 00:01:59,340
 livre "La vérité sur ce qui nous motive"
 
+45
 00:01:59,340 --> 00:02:02,280
 de Daniel Pick, c'est pour de l'altruisme.
 
+46
 00:02:02,280 --> 00:02:03,899
 Parce qu'en fait vous avez envie de
 
+47
 00:02:03,899 --> 00:02:05,820
 rendre à la communauté quelque chose et
 
+48
 00:02:05,820 --> 00:02:07,560
 le fait qu'elle vous aide vous avez
 
+49
 00:02:07,560 --> 00:02:09,840
 aussi envie de l'aider à votre tour. Ces
 
+50
 00:02:09,840 --> 00:02:11,879
 raisons sont pas exclusives les unes des
 
+51
 00:02:11,879 --> 00:02:12,780
 autres, ça peut être pour plusieurs
 
+52
 00:02:12,780 --> 00:02:15,080
 raisons.
 
+53
 00:02:15,239 --> 00:02:17,640
 Mais si c'est si bien de faire de l'Open
 
+54
 00:02:17,640 --> 00:02:20,040
 Source, pourquoi tout le monde ne
 
+55
 00:02:20,040 --> 00:02:21,300
 contribue pas alors ? Je n'ai pas
 
+56
 00:02:21,300 --> 00:02:23,879
 l'intégralité des raisons
 
+57
 00:02:23,879 --> 00:02:25,860
 mais j'en ai trouvé quatre. La première
 
+58
 00:02:25,860 --> 00:02:28,680
 le syndrome de l'imposteur.
 
+59
 00:02:28,680 --> 00:02:30,480
 Ok vous avez peur de vous lancer parce
 
+60
 00:02:30,480 --> 00:02:32,580
 que vous êtes pas sûr de savoir trop
 
+61
 00:02:32,580 --> 00:02:37,080
 comment faire. La deuxième : le temps. Oui
 
+62
 00:02:37,080 --> 00:02:39,239
 on a tous plein de choses à faire dans
 
+63
 00:02:39,239 --> 00:02:40,560
 la vie et on peut pas tout perdre
 
+64
 00:02:40,560 --> 00:02:42,300
 malheureusement.
 
+65
 00:02:42,300 --> 00:02:44,040
 La troisième, ça ne va pas concerner tout le
 
+66
 00:02:44,040 --> 00:02:45,840
 monde dans cet amphi, c'est que l'Open
 
+67
 00:02:45,840 --> 00:02:47,819
 Source est très souvent cité comme un
 
+68
 00:02:47,819 --> 00:02:49,980
 milieu où il y a un énorme manque de
 
+69
 00:02:49,980 --> 00:02:52,440
 diversité, notamment au niveau des femmes.
 
+70
 00:02:52,440 --> 00:02:54,360
 Il y a certains rapports qui disent que
 
+71
 00:02:54,360 --> 00:02:56,519
 c'est 3% à peu près des personnes qui
 
+72
 00:02:56,519 --> 00:02:59,340
 sont identifiées comme femme qui contribue.
 
+73
 00:02:59,340 --> 00:03:02,519
 Et le dernier il y a beaucoup beaucoup
 
+74
 00:03:02,519 --> 00:03:04,760
 de choses qui sont en anglais.
 
+75
 00:03:04,760 --> 00:03:06,840
 On ne maîtrise pas tous la langue de
 
+76
 00:03:06,840 --> 00:03:07,739
 Shakespeare donc c'est quelque chose
 
+77
 00:03:07,739 --> 00:03:09,720
 aussi qui peut être un frein à la
 
+78
 00:03:09,720 --> 00:03:12,019
 contribution.
 
+79
 00:03:12,739 --> 00:03:15,120
 Pourquoi je suis là aujourd'hui ? Parce
 
+80
 00:03:15,120 --> 00:03:18,180
 que moi je suis une contributrice de
 
+81
 00:03:18,180 --> 00:03:19,920
 l'Open Source qui a connu quelques-uns
 
+82
 00:03:19,920 --> 00:03:21,060
 de ces freins dont je vous ai parlé
 
+83
 00:03:21,060 --> 00:03:22,379
 avant. Alors le premier le syndrome de
 
+84
 00:03:22,379 --> 00:03:24,300
 l'imposteur, moi il était là. Quand
 
+85
 00:03:24,300 --> 00:03:26,940
 j'étais étudiante, j'avais plusieurs amis
 
+86
 00:03:26,940 --> 00:03:28,980
 qui étaient des gros contributeurs de
 
+87
 00:03:28,980 --> 00:03:31,140
 distribution Linux. Alors moi je vous dis :
 
+88
 00:03:31,140 --> 00:03:33,239
 compiler un noyau Linux c'est pas mon
 
+89
 00:03:33,239 --> 00:03:35,220
 rêve ou alors c'est un cauchemar. Du coup
 
+90
 00:03:35,220 --> 00:03:36,840
 je me suis dit : non c'est pas possible je
 
+91
 00:03:36,840 --> 00:03:39,060
 suis pas au niveau. Le deuxième : "le temps",
 
+92
 00:03:39,060 --> 00:03:40,920
 mais j'ai un travail à plein temps chez
 
+93
 00:03:40,920 --> 00:03:43,140
 ManoMano, j'ai une vie de famille, j'ai
 
+94
 00:03:43,140 --> 00:03:46,280
 une vie associative assez riche. Le temps
 
+95
 00:03:46,280 --> 00:03:48,180
 clairement j'aimerais que les journées
 
+96
 00:03:48,180 --> 00:03:51,260
 fassent plus que 24 heures.
 
+97
 00:03:51,780 --> 00:03:54,540
 Symptômes d'après, la peur d'après, oui
 
+98
 00:03:54,540 --> 00:03:56,220
 clairement vous pouvez vous en douter je
 
+99
 00:03:56,220 --> 00:03:58,200
 suis m'identifie de sexe féminin et de
 
+100
 00:03:58,200 --> 00:04:01,500
 genre féminin. Et en fait justement c'est
 
+101
 00:04:01,500 --> 00:04:03,120
 grâce à ça que je suis rentrée dans la
 
+102
 00:04:03,120 --> 00:04:05,580
 communauté Open Source.
 
+103
 00:04:05,580 --> 00:04:07,379
 je fais partie de l'Association des
 
+104
 00:04:07,379 --> 00:04:10,260
 Duchess et une duchesse a dit : "Est-ce que
 
+105
 00:04:10,260 --> 00:04:12,060
 ça vous dit les filles, on se lance et on
 
+106
 00:04:12,060 --> 00:04:14,220
 va faire de l'Open Source ?" Et en fait
 
+107
 00:04:14,220 --> 00:04:15,299
 c'est comme ça que je suis rentré dedans.
 
+108
 00:04:15,299 --> 00:04:17,519
 Donc ce n'est pas une fatalité mesdames
 
+109
 00:04:17,519 --> 00:04:19,019
 si vous voulez faire de l'Open Source
 
+110
 00:04:19,019 --> 00:04:21,000
 allez-y et au contraire faites bouger
 
+111
 00:04:21,000 --> 00:04:23,880
 les mentalités ! Le dernier problème, pour moi
 
+112
 00:04:23,880 --> 00:04:25,500
 c'était pas un point bloquant pour moi,
 
+113
 00:04:25,500 --> 00:04:26,940
 j'ai vécu au Canada, je travaille
 
+114
 00:04:26,940 --> 00:04:28,440
 actuellement dans une entreprise où la
 
+115
 00:04:28,440 --> 00:04:30,240
 langue officielle est l'anglais. Mais je
 
+116
 00:04:30,240 --> 00:04:31,320
 vous ai quand même trouvé, pour les
 
+117
 00:04:31,320 --> 00:04:32,280
 personnes qui auraient un petit peu peur
 
+118
 00:04:32,280 --> 00:04:34,440
 de l'anglais, des choses que vous pouvez
 
+119
 00:04:34,440 --> 00:04:37,800
 faire même sans parler anglais. Puis, ça
 
+120
 00:04:37,800 --> 00:04:38,580
 peut être aussi une bonne façon
 
+121
 00:04:38,580 --> 00:04:41,900
 d'améliorer un peu votre anglais sinon.
 
+122
 00:04:41,900 --> 00:04:44,340
 Alors "contribuer", si je vous dis
 
+123
 00:04:44,340 --> 00:04:46,560
-"contribuer"
+contribuer
 
+124
 00:04:46,560 --> 00:04:49,139
 à Bdx I/O, vous allez, je suis sur, tous
 
+125
 00:04:49,139 --> 00:04:51,900
 tous pensé
 
+126
 00:04:51,900 --> 00:04:53,460
 à ça.
 
+127
 00:04:53,460 --> 00:04:56,060
 Du code.
 
+128
 00:04:56,759 --> 00:04:58,400
 ok.
 
+129
 00:04:58,400 --> 00:05:02,540
 alors pour info en haut
 
+130
 00:05:03,780 --> 00:05:05,960
 bah on va faire du slideless ah non [problème d'affichae en live]
 
+131
 00:05:05,960 --> 00:05:09,720
 En haut, j'ai mis des noms de projet Open
 
+132
 00:05:09,720 --> 00:05:11,940
 Source sur plusieurs de mes slides, ce sont
 
+133
 00:05:11,940 --> 00:05:13,500
 des projets que j'ai utilisé à titre
 
+134
 00:05:13,500 --> 00:05:15,060
 personnel ou professionnel dans ma vie
 
+135
 00:05:15,060 --> 00:05:16,320
 et ça peut vous donner des idées aussi
 
+136
 00:05:16,320 --> 00:05:18,860
 de projets sur lesquels contribuer. Donc
 
+137
 00:05:18,860 --> 00:05:21,660
 le code, il y a
 
+138
 00:05:21,660 --> 00:05:23,639
 énormément de langage, énormément de
 
+139
 00:05:23,639 --> 00:05:25,160
 framework, énormément de choses à faire.
 
+140
 00:05:25,160 --> 00:05:27,680
 Vous pouvez aussi faire des revues de code.
 
+141
 00:05:27,680 --> 00:05:30,479
 Voilà il y a plein de choses qui
 
+142
 00:05:30,479 --> 00:05:32,639
 peuvent être faites. Mais en fait je ne vais
 
+143
 00:05:32,639 --> 00:05:34,759
 pas énormément parler de sujets
 
+144
 00:05:34,759 --> 00:05:37,620
-cependant si ça vous intéresse, j'	i assisté à
+cependant si ça vous intéresse, j'ai assisté
 
+145
 00:05:37,620 --> 00:05:40,020
 un talk de Stéphane Philippart du "Jug
 
+146
 00:05:40,020 --> 00:05:42,060
 Summer Camp", dans lequel il donne des
 
+147
 00:05:42,060 --> 00:05:43,620
 tips justement pour se lancer dans le
 
+148
 00:05:43,620 --> 00:05:46,440
 code au niveau de l'open source.
 
+149
 00:05:46,440 --> 00:05:47,639
 Alors qu'est-ce qu'on peut faire d'autre
 
+150
 00:05:47,639 --> 00:05:50,699
 pour contribuer à l'open source ?
 
+151
 00:05:50,699 --> 00:05:52,440
 Payer. Ouais vous ne vous attendiez peut-être pas
 
+152
 00:05:52,440 --> 00:05:53,880
 à ça mais en fait si c'est aussi quelque
 
+153
 00:05:53,880 --> 00:05:55,500
 chose de super important. Parce qu'il y a
 
+154
 00:05:55,500 --> 00:05:57,780
 beaucoup de projets qui sont portés par
 
+155
 00:05:57,780 --> 00:06:00,300
 un ensemble de personnes bénévoles qui
 
+156
 00:06:00,300 --> 00:06:01,560
 n'ont pas forcément beaucoup de moyens et
 
+157
 00:06:01,560 --> 00:06:03,180
 du coup financer, ça peut leur permettre
 
+158
 00:06:03,180 --> 00:06:06,419
 de se développer. Alors financer ça peut
 
+159
 00:06:06,419 --> 00:06:08,100
 être des tout petits montants de l'ordre
 
+160
 00:06:08,100 --> 00:06:10,860
 de "Paye moi un café", à d'énormes sommes
 
+161
 00:06:10,860 --> 00:06:13,560
 plutôt destinées aux entreprises. Mais là
 
+162
 00:06:13,560 --> 00:06:15,000
 aussi vous pouvez avoir un rôle à jouer.
 
+163
 00:06:15,000 --> 00:06:16,020
 C'est que vous pouvez dire à vos
 
+164
 00:06:16,020 --> 00:06:17,639
 entreprises  "Est-ce que ça pourrait être
 
+165
 00:06:17,639 --> 00:06:19,380
 intéressant de financer tel projet ou
 
+166
 00:06:19,380 --> 00:06:21,419
 tel projet open source ?"
 
+167
 00:06:21,419 --> 00:06:24,120
 Une idée comme ça
 
+168
 00:06:24,120 --> 00:06:27,600
 la traduction alors là c'est surtout
 
+169
 00:06:27,600 --> 00:06:29,180
 pour aider
 
+170
 00:06:29,180 --> 00:06:31,259
 ceux parmis nous qui auraient quelques
 
+171
 00:06:31,259 --> 00:06:33,840
 soucis notamment en anglais. Si vous,
 
+172
 00:06:33,840 --> 00:06:35,100
 ce n'est pas un problème pour vous, vous
 
+173
 00:06:35,100 --> 00:06:36,180
 pouvez faire de la traduction. Alors
 
+174
 00:06:36,180 --> 00:06:37,979
 parfois ça se passe directement dans le
 
+175
 00:06:37,979 --> 00:06:39,660
 code et parfois c'est des outils comme
 
+176
 00:06:39,660 --> 00:06:42,600
 celui-ci ou c'est complètement user
 
+177
 00:06:42,600 --> 00:06:44,340
 friendly, on a le texte à traduire et un
 
+178
 00:06:44,340 --> 00:06:45,780
 bouton pour valider une fois qu'on la
 
+179
 00:06:45,780 --> 00:06:46,919
 traduit.
 
+180
 00:06:46,919 --> 00:06:49,560
 Ca niveau temps si vous traduisez juste
 
+181
 00:06:49,560 --> 00:06:52,139
 une chaîne de caractères c'est très très
 
+182
 00:06:52,139 --> 00:06:54,240
 faible. Alors après, si vous voulez en
 
+183
 00:06:54,240 --> 00:06:55,380
 faire plus ça peut prendre plus de temps.
 
+184
 00:06:55,380 --> 00:06:57,720
 Mais ça nécessite très peu de temps et
 
+185
 00:06:57,720 --> 00:07:00,360
 niveau syndrome de l'imposteur si vous
 
+186
 00:07:00,360 --> 00:07:02,340
 parlez une autre langue de façon
 
+187
 00:07:02,340 --> 00:07:07,220
 convenable c'est normalement accessible.
 
+188
 00:07:07,259 --> 00:07:09,180
 Qu'est-ce qu'on peut faire d'autre ?
 
+189
 00:07:09,180 --> 00:07:10,520
 On peut faire de la documentation,
 
+190
 00:07:10,520 --> 00:07:13,380
 j'imagine que beaucoup d'entre vous sont
 
+191
 00:07:13,380 --> 00:07:15,960
 déjà tombés sur un logiciel open source
 
+192
 00:07:15,960 --> 00:07:17,220
 qui avait une documentation qui n'était pas
 
+193
 00:07:17,220 --> 00:07:19,259
 hyper bien fournie et un petit peu
 
+194
 00:07:19,259 --> 00:07:21,840
 compliqué. Dans ce cas là, n'hésitez
 
+195
 00:07:21,840 --> 00:07:23,759
 pas à la compléter,
 
+196
 00:07:23,759 --> 00:07:25,259
 vous voyez qu'il manque quelque chose ou
 
+197
 00:07:25,259 --> 00:07:26,639
 même qu'il y a une coquille, vous le
 
+198
 00:07:26,639 --> 00:07:28,819
 modifier.
 
+199
 00:07:31,020 --> 00:07:33,060
 Si vous avez vu la j'ai mis testing,
 
+200
 00:07:33,060 --> 00:07:35,759
 ça va être l'étape d'après. Faire des
 
+201
 00:07:35,759 --> 00:07:38,580
 tests et quand je dis "faire des tests", ça
 
+202
 00:07:38,580 --> 00:07:42,900
 peut être des bêta-test. Là en haut c'est
 
+203
 00:07:42,900 --> 00:07:45,120
 Gimp qui demandait des tests, en bas
 
+204
 00:07:45,120 --> 00:07:47,340
 c'est OpenOffice. En fait la plupart
 
+205
 00:07:47,340 --> 00:07:50,580
 des logiciels sont au
 
+206
 00:07:50,580 --> 00:07:52,259
 contraire ravi qu'il y est des gens qui
 
+207
 00:07:52,259 --> 00:07:54,960
 puissent tester leur version. Ca peut
 
+208
 00:07:54,960 --> 00:07:56,699
 être aussi des tests de sécurité, des
 
+209
 00:07:56,699 --> 00:07:58,080
 tests de perfs, des tests plus poussés
 
+210
 00:07:58,080 --> 00:07:59,520
 sur d'autres domaines de compétences que
 
+211
 00:07:59,520 --> 00:08:00,860
 vous pouvez maîtriser.
 
+212
 00:08:00,860 --> 00:08:03,180
 Puis si on revient sur le code ça
 
+213
 00:08:03,180 --> 00:08:04,139
 peut être aussi rajouter de la
 
+214
 00:08:04,139 --> 00:08:07,460
 couverture de test unitaire.
 
+215
 00:08:09,120 --> 00:08:12,660
 Qui dit test dit potentiellement bug et
 
+216
 00:08:12,660 --> 00:08:15,599
 pour ça il y a les "issus". Gérer les
 
+217
 00:08:15,599 --> 00:08:16,979
-"issus" ça veut dire quoi ? ça veut dire les
+issus ça veut dire quoi ? ça veut dire les
 
+218
 00:08:16,979 --> 00:08:19,800
 créer, les qualifier, fermer des tickets
 
+219
 00:08:19,800 --> 00:08:23,039
 dupliquer, compléter des tickets, reproduire des bugs.
 
+220
 00:08:23,039 --> 00:08:27,020
 La gestion des "issus" est généralement un
 
+221
 00:08:27,020 --> 00:08:30,419
 point bloquant ou un point qui est
 
+222
 00:08:30,419 --> 00:08:31,640
 compliqué
 
+223
 00:08:31,640 --> 00:08:33,659
 et pour lesquels il n'y a pas toujours
 
+224
 00:08:33,659 --> 00:08:36,419
 beaucoup de volontaires.
 
+225
 00:08:36,419 --> 00:08:39,479
 Pour la petite histoire ici ce n'est pas
 
+226
 00:08:39,479 --> 00:08:41,159
 un logiciel open source, mais c'est
 
+227
 00:08:41,159 --> 00:08:43,620
 quelque chose qui est open source, de
 
+228
 00:08:43,620 --> 00:08:45,360
 quelqu'un que vous reconnaîtrez
 
+229
 00:08:45,360 --> 00:08:48,000
 peut-être, qui sera là ce soir
 
+230
 00:08:48,000 --> 00:08:51,240
 pour la keynote de fermeture. C'est en
 
+231
 00:08:51,240 --> 00:08:55,440
 français, vous avez vu l'issue.
 
+232
 00:08:55,700 --> 00:08:58,500
 Même si vous ne parlez pas anglais vous
 
+233
 00:08:58,500 --> 00:09:02,300
 pouvez faire ce genre de contribution.
 
+234
 00:09:04,260 --> 00:09:05,880
 Celle-ci, elle va peut-être plus vous
 
+235
 00:09:05,880 --> 00:09:09,660
 étonner les illustrations.
 
+236
 00:09:09,660 --> 00:09:12,060
 En bas à droite vous avez un petit logo
 
+237
 00:09:12,060 --> 00:09:15,000
-"Duchess" qui a été fait justement quand on
+Duchess qui a été fait justement quand on
 
+238
 00:09:15,000 --> 00:09:16,620
 s'est lancée dans l'Open Source. Pas par
 
+239
 00:09:16,620 --> 00:09:17,240
 moi.
 
+240
 00:09:17,240 --> 00:09:19,260
 Mais ça peut être aussi des
 
+241
 00:09:19,260 --> 00:09:20,700
 contributions à l'Open Source de faire
 
+242
 00:09:20,700 --> 00:09:22,580
 des logos, de faire,
 
+243
 00:09:22,580 --> 00:09:25,860
 pourquoi pas, des illustrations pour des
 
+244
 00:09:25,860 --> 00:09:27,360
 tasses ou des T-Shirts qui après peuvent
 
+244
 00:09:27,360 --> 00:09:28,980
 être vendus et servir à financer le
 
+245
 00:09:28,980 --> 00:09:30,360
 projet.
 
+246
 00:09:30,360 --> 00:09:31,620
 Voilà c'est quelque chose auquel on
 
+247
 00:09:31,620 --> 00:09:33,360
 pense pas toujours mais si vous avez des
 
+248
 00:09:33,360 --> 00:09:35,580
 talents dans ces domaines là vous êtes
 
+249
 00:09:35,580 --> 00:09:37,140
 aussi rechercher et vous pouvez aussi
 
+250
 00:09:37,140 --> 00:09:39,800
 contribuer.
 
+251
 00:09:42,660 --> 00:09:44,220
 Le dernier que je vais vous présenter
 
+252
 00:09:44,220 --> 00:09:46,800
 aujourd'hui, c'est la participation aux
 
+253
 00:09:46,800 --> 00:09:48,240
 communautés, alors qu'est-ce que
 
+254
 00:09:48,240 --> 00:09:49,920
 j'appelle par là ? Ca peut être donner des
 
+255
 00:09:49,920 --> 00:09:52,019
 conférences, soit générique comme je le
 
+256
 00:09:52,019 --> 00:09:54,540
 fais aujourd'hui sur l'open source, soit
 
+257
 00:09:54,540 --> 00:09:55,980
 spécifique sur un projet que vous
 
+258
 00:09:55,980 --> 00:09:58,680
 appréciez. Ca peut être aussi monter une
 
+259
 00:09:58,680 --> 00:10:00,260
 communauté au sein de votre entreprise,
 
+260
 00:10:00,260 --> 00:10:02,820
 communauté de partage, de bonnes
 
+261
 00:10:02,820 --> 00:10:07,260
 pratiques ou pour pousser les gens à
 
+262
 00:10:07,260 --> 00:10:09,779
 rentrer dedans ou les aider. Ca peut
 
+263
 00:10:09,779 --> 00:10:12,200
 permettre aussi de créer
 
+264
 00:10:12,200 --> 00:10:14,880
 un engouement autour et puis d'aider les
 
+265
 00:10:14,880 --> 00:10:16,200
 gens qui auraient un petit cours un
 
+266
 00:10:16,200 --> 00:10:17,160
 petit peu peur et qui serait un peu
 
+267
 00:10:17,160 --> 00:10:20,700
 freiné. A titre d'exemple, chez ManoMano, on a
 
+268
 00:10:20,700 --> 00:10:23,459
 créé justement une communauté et on a
 
+269
 00:10:23,459 --> 00:10:26,399
 sponsorisé des projets open source, entre
 
+270
 00:10:26,399 --> 00:10:28,800
 autres grâce à cette communauté.
 
+271
 00:10:28,800 --> 00:10:31,380
 Quand je dis les communautés, ça peut
 
+272
 00:10:31,380 --> 00:10:33,420
 être aussi la communauté interne à un
 
+273
 00:10:33,420 --> 00:10:34,620
 projet, donc c'est répondre aux questions,
 
+274
 00:10:34,620 --> 00:10:37,680
 répondre aux personnes, qui sur les chats
 
+275
 00:10:37,680 --> 00:10:39,899
 divers ou variés, sont bloquées ou
 
+276
 00:10:39,899 --> 00:10:42,360
 aimeraient tel ou telle évolution.
 
+277
 00:10:42,360 --> 00:10:44,820
 Ouais clairement vas-y, fais une "issu", on
 
+278
 00:10:44,820 --> 00:10:47,339
 pourra la prendre à ce moment-là.
 
+279
 00:10:47,339 --> 00:10:49,680
 Et puis ça peut être rédigé un article
 
+280
 00:10:49,680 --> 00:10:52,620
 de blog, sur un logiciel que vous
 
+281
 00:10:52,620 --> 00:10:55,680
 utilisez, sur comment l'utiliser, sur un
 
+282
 00:10:55,680 --> 00:10:57,480
 retour d'expérience, faire de la pub en
 
+283
 00:10:57,480 --> 00:10:59,480
 fait.
 
+284
 00:10:59,940 --> 00:11:01,200
 Alors j'ai dit que c'était la dernière
 
+285
 00:11:01,200 --> 00:11:03,000
 chose que j'allais présenter, c'est vrai
 
+286
 00:11:03,000 --> 00:11:05,459
 mais
 
+287
 00:11:05,459 --> 00:11:07,380
 ce n'est pas ce ne sont pas les seules
 
+288
 00:11:07,380 --> 00:11:09,180
 choses que vous pouvez plus que vous
 
+289
 00:11:09,180 --> 00:11:11,899
 pouvez faire pour
 
+290
 00:11:11,899 --> 00:11:15,000
 contribuer. Pourquoi pas de la gestion de
 
+291
 00:11:15,000 --> 00:11:18,440
 projet, créer des jingles, des vidéos,
 
+292
 00:11:18,440 --> 00:11:21,959
 open sourcer des projets, en fait c'est
 
+293
 00:11:21,959 --> 00:11:23,640
 infini la liste des choses qu'on peut
 
+294
 00:11:23,640 --> 00:11:25,500
 faire.
 
+295
 00:11:25,500 --> 00:11:28,339
-Si vous avez une idée [main en l'air] pourquoi pas !
+Si vous avez une idée
 
+296
 00:11:28,339 --> 00:11:31,140
 [main en l'air] pourquoi pas !
 
+298
 00:11:31,140 --> 00:11:33,000
 Concrètement ?
 
+299
 00:11:33,000 --> 00:11:34,200
 Maintenant je suis sûr que vous 
 
+300
 00:11:34,200 --> 00:11:35,940
 êtes tous convaincus que vous pouvez contribuer
 
+301
 00:11:35,940 --> 00:11:38,040
 à l'Open Source. Qu'est-ce qu'on fait si
 
+302
 00:11:38,040 --> 00:11:39,779
 on veut faire. Déjà faut choisir un
 
+303
 00:11:39,779 --> 00:11:41,459
 projet.
 
+304
 00:11:41,459 --> 00:11:43,560
 Ce projet pour moi c'est très important
 
+305
 00:11:43,560 --> 00:11:45,240
 qu'il soit conforme à mes valeurs alors
 
+306
 00:11:45,240 --> 00:11:46,620
 mes valeurs c'est quoi ? c'est en termes
 
+307
 00:11:46,620 --> 00:11:48,839
 de licence, de fonctionnalités proposées,
 
+308
 00:11:48,839 --> 00:11:51,839
 de code de conduite. Voilà libre à vous
 
+309
 00:11:51,839 --> 00:11:53,399
 de choisir vos propres critères parce
 
+310
 00:11:53,399 --> 00:11:55,820
 qu'on est tous différents.
 
+311
 00:11:55,820 --> 00:11:59,100
 Pour le coup du "actif",
 
+312
 00:11:59,100 --> 00:12:01,079
 c'est plus motivant, je trouve, quand
 
+313
 00:12:01,079 --> 00:12:02,519
 c'est un projet sur lesquels ça bouge et
 
+314
 00:12:02,519 --> 00:12:03,839
 au moins on sait qu'on aura du répondant.
 
+315
 00:12:03,839 --> 00:12:06,600
 Après si vous créez votre propre projet,
 
+316
 00:12:06,600 --> 00:12:08,700
 au final les choses que je vous ai dit
 
+317
 00:12:08,700 --> 00:12:10,459
 là sont plus tout à fait valables.
 
+318
 00:12:10,459 --> 00:12:12,839
 Comment participer ? Alors déjà la
 
+319
 00:12:12,839 --> 00:12:14,279
 première chose c'est que s'il y a des
 
+320
 00:12:14,279 --> 00:12:15,839
 règles de contribution. Il faut les
 
+321
 00:12:15,839 --> 00:12:17,160
 regarder attentivement parce que ça vous
 
+322
 00:12:17,160 --> 00:12:18,240
 dira ce que vous pouvez faire, ce que
 
+323
 00:12:18,240 --> 00:12:20,339
 vous ne devez pas faire et tout ça.
 
+324
 00:12:20,339 --> 00:12:22,260
 C'est pour moi le point d'entrée, en fait,
 
+325
 00:12:22,260 --> 00:12:25,500
 de savoir ce qu'on peut faire ou pas.
 
+326
 00:12:25,500 --> 00:12:27,420
 Ensuite on communique, on communique sur
 
+327
 00:12:27,420 --> 00:12:28,920
 ce qu'on va dire, "bah tiens j'aimerais
 
+328
 00:12:28,920 --> 00:12:30,959
 bien traiter ta issus", "j'aimerais bien,
 
+329
 00:12:30,959 --> 00:12:32,839
 je sais pas, faire
 
+330
 00:12:32,839 --> 00:12:36,060
 une vente de mugs à la fête du village".
 
+331
 00:12:36,060 --> 00:12:37,680
 Mais en fait, il faut prévenir les gens
 
+332
 00:12:37,680 --> 00:12:39,680
 quand même. Parce que
 
+333
 00:12:39,680 --> 00:12:41,700
 ça reste une communauté donc les
 
+334
 00:12:41,700 --> 00:12:44,579
 décisions sont partagées.
 
+335
 00:12:44,579 --> 00:12:47,399
 Et le dernier, c'est il faut être
 
+336
 00:12:47,399 --> 00:12:50,160
 transparent. Si vous avez commencé à
 
+337
 00:12:50,160 --> 00:12:51,420
 traiter un sujet puis que finalement
 
+338
 00:12:51,420 --> 00:12:53,040
 vous êtes bloqué que vous n'y arrivez
 
+339
 00:12:53,040 --> 00:12:55,079
 pas, il faut prévenir les autres. Parce
 
+340
 00:12:55,079 --> 00:12:57,000
 qu'en fait, le truc, c'est que si on ne sait
 
+341
 00:12:57,000 --> 00:12:58,860
 pas que vous êtes bloqué potentiellement
 
+342
 00:12:58,860 --> 00:13:01,680
 ça va rester bloqué longtemps, très
 
+343
 00:13:01,680 --> 00:13:04,519
 longtemps.
 
+344
 00:13:07,040 --> 00:13:09,600
 Un dernier point, chaque contribution
 
+345
 00:13:09,600 --> 00:13:13,260
 compte. On peut commencer petit, vraiment
 
+346
 00:13:13,260 --> 00:13:17,399
 tout petit, corriger une petite typo dans
 
+347
 00:13:17,399 --> 00:13:19,260
 du code. C'est une contribution, ça fait
 
+348
 00:13:19,260 --> 00:13:21,420
 avancer la communauté, ça vous permet de
 
+349
 00:13:21,420 --> 00:13:22,920
 mettre les pieds dedans. Il n'y a pas de
 
+350
 00:13:22,920 --> 00:13:25,220
 honte à avoir modifié
 
+351
 00:13:25,220 --> 00:13:28,440
 un caractère qui n'était pas bon dans un
 
+352
 00:13:28,440 --> 00:13:30,620
 fichier.
 
+353
 00:13:32,160 --> 00:13:33,839
 En fait, vous serez dedans une fois
 
+354
 00:13:33,839 --> 00:13:37,500
 et une fois que vous serez dedans, vous verrez.
 
+355
 00:13:37,500 --> 00:13:39,420
 Ce n'est pas si compliqué et ce n'est pas si gros
 
+356
 00:13:39,420 --> 00:13:42,920
 que ça et surtout faites-vous plaisir.
 
+357
 00:13:43,740 --> 00:13:45,440
 Pour terminer,
 
+358
 00:13:45,440 --> 00:13:48,180
 contribuer à l'Open Source alors qui va
 
+359
 00:13:48,180 --> 00:13:49,560
 le faire ?
 
+360
 00:13:49,560 --> 00:13:51,200
 Personne ?
 
+361
 00:13:51,200 --> 00:13:53,279
 Ce qui n'ont pas lever la main, vous pourrez
 
+362
 00:13:53,279 --> 00:13:54,480
 vous passer le replay après de ma
 
+363
 00:13:54,480 --> 00:13:57,000
 conf. Vous pouvez laisser un
 
+364
 00:13:57,000 --> 00:14:00,380
 feedback si vous voulez et pour info
 
+365
 00:14:00,380 --> 00:14:02,380
-"OpenFeedBack" aussi c'est Open Source.
+OpenFeedBack aussi c'est Open Source.
 
+366
 00:14:06,560 --> 00:14:17,320
 [Applaudissements]
 
+367
 00:14:17,320 --> 00:14:31,320
 [Recherche des mains levées dans la salle]
 
+368
 00:14:32,160 --> 00:14:34,019
 [PUBLIC] : merci beaucoup pour la présentation. Est-ce que
 
+369
 00:14:34,019 --> 00:14:35,279
 [PUBLIC] : tu aurais des conseils pour les projets
 
+370
 00:14:35,279 --> 00:14:36,720
 [PUBLIC] : open source justement pour rendre plus
 
+371
 00:14:36,720 --> 00:14:38,519
 [PUBLIC] : accessible ou plus attrayant le fait que
 
+372
 00:14:38,519 --> 00:14:40,380
 [PUBLIC] : les gens viennent contribuer de
 
+373
 00:14:40,380 --> 00:14:41,459
 [PUBLIC] : différentes manières ? Est-ce que tu
 
+374
 00:14:41,459 --> 00:14:43,680
 [PUBLIC] : aurais open sourcer ton manifeste de
 
+375
 00:14:43,680 --> 00:14:46,079
 [PUBLIC] : l'Open Source par exemple et ce genre de
 
+376
 00:14:46,079 --> 00:14:47,100
 [PUBLIC] : choses. Parce que, je peux
 
+377
 00:14:47,100 --> 00:14:48,720
 [PUBLIC] : comprendre que souvent ça fait un peu
 
+378
 00:14:48,720 --> 00:14:49,980
 [PUBLIC] : peur d'aller contribuer, on sait pas trop ...
 
+379
 00:14:49,980 --> 00:14:52,639
 [PUBLIC] : Tu as parlé de faire un code
 
+380
 00:14:52,639 --> 00:14:56,760
 [PUBLIC] : conduite. Mais
 
+381
 00:14:56,760 --> 00:14:59,100
 [PUBLIC] : qu'elle chose peuvent faire les proches
 
+382
 00:14:59,100 --> 00:15:00,959
 open source pour être plus attrayant je
 
+383
 00:15:00,959 --> 00:15:01,639
 veux dire ?
 
+384
 00:15:01,639 --> 00:15:04,380
 C'est une bonne question.
 
+385
 00:15:04,380 --> 00:15:06,240
 En fait je pense que il y a des projets
 
+386
 00:15:06,240 --> 00:15:08,399
 qui sont très attrayants parce que très
 
+387
 00:15:08,399 --> 00:15:11,519
 connus, c'est d'ailleurs souvent ceux
 
+388
 00:15:11,519 --> 00:15:12,540
 dans lesquels c'est un peu compliqué de
 
+389
 00:15:12,540 --> 00:15:13,740
 rentrer parce qu'ils sont très gros et
 
+390
 00:15:13,740 --> 00:15:14,820
 du coup il y a beaucoup de choses à
 
+391
 00:15:14,820 --> 00:15:16,380
 faire avant de rentrer dedans. Et en plus
 
+392
 00:15:16,380 --> 00:15:17,639
 ça augmente le syndrome de l'imposteur
 
+393
 00:15:17,639 --> 00:15:18,779
 parce que c'est tellement énorme que
 
+394
 00:15:18,779 --> 00:15:20,579
 l'on sait pas par où commencer, qu'on ne se
 
+395
 00:15:20,579 --> 00:15:21,680
 sent pas légitime.
 
+396
 00:15:21,680 --> 00:15:23,579
 Pour les plus petits je sais qu'avec
 
+397
 00:15:23,579 --> 00:15:25,920
-"actoberfest", bon maintenant c'est passé.
+actoberfest, bon maintenant c'est passé.
 
+398
 00:15:25,920 --> 00:15:27,560
 C'est
 
+399
 00:15:27,560 --> 00:15:29,820
 un événement qui a lieu tous les mois
 
+400
 00:15:29,820 --> 00:15:32,459
 d'octobre qui permet aux
 
+401
 00:15:32,459 --> 00:15:33,720
 personnes qui souhaitent s'inscrire, de
 
+402
 00:15:33,720 --> 00:15:35,220
 gagner un t-shirt ou de planter un arbre
 
+403
 00:15:35,220 --> 00:15:36,899
 s'ils ont quatre pullrequests,
 
+404
 00:15:36,899 --> 00:15:38,040
 ou mergerequest qui sont acceptés
 
+405
 00:15:38,040 --> 00:15:40,860
 pendant le mois d'octobre. Pendant
 
+406
 00:15:40,860 --> 00:15:42,480
 cet événement vous pouvez taguer
 
+407
 00:15:42,480 --> 00:15:44,699
 votre projet Open Source, en disant "je participe à
 
+408
 00:15:44,699 --> 00:15:45,959
 actoberfest", ça peut être un moyen de se
 
+409
 00:15:45,959 --> 00:15:50,519
 faire connaître. Sinon les blogs, faire des
 
+410
 00:15:50,519 --> 00:15:52,980
 vidéos pour montrer un peu à quoi
 
+411
 00:15:52,980 --> 00:15:55,680
 ça sert. Je n'ai pas de recette magique mais
 
+412
 00:15:55,680 --> 00:15:57,899
 je pense que la partie communauté
 
+413
 00:15:57,899 --> 00:16:01,139
 c'est là où ça peut aider à faire
 
+414
 00:16:01,139 --> 00:16:03,720
 connaître le projet en fait.
 
+415
 00:16:03,720 --> 00:16:05,839
 Et une fois qu'il est connu
 
+416
 00:16:05,839 --> 00:16:07,860
 s'il y a de la documentation qui permet
 
+417
 00:16:07,860 --> 00:16:09,959
 d'expliquer comment compiler c'est bien.
 
+418
 00:16:09,959 --> 00:16:11,880
 A titre, il y en a un, au bout d'une heure
 
+419
 00:16:11,880 --> 00:16:13,079
 sans arriver à compiler je me suis dit
 
+420
 00:16:13,079 --> 00:16:15,180
 "c'est bon celui-là je participerai pas
 
+421
 00:16:15,180 --> 00:16:17,240
-quoi".
+quoi."
 
+422
 00:16:19,240 --> 00:16:32,240
 [Recherche des mains levés dans la salle]
 
+423
 00:16:35,160 --> 00:16:38,160
 [PUBLIC] : Je me demande quels sont les process ? Si il
 
+424
 00:16:38,160 --> 00:16:40,500
 [PUBLIC] : y a des process particuliers ou communs
 
+425
 00:16:40,500 --> 00:16:42,959
 [PUBLIC] : de validation des contributions dans les
 
+426
 00:16:42,959 --> 00:16:45,740
 [PUBLIC] : communautés ?
 
+427
 00:16:46,259 --> 00:16:48,839
 Alors "commun", je ne crois pas. Il y en a
 
+428
 00:16:48,839 --> 00:16:50,880
 beaucoup qui fonctionnent à base de
 
+429
 00:16:50,880 --> 00:16:52,680
 margerequest ou pullrequest,
 
+430
 00:16:52,680 --> 00:16:54,180
 pour lesquelles il faut
 
+431
 00:16:54,180 --> 00:16:55,139
 qu'il y ait au moins un mainteneur qui
 
+432
 00:16:55,139 --> 00:16:57,720
 valide. Après chaque projet définit
 
+433
 00:16:57,720 --> 00:17:00,060
 ce qu'il veut, surtout que comme j'ai dit
 
+434
 00:17:00,060 --> 00:17:01,740
 il n'y a pas que du code et alors du coup
 
+435
 00:17:01,740 --> 00:17:03,060
 quelqu'un qui va faire un
 
+436
 00:17:03,060 --> 00:17:06,319
 article de blog là pour le coup rien.
 
+437
 00:17:06,319 --> 00:17:09,000
 Pour le code généralement c'est pullrequest
 
+438
 00:17:09,000 --> 00:17:10,859
 ou mergerequest avec une
 
+439
 00:17:10,859 --> 00:17:14,220
 validation de X personnes. Je crois même
 
+440
 00:17:14,220 --> 00:17:16,439
 pas qui est des choses génériques sur le
 
+441
 00:17:16,439 --> 00:17:18,419
 nombre de personnes qui doivent valider.
 
+442
 00:17:18,419 --> 00:17:21,599
 Une petit anecdote là-dessus, quand j'ai
 
+443
 00:17:21,599 --> 00:17:23,579
 fait une contribution à Jenkins la
 
+444
 00:17:23,579 --> 00:17:25,619
 première fois elle a été validée par 9
 
+445
 00:17:25,619 --> 00:17:27,720
 personnes. Je crois qu'ils ont eu peur
 
+446
 00:17:27,720 --> 00:17:29,340
 ils ont dit "une petite nouvelle là qui
 
+447
 00:17:29,340 --> 00:17:31,020
 fait quelque chose oulala" [rire] Et en fait
 
+448
 00:17:31,020 --> 00:17:32,160
 c'est le quatrième qui a vu que j'avais
 
+449
 00:17:32,160 --> 00:17:34,140
 fait une erreur. Les trois premiers
 
+450
 00:17:34,140 --> 00:17:36,240
 avaient validé et le quatrième "Humm ... il y a
 
+451
 00:17:36,240 --> 00:17:37,740
 quelque chose, ça c'est pas bon". Il avait
 
+452
 00:17:37,740 --> 00:17:39,860
 raison.
 
+453
 00:17:45,539 --> 00:17:47,440
 Merci
 
+454
 00:17:47,440 --> 00:17:55,660
 [Applaudissements]
-
