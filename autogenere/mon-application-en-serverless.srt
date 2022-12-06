@@ -1,0 +1,4264 @@
+1
+00:00:01,840 --> 00:00:13,009
+[Musique]
+
+2
+00:00:13,500 --> 00:00:15,540
+alors bonjour à tous je m'appelle Marie
+
+3
+00:00:15,540 --> 00:00:18,660
+je remercie d'être là donc aujourd'hui
+
+4
+00:00:18,660 --> 00:00:21,000
+je vais vous parler de serveurless pour
+
+5
+00:00:21,000 --> 00:00:22,500
+la petite histoire donc je travaille
+
+6
+00:00:22,500 --> 00:00:25,320
+chez Lidl et en fait on a un de nos
+
+7
+00:00:25,320 --> 00:00:27,840
+clients pour lesquels je travaille pour
+
+8
+00:00:27,840 --> 00:00:29,279
+lequel on devait générer des documents
+
+9
+00:00:29,279 --> 00:00:31,320
+plan de documents et donc un creusant un
+
+10
+00:00:31,320 --> 00:00:32,640
+peu nos différentes options on en est
+
+11
+00:00:32,640 --> 00:00:33,960
+venu à se poser la question de pourquoi
+
+12
+00:00:33,960 --> 00:00:35,760
+pas tenter de faire ça un serveur là
+
+13
+00:00:35,760 --> 00:00:36,719
+c'est et puis on s'est rendu compte
+
+14
+00:00:36,719 --> 00:00:37,620
+qu'il y a quand même beaucoup de gens
+
+15
+00:00:37,620 --> 00:00:39,180
+qui ne l'utilisent pas encore cette
+
+16
+00:00:39,180 --> 00:00:40,500
+technologie ne savent pas forcément
+
+17
+00:00:40,500 --> 00:00:43,559
+comment s'y prendre etc et du coup j'ai
+
+18
+00:00:43,559 --> 00:00:46,280
+décidé de vous en parler aujourd'hui
+
+19
+00:00:46,700 --> 00:00:48,899
+voici un petit plan de cette
+
+20
+00:00:48,899 --> 00:00:50,160
+présentation on va d'abord voir ce que
+
+21
+00:00:50,160 --> 00:00:52,200
+c'est le service computing ensuite on va
+
+22
+00:00:52,200 --> 00:00:54,059
+voir le frameworkswordless et après je
+
+23
+00:00:54,059 --> 00:00:56,660
+ferai une petite démo
+
+24
+00:00:57,120 --> 00:00:58,559
+déjà avant de commencer ce qu'il y en a
+
+25
+00:00:58,559 --> 00:01:01,520
+dans la salle qui est en fond
+
+26
+00:01:02,100 --> 00:01:04,440
+4 d'accord
+
+27
+00:01:04,440 --> 00:01:06,240
+est-ce qu'il y en a qui sauve ce que
+
+28
+00:01:06,240 --> 00:01:08,700
+c'est quand même même si ils en font pas
+
+29
+00:01:08,700 --> 00:01:11,960
+d'accord viens c'est bien
+
+30
+00:01:12,180 --> 00:01:14,280
+bon savoir laisse c'est pas ça c'est pas
+
+31
+00:01:14,280 --> 00:01:15,780
+non plus de la magie il y en a qu'on se
+
+32
+00:01:15,780 --> 00:01:17,460
+retrouve pas du tout avec dans le cas où
+
+33
+00:01:17,460 --> 00:01:19,860
+il y a pas de serveur
+
+34
+00:01:19,860 --> 00:01:22,200
+donc l'informatique ça relève c'est en
+
+35
+00:01:22,200 --> 00:01:24,840
+fait un modèle de computing dans lequel
+
+36
+00:01:24,840 --> 00:01:26,759
+notre fournisseur cloud va gérer toutes
+
+37
+00:01:26,759 --> 00:01:28,680
+les ressources pour nous
+
+38
+00:01:28,680 --> 00:01:30,659
+et on va payer uniquement à l'exécution
+
+39
+00:01:30,659 --> 00:01:33,780
+de chaque fois de notre code donc il ne
+
+40
+00:01:33,780 --> 00:01:35,180
+s'agit pas de ne pas avoir de serveur
+
+41
+00:01:35,180 --> 00:01:38,400
+malgré le nom voilà malgré le rêve qui a
+
+42
+00:01:38,400 --> 00:01:40,560
+été venduré il y a bien des serveurs par
+
+43
+00:01:40,560 --> 00:01:42,000
+contre nous vraiment en tant que Dave on
+
+44
+00:01:42,000 --> 00:01:44,159
+va complètement abstraire de tout ce qui
+
+45
+00:01:44,159 --> 00:01:46,439
+est matériel en fait
+
+46
+00:01:46,439 --> 00:01:47,759
+qu'est-ce que ça veut dire j'ai fait un
+
+47
+00:01:47,759 --> 00:01:50,759
+petit schéma donc un bleu foncé c'est ce
+
+48
+00:01:50,759 --> 00:01:52,860
+que nous on gère quand on choisit un
+
+49
+00:01:52,860 --> 00:01:54,840
+modèle de Computing et un bleu clair
+
+50
+00:01:54,840 --> 00:01:56,220
+c'est ce que notre fournisseur cloud qui
+
+51
+00:01:56,220 --> 00:01:58,860
+qui gère pour nous et donc dans le cas
+
+52
+00:01:58,860 --> 00:02:00,960
+de serveurless on se retrouve dans la
+
+53
+00:02:00,960 --> 00:02:02,579
+colonne tout à droite dans la colonne de
+
+54
+00:02:02,579 --> 00:02:04,560
+fonction et de services ou en fait nous
+
+55
+00:02:04,560 --> 00:02:06,420
+on va gérer uniquement le code de votre
+
+56
+00:02:06,420 --> 00:02:09,119
+application tout le reste vraiment tout
+
+57
+00:02:09,119 --> 00:02:10,860
+le reste c'est le fournisseur cloud
+
+58
+00:02:10,860 --> 00:02:13,200
+qu'il fait pour vous
+
+59
+00:02:13,200 --> 00:02:16,319
+donc j'imagine que beaucoup connaissent
+
+60
+00:02:16,319 --> 00:02:18,000
+déjà le pass ou l'infrastructure qui
+
+61
+00:02:18,000 --> 00:02:19,680
+s'est servi il y a conteneur et services
+
+62
+00:02:19,680 --> 00:02:21,599
+qui est un peu moins connu mais qui est
+
+63
+00:02:21,599 --> 00:02:22,980
+souvent fait pour parler des boxes
+
+64
+00:02:22,980 --> 00:02:23,959
+notamment
+
+65
+00:02:23,959 --> 00:02:27,120
+c'est au départ un peu ce qu'on pouvait
+
+66
+00:02:27,120 --> 00:02:29,700
+faire si on héberge notre propre
+
+67
+00:02:29,700 --> 00:02:31,800
+structure Cloud et qu'on va faire du
+
+68
+00:02:31,800 --> 00:02:33,480
+surlace on se retrouve plus un peu dans
+
+69
+00:02:33,480 --> 00:02:37,680
+le cas de service mais grosso modo si
+
+70
+00:02:37,680 --> 00:02:38,940
+vous choisissez un premier sur cloud
+
+71
+00:02:38,940 --> 00:02:41,400
+vous êtes en mode face et en fait vous
+
+72
+00:02:41,400 --> 00:02:43,560
+ne verrez uniquement que le code de
+
+73
+00:02:43,560 --> 00:02:45,480
+votre application
+
+74
+00:02:45,480 --> 00:02:47,519
+ça a quand même des impacts sur la façon
+
+75
+00:02:47,519 --> 00:02:49,260
+dont vous allez développer qu'est-ce que
+
+76
+00:02:49,260 --> 00:02:50,940
+ça veut dire ça veut dire que c'est dans
+
+77
+00:02:50,940 --> 00:02:52,319
+le Cloud donc forcément c'était les
+
+78
+00:02:52,319 --> 00:02:53,840
+fonctions qui sont staples qui sont
+
+79
+00:02:53,840 --> 00:02:57,440
+scalables qui sont éphémères parce que
+
+80
+00:02:57,440 --> 00:02:59,640
+une fonction des services c'est notre
+
+81
+00:02:59,640 --> 00:03:00,660
+fournisseur cloud donc qui gère tout
+
+82
+00:03:00,660 --> 00:03:02,099
+mais ça veut dire que si votre fonction
+
+83
+00:03:02,099 --> 00:03:03,120
+n'est pas plaie pendant quelques temps
+
+84
+00:03:03,120 --> 00:03:04,519
+ça peut être juste quelques minutes
+
+85
+00:03:04,519 --> 00:03:06,420
+votre fournisseur il va tout éteindre
+
+86
+00:03:06,420 --> 00:03:08,040
+donc vous allez voir zéro instance de
+
+87
+00:03:08,040 --> 00:03:10,080
+votre fonction donc il faut pas qu'il y
+
+88
+00:03:10,080 --> 00:03:12,360
+ait de perte de données ou de d'état de
+
+89
+00:03:12,360 --> 00:03:14,099
+ce genre de choses donc vos fonctions
+
+90
+00:03:14,099 --> 00:03:16,319
+doivent être éphémères et ils sont
+
+91
+00:03:16,319 --> 00:03:17,640
+éphémères elle leur faites scalables et
+
+92
+00:03:17,640 --> 00:03:20,099
+son steakless et son côté serveur et
+
+93
+00:03:20,099 --> 00:03:21,560
+elles sont
+
+94
+00:03:21,560 --> 00:03:23,700
+déclenchées par des événements on va
+
+95
+00:03:23,700 --> 00:03:26,000
+parler juste après
+
+96
+00:03:26,400 --> 00:03:27,720
+dans quel cas est-ce qu'on va utiliser
+
+97
+00:03:27,720 --> 00:03:29,580
+du serveur laisse donc c'est bien beau
+
+98
+00:03:29,580 --> 00:03:31,739
+mais quel cas c'est ici prête dans notre
+
+99
+00:03:31,739 --> 00:03:34,680
+quotidien en tant que les webbooks c'est
+
+100
+00:03:34,680 --> 00:03:36,420
+parfait parce que bon bah on est branché
+
+101
+00:03:36,420 --> 00:03:37,860
+avec une plateforme tierce des choses
+
+102
+00:03:37,860 --> 00:03:39,540
+là-dessus du coup c'est une boîte noire
+
+103
+00:03:39,540 --> 00:03:41,159
+non c'est parce qu'il y a et puis on
+
+104
+00:03:41,159 --> 00:03:43,080
+reçoit des appels on reçoit des entrées
+
+105
+00:03:43,080 --> 00:03:45,239
+des postes des quêtes Pampers et ben du
+
+106
+00:03:45,239 --> 00:03:46,200
+coup c'est des événements qui vont
+
+107
+00:03:46,200 --> 00:03:47,280
+déclencher potentiellement un traitement
+
+108
+00:03:47,280 --> 00:03:49,739
+chez nous donc très bien à ce moment-là
+
+109
+00:03:49,739 --> 00:03:51,360
+finalement on a besoin de réagir et
+
+110
+00:03:51,360 --> 00:03:53,280
+d'avoir une instance de notre code de
+
+111
+00:03:53,280 --> 00:03:55,019
+notre application qui tourne si c'est
+
+112
+00:03:55,019 --> 00:03:56,640
+parce quelque chose finalement si la
+
+113
+00:03:56,640 --> 00:03:58,440
+nuit il se passe rien parce que il y a
+
+114
+00:03:58,440 --> 00:03:59,819
+rien qui se passe chez notre fournisseur
+
+115
+00:03:59,819 --> 00:04:01,440
+tiers est-ce que c'est intéressant
+
+116
+00:04:01,440 --> 00:04:03,180
+d'avoir un serveur qui tourne ou
+
+117
+00:04:03,180 --> 00:04:04,799
+plusieurs serveurs qui tournent pas
+
+118
+00:04:04,799 --> 00:04:06,599
+forcément
+
+119
+00:04:06,599 --> 00:04:08,340
+c'est également pratique de faire du
+
+120
+00:04:08,340 --> 00:04:09,360
+serveurless lorsqu'on fait des
+
+121
+00:04:09,360 --> 00:04:11,939
+traitements multimédias et ben tout à
+
+122
+00:04:11,939 --> 00:04:13,799
+fait pourquoi pas avoir des fonctions
+
+123
+00:04:13,799 --> 00:04:15,720
+qui existent uniquement pour au moment
+
+124
+00:04:15,720 --> 00:04:17,639
+où il faut générer des vignettes pour
+
+125
+00:04:17,639 --> 00:04:19,079
+vos images faire des traitements en
+
+126
+00:04:19,079 --> 00:04:21,600
+vidéo des traitements sont etc voilà
+
+127
+00:04:21,600 --> 00:04:25,139
+c'est super c'est très pratique quand
+
+128
+00:04:25,139 --> 00:04:26,400
+vous avez un trafic variable sur votre
+
+129
+00:04:26,400 --> 00:04:29,699
+site par exemple vous savez qu'il y a
+
+130
+00:04:29,699 --> 00:04:30,840
+beaucoup de passages le matin et puis
+
+131
+00:04:30,840 --> 00:04:32,400
+l'après-midi la nuit le soir il ne se
+
+132
+00:04:32,400 --> 00:04:34,800
+passe rien ou pas grand chose donc
+
+133
+00:04:34,800 --> 00:04:38,160
+pourquoi pas avoir ça
+
+134
+00:04:38,160 --> 00:04:40,740
+dans le cadre de l'iutis c'est super il
+
+135
+00:04:40,740 --> 00:04:41,580
+y en a qui font de la domotique dans la
+
+136
+00:04:41,580 --> 00:04:43,139
+salle
+
+137
+00:04:43,139 --> 00:04:46,259
+oui une personne et ben en vrai pour la
+
+138
+00:04:46,259 --> 00:04:47,400
+domotique la domotique c'est que des
+
+139
+00:04:47,400 --> 00:04:48,720
+événements un détecteur d'un mouvement
+
+140
+00:04:48,720 --> 00:04:50,040
+c'est un événement quelqu'un qui passe
+
+141
+00:04:50,040 --> 00:04:51,240
+devant il y a plus personne qui passe
+
+142
+00:04:51,240 --> 00:04:52,040
+devant
+
+143
+00:04:52,040 --> 00:04:54,419
+peut-être d'ouverture peu importe tout
+
+144
+00:04:54,419 --> 00:04:55,979
+c'est vraiment que des événements donc
+
+145
+00:04:55,979 --> 00:04:58,860
+c'est très adapté au service
+
+146
+00:04:58,860 --> 00:05:00,180
+on peut également faire du serveur
+
+147
+00:05:00,180 --> 00:05:01,800
+laisse lorsqu'on a des sites statiques
+
+148
+00:05:01,800 --> 00:05:03,900
+ou des API qui répondent à ce qui se
+
+149
+00:05:03,900 --> 00:05:05,160
+passe pourquoi pas c'est tout à fait
+
+150
+00:05:05,160 --> 00:05:06,900
+possible
+
+151
+00:05:06,900 --> 00:05:09,060
+on peut faire du savon leste dans le
+
+152
+00:05:09,060 --> 00:05:12,419
+cadre streaming donc avec des messages
+
+153
+00:05:12,419 --> 00:05:14,240
+qui s'empilent dans une cuve par exemple
+
+154
+00:05:14,240 --> 00:05:16,259
+c'est ce que c'est souvent utilisé pour
+
+155
+00:05:16,259 --> 00:05:18,960
+les pour la bourse en fait parce que la
+
+156
+00:05:18,960 --> 00:05:21,660
+bourse elle est ouverte de 8h30 à 17h30
+
+157
+00:05:21,660 --> 00:05:23,280
+je crois et après il se passe plus rien
+
+158
+00:05:23,280 --> 00:05:25,500
+elle est fermée donc finalement il se
+
+159
+00:05:25,500 --> 00:05:27,259
+passe rien vraiment zéro il y a aucune
+
+160
+00:05:27,259 --> 00:05:30,560
+ça n'existe plus la bourse la nuit
+
+161
+00:05:30,560 --> 00:05:33,479
+dans le cadre émission pour les
+
+162
+00:05:33,479 --> 00:05:34,860
+traitements en badge pourquoi pas exact
+
+163
+00:05:34,860 --> 00:05:36,479
+par exemple à 18h vous êtes une campagne
+
+164
+00:05:36,479 --> 00:05:38,160
+et puis après pareil votre serveur il
+
+165
+00:05:38,160 --> 00:05:41,000
+est temps et il y a plus rien
+
+166
+00:05:42,539 --> 00:05:44,160
+et quels sont les avantages à faire du
+
+167
+00:05:44,160 --> 00:05:46,620
+serveur parce que pour que ce soit
+
+168
+00:05:46,620 --> 00:05:48,479
+intéressant il faut que ça soit sinon on
+
+169
+00:05:48,479 --> 00:05:50,759
+en fait pas on se prend pas la tête
+
+170
+00:05:50,759 --> 00:05:52,620
+et bah première chose c'est que du coup
+
+171
+00:05:52,620 --> 00:05:54,720
+comme je disais on va pas avoir de
+
+172
+00:05:54,720 --> 00:05:56,160
+gestion de serveur et d'impres
+
+173
+00:05:56,160 --> 00:05:57,360
+structures on fait vraiment que notre
+
+174
+00:05:57,360 --> 00:05:59,100
+code on se concentre dessus c'est super
+
+175
+00:05:59,100 --> 00:06:00,840
+le fournisseur de se débrouiller pour le
+
+176
+00:06:00,840 --> 00:06:02,699
+reste
+
+177
+00:06:02,699 --> 00:06:05,100
+on va il y a un modèle de facturation
+
+178
+00:06:05,100 --> 00:06:06,900
+qui s'appelle payerio ou en fait on va
+
+179
+00:06:06,900 --> 00:06:08,639
+vraiment payer à l'exécution de la
+
+180
+00:06:08,639 --> 00:06:10,620
+fonction donc même si elle existe des
+
+181
+00:06:10,620 --> 00:06:11,820
+instances dans un serveur qui tourne si
+
+182
+00:06:11,820 --> 00:06:13,680
+elle est pas appelée il se passe on ne
+
+183
+00:06:13,680 --> 00:06:15,060
+peut rien
+
+184
+00:06:15,060 --> 00:06:17,340
+donc ça c'est chouette ensuite donc
+
+185
+00:06:17,340 --> 00:06:18,600
+c'est automatiquement escalable par le
+
+186
+00:06:18,600 --> 00:06:19,740
+fournisseur cloud puisque c'est lui qui
+
+187
+00:06:19,740 --> 00:06:21,539
+gère vraiment tout c'est lui qui dit un
+
+188
+00:06:21,539 --> 00:06:22,979
+et un peu de trafic on va augmenter ou
+
+189
+00:06:22,979 --> 00:06:26,639
+ça baisse on peut réduire un petit peu
+
+190
+00:06:26,639 --> 00:06:27,720
+les déploiements sont extrêmement
+
+191
+00:06:27,720 --> 00:06:30,060
+simples on va voir ça lors de la démo
+
+192
+00:06:30,060 --> 00:06:31,880
+vous allez voir c'est vraiment chouette
+
+193
+00:06:31,880 --> 00:06:34,080
+et du coup tout ça va permettre que
+
+194
+00:06:34,080 --> 00:06:35,340
+l'équipe de développement vraiment se
+
+195
+00:06:35,340 --> 00:06:37,080
+concentre sur le métier et le
+
+196
+00:06:37,080 --> 00:06:38,759
+développement de l'application les
+
+197
+00:06:38,759 --> 00:06:40,800
+besoins vraiment on est concentré sur
+
+198
+00:06:40,800 --> 00:06:44,400
+notre application on s'abstrait du reste
+
+199
+00:06:44,400 --> 00:06:46,560
+également forcément petite touche verte
+
+200
+00:06:46,560 --> 00:06:48,000
+c'est mieux pour la planète puisque on
+
+201
+00:06:48,000 --> 00:06:49,560
+n'a pas des ressources de serveur des
+
+202
+00:06:49,560 --> 00:06:50,880
+danseurs qui tournent à leur que ils
+
+203
+00:06:50,880 --> 00:06:53,539
+sont pas utilisés
+
+204
+00:06:54,780 --> 00:06:56,160
+mais comme rien jamais rien n'est
+
+205
+00:06:56,160 --> 00:06:57,360
+gratuit dans la vie et il y a quand même
+
+206
+00:06:57,360 --> 00:07:00,800
+quelques petits trucs à garder en tête
+
+207
+00:07:01,020 --> 00:07:03,780
+donc première chose vraiment impactante
+
+208
+00:07:03,780 --> 00:07:05,520
+qu'il faut garder en tête ça va être le
+
+209
+00:07:05,520 --> 00:07:06,680
+call stars
+
+210
+00:07:06,680 --> 00:07:09,780
+c'est le temps que mettre une instance
+
+211
+00:07:09,780 --> 00:07:11,400
+de votre fonction à démarrer lorsqu'il y
+
+212
+00:07:11,400 --> 00:07:14,160
+en a 0 sur votre infrastructure Cloud
+
+213
+00:07:14,160 --> 00:07:15,780
+donc vraiment il y a rien qui tourne il
+
+214
+00:07:15,780 --> 00:07:17,460
+y a pas de serveur donc en fait un appel
+
+215
+00:07:17,460 --> 00:07:19,440
+qui est fait une fonction il va demander
+
+216
+00:07:19,440 --> 00:07:22,319
+à votre changer en fait de démarrer donc
+
+217
+00:07:22,319 --> 00:07:24,300
+une instance sachez quand même qu'il y a
+
+218
+00:07:24,300 --> 00:07:26,699
+eu des énormes progrès qui ont été faits
+
+219
+00:07:26,699 --> 00:07:28,620
+donc on est passé de quelques secondes
+
+220
+00:07:28,620 --> 00:07:30,660
+sous une seconde pour faire l'école
+
+221
+00:07:30,660 --> 00:07:32,340
+start
+
+222
+00:07:32,340 --> 00:07:34,259
+et pour ceux qui ont suivi l'événement
+
+223
+00:07:34,259 --> 00:07:36,180
+reinvent de adweiss la semaine dernière
+
+224
+00:07:36,180 --> 00:07:38,039
+ils ont annoncé un truc super qui
+
+225
+00:07:38,039 --> 00:07:39,240
+s'appelle le snap start qui va
+
+226
+00:07:39,240 --> 00:07:40,740
+potentiellement régler complètement ce
+
+227
+00:07:40,740 --> 00:07:42,900
+problème en fait ils vont ils font un
+
+228
+00:07:42,900 --> 00:07:44,419
+screenshot de votre
+
+229
+00:07:44,419 --> 00:07:47,220
+verre avant de l'éteindre et du coup
+
+230
+00:07:47,220 --> 00:07:48,720
+quand ils ont besoin de reboot il
+
+231
+00:07:48,720 --> 00:07:49,979
+démarre juste ça et en fait c'est
+
+232
+00:07:49,979 --> 00:07:51,000
+beaucoup plus rapide que de construire
+
+233
+00:07:51,000 --> 00:07:53,280
+une petite vieille rapidement
+
+234
+00:07:53,280 --> 00:07:55,380
+et ça c'est cool
+
+235
+00:07:55,380 --> 00:07:57,360
+voilà donc c'est pour l'instant disposé
+
+236
+00:07:57,360 --> 00:07:59,819
+en java par contre désolé mais ça
+
+237
+00:07:59,819 --> 00:08:01,199
+devrait arriver très vite pour le reste
+
+238
+00:08:01,199 --> 00:08:03,599
+de langage
+
+239
+00:08:03,599 --> 00:08:06,120
+ensuite ce qui va changer un peu sur
+
+240
+00:08:06,120 --> 00:08:07,800
+votre façon de tester nos fonctions
+
+241
+00:08:07,800 --> 00:08:09,360
+notre application en tant que
+
+242
+00:08:09,360 --> 00:08:11,220
+développeur c'est juste un des petits
+
+243
+00:08:11,220 --> 00:08:12,240
+coups de main à prendre mais c'est rien
+
+244
+00:08:12,240 --> 00:08:13,680
+d'une enfin c'est rien dedans sur mon
+
+245
+00:08:13,680 --> 00:08:14,940
+tableau mais voilà ça demande une petite
+
+246
+00:08:14,940 --> 00:08:17,460
+jeunesse à prendre
+
+247
+00:08:17,460 --> 00:08:19,500
+une contrainte technique c'est qu'on ne
+
+248
+00:08:19,500 --> 00:08:22,139
+peut pas avoir de process long et une
+
+249
+00:08:22,139 --> 00:08:22,919
+contrainte qui va être liée à votre
+
+250
+00:08:22,919 --> 00:08:24,599
+fournisseur cloud ça va dépendre de ce
+
+251
+00:08:24,599 --> 00:08:26,340
+que j'ai choisi Google AWS à ses yeux
+
+252
+00:08:26,340 --> 00:08:30,180
+etc et la durée varie en fonction du
+
+253
+00:08:30,180 --> 00:08:31,620
+fournisseur je crois que je suis à W
+
+254
+00:08:31,620 --> 00:08:33,059
+c'est 15 minutes chez Google c'est neuf
+
+255
+00:08:33,059 --> 00:08:36,140
+par exemple donc voilà faut le savoir
+
+256
+00:08:36,140 --> 00:08:41,099
+pareil on va être limité par les données
+
+257
+00:08:41,099 --> 00:08:42,839
+qu'on veut enfin on va lier on va
+
+258
+00:08:42,839 --> 00:08:45,180
+limiter pardon par la configuration de
+
+259
+00:08:45,180 --> 00:08:47,100
+notre culture cloud par exemple pour la
+
+260
+00:08:47,100 --> 00:08:49,380
+taille du body qu'on peut poster pour la
+
+261
+00:08:49,380 --> 00:08:50,459
+taille mémoire qu'on peut utiliser par
+
+262
+00:08:50,459 --> 00:08:52,500
+fonction etc pareil ça varie en fonction
+
+263
+00:08:52,500 --> 00:08:53,480
+de fournisseur
+
+264
+00:08:53,480 --> 00:08:55,140
+sachez quand même que les limites sont
+
+265
+00:08:55,140 --> 00:08:56,700
+plus que raisonnables donc avant que
+
+266
+00:08:56,700 --> 00:08:57,899
+vous éteignez un peu les limites de
+
+267
+00:08:57,899 --> 00:09:00,120
+votre fournisseur faudra se poser des
+
+268
+00:09:00,120 --> 00:09:01,200
+questions de pourquoi le body est
+
+269
+00:09:01,200 --> 00:09:03,500
+vraiment énorme
+
+270
+00:09:05,820 --> 00:09:07,980
+un truc qui peut arriver c'est qu'on
+
+271
+00:09:07,980 --> 00:09:10,560
+peut avoir un prix imprévisible donc
+
+272
+00:09:10,560 --> 00:09:12,000
+comme je le disais on peut à l'exécution
+
+273
+00:09:12,000 --> 00:09:13,440
+donc c'est chouette finalement on ne
+
+274
+00:09:13,440 --> 00:09:14,519
+paye que vraiment quand c'est utilisé
+
+275
+00:09:14,519 --> 00:09:17,100
+mais à l'inverse on peut se retrouver
+
+276
+00:09:17,100 --> 00:09:18,480
+avec des surprises s'il y a un moment où
+
+277
+00:09:18,480 --> 00:09:20,339
+vous avez un pic de trafic sur votre
+
+278
+00:09:20,339 --> 00:09:22,920
+enfant il se passe quelque chose une
+
+279
+00:09:22,920 --> 00:09:24,720
+petite boucle infinie qui traîne je sais
+
+280
+00:09:24,720 --> 00:09:27,500
+pas un truc et bah il peut arriver que
+
+281
+00:09:27,500 --> 00:09:30,180
+votre facture à la fin du mois soit un
+
+282
+00:09:30,180 --> 00:09:32,160
+petit peu salée
+
+283
+00:09:32,160 --> 00:09:34,500
+voilà et dernière chose c'est que du
+
+284
+00:09:34,500 --> 00:09:36,000
+coup comme on est vraiment dépendant de
+
+285
+00:09:36,000 --> 00:09:38,899
+notre fournisseur Cloud et qu'on déploie
+
+286
+00:09:38,899 --> 00:09:41,880
+en ligne de commande et ben en fait il
+
+287
+00:09:41,880 --> 00:09:43,380
+va falloir apprendre vraiment le SDK de
+
+288
+00:09:43,380 --> 00:09:45,120
+notre fournisseur Cloud
+
+289
+00:09:45,120 --> 00:09:47,339
+ok mais si demain je passe de WS chez
+
+290
+00:09:47,339 --> 00:09:48,779
+Google parfois il va falloir que je
+
+291
+00:09:48,779 --> 00:09:50,220
+réapprenne tout
+
+292
+00:09:50,220 --> 00:09:52,800
+ça c'est un peu moins top
+
+293
+00:09:52,800 --> 00:09:56,459
+et donc c'est là que le framework va
+
+294
+00:09:56,459 --> 00:09:57,480
+nous aider puisque en fait ça va être
+
+295
+00:09:57,480 --> 00:09:58,800
+une couche d'abstraction un autre
+
+296
+00:09:58,800 --> 00:10:01,279
+fournisseur Cloud
+
+297
+00:10:06,140 --> 00:10:08,940
+c'est tout simplement un dashboard en
+
+298
+00:10:08,940 --> 00:10:11,839
+fait qui vont nous permettre de déployer
+
+299
+00:10:11,839 --> 00:10:13,980
+nos applications de les configurer en
+
+300
+00:10:13,980 --> 00:10:16,580
+mode serveur laisse
+
+301
+00:10:16,820 --> 00:10:20,339
+voilà donc c'est vraiment on va voir
+
+302
+00:10:20,339 --> 00:10:21,720
+tout ça ensemble en détail c'est
+
+303
+00:10:21,720 --> 00:10:24,779
+vraiment pas grand chose à prendre
+
+304
+00:10:24,779 --> 00:10:25,860
+tellement pas grand chose à prendre
+
+305
+00:10:25,860 --> 00:10:29,120
+qu'on va durer le temps passer à la démo
+
+306
+00:10:30,959 --> 00:10:33,540
+alors d'abord première chose que j'ai pu
+
+307
+00:10:33,540 --> 00:10:35,339
+avoir besoin de faire c'est d'installer
+
+308
+00:10:35,339 --> 00:10:38,640
+le framework sur ma machine
+
+309
+00:10:38,640 --> 00:10:40,880
+donc
+
+310
+00:10:41,480 --> 00:10:44,160
+ça télécharge et je vérifie avec serveur
+
+311
+00:10:44,160 --> 00:10:45,680
+les styles que j'ai tout comme il faut
+
+312
+00:10:45,680 --> 00:10:47,820
+on va tester ensemble est-ce que c'est
+
+313
+00:10:47,820 --> 00:10:50,100
+assez comporte tout le monde
+
+314
+00:10:50,100 --> 00:10:53,700
+de la salle c'est bon
+
+315
+00:10:53,700 --> 00:10:55,260
+c'est avoir les petits rêver c'est bon
+
+316
+00:10:55,260 --> 00:10:56,760
+c'est bien installé la dernière version
+
+317
+00:10:56,760 --> 00:10:59,279
+nickel
+
+318
+00:10:59,279 --> 00:11:02,820
+ensuite qu'est-ce que je vais faire je
+
+319
+00:11:02,820 --> 00:11:05,220
+vais créer une application j'ai perdu ma
+
+320
+00:11:05,220 --> 00:11:07,380
+souris et là donc on va le faire
+
+321
+00:11:07,380 --> 00:11:08,640
+ensemble comment est-ce que j'ai mis un
+
+322
+00:11:08,640 --> 00:11:09,839
+projet pour info lâcher dans un dossier
+
+323
+00:11:09,839 --> 00:11:11,579
+que j'ai créé mais rien dedans il est
+
+324
+00:11:11,579 --> 00:11:13,860
+vide c'est pas ça
+
+325
+00:11:13,860 --> 00:11:16,079
+donc là je lance une commande qui
+
+326
+00:11:16,079 --> 00:11:18,540
+s'appelle serveur les
+
+327
+00:11:18,540 --> 00:11:20,160
+qui me réfléchir un peu il va me
+
+328
+00:11:20,160 --> 00:11:22,320
+proposer des options et là donc je vais
+
+329
+00:11:22,320 --> 00:11:23,339
+pouvoir choisir ce que j'ai envie de
+
+330
+00:11:23,339 --> 00:11:26,220
+initialiser comme projet sur leur laisse
+
+331
+00:11:26,220 --> 00:11:28,560
+pour la démo je vais prendre une API
+
+332
+00:11:28,560 --> 00:11:34,100
+HTTP avec note d'accord donc je valide
+
+333
+00:11:44,540 --> 00:11:47,899
+on attend un petit peu
+
+334
+00:11:49,980 --> 00:11:51,360
+il me demande quelle organisation ça
+
+335
+00:11:51,360 --> 00:11:52,860
+c'est mon combat de ce que j'ai déjà
+
+336
+00:11:52,860 --> 00:11:56,000
+configuré donc demandé de
+
+337
+00:11:56,000 --> 00:12:00,920
+configurer les accès je valide
+
+338
+00:12:03,420 --> 00:12:05,040
+alors je vais pas déployer tout de suite
+
+339
+00:12:05,040 --> 00:12:06,240
+parce que je vais le faire à la main
+
+340
+00:12:06,240 --> 00:12:10,880
+avec vous mais donc voilà il a l'image
+
+341
+00:12:11,820 --> 00:12:14,579
+donc qu'est-ce qu'il a fait
+
+342
+00:12:14,579 --> 00:12:17,579
+un dossier on va aller voir ce qu'il y a
+
+343
+00:12:17,579 --> 00:12:19,640
+dedans
+
+344
+00:12:20,760 --> 00:12:22,140
+très bien j'ai un fichier qui s'appelle
+
+345
+00:12:22,140 --> 00:12:25,980
+under.js un rythmie mon accord super et
+
+346
+00:12:25,980 --> 00:12:27,200
+un fichier
+
+347
+00:12:27,200 --> 00:12:29,160
+et en fait c'est vraiment ça qui va
+
+348
+00:12:29,160 --> 00:12:32,579
+faire que on a un projet sur la mail on
+
+349
+00:12:32,579 --> 00:12:34,140
+va configurer la façon dont on va le
+
+350
+00:12:34,140 --> 00:12:36,320
+déployer
+
+351
+00:12:39,300 --> 00:12:42,140
+on va aller voir
+
+352
+00:12:42,740 --> 00:12:46,040
+d'abord le
+
+353
+00:12:48,600 --> 00:12:49,980
+il y a pas grand chose dedans comme vous
+
+354
+00:12:49,980 --> 00:12:50,880
+voyez c'est juste une petite fonction
+
+355
+00:12:50,880 --> 00:12:53,339
+node qui va nous permettre de exporter
+
+356
+00:12:53,339 --> 00:12:55,740
+une fonction qui s'appelle hello et qui
+
+357
+00:12:55,740 --> 00:12:59,100
+va retourner en zone voilà c'est juste
+
+358
+00:12:59,100 --> 00:13:00,720
+voilà des mots on va pas grand chose
+
+359
+00:13:00,720 --> 00:13:03,480
+super
+
+360
+00:13:03,480 --> 00:13:06,480
+et si je regarde mon fichier serveur
+
+361
+00:13:06,480 --> 00:13:08,720
+laisse-moi
+
+362
+00:13:08,760 --> 00:13:10,800
+donc j'ai une organisation qui est
+
+363
+00:13:10,800 --> 00:13:12,839
+configurée le nom de l'application un
+
+364
+00:13:12,839 --> 00:13:14,339
+service on va revenir dessus mais grosso
+
+365
+00:13:14,339 --> 00:13:15,959
+modo un service c'est un projet de votre
+
+366
+00:13:15,959 --> 00:13:17,519
+application projet savoir est-ce que
+
+367
+00:13:17,519 --> 00:13:19,380
+vous la déployez
+
+368
+00:13:19,380 --> 00:13:21,000
+la version du frameworks qu'on utilise
+
+369
+00:13:21,000 --> 00:13:23,579
+ensuite donc c'est là qu'on serait
+
+370
+00:13:23,579 --> 00:13:25,019
+intéressant on va configurer le
+
+371
+00:13:25,019 --> 00:13:27,240
+fournisseur cloud qu'on va utiliser donc
+
+372
+00:13:27,240 --> 00:13:29,639
+là j'ai pris un WS le runtime donc c'est
+
+373
+00:13:29,639 --> 00:13:31,139
+la machine le langage que je vais
+
+374
+00:13:31,139 --> 00:13:34,680
+utiliser pour ce projet et ensuite je
+
+375
+00:13:34,680 --> 00:13:35,940
+vais laisser des fonctions parce que
+
+376
+00:13:35,940 --> 00:13:37,440
+comme on disait faire du sableuse ça
+
+377
+00:13:37,440 --> 00:13:38,519
+revient à faire des fonctions unitaires
+
+378
+00:13:38,519 --> 00:13:40,940
+c'est-à-dire
+
+379
+00:13:41,399 --> 00:13:43,260
+donc là je vais ma fonction hello qu'on
+
+380
+00:13:43,260 --> 00:13:46,079
+a vu ensemble au dessus loin de l'heure
+
+381
+00:13:46,079 --> 00:13:48,180
+en fait c'est le chemin du fichier pour
+
+382
+00:13:48,180 --> 00:13:50,399
+accéder donc c'est le under.js avec le
+
+383
+00:13:50,399 --> 00:13:52,920
+module export hello que j'ai que j'avais
+
+384
+00:13:52,920 --> 00:13:55,399
+qu'on a vu juste avant ça va jusque là
+
+385
+00:13:55,399 --> 00:13:58,260
+voilà et après je vais configurer les
+
+386
+00:13:58,260 --> 00:13:59,880
+événements qui vont faire que cette
+
+387
+00:13:59,880 --> 00:14:02,339
+fonction va être rappelé
+
+388
+00:14:02,339 --> 00:14:04,380
+comme on disait les fonctions racistes à
+
+389
+00:14:04,380 --> 00:14:05,639
+des événements donc là c'est des
+
+390
+00:14:05,639 --> 00:14:06,839
+événements HTTP puisque on a fait une
+
+391
+00:14:06,839 --> 00:14:09,660
+aphté pour initialiser le projet et donc
+
+392
+00:14:09,660 --> 00:14:13,740
+on met sur le rs/ par méthode quête on
+
+393
+00:14:13,740 --> 00:14:14,880
+va avoir notre fonction qui va se les
+
+394
+00:14:14,880 --> 00:14:17,040
+écouteurs
+
+395
+00:14:17,040 --> 00:14:21,180
+voilà donc ça c'est cool maintenant
+
+396
+00:14:21,180 --> 00:14:24,019
+je vais déployer mon application
+
+397
+00:14:28,680 --> 00:14:32,360
+bah oui je suis pas dans le bon projet
+
+398
+00:14:34,500 --> 00:14:36,000
+je vais dans le dossier et on lance la
+
+399
+00:14:36,000 --> 00:14:38,240
+commande
+
+400
+00:14:40,920 --> 00:14:42,260
+et donc là il va se passer des choses
+
+401
+00:14:42,260 --> 00:14:45,480
+vous allez voir il vous décrit il va pas
+
+402
+00:14:45,480 --> 00:14:48,320
+cacher quelque chose
+
+403
+00:14:50,760 --> 00:14:52,440
+il applaude on va avoir un détail
+
+404
+00:14:52,440 --> 00:14:55,339
+exactement ce qu'il fait après
+
+405
+00:15:12,120 --> 00:15:13,079
+je vous montre quand même le petit
+
+406
+00:15:13,079 --> 00:15:15,360
+procès pendant que ça tourne donc la
+
+407
+00:15:15,360 --> 00:15:16,800
+façon dont ça marche je suis AWS et
+
+408
+00:15:16,800 --> 00:15:17,639
+c'est à peu près la même chose chez
+
+409
+00:15:17,639 --> 00:15:20,399
+Google donc en fait ce que ça va faire
+
+410
+00:15:20,399 --> 00:15:22,680
+c'est que ça va créer un template sur
+
+411
+00:15:22,680 --> 00:15:23,760
+mes chances basant sur la configuration
+
+412
+00:15:23,760 --> 00:15:25,079
+de notre savoir l'espace il y a même
+
+413
+00:15:25,079 --> 00:15:27,839
+donc ça relire le fichier écrit en
+
+414
+00:15:27,839 --> 00:15:30,120
+template ensuite ça va packager notre
+
+415
+00:15:30,120 --> 00:15:32,120
+dossier dans lequel on se trouve
+
+416
+00:15:32,120 --> 00:15:34,980
+il va l'applauder sur dans il va faire
+
+417
+00:15:34,980 --> 00:15:36,300
+une archive de ça il va le mettre sur S3
+
+418
+00:15:36,300 --> 00:15:38,279
+et à partir de là après il va déployer
+
+419
+00:15:38,279 --> 00:15:40,139
+sur la stackout fermation qu'il aura
+
+420
+00:15:40,139 --> 00:15:42,320
+créé
+
+421
+00:15:44,160 --> 00:15:47,600
+et si on retourne
+
+422
+00:15:50,699 --> 00:15:53,180
+intéressant
+
+423
+00:15:53,519 --> 00:15:56,660
+c'est l'effet des mots
+
+424
+00:15:57,780 --> 00:16:00,919
+[Musique]
+
+425
+00:16:07,800 --> 00:16:10,639
+on va aller voir
+
+426
+00:16:25,560 --> 00:16:26,639
+c'est peut-être parce que j'avais fait
+
+427
+00:16:26,639 --> 00:16:28,019
+un test que je vais appeler pareil et
+
+428
+00:16:28,019 --> 00:16:29,220
+que du coup il n'aime pas du tout ce qui
+
+429
+00:16:29,220 --> 00:16:31,279
+se passe
+
+430
+00:16:38,699 --> 00:16:41,420
+faire un petit projet
+
+431
+00:17:02,360 --> 00:17:07,040
+pourquoi pas déployer on va essayer
+
+432
+00:17:08,939 --> 00:17:12,720
+donc la refaire son archive
+
+433
+00:17:12,720 --> 00:17:16,860
+pour tout envoyer sur S3 et
+
+434
+00:17:35,940 --> 00:17:38,600
+en attendant
+
+435
+00:17:47,460 --> 00:17:50,419
+petite musique d'ascenseur
+
+436
+00:17:55,260 --> 00:17:56,940
+en tout cas s'il veut bien coopérer avec
+
+437
+00:17:56,940 --> 00:17:59,340
+nous ça va nous afficher une URL ou la
+
+438
+00:17:59,340 --> 00:18:01,799
+fonction sera déployée en fait et donc
+
+439
+00:18:01,799 --> 00:18:03,480
+c'est juste un lien on peut aller dessus
+
+440
+00:18:03,480 --> 00:18:05,880
+et on va voir il s'est passé ça donc
+
+441
+00:18:05,880 --> 00:18:06,900
+c'est vraiment le message qu'on avait vu
+
+442
+00:18:06,900 --> 00:18:09,140
+tout à l'heure dans notre
+
+443
+00:18:09,140 --> 00:18:12,600
+zone qu'on retournait et puis on a plein
+
+444
+00:18:12,600 --> 00:18:14,900
+d'infos avec sur ce qui s'est passé
+
+445
+00:18:14,900 --> 00:18:17,220
+le contenu de la Ricote etc donc ça
+
+446
+00:18:17,220 --> 00:18:20,780
+c'est à W ce qui nous retourne ça
+
+447
+00:18:23,760 --> 00:18:26,240
+c'est un peu
+
+448
+00:18:32,160 --> 00:18:33,299
+en tout cas ça a l'air de mieux se
+
+449
+00:18:33,299 --> 00:18:35,220
+passer
+
+450
+00:18:35,220 --> 00:18:37,820
+il y a des étapes
+
+451
+00:18:54,660 --> 00:18:56,700
+je vais vous montrer en attendant que du
+
+452
+00:18:56,700 --> 00:18:58,280
+coup
+
+453
+00:18:58,280 --> 00:19:00,480
+sur mon compte serveurless c'est
+
+454
+00:19:00,480 --> 00:19:02,160
+vraiment sur le framework sur laisse
+
+455
+00:19:02,160 --> 00:19:03,980
+j'ai accès
+
+456
+00:19:03,980 --> 00:19:06,600
+aux applications que je déploie donc ça
+
+457
+00:19:06,600 --> 00:19:09,059
+c'est l'audageboard dont je veux parler
+
+458
+00:19:09,059 --> 00:19:11,160
+donc vous voyez c'est rouge puisque du
+
+459
+00:19:11,160 --> 00:19:13,919
+déployer tout à l'heure ça a fondé on va
+
+460
+00:19:13,919 --> 00:19:15,059
+voir si pour le deuxième projet ça a
+
+461
+00:19:15,059 --> 00:19:16,380
+marché
+
+462
+00:19:16,380 --> 00:19:18,780
+et j'ai également accès à comme je suis
+
+463
+00:19:18,780 --> 00:19:22,799
+connecté chez AWS à ma console avec mes
+
+464
+00:19:22,799 --> 00:19:24,299
+différentes fonctions que j'ai pu
+
+465
+00:19:24,299 --> 00:19:26,179
+déployer avant
+
+466
+00:19:26,179 --> 00:19:29,539
+là par contre
+
+467
+00:19:30,679 --> 00:19:32,640
+je pense qu'on va pas voir ma nouvelle
+
+468
+00:19:32,640 --> 00:19:33,840
+fonction puisque elle va pas être
+
+469
+00:19:33,840 --> 00:19:36,780
+déployée dans la bonne région
+
+470
+00:19:36,780 --> 00:19:39,120
+par défaut il va déployer un US ouest
+
+471
+00:19:39,120 --> 00:19:40,919
+c'est de la configuration qui se fait
+
+472
+00:19:40,919 --> 00:19:43,380
+dans votre salon pour dire dans quelle
+
+473
+00:19:43,380 --> 00:19:46,380
+région je configure je découvrais etc il
+
+474
+00:19:46,380 --> 00:19:48,559
+est déjà là
+
+475
+00:19:48,679 --> 00:19:53,280
+mon dossier il a envoyé sur S3 puisque
+
+476
+00:19:53,280 --> 00:19:56,340
+c'est déployé caisse voilà donc ça c'est
+
+477
+00:19:56,340 --> 00:19:59,520
+déployé j'ai mon petit dashboard et j'ai
+
+478
+00:19:59,520 --> 00:20:00,960
+mon nightpoint donc j'ai une URL en plus
+
+479
+00:20:00,960 --> 00:20:01,919
+qui ressemble à rien après donc je
+
+480
+00:20:01,919 --> 00:20:03,240
+détaillé sans configurer évidemment pour
+
+481
+00:20:03,240 --> 00:20:05,220
+que son monde URL soit vraiment quelque
+
+482
+00:20:05,220 --> 00:20:07,500
+chose de vital pour mon client
+
+483
+00:20:07,500 --> 00:20:09,419
+et quand je clique dessus je reçois donc
+
+484
+00:20:09,419 --> 00:20:11,760
+ma petite réponse j'yonne que j'avais
+
+485
+00:20:11,760 --> 00:20:15,480
+avec des infos de mon fournisseur Cloud
+
+486
+00:20:15,480 --> 00:20:19,320
+jusque là c'est cool j'ai accès voilà ma
+
+487
+00:20:19,320 --> 00:20:22,380
+deuxième fonction c'est bien déployé
+
+488
+00:20:22,380 --> 00:20:25,020
+on peut cliquer dessus et voir après des
+
+489
+00:20:25,020 --> 00:20:27,360
+statistiques ce qui s'est passé le
+
+490
+00:20:27,360 --> 00:20:28,559
+nombre des erreurs qu'on a eu des
+
+491
+00:20:28,559 --> 00:20:30,900
+alertes soit autre chose là pour
+
+492
+00:20:30,900 --> 00:20:31,799
+l'instant je mange l'appeler qu'une
+
+493
+00:20:31,799 --> 00:20:32,900
+seule fois c'est pas super intéressant
+
+494
+00:20:32,900 --> 00:20:35,100
+mais il y a des choses qu'on peut faire
+
+495
+00:20:35,100 --> 00:20:37,919
+on peut interagir avec
+
+496
+00:20:37,919 --> 00:20:39,840
+on a les différents pointes de
+
+497
+00:20:39,840 --> 00:20:41,700
+l'applique qui existent on arrivera que
+
+498
+00:20:41,700 --> 00:20:43,620
+le GET comme on a configuré que ça pour
+
+499
+00:20:43,620 --> 00:20:46,559
+l'instant voilà
+
+500
+00:20:46,559 --> 00:20:49,500
+et sur ma consolade WS je vais également
+
+501
+00:20:49,500 --> 00:20:52,380
+avoir plein de choses en fait d'une part
+
+502
+00:20:52,380 --> 00:20:54,179
+déjà je vais pouvoir naviguer sur mon
+
+503
+00:20:54,179 --> 00:20:56,700
+code source de l'application si j'ai
+
+504
+00:20:56,700 --> 00:20:58,740
+besoin de débogueur rapidement ce qui
+
+505
+00:20:58,740 --> 00:20:59,940
+est déployé ce que j'ai en train de me
+
+506
+00:20:59,940 --> 00:21:00,720
+faire une version qu'est-ce qui s'est
+
+507
+00:21:00,720 --> 00:21:01,919
+passé cette rage peut je peux aller
+
+508
+00:21:01,919 --> 00:21:03,179
+jeter un coup d'œil sur le code qui est
+
+509
+00:21:03,179 --> 00:21:06,179
+déployé je peux voir dans le monitoring
+
+510
+00:21:06,179 --> 00:21:07,620
+notamment les logs de ce qui se passe
+
+511
+00:21:07,620 --> 00:21:10,260
+j'ai accès à mon cloud which et ça c'est
+
+512
+00:21:10,260 --> 00:21:13,200
+pratique aussi j'ai directement accès à
+
+513
+00:21:13,200 --> 00:21:15,900
+tout ce qui se passe donc tout est isolé
+
+514
+00:21:15,900 --> 00:21:18,000
+et puis j'ai des versions voilà j'en
+
+515
+00:21:18,000 --> 00:21:18,780
+déployé qu'une seule mais à chaque fois
+
+516
+00:21:18,780 --> 00:21:20,160
+que tu redéployer ça va garder un
+
+517
+00:21:20,160 --> 00:21:21,240
+historique de ce que vous avez déployé
+
+518
+00:21:21,240 --> 00:21:24,480
+vous pouvez rollback rapidement etc
+
+519
+00:21:24,480 --> 00:21:27,260
+donc ça c'est chouette
+
+520
+00:21:28,320 --> 00:21:32,240
+je reviens c'est parti
+
+521
+00:21:32,280 --> 00:21:34,320
+donc on a vu les dashboard les petites
+
+522
+00:21:34,320 --> 00:21:36,900
+possibilités et voilà donc je disais
+
+523
+00:21:36,900 --> 00:21:38,280
+dans notre configuration de fichiers
+
+524
+00:21:38,280 --> 00:21:40,200
+vous souvenez en configuré un premier en
+
+525
+00:21:40,200 --> 00:21:42,360
+service et on lui donne un nom comme je
+
+526
+00:21:42,360 --> 00:21:44,039
+vous disais un service c'est le nom de
+
+527
+00:21:44,039 --> 00:21:46,200
+votre application et il y a un peu
+
+528
+00:21:46,200 --> 00:21:47,820
+plusieurs écoles qui existent 22 c'est
+
+529
+00:21:47,820 --> 00:21:49,260
+quoi qui existent on peut très bien
+
+530
+00:21:49,260 --> 00:21:52,140
+avoir un fichier sur la racine de notre
+
+531
+00:21:52,140 --> 00:21:54,120
+projet comme ce qu'on a vu en fait là en
+
+532
+00:21:54,120 --> 00:21:55,980
+démo c'est comme ça qu'on vous conseille
+
+533
+00:21:55,980 --> 00:21:58,620
+de commencer en tout cas puisque vous
+
+534
+00:21:58,620 --> 00:22:00,480
+allez ensuite configurer dedans les
+
+535
+00:22:00,480 --> 00:22:02,100
+différentes qui sont appelés etc ou ce
+
+536
+00:22:02,100 --> 00:22:03,900
+qui se passe dans votre application vous
+
+537
+00:22:03,900 --> 00:22:05,460
+avez un fichier un projet sur l'aise
+
+538
+00:22:05,460 --> 00:22:08,039
+pour votre application entière
+
+539
+00:22:08,039 --> 00:22:10,080
+la deuxième école la progression que
+
+540
+00:22:10,080 --> 00:22:12,360
+vous pouvez faire plus tard c'est si
+
+541
+00:22:12,360 --> 00:22:13,320
+vous rendez compte par exemple si vous
+
+542
+00:22:13,320 --> 00:22:15,120
+c'est un pays HTTP comme comme dans
+
+543
+00:22:15,120 --> 00:22:17,159
+notre cas vous avez beaucoup de route et
+
+544
+00:22:17,159 --> 00:22:18,299
+beaucoup de choses et votre fichier il
+
+545
+00:22:18,299 --> 00:22:19,280
+est trop gros vous pouvez très bien
+
+546
+00:22:19,280 --> 00:22:22,200
+séparer par métier par exemple par
+
+547
+00:22:22,200 --> 00:22:24,059
+domaine métier avoir un fichier pour les
+
+548
+00:22:24,059 --> 00:22:25,799
+utilisateurs pour les commentaires pour
+
+549
+00:22:25,799 --> 00:22:28,260
+les postes etc du coup ça vous fait des
+
+550
+00:22:28,260 --> 00:22:31,620
+mini projets qui vous déployer
+
+551
+00:22:31,620 --> 00:22:33,740
+d'accord
+
+552
+00:22:34,980 --> 00:22:37,520
+ensuite les événements donc là on a dit
+
+553
+00:22:37,520 --> 00:22:42,480
+je répète une fonction serveur ça réagit
+
+554
+00:22:42,480 --> 00:22:44,760
+un événement ça se déclenché lorsqu'il
+
+555
+00:22:44,760 --> 00:22:46,740
+se passe quelque chose donc on a vu des
+
+556
+00:22:46,740 --> 00:22:48,659
+appels HTTP mais il y a plein d'autres
+
+557
+00:22:48,659 --> 00:22:50,700
+choses qui peuvent se passer
+
+558
+00:22:50,700 --> 00:22:53,520
+par exemple on peut avoir des cons
+
+559
+00:22:53,520 --> 00:22:55,020
+un grand c'est un événement on peut dire
+
+560
+00:22:55,020 --> 00:22:57,120
+toutes les deux heures va déclacher de
+
+561
+00:22:57,120 --> 00:22:59,340
+tes lents de leur envoyer des emails va
+
+562
+00:22:59,340 --> 00:23:00,539
+générer les centenaires de mes images
+
+563
+00:23:00,539 --> 00:23:02,760
+voilà donc c'est lui qui va se
+
+564
+00:23:02,760 --> 00:23:05,520
+débrouiller un événement ça peut être
+
+565
+00:23:05,520 --> 00:23:08,039
+quelque chose qui se passe sur un
+
+566
+00:23:08,039 --> 00:23:09,600
+donc là ce que j'ai configuré c'est que
+
+567
+00:23:09,600 --> 00:23:12,799
+j'ai un maquette S3 qui s'appelle
+
+568
+00:23:12,799 --> 00:23:15,179
+je sais plus comment les configurer
+
+569
+00:23:15,179 --> 00:23:18,380
+quelque part c'est lui notre sujet sur
+
+570
+00:23:18,380 --> 00:23:21,900
+et je lui dis lorsque l'événement chez
+
+571
+00:23:21,900 --> 00:23:24,600
+AWS qui est fourni avec la documentation
+
+572
+00:23:24,600 --> 00:23:26,100
+vous avez tout ce qu'il fallait super
+
+573
+00:23:26,100 --> 00:23:28,260
+bien fait et du coup là je dis lorsqu'il
+
+574
+00:23:28,260 --> 00:23:30,000
+y a n'importe quel objet qui est qui est
+
+575
+00:23:30,000 --> 00:23:30,860
+créé
+
+576
+00:23:30,860 --> 00:23:34,320
+qui est de type PNG je vais aller
+
+577
+00:23:34,320 --> 00:23:37,200
+déclencher ce handler
+
+578
+00:23:37,200 --> 00:23:39,900
+je vais aller générer les vignettes de
+
+579
+00:23:39,900 --> 00:23:42,120
+mes images voilà donc c'est vraiment
+
+580
+00:23:42,120 --> 00:23:43,860
+super il se passe on peut réagir à plein
+
+581
+00:23:43,860 --> 00:23:45,059
+d'événements comme je disais donc ça
+
+582
+00:23:45,059 --> 00:23:47,120
+peut être du Kafka du rabbithème cube
+
+583
+00:23:47,120 --> 00:23:50,039
+voilà des différentes briques de Data
+
+584
+00:23:50,039 --> 00:23:52,080
+etc on peut réagir sur des événements
+
+585
+00:23:52,080 --> 00:23:54,360
+Alexa je suis à si vous êtes fan de ça
+
+586
+00:23:54,360 --> 00:23:57,000
+donc sur Youtube ce sera donc ça c'est
+
+587
+00:23:57,000 --> 00:23:59,120
+super
+
+588
+00:24:00,900 --> 00:24:03,380
+ensuite le serveur laisse c'est aussi
+
+589
+00:24:03,380 --> 00:24:06,240
+fourni avec des plugins comme je disais
+
+590
+00:24:06,240 --> 00:24:07,919
+ça va un peu changer notre façon de
+
+591
+00:24:07,919 --> 00:24:12,260
+travailler et de gérer notre
+
+592
+00:24:12,320 --> 00:24:17,039
+test en fait au quotidien donc il y a
+
+593
+00:24:17,039 --> 00:24:18,000
+plusieurs plugin qui existent faire
+
+594
+00:24:18,000 --> 00:24:19,980
+plein de choses le premier savoir laisse
+
+595
+00:24:19,980 --> 00:24:21,600
+offline c'est un plugin qui vous permet
+
+596
+00:24:21,600 --> 00:24:22,860
+de tester localement sur votre machine
+
+597
+00:24:22,860 --> 00:24:24,659
+aux fonctions ça vous évite de devoir
+
+598
+00:24:24,659 --> 00:24:26,460
+déployer à chaque fois pour tester ça
+
+599
+00:24:26,460 --> 00:24:28,440
+c'est pas trop ton able dans le temps
+
+600
+00:24:28,440 --> 00:24:30,240
+voilà
+
+601
+00:24:30,240 --> 00:24:32,340
+ensuite on peut également avoir des
+
+602
+00:24:32,340 --> 00:24:35,100
+frameworks qui permettent des plugins
+
+603
+00:24:35,100 --> 00:24:37,159
+par mois qui permettent de
+
+604
+00:24:37,159 --> 00:24:39,780
+rendre une fonction une application
+
+605
+00:24:39,780 --> 00:24:41,600
+express par exemple
+
+606
+00:24:41,600 --> 00:24:45,059
+notre Express ou quoi directement en
+
+607
+00:24:45,059 --> 00:24:46,919
+mode serveurless donc au lieu d'avoir
+
+608
+00:24:46,919 --> 00:24:48,179
+toutes les routes que vous écrivez de
+
+609
+00:24:48,179 --> 00:24:49,440
+cette erreur finalement vous avez déjà
+
+610
+00:24:49,440 --> 00:24:50,400
+vous allez écrire que le slash et après
+
+611
+00:24:50,400 --> 00:24:51,840
+c'est votre routeur interne de L'Express
+
+612
+00:24:51,840 --> 00:24:54,659
+qui va faire le routing classique en
+
+613
+00:24:54,659 --> 00:24:56,700
+terme et donc vous avez juste à
+
+614
+00:24:56,700 --> 00:25:00,600
+configurer avec le plugin HTTP votre
+
+615
+00:25:00,600 --> 00:25:03,140
+fonction
+
+616
+00:25:07,820 --> 00:25:10,460
+si vous voulez que les fichiers
+
+617
+00:25:10,460 --> 00:25:13,200
+etc donc il y en a plein plein plein en
+
+618
+00:25:13,200 --> 00:25:15,299
+fonction de vos besoins pareil la doc
+
+619
+00:25:15,299 --> 00:25:17,460
+est super donc n'hésitez pas à regarder
+
+620
+00:25:17,460 --> 00:25:20,539
+si vous avez besoin
+
+621
+00:25:22,080 --> 00:25:23,220
+alors du coup je vous ai beaucoup parlé
+
+622
+00:25:23,220 --> 00:25:24,860
+de AWS un petit peu de Google mais
+
+623
+00:25:24,860 --> 00:25:27,240
+sachez que on peut faire du sarless sur
+
+624
+00:25:27,240 --> 00:25:29,279
+plan de plateforme différentes on peut
+
+625
+00:25:29,279 --> 00:25:33,539
+faire chez azur chez un carnative et
+
+626
+00:25:33,539 --> 00:25:35,940
+chez cublès et surtout je ne sais pas
+
+627
+00:25:35,940 --> 00:25:39,200
+qui connaît ce petit logo
+
+628
+00:25:41,400 --> 00:25:43,200
+personne c'est triste c'est super
+
+629
+00:25:43,200 --> 00:25:45,779
+pourtant c'est Apach open WISC c'est une
+
+630
+00:25:45,779 --> 00:25:49,440
+plateforme Cloud gratuite open source
+
+631
+00:25:49,440 --> 00:25:51,600
+et ça c'est cool et vous pouvez faire du
+
+632
+00:25:51,600 --> 00:25:53,520
+serveur laisse de façon native de fût
+
+633
+00:25:53,520 --> 00:25:57,480
+ils ont des fonctions également et vous
+
+634
+00:25:57,480 --> 00:25:59,520
+pouvez l'héberger chez vous si vous le
+
+635
+00:25:59,520 --> 00:26:02,340
+souhaitez faire du cloud chez vous pas
+
+636
+00:26:02,340 --> 00:26:03,480
+forcément très intéressant mais pour
+
+637
+00:26:03,480 --> 00:26:05,360
+ceux qui ont des fois des contraintes
+
+638
+00:26:05,360 --> 00:26:08,940
+métier pour le faire par exemple
+
+639
+00:26:08,940 --> 00:26:11,880
+et en termes de langage là ça va varier
+
+640
+00:26:11,880 --> 00:26:14,520
+en fait de vos ça va varier en fonction
+
+641
+00:26:14,520 --> 00:26:16,860
+de votre fournisseur Cloud
+
+642
+00:26:16,860 --> 00:26:18,779
+par exemple Google va supporter
+
+643
+00:26:18,779 --> 00:26:20,940
+nativement PHP ça va pas être le cas à
+
+644
+00:26:20,940 --> 00:26:22,200
+WS
+
+645
+00:26:22,200 --> 00:26:24,960
+voilà donc les compatibilités ça dépend
+
+646
+00:26:24,960 --> 00:26:27,720
+de ce que vous choisissez
+
+647
+00:26:27,720 --> 00:26:30,200
+est-ce que ça va jusqu'à là
+
+648
+00:26:30,200 --> 00:26:33,860
+personne dort c'est bien ça
+
+649
+00:26:34,320 --> 00:26:36,659
+donc je fais un petit récap de ce qu'on
+
+650
+00:26:36,659 --> 00:26:40,020
+a besoin de faire donc on a un SDK un
+
+651
+00:26:40,020 --> 00:26:41,580
+clip de savoir les apprendre avec
+
+652
+00:26:41,580 --> 00:26:42,960
+quelques petites fonctions vous avez vu
+
+653
+00:26:42,960 --> 00:26:44,820
+ça on laisse ici mon projet ça relève
+
+654
+00:26:44,820 --> 00:26:46,919
+diplôer ça va aller comment se retient
+
+655
+00:26:46,919 --> 00:26:48,419
+parlante et se passe vraiment c'est très
+
+656
+00:26:48,419 --> 00:26:49,980
+intuitif
+
+657
+00:26:49,980 --> 00:26:51,720
+ensuite il y a quand même des petites
+
+658
+00:26:51,720 --> 00:26:55,320
+contraintes c'est que le système le FAL
+
+659
+00:26:55,320 --> 00:26:57,080
+system il va être un ridani
+
+660
+00:26:57,080 --> 00:26:59,820
+une fois que déployé donc lorsqu'on a
+
+661
+00:26:59,820 --> 00:27:01,460
+des
+
+662
+00:27:01,460 --> 00:27:04,100
+besoins d'écriture de cachets
+
+663
+00:27:04,100 --> 00:27:06,419
+correctement mais finalement ça aurait
+
+664
+00:27:06,419 --> 00:27:07,679
+été également le cas si vous faites du
+
+665
+00:27:07,679 --> 00:27:10,940
+cloud globalement
+
+666
+00:27:11,880 --> 00:27:13,980
+une petite contrainte ici à ne pas
+
+667
+00:27:13,980 --> 00:27:16,820
+oublier c'est que lorsque vous déployez
+
+668
+00:27:16,820 --> 00:27:20,100
+ça déploie votre code de votre machine
+
+669
+00:27:20,100 --> 00:27:24,059
+ça va zipper votre dossier à l'instant T
+
+670
+00:27:24,059 --> 00:27:25,980
+d'accord si vous des fois depuis votre
+
+671
+00:27:25,980 --> 00:27:27,179
+machine je parle pas de si vous n'avez
+
+672
+00:27:27,179 --> 00:27:28,380
+pas de initial ici vous êtes sur la
+
+673
+00:27:28,380 --> 00:27:29,520
+bonne rage vous êtes checkout comme il
+
+674
+00:27:29,520 --> 00:27:31,220
+faut etc
+
+675
+00:27:31,220 --> 00:27:34,500
+par contre si je fais des tests voilà je
+
+676
+00:27:34,500 --> 00:27:36,120
+déploie faut pas se tromper parce que
+
+677
+00:27:36,120 --> 00:27:37,679
+c'est des choses qui arrivent maintenant
+
+678
+00:27:37,679 --> 00:27:40,500
+on n'est pas sur la bonne branche
+
+679
+00:27:40,500 --> 00:27:42,539
+on n'a pas les dépendances en jour on a
+
+680
+00:27:42,539 --> 00:27:43,980
+des comportements incohérents entre ce
+
+681
+00:27:43,980 --> 00:27:45,720
+que dans le cas et ce que j'ai un pro de
+
+682
+00:27:45,720 --> 00:27:47,460
+ces qu'est-ce qui se passe si je parle
+
+683
+00:27:47,460 --> 00:27:49,020
+les mêmes versions de dépendance et ben
+
+684
+00:27:49,020 --> 00:27:53,120
+en fait ça va zipper mon dossier local
+
+685
+00:27:53,220 --> 00:27:56,700
+voilà donc pensez à ça vraiment ça aussi
+
+686
+00:27:56,700 --> 00:27:57,659
+parce que vous êtes sur votre machine à
+
+687
+00:27:57,659 --> 00:27:59,520
+l'instant
+
+688
+00:27:59,520 --> 00:28:01,620
+et mon dernier chose également c'est que
+
+689
+00:28:01,620 --> 00:28:02,700
+les recettes doivent être servis depuis
+
+690
+00:28:02,700 --> 00:28:04,500
+un Beckett puisque c'est du Cloud et que
+
+691
+00:28:04,500 --> 00:28:06,360
+c'est une bonne pratique qu'on fait de
+
+692
+00:28:06,360 --> 00:28:08,659
+façon générale
+
+693
+00:28:11,400 --> 00:28:12,779
+c'est pas fini puisqu'on a un peu le
+
+694
+00:28:12,779 --> 00:28:13,799
+temps on va parler des choses
+
+695
+00:28:13,799 --> 00:28:15,240
+intéressantes
+
+696
+00:28:15,240 --> 00:28:16,620
+je parle beaucoup d'ado blesses parce
+
+697
+00:28:16,620 --> 00:28:17,960
+que c'est celui que je connais le mieux
+
+698
+00:28:17,960 --> 00:28:21,000
+un peu en le pré le premier qui existait
+
+699
+00:28:21,000 --> 00:28:22,320
+et le plus développé en fait le plus
+
+700
+00:28:22,320 --> 00:28:23,820
+ouais le plus utilisé de toute façon
+
+701
+00:28:23,820 --> 00:28:26,940
+celle-là l'offre la plus variée
+
+702
+00:28:26,940 --> 00:28:28,919
+donc comme je vous disais on peut pas
+
+703
+00:28:28,919 --> 00:28:33,059
+faire du PHP sur AWS sur adolescenda
+
+704
+00:28:33,059 --> 00:28:35,700
+nativement donc c'est un peu pénible je
+
+705
+00:28:35,700 --> 00:28:38,940
+sais pas si un développeur dans la salle
+
+706
+00:28:38,940 --> 00:28:41,179
+oui on est deux
+
+707
+00:28:41,179 --> 00:28:44,400
+mais donc PHP ou d'autres langages peu
+
+708
+00:28:44,400 --> 00:28:46,799
+importe sachez que bah comment on fait
+
+709
+00:28:46,799 --> 00:28:48,659
+et ben il existe des solutions et ça
+
+710
+00:28:48,659 --> 00:28:54,900
+c'est chouette donc depuis 2010 9 à WS
+
+711
+00:28:54,900 --> 00:28:57,900
+permet de créer des layers
+
+712
+00:28:57,900 --> 00:29:00,720
+donc en layer c'est une archive qui va
+
+713
+00:29:00,720 --> 00:29:01,580
+comprendre
+
+714
+00:29:01,580 --> 00:29:04,740
+un Runtime et en excitable on va parler
+
+715
+00:29:04,740 --> 00:29:06,720
+en détail de ce que ça représente est-ce
+
+716
+00:29:06,720 --> 00:29:08,400
+que ça veut dire
+
+717
+00:29:08,400 --> 00:29:10,080
+qui peuvent représenter soit des
+
+718
+00:29:10,080 --> 00:29:11,820
+librairies soit des dépendances qu'on
+
+719
+00:29:11,820 --> 00:29:14,700
+veut déployer soit un nouveau discutable
+
+720
+00:29:14,700 --> 00:29:18,480
+la possibilité de traiter du PHP
+
+721
+00:29:18,480 --> 00:29:21,419
+sur notre fonction par exemple et donc
+
+722
+00:29:21,419 --> 00:29:23,820
+on va voir ça
+
+723
+00:29:23,820 --> 00:29:27,000
+donc le principe de durant time c'est
+
+724
+00:29:27,000 --> 00:29:28,500
+qu'il va ça va être un programme qui va
+
+725
+00:29:28,500 --> 00:29:30,899
+exécuter le handler d'une fonction
+
+726
+00:29:30,899 --> 00:29:33,419
+lambda lorsque cette fonction va être
+
+727
+00:29:33,419 --> 00:29:35,760
+rappelé
+
+728
+00:29:35,760 --> 00:29:37,200
+donc je vous laisse vous rappeler un
+
+729
+00:29:37,200 --> 00:29:38,960
+exemple qu'on a vu un autre juste avant
+
+730
+00:29:38,960 --> 00:29:42,360
+c'est un fichier qui comporte donc qui
+
+731
+00:29:42,360 --> 00:29:44,520
+s'appelait under enfin JS dedans et une
+
+732
+00:29:44,520 --> 00:29:46,140
+fonction qui s'appelait hello et
+
+733
+00:29:46,140 --> 00:29:47,520
+lorsqu'on configurer notre fonction sur
+
+734
+00:29:47,520 --> 00:29:49,919
+les on disait le handler c'est under
+
+735
+00:29:49,919 --> 00:29:51,960
+donc le nom du fichier point le nom de
+
+736
+00:29:51,960 --> 00:29:54,840
+la fonction GS qui était dedans
+
+737
+00:29:54,840 --> 00:29:56,460
+mais c'est un peu un choix arbitraire
+
+738
+00:29:56,460 --> 00:29:57,360
+c'est eux ils ont décidé de faire ça
+
+739
+00:29:57,360 --> 00:29:59,220
+comme ça on peut faire comme ça par
+
+740
+00:29:59,220 --> 00:30:01,020
+exemple on peut en fait la même chose
+
+741
+00:30:01,020 --> 00:30:02,700
+pour PHP
+
+742
+00:30:02,700 --> 00:30:06,179
+donc on va voir cet exemple ensemble
+
+743
+00:30:06,179 --> 00:30:09,059
+et le fonctionnement interne W c'est que
+
+744
+00:30:09,059 --> 00:30:11,279
+donc ça passe par l'API Gateway qui va
+
+745
+00:30:11,279 --> 00:30:12,840
+donc nous rediriger un site en fonction
+
+746
+00:30:12,840 --> 00:30:14,399
+lambda
+
+747
+00:30:14,399 --> 00:30:17,100
+qui va du coup appeler utiliser nos
+
+748
+00:30:17,100 --> 00:30:19,260
+layers s'ils existent on peut avoir
+
+749
+00:30:19,260 --> 00:30:22,020
+jusqu'à 5 meilleures par fonction
+
+750
+00:30:22,020 --> 00:30:24,419
+maximum on peut réutiliser et partager
+
+751
+00:30:24,419 --> 00:30:27,380
+les rayures entre plusieurs fonctions
+
+752
+00:30:30,960 --> 00:30:33,779
+et donc c'est notre bootstrap fichier
+
+753
+00:30:33,779 --> 00:30:35,100
+qui va exécuter l'Ender et qui va
+
+754
+00:30:35,100 --> 00:30:36,960
+appeler la fonction ça va se faire du
+
+755
+00:30:36,960 --> 00:30:39,500
+camp en interne
+
+756
+00:30:39,600 --> 00:30:40,860
+et je vous ai préparé un petit exemple
+
+757
+00:30:40,860 --> 00:30:44,340
+de fichier bootstrap en PHP j'espère que
+
+758
+00:30:44,340 --> 00:30:46,860
+vous en faites pas de toute façon vous
+
+759
+00:30:46,860 --> 00:30:48,480
+serez lire le code j'ai confiance en
+
+760
+00:30:48,480 --> 00:30:50,480
+vous
+
+761
+00:30:50,820 --> 00:30:52,980
+donc en fait le under il va comprendre
+
+762
+00:30:52,980 --> 00:30:56,039
+une phase d'initialisation et après il
+
+763
+00:30:56,039 --> 00:30:58,440
+va rester en fait en attente pendant
+
+764
+00:30:58,440 --> 00:30:59,820
+toute la phase d'invocation de la
+
+765
+00:30:59,820 --> 00:31:01,500
+fonction jusqu'à ce qui est des requêtes
+
+766
+00:31:01,500 --> 00:31:03,419
+qui arrivent et une fois qu'il y en a
+
+767
+00:31:03,419 --> 00:31:06,000
+plus pas le principe c'est qu'après ça
+
+768
+00:31:06,000 --> 00:31:07,440
+arrête et ça éteint
+
+769
+00:31:07,440 --> 00:31:09,000
+voilà donc en fait c'est ce qu'on va
+
+770
+00:31:09,000 --> 00:31:12,200
+implémenter notre petit Trappes
+
+771
+00:31:12,899 --> 00:31:14,820
+je vais vous montrer les méthodes de Get
+
+772
+00:31:14,820 --> 00:31:16,620
+next requestre mais donc le principe
+
+773
+00:31:16,620 --> 00:31:18,600
+c'est que je fais une boucle
+
+774
+00:31:18,600 --> 00:31:20,100
+donc j'essaie de récupérer des requêtes
+
+775
+00:31:20,100 --> 00:31:22,980
+entrantes tant qu'il y en a
+
+776
+00:31:22,980 --> 00:31:25,260
+bon je fais un exploit sur la variable
+
+777
+00:31:25,260 --> 00:31:26,820
+d'environnement qui s'appelle under que
+
+778
+00:31:26,820 --> 00:31:29,279
+j'ai configuré donc qui m'est passé il y
+
+779
+00:31:29,279 --> 00:31:31,140
+a mon fichier sur
+
+780
+00:31:31,140 --> 00:31:33,980
+le même système j'exploite par point
+
+781
+00:31:33,980 --> 00:31:36,299
+ce1dler et je présume que ça va être le
+
+782
+00:31:36,299 --> 00:31:37,740
+nom du fichier et le nom de la fonction
+
+783
+00:31:37,740 --> 00:31:40,039
+appelée
+
+784
+00:31:40,620 --> 00:31:42,419
+et donc je fais requoy revons donc je
+
+785
+00:31:42,419 --> 00:31:45,020
+vais aller chercher ce fichier sur mon
+
+786
+00:31:45,020 --> 00:31:47,820
+dans mes projets dans mes fichiers dans
+
+787
+00:31:47,820 --> 00:31:49,980
+le dossier SRC
+
+788
+00:31:49,980 --> 00:31:51,779
+je vais chercher donc ce fichier php et
+
+789
+00:31:51,779 --> 00:31:53,880
+je vais appeler la méthode fonction
+
+790
+00:31:53,880 --> 00:31:57,320
+telle qu'elle te configuration
+
+791
+00:31:58,820 --> 00:32:00,899
+du coup si je fais d'acheter TP par
+
+792
+00:32:00,899 --> 00:32:02,100
+exemple ça peut être des postes des
+
+793
+00:32:02,100 --> 00:32:04,700
+petits etc
+
+794
+00:32:04,799 --> 00:32:06,299
+et après j'envoie une réponse puisque
+
+795
+00:32:06,299 --> 00:32:10,220
+c'est de l'architecp je passe
+
+796
+00:32:13,740 --> 00:32:15,360
+donc c'est quoi la méthode GET next
+
+797
+00:32:15,360 --> 00:32:16,740
+request donc c'est là que un peu la
+
+798
+00:32:16,740 --> 00:32:19,880
+magie AWS Oper je crée un client chez TP
+
+799
+00:32:19,880 --> 00:32:23,039
+et je récupère donc tout sur cette
+
+800
+00:32:23,039 --> 00:32:24,000
+magnifique
+
+801
+00:32:24,000 --> 00:32:26,340
+URL qui est
+
+802
+00:32:26,340 --> 00:32:29,159
+voilà c'est vrai c'est la vraie URL de
+
+803
+00:32:29,159 --> 00:32:30,260
+la preuve
+
+804
+00:32:30,260 --> 00:32:34,100
+donc c'est le donc le
+
+805
+00:32:34,100 --> 00:32:36,539
+nom du domaine de votre rentable qu'on a
+
+806
+00:32:36,539 --> 00:32:38,580
+vu c'est un truc qui va dire avec plein
+
+807
+00:32:38,580 --> 00:32:41,039
+de lettres et des chiffres ensuite donc
+
+808
+00:32:41,039 --> 00:32:43,620
+en 2018 comme ils ont fait la teste
+
+809
+00:32:43,620 --> 00:32:45,720
+c'est là que ça a été mis en place leur
+
+810
+00:32:45,720 --> 00:32:47,039
+en time en vocation next donc c'est le
+
+811
+00:32:47,039 --> 00:32:49,679
+RL a appelé je reçois la réponse en
+
+812
+00:32:49,679 --> 00:32:52,919
+entrée et je dois toujours envoyer là il
+
+813
+00:32:52,919 --> 00:32:54,179
+dit l'invocation donc la réalité de
+
+814
+00:32:54,179 --> 00:32:55,200
+l'exécution donc à chaque fois qu'il y a
+
+815
+00:32:55,200 --> 00:32:57,840
+un appel c'est une invocation
+
+816
+00:32:57,840 --> 00:33:01,039
+et le pilote que je reçois
+
+817
+00:33:01,799 --> 00:33:03,600
+et pour retourner responsa c'est pareil
+
+818
+00:33:03,600 --> 00:33:06,419
+je crains un client HTTP et je finir
+
+819
+00:33:06,419 --> 00:33:08,940
+request poste en fait toujours pour
+
+820
+00:33:08,940 --> 00:33:11,340
+retourner la responsabilité que j'ai
+
+821
+00:33:11,340 --> 00:33:13,019
+reçu
+
+822
+00:33:13,019 --> 00:33:14,760
+un résistance un body pardon la
+
+823
+00:33:14,760 --> 00:33:15,720
+responsable que j'ai reçu de mon
+
+824
+00:33:15,720 --> 00:33:19,220
+exécution de la fonction PHP du coup
+
+825
+00:33:19,679 --> 00:33:21,919
+ça va
+
+826
+00:33:21,960 --> 00:33:24,380
+à peu près
+
+827
+00:33:24,960 --> 00:33:27,059
+et donc à quoi ça correspond donc là
+
+828
+00:33:27,059 --> 00:33:28,620
+j'ai créé une un fichier qui s'appelle
+
+829
+00:33:28,620 --> 00:33:30,419
+profession PHP une méthode qui s'appelle
+
+830
+00:33:30,419 --> 00:33:32,279
+occupation dans le dossier SRC voilà ça
+
+831
+00:33:32,279 --> 00:33:34,860
+fait un truc en deux
+
+832
+00:33:34,860 --> 00:33:36,720
+voilà
+
+833
+00:33:36,720 --> 00:33:40,440
+et comment je déploie ça donc je vais
+
+834
+00:33:40,440 --> 00:33:42,419
+créer un petit serveur à la racine de
+
+835
+00:33:42,419 --> 00:33:45,120
+mon projet de mon dossier je lui donne
+
+836
+00:33:45,120 --> 00:33:47,039
+un nom donc le provider je mets toujours
+
+837
+00:33:47,039 --> 00:33:51,059
+à WS le runtime je mets provid 14 ou
+
+838
+00:33:51,059 --> 00:33:52,140
+autre chose comme on avait mis tout à
+
+839
+00:33:52,140 --> 00:33:53,340
+l'heure je mets que c'est moi qui
+
+840
+00:33:53,340 --> 00:33:55,440
+fournit le runtime
+
+841
+00:33:55,440 --> 00:33:56,940
+je fais une région je peux configurer
+
+842
+00:33:56,940 --> 00:33:58,320
+donc tu es même Maryse que je vais
+
+843
+00:33:58,320 --> 00:33:59,100
+essayer de répondre à votre fournisseur
+
+844
+00:33:59,100 --> 00:34:00,059
+cloud mais vous avez plein d'options de
+
+845
+00:34:00,059 --> 00:34:01,620
+configuration
+
+846
+00:34:01,620 --> 00:34:04,200
+et là je vais définir mes layers
+
+847
+00:34:04,200 --> 00:34:05,460
+c'est là que je dis je vais utiliser un
+
+848
+00:34:05,460 --> 00:34:08,580
+lierre que jaune homme PHP le passé le
+
+849
+00:34:08,580 --> 00:34:10,139
+chemin vers mon dossier où je l'ai mis
+
+850
+00:34:10,139 --> 00:34:12,659
+donc mon boostrap qu'on a vu PHP que
+
+851
+00:34:12,659 --> 00:34:14,580
+j'ai besoin de mettre
+
+852
+00:34:14,580 --> 00:34:16,980
+et après je décris les fonctions
+
+853
+00:34:16,980 --> 00:34:18,359
+il y en a une pendant que je l'appelle
+
+854
+00:34:18,359 --> 00:34:20,280
+occupation et là c'est là que en fait ça
+
+855
+00:34:20,280 --> 00:34:23,659
+correspond à ce qu'on a vu dans
+
+856
+00:34:24,260 --> 00:34:26,480
+mondelor C'est le nom du fichier
+
+857
+00:34:26,480 --> 00:34:28,619
+profession.php et la méthode s'appelle
+
+858
+00:34:28,619 --> 00:34:30,480
+occupation c'est ça que je vais appeler
+
+859
+00:34:30,480 --> 00:34:32,460
+et je précise également que cette
+
+860
+00:34:32,460 --> 00:34:34,679
+fonction-là et elle va utiliser le layer
+
+861
+00:34:34,679 --> 00:34:37,020
+qui s'appelle php dans le d'ailleurs ce
+
+862
+00:34:37,020 --> 00:34:39,839
+nom il est un peu magiquement généré en
+
+863
+00:34:39,839 --> 00:34:41,040
+fonction du nom que vous donnez ici à
+
+864
+00:34:41,040 --> 00:34:42,960
+hotlayer avec le suffixe lambda
+
+865
+00:34:42,960 --> 00:34:45,960
+d'ailleurs tout simplement
+
+866
+00:34:45,960 --> 00:34:47,099
+parce que vous pouvez très bien avoir
+
+867
+00:34:47,099 --> 00:34:48,418
+des fonctions vous utilisez pas de layer
+
+868
+00:34:48,418 --> 00:34:49,859
+par exemple ça peut être possible c'est
+
+869
+00:34:49,859 --> 00:34:51,359
+pas parce qu'il y a un layer que dans
+
+870
+00:34:51,359 --> 00:34:53,339
+votre fichier dans votre Instax qui va
+
+871
+00:34:53,339 --> 00:34:54,719
+être utilisé automatiquement pour toute
+
+872
+00:34:54,719 --> 00:34:56,820
+fonction
+
+873
+00:34:56,820 --> 00:34:58,820
+donc comme ça on peut déployer
+
+874
+00:34:58,820 --> 00:35:02,220
+notre propre notre propre exécution de
+
+875
+00:35:02,220 --> 00:35:03,599
+notre fonction et comprendre comment
+
+876
+00:35:03,599 --> 00:35:07,160
+après ça marche notamment chez
+
+877
+00:35:10,200 --> 00:35:13,619
+pour déployer c'est diplôlent et après
+
+878
+00:35:13,619 --> 00:35:15,060
+je peux tester un local donc j'ai fait
+
+879
+00:35:15,060 --> 00:35:17,579
+ça relève la fonction occupation avec
+
+880
+00:35:17,579 --> 00:35:19,680
+des petits logs là je ressens un petit
+
+881
+00:35:19,680 --> 00:35:23,119
+réponse avec des petites stats
+
+882
+00:35:23,119 --> 00:35:27,619
+depuis mon navigateur tout simplement
+
+883
+00:35:33,480 --> 00:35:36,060
+est-ce que vous avez des questions
+
+884
+00:35:36,060 --> 00:35:38,300
+oui
+
+885
+00:35:40,920 --> 00:35:43,160
+oui
+
+886
+00:35:53,720 --> 00:35:58,280
+je t'ai connecté avec mon compte
+
+887
+00:36:05,820 --> 00:36:08,359
+bonjour
+
+888
+00:36:09,180 --> 00:36:11,240
+donc la question c'est
+
+889
+00:36:11,240 --> 00:36:14,820
+est-ce que le compte sur serveurless.com
+
+890
+00:36:14,820 --> 00:36:17,460
+est relié au compte à votre compte AWS
+
+891
+00:36:17,460 --> 00:36:19,260
+d'une manière ou d'une autre comment
+
+892
+00:36:19,260 --> 00:36:20,099
+est-ce que le serveur laisse.com
+
+893
+00:36:20,099 --> 00:36:22,020
+polister vos fonctions qui sont dans la
+
+894
+00:36:22,020 --> 00:36:23,820
+WS
+
+895
+00:36:23,820 --> 00:36:25,980
+alors parce que j'utilise à ma
+
+896
+00:36:25,980 --> 00:36:27,359
+connaissance ce n'est pas lié je ne me
+
+897
+00:36:27,359 --> 00:36:28,740
+souviens jamais avoir configuré le lien
+
+898
+00:36:28,740 --> 00:36:30,359
+entre les deux
+
+899
+00:36:30,359 --> 00:36:32,520
+et du coup pour moi il accepte parce que
+
+900
+00:36:32,520 --> 00:36:34,320
+la ligne de commande savoir laisse et
+
+901
+00:36:34,320 --> 00:36:35,579
+que moi je suis j'écris en compte en
+
+902
+00:36:35,579 --> 00:36:37,579
+fait
+
+903
+00:36:37,579 --> 00:36:40,619
+ce qui se passe sur la WS si vous
+
+904
+00:36:40,619 --> 00:36:43,079
+utilisez le site dans le développement
+
+905
+00:36:43,079 --> 00:36:44,119
+vous le
+
+906
+00:36:44,119 --> 00:36:47,599
+provider vous utilisez
+
+907
+00:36:48,020 --> 00:36:49,680
+autant que vous pour faire quelque chose
+
+908
+00:36:49,680 --> 00:36:50,940
+sur la W je pense que c'est ma machine
+
+909
+00:36:50,940 --> 00:36:52,640
+qui est connectée au 2 et après il
+
+910
+00:36:52,640 --> 00:36:54,780
+partage les enfants mais je à ma
+
+911
+00:36:54,780 --> 00:36:57,359
+connaissance le site savoir comme n'est
+
+912
+00:36:57,359 --> 00:37:01,940
+pas je me suis aucun souvenir d'avoir
+
+913
+00:37:03,240 --> 00:37:06,380
+parce que je déploie du coup
+
+914
+00:37:06,960 --> 00:37:07,920
+je sais pas c'est une très bonne
+
+915
+00:37:07,920 --> 00:37:09,960
+question je pense qu'effectivement c'est
+
+916
+00:37:09,960 --> 00:37:11,520
+peut-être lié mais comment il fait
+
+917
+00:37:11,520 --> 00:37:12,960
+est-ce que c'est le steaks qui a accès
+
+918
+00:37:12,960 --> 00:37:15,480
+peut-être parce que du coup on configure
+
+919
+00:37:15,480 --> 00:37:19,099
+le l'accès avec le sdkws
+
+920
+00:37:19,099 --> 00:37:20,880
+sachez également il est possible de
+
+921
+00:37:20,880 --> 00:37:22,260
+créer ce qu'il a j'en ai pas trop parlé
+
+922
+00:37:22,260 --> 00:37:24,359
+mais vous pouvez créer tous les rôles
+
+923
+00:37:24,359 --> 00:37:26,700
+nécessaires Ayem de AWS directement
+
+924
+00:37:26,700 --> 00:37:28,920
+depuis votre template savoir en fait ça
+
+925
+00:37:28,920 --> 00:37:30,540
+peut aller très très long là je vous
+
+926
+00:37:30,540 --> 00:37:32,400
+parle que de petites possibilités pour
+
+927
+00:37:32,400 --> 00:37:34,020
+donner une vue de ce qui est possible
+
+928
+00:37:34,020 --> 00:37:35,579
+mais ça va vraiment beaucoup trop long
+
+929
+00:37:35,579 --> 00:37:37,560
+vous pouvez tout configurer tout gérer
+
+930
+00:37:37,560 --> 00:37:38,640
+contre fichier sur laisse-moi il y a
+
+931
+00:37:38,640 --> 00:37:40,140
+même
+
+932
+00:37:40,140 --> 00:37:42,060
+que ce soit chez Google aussi mais c'est
+
+933
+00:37:42,060 --> 00:37:44,839
+juste que je connais un peu plus ça
+
+934
+00:37:55,680 --> 00:37:57,440
+merci déjà c'est intéressant
+
+935
+00:37:57,440 --> 00:38:00,540
+concrètement pour du AWS du coup quand
+
+936
+00:38:00,540 --> 00:38:03,900
+on déploie une fonction du coup ça pop
+
+937
+00:38:03,900 --> 00:38:06,240
+une instance E2 c'est ça du coup et
+
+938
+00:38:06,240 --> 00:38:09,660
+combien de temps cet instant ça vit
+
+939
+00:38:09,660 --> 00:38:11,520
+très bonne question je ne sais pas
+
+940
+00:38:11,520 --> 00:38:13,619
+personne c'est très variable en fait
+
+941
+00:38:13,619 --> 00:38:15,960
+concrètement ça dépend du trafic qu'ils
+
+942
+00:38:15,960 --> 00:38:18,780
+ont sur cette VM qui est occupe partagée
+
+943
+00:38:18,780 --> 00:38:19,859
+enfin la machine les partager avec
+
+944
+00:38:19,859 --> 00:38:21,900
+d'autres personnes d'autres fonctions
+
+945
+00:38:21,900 --> 00:38:24,420
+d'autres choses et en fait ça va
+
+946
+00:38:24,420 --> 00:38:26,660
+dépendre un peu de lâche qui a dessus
+
+947
+00:38:26,660 --> 00:38:29,400
+elle reste normalement allumée oui tout
+
+948
+00:38:29,400 --> 00:38:31,859
+à fait et puis si votre après si votre
+
+949
+00:38:31,859 --> 00:38:33,240
+fonction elle n'est plus exécutée au
+
+950
+00:38:33,240 --> 00:38:35,640
+bout d'un temps il va être elle retirer
+
+951
+00:38:35,640 --> 00:38:37,619
+quand même du coup c'est pour ça c'est
+
+952
+00:38:37,619 --> 00:38:39,240
+ma deuxième question qu'il faut éviter
+
+953
+00:38:39,240 --> 00:38:41,900
+de faire des process longs je suppose
+
+954
+00:38:41,900 --> 00:38:43,680
+en fait c'est que oui c'est pas un
+
+955
+00:38:43,680 --> 00:38:45,540
+modèle qui est désigné voilà parce qu'en
+
+956
+00:38:45,540 --> 00:38:46,560
+fait si au bout d'un moment il y a plus
+
+957
+00:38:46,560 --> 00:38:47,820
+d'appel au bout de peut-être six sept
+
+958
+00:38:47,820 --> 00:38:50,540
+minutes à double espace
+
+959
+00:38:51,500 --> 00:38:52,690
+qui tourne
+
+960
+00:38:52,690 --> 00:38:54,619
+[Musique]
+
+961
+00:38:54,619 --> 00:38:56,940
+et vous pouvez de rien vous pouvez
+
+962
+00:38:56,940 --> 00:38:58,140
+configurer aussi au niveau de chaque
+
+963
+00:38:58,140 --> 00:39:00,540
+fonction une durée minimum que vous
+
+964
+00:39:00,540 --> 00:39:02,400
+voulez qu'elle tourne par exemple comme
+
+965
+00:39:02,400 --> 00:39:03,839
+la mémoire vous pouvez augmenter que
+
+966
+00:39:03,839 --> 00:39:05,579
+pour une fonction et pas pour toute ce
+
+967
+00:39:05,579 --> 00:39:07,880
+genre de choses
+
+968
+00:39:17,700 --> 00:39:20,040
+merci du coup déjà super talk c'était
+
+969
+00:39:20,040 --> 00:39:22,320
+vraiment cool et c'est un peu lié à la
+
+970
+00:39:22,320 --> 00:39:23,760
+question précédente mais du coup si on
+
+971
+00:39:23,760 --> 00:39:24,960
+sait pas combien de temps notre instance
+
+972
+00:39:24,960 --> 00:39:26,760
+va vivre est-ce qu'on peut avoir
+
+973
+00:39:26,760 --> 00:39:28,260
+l'information parce que les humains le
+
+974
+00:39:28,260 --> 00:39:29,540
+call start c'est quand même important
+
+975
+00:39:29,540 --> 00:39:31,680
+que ça peut quand même être même une
+
+976
+00:39:31,680 --> 00:39:33,660
+seconde est-ce qu'on a moyen de savoir
+
+977
+00:39:33,660 --> 00:39:36,180
+cette information le communiqué à des
+
+978
+00:39:36,180 --> 00:39:38,940
+utilisateurs ou avoir l'information en
+
+979
+00:39:38,940 --> 00:39:40,320
+fait quand il y a un Coltart et quand on
+
+980
+00:39:40,320 --> 00:39:41,660
+doit attendre plus longtemps quoi
+
+981
+00:39:41,660 --> 00:39:43,320
+est-ce qu'on peut savoir combien
+
+982
+00:39:43,320 --> 00:39:46,140
+d'instance de notre infrastructure enfin
+
+983
+00:39:46,140 --> 00:39:48,960
+de notre fonction existe à l'instant T
+
+984
+00:39:48,960 --> 00:39:53,540
+faudrait regarder dans le dashboard ici
+
+985
+00:39:56,280 --> 00:39:57,720
+donc là il dit que j'utilise pas de
+
+986
+00:39:57,720 --> 00:39:59,520
+layer
+
+987
+00:39:59,520 --> 00:40:02,220
+je ne sais pas si on a l'info
+
+988
+00:40:02,220 --> 00:40:03,420
+mais je pense que si vous l'avez ça sera
+
+989
+00:40:03,420 --> 00:40:04,859
+dans le dashboard AWS pour savoir
+
+990
+00:40:04,859 --> 00:40:06,859
+combien d'instance vous avez
+
+991
+00:40:06,859 --> 00:40:09,000
+mais le principe c'est que vous n'avez
+
+992
+00:40:09,000 --> 00:40:10,440
+pas trop la main dessus c'est un peu le
+
+993
+00:40:10,440 --> 00:40:12,420
+principe de
+
+994
+00:40:12,420 --> 00:40:15,320
+serveur
+
+995
+00:40:18,380 --> 00:40:20,880
+après vraiment le call stars voilà c'est
+
+996
+00:40:20,880 --> 00:40:22,920
+pour ça c'est il y a des cas où le
+
+997
+00:40:22,920 --> 00:40:24,119
+soleil s'adapter à des cas où ça ne
+
+998
+00:40:24,119 --> 00:40:26,339
+l'est pas si vous êtes un site à grand
+
+999
+00:40:26,339 --> 00:40:29,700
+trafic site actualités je suis pas sûr
+
+1000
+00:40:29,700 --> 00:40:33,500
+que ce soit idéal d'utiliser
+
+1001
+00:40:34,800 --> 00:40:35,880
+vous pouvez l'utiliser pour certaines
+
+1002
+00:40:35,880 --> 00:40:36,660
+fonctions de votre plateforme
+
+1003
+00:40:36,660 --> 00:40:37,800
+potentiellement mais pas pour le site
+
+1004
+00:40:37,800 --> 00:40:40,640
+principal de trafic
+
+1005
+00:40:57,619 --> 00:40:59,940
+j'ai une question tu nous as parlé de
+
+1006
+00:40:59,940 --> 00:41:01,980
+serveur laisse parce que
+
+1007
+00:41:01,980 --> 00:41:04,280
+c'est agnostique du cloud provider
+
+1008
+00:41:04,280 --> 00:41:07,079
+est-ce que c'est plus compliqué ou à
+
+1009
+00:41:07,079 --> 00:41:08,579
+utiliser que des outils par exemple que
+
+1010
+00:41:08,579 --> 00:41:12,000
+propose à WS comme ça qui fait la même
+
+1011
+00:41:12,000 --> 00:41:13,400
+chose que serveurlesque qui permet de
+
+1012
+00:41:13,400 --> 00:41:16,440
+diplôlier invoque en local est-ce qu'il
+
+1013
+00:41:16,440 --> 00:41:17,700
+y a un des deux outils qui est plus
+
+1014
+00:41:17,700 --> 00:41:20,160
+compliqué que l'autre ou finalement les
+
+1015
+00:41:20,160 --> 00:41:21,240
+possibilités c'est un peu les mêmes
+
+1016
+00:41:21,240 --> 00:41:23,400
+entre chaque outil c'est tout à fait les
+
+1017
+00:41:23,400 --> 00:41:26,520
+mêmes possibilités le framework sera là
+
+1018
+00:41:26,520 --> 00:41:27,300
+c'est vraiment une couche d'abstraction
+
+1019
+00:41:27,300 --> 00:41:28,500
+de votre fournisseur cloud mais vous
+
+1020
+00:41:28,500 --> 00:41:29,400
+n'êtes pas du tout obligé d'utiliser
+
+1021
+00:41:29,400 --> 00:41:31,740
+vous pouvez faire la même chose qu'on a
+
+1022
+00:41:31,740 --> 00:41:34,079
+vu déployer sur AW se configurer des
+
+1023
+00:41:34,079 --> 00:41:36,060
+accès tout ce que vous voulez via le SDK
+
+1024
+00:41:36,060 --> 00:41:38,640
+W directement si vous souhaitez ou
+
+1025
+00:41:38,640 --> 00:41:40,320
+carrément depuis l'interface AWS mais
+
+1026
+00:41:40,320 --> 00:41:41,460
+c'est un peu moins pratique pour les
+
+1027
+00:41:41,460 --> 00:41:43,380
+sièges
+
+1028
+00:41:43,380 --> 00:41:45,920
+ok merci
+
+1029
+00:42:05,579 --> 00:42:08,480
+il y a une question de par ici
+
+1030
+00:42:14,520 --> 00:42:15,900
+j'ai cru comprendre que vous l'avez
+
+1031
+00:42:15,900 --> 00:42:17,579
+utilisé seulement avec un Claude
+
+1032
+00:42:17,579 --> 00:42:20,460
+provider AWS est-ce que vous avez quand
+
+1033
+00:42:20,460 --> 00:42:22,500
+même des informations sur dans le cas où
+
+1034
+00:42:22,500 --> 00:42:25,260
+on a on est notre propre club provider
+
+1035
+00:42:25,260 --> 00:42:27,420
+avec un clone miles si vous connaissez
+
+1036
+00:42:27,420 --> 00:42:29,579
+des outils qui nous permettrait de faire
+
+1037
+00:42:29,579 --> 00:42:31,880
+la même chose
+
+1038
+00:42:32,780 --> 00:42:35,220
+mais vraiment c'est possible oui tu peux
+
+1039
+00:42:35,220 --> 00:42:36,480
+le faire héberger toi-même et faire du
+
+1040
+00:42:36,480 --> 00:42:37,440
+sur
+
+1041
+00:42:37,440 --> 00:42:38,880
+pense que j'ai entendu parler de du
+
+1042
+00:42:38,880 --> 00:42:41,000
+framework quarkus qui permettait de
+
+1043
+00:42:41,000 --> 00:42:43,859
+déployer des serveurs là aussi je sais
+
+1044
+00:42:43,859 --> 00:42:45,000
+pas si vous connaissez non je connais
+
+1045
+00:42:45,000 --> 00:42:47,280
+pas après pareil si tu peux faire si tu
+
+1046
+00:42:47,280 --> 00:42:49,260
+fais du cublès qu'il y en a été toi-même
+
+1047
+00:42:49,260 --> 00:42:50,640
+mais après du coup ça oblige à faire du
+
+1048
+00:42:50,640 --> 00:42:52,820
+Youtube
+
+1049
+00:42:53,720 --> 00:42:56,220
+je comprends par exemple comme corcus
+
+1050
+00:42:56,220 --> 00:42:58,440
+pour être le ce que j'ai compris votre
+
+1051
+00:42:58,440 --> 00:42:59,700
+présentation que ça peut être le bout de
+
+1052
+00:42:59,700 --> 00:43:03,980
+ça en fait c'est possible ok merci non
+
+1053
+00:43:03,980 --> 00:43:06,359
+je sais pas je connais pas le frame je
+
+1054
+00:43:06,359 --> 00:43:08,960
+savais pas dire mais
+
+1055
+00:43:14,960 --> 00:43:18,420
+du coup tu as des démarrages qui sont en
+
+1056
+00:43:18,420 --> 00:43:22,380
+14000 secondes donc tant que ridicule il
+
+1057
+00:43:22,380 --> 00:43:23,700
+faut que tu le déploies quelque part en
+
+1058
+00:43:23,700 --> 00:43:25,760
+fait c'est juste
+
+1059
+00:43:25,760 --> 00:43:29,839
+avec la librairie par exemple tu peux
+
+1060
+00:43:29,839 --> 00:43:32,400
+libérer ça dans l'Est en fait tu peux
+
+1061
+00:43:32,400 --> 00:43:33,720
+déployer effectivement avec ton cul
+
+1062
+00:43:33,720 --> 00:43:35,040
+dernier test pour déployer ton plan de
+
+1063
+00:43:35,040 --> 00:43:36,599
+plus te faire comme vous frappe pour
+
+1064
+00:43:36,599 --> 00:43:40,579
+déployer ton tes fonctions
+
+1065
+00:43:50,280 --> 00:43:52,400
+merci à tous
+
+1066
+00:43:52,400 --> 00:43:58,840
+[Applaudissements]
+
