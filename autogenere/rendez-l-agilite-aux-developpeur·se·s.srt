@@ -1,0 +1,4120 @@
+1
+00:00:01,840 --> 00:00:13,009
+[Musique]
+
+2
+00:00:13,500 --> 00:00:15,960
+bonjour à toutes et à tous un grand
+
+3
+00:00:15,960 --> 00:00:18,720
+merci d'être ici avec j'espère que vous
+
+4
+00:00:18,720 --> 00:00:20,180
+passez un bon moment
+
+5
+00:00:20,180 --> 00:00:22,920
+j'étais pas prévu dans le planning ce
+
+6
+00:00:22,920 --> 00:00:24,720
+matin donc un grand merci de quand même
+
+7
+00:00:24,720 --> 00:00:27,599
+passé votre petite tête juste pour
+
+8
+00:00:27,599 --> 00:00:28,980
+appeler que aujourd'hui on ne va pas
+
+9
+00:00:28,980 --> 00:00:31,520
+parler proxy je préfère qu'on soit ok
+
+10
+00:00:31,520 --> 00:00:34,380
+aujourd'hui on va parler de rendre
+
+11
+00:00:34,380 --> 00:00:36,840
+l'agilité au développeur et au
+
+12
+00:00:36,840 --> 00:00:39,480
+développeuse donc voilà c'est mon combat
+
+13
+00:00:39,480 --> 00:00:41,760
+de femmes quotidien voilà pourquoi je
+
+14
+00:00:41,760 --> 00:00:44,820
+suis ici est-ce que ça parle à certains
+
+15
+00:00:44,820 --> 00:00:46,620
+et certaines le livre dont vous êtes le
+
+16
+00:00:46,620 --> 00:00:47,879
+héros
+
+17
+00:00:47,879 --> 00:00:50,579
+ouais vous avez tous connu ça
+
+18
+00:00:50,579 --> 00:00:52,260
+je préfère quand même préciser pour ceux
+
+19
+00:00:52,260 --> 00:00:55,140
+que voilà ils découvrent ce sont des
+
+20
+00:00:55,140 --> 00:00:58,140
+livres qui existaient dans mon jeune âge
+
+21
+00:00:58,140 --> 00:01:00,539
+un petit peu longtemps et qui consistait
+
+22
+00:01:00,539 --> 00:01:02,640
+à faire vivre des aventures à un héros
+
+23
+00:01:02,640 --> 00:01:06,119
+ou une héroïne sur la base de choix fait
+
+24
+00:01:06,119 --> 00:01:07,740
+tout au long donc on se posait des
+
+25
+00:01:07,740 --> 00:01:09,479
+questions et puis généralement on les
+
+26
+00:01:09,479 --> 00:01:10,979
+laissait parler notre petit côté sadique
+
+27
+00:01:10,979 --> 00:01:12,360
+est-ce qu'il y a des sadique dans la
+
+28
+00:01:12,360 --> 00:01:13,820
+salle
+
+29
+00:01:13,820 --> 00:01:15,799
+je compte sur vous
+
+30
+00:01:15,799 --> 00:01:17,580
+et ben donc on va faire la même chose
+
+31
+00:01:17,580 --> 00:01:18,960
+aujourd'hui on va faire on va faire
+
+32
+00:01:18,960 --> 00:01:22,200
+vivre une aventure à notre héroïne
+
+33
+00:01:22,200 --> 00:01:24,320
+d'abord petite préface
+
+34
+00:01:24,320 --> 00:01:28,740
+un grand grand merci avec Sayo aux
+
+35
+00:01:28,740 --> 00:01:30,360
+organes qui sont là avec nous dans la
+
+36
+00:01:30,360 --> 00:01:32,220
+salle qui nous chouchoute en tant que
+
+37
+00:01:32,220 --> 00:01:34,320
+speaker et participant donc ça c'est
+
+38
+00:01:34,320 --> 00:01:36,420
+vraiment cool merci à eux un grand merci
+
+39
+00:01:36,420 --> 00:01:38,579
+aux sponsor sans qui on ne serait pas là
+
+40
+00:01:38,579 --> 00:01:40,979
+non plus aujourd'hui
+
+41
+00:01:40,979 --> 00:01:42,659
+et maintenant le pourquoi de cette
+
+42
+00:01:42,659 --> 00:01:44,280
+histoire
+
+43
+00:01:44,280 --> 00:01:46,439
+en fait les premières scènes que j'ai
+
+44
+00:01:46,439 --> 00:01:48,479
+écrit là-dessus ça date il y a un peu
+
+45
+00:01:48,479 --> 00:01:52,740
+longtemps le monde d'avant en 2019 ou je
+
+46
+00:01:52,740 --> 00:01:53,880
+m'apercevais que dans mes
+
+47
+00:01:53,880 --> 00:01:55,439
+accompagnements d'équipes mais en fait
+
+48
+00:01:55,439 --> 00:01:56,880
+on faisait face un petit peu toujours
+
+49
+00:01:56,880 --> 00:01:59,100
+lors de transformation qu'elle soit
+
+50
+00:01:59,100 --> 00:02:01,200
+agile ou pas à la même souffrance de la
+
+51
+00:02:01,200 --> 00:02:02,700
+part des équipes de développeurs et
+
+52
+00:02:02,700 --> 00:02:04,560
+développeuses et pas que eux d'ailleurs
+
+53
+00:02:04,560 --> 00:02:07,200
+même toutes les parties prenantes les
+
+54
+00:02:07,200 --> 00:02:09,000
+clients les managers les testeurs bref
+
+55
+00:02:09,000 --> 00:02:11,340
+les hommes aussi tout ce petit monde là
+
+56
+00:02:11,340 --> 00:02:13,739
+était touché
+
+57
+00:02:13,739 --> 00:02:15,900
+et tristement j'ai fait le même constat
+
+58
+00:02:15,900 --> 00:02:17,520
+il y a quelques mois quelques semaines
+
+59
+00:02:17,520 --> 00:02:18,720
+quelques jours c'est toujours
+
+60
+00:02:18,720 --> 00:02:20,280
+d'actualité aujourd'hui dans les équipes
+
+61
+00:02:20,280 --> 00:02:21,540
+donc tout ce que je vais vous dire
+
+62
+00:02:21,540 --> 00:02:23,220
+aujourd'hui c'est non seulement du vécu
+
+63
+00:02:23,220 --> 00:02:27,180
+mais pas que de moi et j'espère pas de
+
+64
+00:02:27,180 --> 00:02:30,360
+votre côté on s'en parlera après
+
+65
+00:02:30,360 --> 00:02:31,739
+sous prétexte d'auto-organisation
+
+66
+00:02:31,739 --> 00:02:33,959
+d'autonomie qui est très réclamée dans
+
+67
+00:02:33,959 --> 00:02:35,220
+le monde de l'agilité pour ceux qui
+
+68
+00:02:35,220 --> 00:02:37,459
+connaissent qui est un petit peu forcé
+
+69
+00:02:37,459 --> 00:02:40,800
+et demander réclamer aux équipes et ben
+
+70
+00:02:40,800 --> 00:02:42,959
+on va s'attendre à ce qu'elle génère
+
+71
+00:02:42,959 --> 00:02:45,599
+toujours plus toujours plus efficacement
+
+72
+00:02:45,599 --> 00:02:48,180
+toujours plus rapidement mais sans
+
+73
+00:02:48,180 --> 00:02:49,560
+forcément donner les moyens donc on va
+
+74
+00:02:49,560 --> 00:02:51,840
+voir ça un peu plus tard
+
+75
+00:02:51,840 --> 00:02:53,760
+donc c'est un vrai cri d'alarme de ma
+
+76
+00:02:53,760 --> 00:02:55,260
+part une revendication vous avez vu
+
+77
+00:02:55,260 --> 00:02:56,640
+qu'il y a deux points d'exclamation ton
+
+78
+00:02:56,640 --> 00:02:59,580
+titre et c'est voulu
+
+79
+00:02:59,580 --> 00:03:01,800
+aujourd'hui je vous présente seulement
+
+80
+00:03:01,800 --> 00:03:04,500
+si c'est net il y en a 150 milliards de
+
+81
+00:03:04,500 --> 00:03:05,819
+possibles d'ailleurs je suis preneuse de
+
+82
+00:03:05,819 --> 00:03:07,019
+vos retours de ce que vous vivez aussi
+
+83
+00:03:07,019 --> 00:03:09,000
+au quotidien peu importe votre rôle dans
+
+84
+00:03:09,000 --> 00:03:10,560
+l'équipe même si vous êtes d'ailleurs à
+
+85
+00:03:10,560 --> 00:03:13,980
+l'extérieur de l'équipe ça m'intéresse
+
+86
+00:03:13,980 --> 00:03:15,840
+les personnages avec qui on va jouer
+
+87
+00:03:15,840 --> 00:03:18,659
+aujourd'hui donc il y a Lily qui a une
+
+88
+00:03:18,659 --> 00:03:20,340
+développeuse react qui a deux ans
+
+89
+00:03:20,340 --> 00:03:23,040
+d'expérience et qui aujourd'hui a décidé
+
+90
+00:03:23,040 --> 00:03:25,860
+de changer de boîte
+
+91
+00:03:25,860 --> 00:03:28,620
+et il va y avoir nous vous et moi
+
+92
+00:03:28,620 --> 00:03:31,260
+lecteur on va prendre tour à tour
+
+93
+00:03:31,260 --> 00:03:33,300
+différentes casquettes pour faire vivre
+
+94
+00:03:33,300 --> 00:03:37,040
+justement des aventures à Lili
+
+95
+00:03:37,319 --> 00:03:39,959
+la petite histoire donc Lily va intégrer
+
+96
+00:03:39,959 --> 00:03:41,940
+une nouvelle entreprise ça fait deux ans
+
+97
+00:03:41,940 --> 00:03:43,739
+qu'elle est développeuse réac elle veut
+
+98
+00:03:43,739 --> 00:03:46,200
+ce challenge un petit peu et elle va
+
+99
+00:03:46,200 --> 00:03:47,640
+intégrer un nouveau poche ici cool c'est
+
+100
+00:03:47,640 --> 00:03:50,599
+une ESN un petit peu moins cool que
+
+101
+00:03:50,599 --> 00:03:52,879
+abside
+
+102
+00:03:52,879 --> 00:03:55,440
+et son objectif c'est d'intégrer une
+
+103
+00:03:55,440 --> 00:03:57,540
+toute nouvelle équipe qui a pour but de
+
+104
+00:03:57,540 --> 00:04:00,180
+fournir un site un client qui s'appelle
+
+105
+00:04:00,180 --> 00:04:02,640
+to do et qui est spécialisé dans la
+
+106
+00:04:02,640 --> 00:04:04,379
+vente de masque je mettrai à jour ce
+
+107
+00:04:04,379 --> 00:04:06,299
+yukkaz un peu plus tard
+
+108
+00:04:06,299 --> 00:04:08,580
+donc elle est super motivée Lily elle a
+
+109
+00:04:08,580 --> 00:04:10,680
+passé avec brio tous les entretiens elle
+
+110
+00:04:10,680 --> 00:04:12,299
+a hâte de commencer de faire ses preuves
+
+111
+00:04:12,299 --> 00:04:14,120
+et de montrer que Ben
+
+112
+00:04:14,120 --> 00:04:16,380
+sa nouvelle entreprise si cool a eu
+
+113
+00:04:16,380 --> 00:04:17,940
+raison de la choisir
+
+114
+00:04:17,940 --> 00:04:19,339
+donc elle arrive le premier jour
+
+115
+00:04:19,339 --> 00:04:22,079
+rappelez-vous votre premier jour
+
+116
+00:04:22,079 --> 00:04:25,620
+et elle s'adresse à vous manager
+
+117
+00:04:25,620 --> 00:04:26,880
+vous mettez votre casquette de manager
+
+118
+00:04:26,880 --> 00:04:28,919
+c'est bon vous l'avez
+
+119
+00:04:28,919 --> 00:04:30,840
+et elle vous demande par quoi je
+
+120
+00:04:30,840 --> 00:04:32,960
+commence
+
+121
+00:04:33,060 --> 00:04:35,340
+deux choix s'offrent à vous le premier
+
+122
+00:04:35,340 --> 00:04:37,440
+est-ce que vous choisissez de la faire
+
+123
+00:04:37,440 --> 00:04:39,300
+commencer immédiatement le temps de
+
+124
+00:04:39,300 --> 00:04:42,560
+c'est de l'argent allez go on y va ou
+
+125
+00:04:42,560 --> 00:04:44,580
+vous prenez le temps de faire les
+
+126
+00:04:44,580 --> 00:04:46,979
+présentations à son équipe à son
+
+127
+00:04:46,979 --> 00:04:48,840
+environnement
+
+128
+00:04:48,840 --> 00:04:51,479
+qui choisit le 1
+
+129
+00:04:51,479 --> 00:04:54,600
+il y a aucun sadique dans la salle
+
+130
+00:04:54,600 --> 00:04:56,220
+alors je vais reposer la question
+
+131
+00:04:56,220 --> 00:04:59,699
+autrement en vrai ces trois quatre cinq
+
+132
+00:04:59,699 --> 00:05:01,620
+dernières années comment vous avez été
+
+133
+00:05:01,620 --> 00:05:03,780
+reçu dans vos missions dans vos
+
+134
+00:05:03,780 --> 00:05:04,620
+nouvelles entreprises dans votre
+
+135
+00:05:04,620 --> 00:05:06,300
+nouvelle équipe
+
+136
+00:05:06,300 --> 00:05:07,500
+parce que je veux pas croire que je suis
+
+137
+00:05:07,500 --> 00:05:09,540
+la seule avoir ramassé des gens à la
+
+138
+00:05:09,540 --> 00:05:11,220
+petite cuillère le premier jour la
+
+139
+00:05:11,220 --> 00:05:14,220
+première semaine une le premier mois
+
+140
+00:05:14,220 --> 00:05:16,800
+a priori ça part à des gens donc de
+
+141
+00:05:16,800 --> 00:05:17,880
+toute façon c'est moi qui les a faite
+
+142
+00:05:17,880 --> 00:05:19,320
+donc c'est moi qui vais jouer le rôle de
+
+143
+00:05:19,320 --> 00:05:21,000
+la sadique tant pis je vais faire vivre
+
+144
+00:05:21,000 --> 00:05:24,660
+des aventures un peu tonitruantes à Lili
+
+145
+00:05:24,660 --> 00:05:26,160
+on va choisir de la faire commencer
+
+146
+00:05:26,160 --> 00:05:28,759
+immédiatement
+
+147
+00:05:29,220 --> 00:05:30,780
+c'est pas un choix si ça dit que ça
+
+148
+00:05:30,780 --> 00:05:33,900
+parce qu'à son premier jour Lili elle a
+
+149
+00:05:33,900 --> 00:05:37,440
+déjà son PC elle a déjà son user et son
+
+150
+00:05:37,440 --> 00:05:40,320
+mot de passe qui fonctionne et elle a
+
+151
+00:05:40,320 --> 00:05:42,620
+accès à la documentation qui existent
+
+152
+00:05:42,620 --> 00:05:45,900
+donc on est plutôt quand même gentil
+
+153
+00:05:45,900 --> 00:05:47,940
+c'est pas le cas tout le temps
+
+154
+00:05:47,940 --> 00:05:50,340
+donc Lili elle va s'intéresser à la
+
+155
+00:05:50,340 --> 00:05:51,960
+documentation
+
+156
+00:05:51,960 --> 00:05:54,479
+et la documentation aussi belle soit
+
+157
+00:05:54,479 --> 00:05:56,699
+elle aussi fournie soit-elle c'est
+
+158
+00:05:56,699 --> 00:05:58,320
+humainement logique qu'elle ne soit pas
+
+159
+00:05:58,320 --> 00:06:01,139
+toujours à jour il y a toujours un peu
+
+160
+00:06:01,139 --> 00:06:03,539
+de flou il y a toujours un oubli où il y
+
+161
+00:06:03,539 --> 00:06:04,560
+a toujours des choses soumis à
+
+162
+00:06:04,560 --> 00:06:07,860
+interprétation et c'est normal mais donc
+
+163
+00:06:07,860 --> 00:06:10,560
+lié à l'aimerait bien pouvoir lever ces
+
+164
+00:06:10,560 --> 00:06:12,060
+zones de flou et demander à quelqu'un
+
+165
+00:06:12,060 --> 00:06:14,820
+qui sait qui a la réponse comment s'en
+
+166
+00:06:14,820 --> 00:06:16,860
+sortir toute seule
+
+167
+00:06:16,860 --> 00:06:18,180
+sauf que rappelez-vous on n'a pas fait
+
+168
+00:06:18,180 --> 00:06:19,100
+les présentations
+
+169
+00:06:19,100 --> 00:06:21,600
+et puis son équipe je sais pas si vous
+
+170
+00:06:21,600 --> 00:06:22,340
+savez
+
+171
+00:06:22,340 --> 00:06:24,240
+si vous connaissez ce genre de
+
+172
+00:06:24,240 --> 00:06:26,039
+fonctionnement mais son équipe elle est
+
+173
+00:06:26,039 --> 00:06:29,100
+en télétravail donc elle est pas là
+
+174
+00:06:29,100 --> 00:06:31,319
+c'est pas grave Lili elle est super
+
+175
+00:06:31,319 --> 00:06:32,819
+motivée je vous rappelle son premier
+
+176
+00:06:32,819 --> 00:06:34,500
+jour elle va toquer à la porte d'à côté
+
+177
+00:06:34,500 --> 00:06:37,020
+se présenter à l'équipe qui a et
+
+178
+00:06:37,020 --> 00:06:39,360
+demander si ils ont l'information sur la
+
+179
+00:06:39,360 --> 00:06:41,280
+documentation
+
+180
+00:06:41,280 --> 00:06:42,960
+ah bah non désolé on n'est pas la bonne
+
+181
+00:06:42,960 --> 00:06:45,000
+équipe va regarder une autre doc
+
+182
+00:06:45,000 --> 00:06:47,580
+peut-être que ce sera là
+
+183
+00:06:47,580 --> 00:06:49,319
+bon mais Lily elle trouve toujours pas
+
+184
+00:06:49,319 --> 00:06:52,380
+sa réponse donc elle retente
+
+185
+00:06:52,380 --> 00:06:54,479
+elle va checker dans une autre équipe et
+
+186
+00:06:54,479 --> 00:06:56,520
+là l'équipe lui tu connais pas les
+
+187
+00:06:56,520 --> 00:07:00,600
+process bah non quel process c'est
+
+188
+00:07:00,600 --> 00:07:04,340
+facile regarde dans la documentation
+
+189
+00:07:04,440 --> 00:07:05,900
+donc là je vous laisse imaginer
+
+190
+00:07:05,900 --> 00:07:08,460
+l'état de la pauvilly au bout de sa
+
+191
+00:07:08,460 --> 00:07:10,380
+première journée des fois ça met un peu
+
+192
+00:07:10,380 --> 00:07:12,300
+plus de temps mais quand vous récupérez
+
+193
+00:07:12,300 --> 00:07:14,699
+quelqu'un en pleurs lors de son premier
+
+194
+00:07:14,699 --> 00:07:17,100
+jour c'est peut-être un signe que ça ne
+
+195
+00:07:17,100 --> 00:07:19,199
+s'est pas très bien passé
+
+196
+00:07:19,199 --> 00:07:21,380
+tout ce que j'ai mis en encadré bleu
+
+197
+00:07:21,380 --> 00:07:23,300
+c'est les phrases réellement entendues
+
+198
+00:07:23,300 --> 00:07:25,500
+je suis nulle j'y arriverai pas au
+
+199
+00:07:25,500 --> 00:07:27,120
+secours
+
+200
+00:07:27,120 --> 00:07:29,639
+mais heureusement
+
+201
+00:07:29,639 --> 00:07:31,139
+vous avez fait le bon choix dès le
+
+202
+00:07:31,139 --> 00:07:34,319
+premier la première aventure on n'est
+
+203
+00:07:34,319 --> 00:07:37,199
+pas ce type de manager on va se rendre
+
+204
+00:07:37,199 --> 00:07:38,699
+disponible et on va faire les choses
+
+205
+00:07:38,699 --> 00:07:41,000
+dans l'ordre on va effectivement
+
+206
+00:07:41,000 --> 00:07:43,860
+présenter Lili à son équipe à son
+
+207
+00:07:43,860 --> 00:07:45,419
+environnement et sur le projet sur
+
+208
+00:07:45,419 --> 00:07:47,960
+lequel elle va travailler
+
+209
+00:07:48,000 --> 00:07:51,000
+donc on présente Lily bonjour Lili je te
+
+210
+00:07:51,000 --> 00:07:53,039
+présente Jack le testeur intégrateur de
+
+211
+00:07:53,039 --> 00:07:55,319
+l'équipe je te présente Dave le
+
+212
+00:07:55,319 --> 00:07:56,819
+producteur et Christ la technique
+
+213
+00:07:56,819 --> 00:07:58,560
+backend
+
+214
+00:07:58,560 --> 00:08:01,199
+et c'est un échange donc c'est à dire
+
+215
+00:08:01,199 --> 00:08:02,639
+que l'équipe idéalement elle est
+
+216
+00:08:02,639 --> 00:08:05,039
+présente voire même elle va déjeuner
+
+217
+00:08:05,039 --> 00:08:08,099
+avec Lily lors de son premier jour vous
+
+218
+00:08:08,099 --> 00:08:09,599
+avez connu non les premiers jours vous
+
+219
+00:08:09,599 --> 00:08:11,520
+êtes tout seul sans gamelle sans rien
+
+220
+00:08:11,520 --> 00:08:13,620
+aller devoir chercher une adresse autour
+
+221
+00:08:13,620 --> 00:08:17,400
+pour aller manger moi j'ai connu
+
+222
+00:08:17,400 --> 00:08:19,199
+et dans les échanges bah ça va dans les
+
+223
+00:08:19,199 --> 00:08:21,539
+deux sens l'équipe aussi elle a besoin
+
+224
+00:08:21,539 --> 00:08:22,740
+d'être rassurée quand il y a une
+
+225
+00:08:22,740 --> 00:08:24,180
+nouvelle personne qui arrive dans une
+
+226
+00:08:24,180 --> 00:08:26,300
+équipe
+
+227
+00:08:26,759 --> 00:08:28,800
+on parle de tout on parle de qui va
+
+228
+00:08:28,800 --> 00:08:30,479
+faire quoi on parle de notre stack
+
+229
+00:08:30,479 --> 00:08:32,458
+préféré on parle de l'outil qu'on aime
+
+230
+00:08:32,458 --> 00:08:35,159
+pas et on parle projet on va parler
+
+231
+00:08:35,159 --> 00:08:37,020
+aussi avec quel client quelle
+
+232
+00:08:37,020 --> 00:08:38,880
+utilisateur on va travailler etc etc etc
+
+233
+00:08:38,880 --> 00:08:40,860
+on peut mettre du perso si on veut c'est
+
+234
+00:08:40,860 --> 00:08:44,339
+pas obligatoire mais on crée du lien
+
+235
+00:08:44,339 --> 00:08:46,560
+en faisant ça on a mis une première
+
+236
+00:08:46,560 --> 00:08:48,360
+pièce dans la construction de l'identité
+
+237
+00:08:48,360 --> 00:08:51,180
+de l'équipe ça se fait clairement pas en
+
+238
+00:08:51,180 --> 00:08:53,580
+une seule journée par contre si vous
+
+239
+00:08:53,580 --> 00:08:56,279
+loupez la première journée sortez les
+
+240
+00:08:56,279 --> 00:08:58,500
+rames pour après
+
+241
+00:08:58,500 --> 00:09:00,420
+en terme de confiance en soi non
+
+242
+00:09:00,420 --> 00:09:03,000
+seulement Lili là elle sait qu'elle a
+
+243
+00:09:03,000 --> 00:09:04,980
+fait le bon choix que c'est bien là
+
+244
+00:09:04,980 --> 00:09:06,660
+qu'elle veut bosser et avec ces
+
+245
+00:09:06,660 --> 00:09:09,080
+personnes là mais aussi pour l'équipe
+
+246
+00:09:09,080 --> 00:09:10,740
+quand vous rajoutez une nouvelle
+
+247
+00:09:10,740 --> 00:09:12,180
+personne ou que vous enlevez une
+
+248
+00:09:12,180 --> 00:09:13,680
+personne d'une équipe c'est une nouvelle
+
+249
+00:09:13,680 --> 00:09:15,959
+équipe qui a reconstruire même si on
+
+250
+00:09:15,959 --> 00:09:16,980
+pourrait penser que non il y a pas trop
+
+251
+00:09:16,980 --> 00:09:18,240
+de changement donc c'est aussi important
+
+252
+00:09:18,240 --> 00:09:20,220
+de rassurer l'équipe qui était déjà en
+
+253
+00:09:20,220 --> 00:09:23,399
+place et enfin sentiment d'appartenance
+
+254
+00:09:23,399 --> 00:09:24,720
+quelque chose qui est très important
+
+255
+00:09:24,720 --> 00:09:26,220
+pour la suite notamment au niveau de la
+
+256
+00:09:26,220 --> 00:09:29,399
+motivation partir au fond ensemble si ça
+
+257
+00:09:29,399 --> 00:09:31,740
+vous ne faites pas encore une fois vous
+
+258
+00:09:31,740 --> 00:09:34,140
+allez sortir les rames par la suite
+
+259
+00:09:34,140 --> 00:09:36,360
+donc bravo Manager vous faites
+
+260
+00:09:36,360 --> 00:09:38,519
+d'excellents managers vous avez rendu
+
+261
+00:09:38,519 --> 00:09:42,060
+une première clé à votre équipe agile
+
+262
+00:09:42,060 --> 00:09:43,740
+et qui agile ou pas d'ailleurs à partir
+
+263
+00:09:43,740 --> 00:09:44,519
+du moment où vous travaillez en équipe
+
+264
+00:09:44,519 --> 00:09:46,080
+je pense que ce sont des choses qui sont
+
+265
+00:09:46,080 --> 00:09:48,360
+importantes à faire
+
+266
+00:09:48,360 --> 00:09:50,580
+deuxième c'est net maintenant qu'on
+
+267
+00:09:50,580 --> 00:09:52,860
+s'est présenté la documentation les
+
+268
+00:09:52,860 --> 00:09:56,040
+outils les rôles les objectifs on va
+
+269
+00:09:56,040 --> 00:09:59,720
+partir sur notre première itération
+
+270
+00:10:00,060 --> 00:10:03,060
+et déjà lors de sa première itération on
+
+271
+00:10:03,060 --> 00:10:07,019
+a un petit souci avec un des outils
+
+272
+00:10:07,019 --> 00:10:10,140
+c'est pas l'idée c'est pas l'outil qui
+
+273
+00:10:10,140 --> 00:10:12,180
+sert à versionner les sources c'est
+
+274
+00:10:12,180 --> 00:10:13,620
+l'outil qui sert je sais pas si vous
+
+275
+00:10:13,620 --> 00:10:15,959
+connaissez à suivre les actions qui sont
+
+276
+00:10:15,959 --> 00:10:19,880
+faites sur un projet sur un produit
+
+277
+00:10:19,920 --> 00:10:21,899
+donc je vais surtout pas faire de
+
+278
+00:10:21,899 --> 00:10:24,360
+publicité on va l'appeler girafe
+
+279
+00:10:24,360 --> 00:10:26,279
+c'est ça que vous parlera
+
+280
+00:10:26,279 --> 00:10:27,660
+et cet outil là c'est compliqué pour
+
+281
+00:10:27,660 --> 00:10:28,740
+l'équipe parce qu'il y a une grosse
+
+282
+00:10:28,740 --> 00:10:30,360
+marche à monter au niveau administratif
+
+283
+00:10:30,360 --> 00:10:32,519
+et surtout bah ils ont pas la main
+
+284
+00:10:32,519 --> 00:10:34,200
+dessus
+
+285
+00:10:34,200 --> 00:10:36,240
+donc dans les besoins qu'elles ont
+
+286
+00:10:36,240 --> 00:10:39,240
+opérationnellement elle s'y retrouve pas
+
+287
+00:10:39,240 --> 00:10:41,700
+heureusement
+
+288
+00:10:41,700 --> 00:10:42,959
+dans l'entreprise il y a ce qu'on
+
+289
+00:10:42,959 --> 00:10:44,880
+appelle un pilote transverse ou un PMO
+
+290
+00:10:44,880 --> 00:10:46,200
+ou un directeur de projet en fonction
+
+291
+00:10:46,200 --> 00:10:47,459
+des entreprises dans lesquelles vous
+
+292
+00:10:47,459 --> 00:10:49,440
+travaillez elle va pouvoir poser sa
+
+293
+00:10:49,440 --> 00:10:51,779
+question écoute on perd un temps immense
+
+294
+00:10:51,779 --> 00:10:54,959
+à remplir cet outil là est-ce que tu
+
+295
+00:10:54,959 --> 00:10:57,839
+nous autorise en contrepartie à faire
+
+296
+00:10:57,839 --> 00:10:59,519
+des compromis mais à utiliser un autre
+
+297
+00:10:59,519 --> 00:11:01,740
+outil qui serait vraiment
+
+298
+00:11:01,740 --> 00:11:04,880
+utile pour nous opérationnellement
+
+299
+00:11:04,980 --> 00:11:06,300
+vous avez votre cascade de pilote
+
+300
+00:11:06,300 --> 00:11:08,279
+transverse
+
+301
+00:11:08,279 --> 00:11:10,980
+vous choisissez de continuer comme on a
+
+302
+00:11:10,980 --> 00:11:13,380
+toujours fait l'outil en question il
+
+303
+00:11:13,380 --> 00:11:14,640
+coûte cher
+
+304
+00:11:14,640 --> 00:11:17,760
+donc on va amortir les licences ou bien
+
+305
+00:11:17,760 --> 00:11:22,140
+ok allez-y tester mais moi
+
+306
+00:11:22,140 --> 00:11:24,060
+en échange je veux quand même mes
+
+307
+00:11:24,060 --> 00:11:26,899
+indicateurs transverses
+
+308
+00:11:27,360 --> 00:11:29,880
+à qui c'est arrivé
+
+309
+00:11:29,880 --> 00:11:32,579
+de pouvoir choisir son outil en vrai
+
+310
+00:11:32,579 --> 00:11:34,680
+oh bravo je veux le nom de l'entreprise
+
+311
+00:11:34,680 --> 00:11:37,860
+du coup on en parlera après
+
+312
+00:11:37,860 --> 00:11:40,860
+mais en vrai alors quand même pour la
+
+313
+00:11:40,860 --> 00:11:42,420
+petite histoire la première étape ça a
+
+314
+00:11:42,420 --> 00:11:43,200
+été de demander les droits
+
+315
+00:11:43,200 --> 00:11:46,380
+administrateurs sur l'outil girafe qu'on
+
+316
+00:11:46,380 --> 00:11:47,519
+n'a pas eu parce que vous pensez bien
+
+317
+00:11:47,519 --> 00:11:50,700
+que d'un niveau sécurité c'est très
+
+318
+00:11:50,700 --> 00:11:53,399
+grave si on change une fonctionnalité ou
+
+319
+00:11:53,399 --> 00:11:55,980
+la vélocité de l'équipe d'à côté vous
+
+320
+00:11:55,980 --> 00:11:59,040
+pensez bien donc non il a fallu amortir
+
+321
+00:11:59,040 --> 00:12:00,959
+les licences et continuer d'utiliser
+
+322
+00:12:00,959 --> 00:12:04,339
+l'outil en question donc
+
+323
+00:12:04,440 --> 00:12:05,540
+alors
+
+324
+00:12:05,540 --> 00:12:08,279
+méchants sont figés on ne peut pas en
+
+325
+00:12:08,279 --> 00:12:10,560
+rajouter je vous rappelle donc dans
+
+326
+00:12:10,560 --> 00:12:13,260
+quelle case moi en tant que testeur je
+
+327
+00:12:13,260 --> 00:12:16,620
+peux rajouter cette information
+
+328
+00:12:16,620 --> 00:12:19,320
+pour que ça parle et sans détruire les
+
+329
+00:12:19,320 --> 00:12:20,760
+indicateurs transverses qui seront créés
+
+330
+00:12:20,760 --> 00:12:23,399
+automatiquement sur ce champ là par
+
+331
+00:12:23,399 --> 00:12:25,260
+exemple impossible dans ce cas là
+
+332
+00:12:25,260 --> 00:12:27,240
+d'utiliser un champ existant parce que
+
+333
+00:12:27,240 --> 00:12:29,399
+ce champ existant va être calculé
+
+334
+00:12:29,399 --> 00:12:30,860
+automatiquement pour quelque chose après
+
+335
+00:12:30,860 --> 00:12:34,440
+donc soit j'ai le choix de pourrir le
+
+336
+00:12:34,440 --> 00:12:36,180
+suivi transverse mais moi je fais mon
+
+337
+00:12:36,180 --> 00:12:38,519
+suivi opérationnel soit l'inverse je
+
+338
+00:12:38,519 --> 00:12:39,959
+respecte ça je n'ai rien dans le champ
+
+339
+00:12:39,959 --> 00:12:41,579
+mais du coup moi ce que j'ai besoin de
+
+340
+00:12:41,579 --> 00:12:43,980
+suivre bah je vais faire un lien Excel
+
+341
+00:12:43,980 --> 00:12:45,600
+je vais faire un lien vers un autre pad
+
+342
+00:12:45,600 --> 00:12:48,600
+voilà pas top
+
+343
+00:12:48,600 --> 00:12:50,040
+pourquoi je peux pas rajouter champ là
+
+344
+00:12:50,040 --> 00:12:52,079
+réponse tout à l'heure tu es pas
+
+345
+00:12:52,079 --> 00:12:54,000
+administratrice il nous faudrait un
+
+346
+00:12:54,000 --> 00:12:55,139
+niveau de sous tâche supplémentaire mais
+
+347
+00:12:55,139 --> 00:12:57,420
+on ne peut pas le faire bon bah tant pis
+
+348
+00:12:57,420 --> 00:12:59,880
+un suivi opérationnel en moins et
+
+349
+00:12:59,880 --> 00:13:01,320
+mettez-vous à la place de votre pauvre
+
+350
+00:13:01,320 --> 00:13:02,880
+producteur
+
+351
+00:13:02,880 --> 00:13:04,500
+qui lui a le cul entre deux chaises
+
+352
+00:13:04,500 --> 00:13:08,519
+entre l'équipe qui n'y arrive pas et le
+
+353
+00:13:08,519 --> 00:13:09,720
+pilote transverse qui demande ses
+
+354
+00:13:09,720 --> 00:13:11,940
+indicateurs quoi qu'il arrive et qui
+
+355
+00:13:11,940 --> 00:13:14,160
+juge en plus ces indicateurs quoi qu'il
+
+356
+00:13:14,160 --> 00:13:16,339
+arrive
+
+357
+00:13:16,440 --> 00:13:18,600
+donc là je pense que c'est un fail on
+
+358
+00:13:18,600 --> 00:13:21,000
+perd du temps on y arrive pas et pire
+
+359
+00:13:21,000 --> 00:13:23,760
+que tout le jour où vous entendez Fanny
+
+360
+00:13:23,760 --> 00:13:25,500
+enfin vous mettez votre prénom la place
+
+361
+00:13:25,500 --> 00:13:27,360
+de Fanny Fanny quand est-ce qu'on
+
+362
+00:13:27,360 --> 00:13:28,760
+commence à développer
+
+363
+00:13:28,760 --> 00:13:32,160
+là c'est pas un bon signe c'est qu'on a
+
+364
+00:13:32,160 --> 00:13:34,079
+foiré quelque chose
+
+365
+00:13:34,079 --> 00:13:36,480
+mais heureusement vous n'êtes pas ce
+
+366
+00:13:36,480 --> 00:13:38,639
+genre de pilote transverses et on va
+
+367
+00:13:38,639 --> 00:13:40,620
+permettre à l'équipe de Lily de choisir
+
+368
+00:13:40,620 --> 00:13:43,740
+son outil de suivi opérationnel toujours
+
+369
+00:13:43,740 --> 00:13:45,660
+à condition parce que stratégiquement on
+
+370
+00:13:45,660 --> 00:13:47,100
+a toujours besoin de suivre des
+
+371
+00:13:47,100 --> 00:13:48,800
+indicateurs de fournir des choses
+
+372
+00:13:48,800 --> 00:13:52,260
+comment dire consolider au pilote donc
+
+373
+00:13:52,260 --> 00:13:54,000
+allons-y
+
+374
+00:13:54,000 --> 00:13:56,220
+l'équipe se choisit un outil qui est
+
+375
+00:13:56,220 --> 00:13:58,019
+assez sympa car c'est fluide mais
+
+376
+00:13:58,019 --> 00:13:59,820
+toujours pas de publicité on va
+
+377
+00:13:59,820 --> 00:14:03,660
+l'appeler crélo et elle teste alors ça
+
+378
+00:14:03,660 --> 00:14:05,459
+demande quand même une montée comment
+
+379
+00:14:05,459 --> 00:14:07,440
+dire pas en compétence mais en prise en
+
+380
+00:14:07,440 --> 00:14:10,019
+main c'est pas forcément fluide on se
+
+381
+00:14:10,019 --> 00:14:11,160
+rend compte aussi de la difficulté de
+
+382
+00:14:11,160 --> 00:14:13,079
+l'importance d'avoir un workflow qui se
+
+383
+00:14:13,079 --> 00:14:15,019
+tient c'est pas n'importe quoi
+
+384
+00:14:15,019 --> 00:14:19,260
+dans Jura girafe
+
+385
+00:14:21,860 --> 00:14:23,880
+dans le girafe c'est peut-être quelque
+
+386
+00:14:23,880 --> 00:14:25,620
+chose d'assez visuel d'entrer l'eau ça
+
+387
+00:14:25,620 --> 00:14:27,959
+vient grêlo c'est un petit peu moins la
+
+388
+00:14:27,959 --> 00:14:31,980
+fatigue donc sur l'outil l'équipe arrive
+
+389
+00:14:31,980 --> 00:14:34,980
+à proposer petit à petit des
+
+390
+00:14:34,980 --> 00:14:37,019
+améliorations et comment elle peut faire
+
+391
+00:14:37,019 --> 00:14:39,899
+ça parce qu'elle a la main sur son outil
+
+392
+00:14:39,899 --> 00:14:41,760
+opérationnel parce qu'elle est maître de
+
+393
+00:14:41,760 --> 00:14:43,320
+ce qu'elle fait parce qu'elle peut
+
+394
+00:14:43,320 --> 00:14:45,360
+tester des choses les approuver ou les
+
+395
+00:14:45,360 --> 00:14:47,279
+désapprouver bien entendu mais elle va
+
+396
+00:14:47,279 --> 00:14:49,800
+vite se dire si c'est OK ou pas
+
+397
+00:14:49,800 --> 00:14:51,360
+et dans ce cas là en tout cas c'est
+
+398
+00:14:51,360 --> 00:14:53,639
+notre cas nous dit la deuxième itération
+
+399
+00:14:53,639 --> 00:14:54,839
+s'est rendu compte qu'il nous manquait
+
+400
+00:14:54,839 --> 00:14:57,180
+un état qui était les tests
+
+401
+00:14:57,180 --> 00:14:59,699
+d'accessibilité et ça tombe bien parce
+
+402
+00:14:59,699 --> 00:15:01,079
+que Lily elle avait en plus une
+
+403
+00:15:01,079 --> 00:15:02,639
+casquette là dessus donc elle va pouvoir
+
+404
+00:15:02,639 --> 00:15:04,740
+aider le testeur officiel de l'équipe à
+
+405
+00:15:04,740 --> 00:15:07,639
+faire les tests d'accessibilité
+
+406
+00:15:08,820 --> 00:15:11,600
+donc quand ça
+
+407
+00:15:11,699 --> 00:15:14,160
+on a mis un pied supplémentaire dans la
+
+408
+00:15:14,160 --> 00:15:15,779
+motivation de l'équipe elle a été
+
+409
+00:15:15,779 --> 00:15:18,540
+entendue elle a pu se sentir légitime à
+
+410
+00:15:18,540 --> 00:15:20,940
+tester à innover quelque chose là on
+
+411
+00:15:20,940 --> 00:15:24,180
+parle d'un outil de suivi mais comme
+
+412
+00:15:24,180 --> 00:15:26,459
+elle a eu le droit de le faire qui vous
+
+413
+00:15:26,459 --> 00:15:28,199
+dit que ben quand on va parler stack
+
+414
+00:15:28,199 --> 00:15:29,820
+technique quand on va parler nouvelle
+
+415
+00:15:29,820 --> 00:15:32,399
+archi quand on va parler de refactoring
+
+416
+00:15:32,399 --> 00:15:33,959
+elle va pas justement laisser libre
+
+417
+00:15:33,959 --> 00:15:36,480
+cours à son imagination pour fournir la
+
+418
+00:15:36,480 --> 00:15:38,760
+meilleure qui soit derrière
+
+419
+00:15:38,760 --> 00:15:40,199
+ce sentiment de légitimité est très
+
+420
+00:15:40,199 --> 00:15:43,019
+important et enfin la confiance aussi
+
+421
+00:15:43,019 --> 00:15:46,980
+pour innover et tester donc bravo en
+
+422
+00:15:46,980 --> 00:15:49,079
+tant pis notre transverse vous avez
+
+423
+00:15:49,079 --> 00:15:52,579
+rendu une deuxième clé à votre équipe
+
+424
+00:15:54,360 --> 00:15:56,160
+troisième c'est net
+
+425
+00:15:56,160 --> 00:15:58,440
+au bout de la troisième itération malgré
+
+426
+00:15:58,440 --> 00:15:59,339
+tout ce qu'on vient de mettre en place
+
+427
+00:15:59,339 --> 00:16:02,459
+malgré le fait qu'on pense être dans la
+
+428
+00:16:02,459 --> 00:16:04,380
+meilleure organisation possible l'équipe
+
+429
+00:16:04,380 --> 00:16:06,720
+rencontre des bouchons justement sur
+
+430
+00:16:06,720 --> 00:16:09,000
+l'étape de test
+
+431
+00:16:09,000 --> 00:16:11,399
+et c'est un petit peu logique le testeur
+
+432
+00:16:11,399 --> 00:16:14,220
+qui jusque là assurait les tests d'une
+
+433
+00:16:14,220 --> 00:16:16,139
+développeuse maintenant il en a deux en
+
+434
+00:16:16,139 --> 00:16:17,339
+face
+
+435
+00:16:17,339 --> 00:16:18,959
+donc équipe se pose la question bah
+
+436
+00:16:18,959 --> 00:16:21,060
+pourtant de notre point de vue on est
+
+437
+00:16:21,060 --> 00:16:22,139
+organisé de la meilleure façon qui soit
+
+438
+00:16:22,139 --> 00:16:23,959
+mais je sais pas si vous avez remarqué
+
+439
+00:16:23,959 --> 00:16:27,180
+dans l'équipe Scrum de Lily il y a pas
+
+440
+00:16:27,180 --> 00:16:29,279
+de crème master donc peut-être qu'il y a
+
+441
+00:16:29,279 --> 00:16:31,380
+ce manque de connaissances là
+
+442
+00:16:31,380 --> 00:16:33,480
+heureusement
+
+443
+00:16:33,480 --> 00:16:37,320
+dans l'entreprise de Lili il bénéficie
+
+444
+00:16:37,320 --> 00:16:40,079
+d'un coach agile
+
+445
+00:16:40,079 --> 00:16:41,519
+oui parce que le coachage est souvent
+
+446
+00:16:41,519 --> 00:16:44,160
+tout seul dans certaines missions pour
+
+447
+00:16:44,160 --> 00:16:45,959
+l'entreprise les directeurs les managers
+
+448
+00:16:45,959 --> 00:16:48,180
+et l'ensemble des équipes
+
+449
+00:16:48,180 --> 00:16:49,860
+donc Lily va avoir le coach agile vous
+
+450
+00:16:49,860 --> 00:16:53,540
+avez la casquette de coach agile
+
+451
+00:16:54,120 --> 00:16:57,120
+il y en a qui ont choisi par rapport à
+
+452
+00:16:57,120 --> 00:16:59,699
+la demande de l'équipe bah nous sur ce
+
+453
+00:16:59,699 --> 00:17:02,639
+truc là on a un problème sur l'étape à
+
+454
+00:17:02,639 --> 00:17:04,820
+tester
+
+455
+00:17:05,099 --> 00:17:07,380
+on se positionne en tant que référent on
+
+456
+00:17:07,380 --> 00:17:08,220
+sait qu'il y a des choses qui ont
+
+457
+00:17:08,220 --> 00:17:09,959
+fonctionné dans d'autres équipes on a
+
+458
+00:17:09,959 --> 00:17:11,160
+suffisamment d'expérience et de vécu
+
+459
+00:17:11,160 --> 00:17:13,140
+pour le savoir donc on conseille à
+
+460
+00:17:13,140 --> 00:17:14,699
+l'équipe de faire un maximum de tâches
+
+461
+00:17:14,699 --> 00:17:17,120
+en parallèle
+
+462
+00:17:18,059 --> 00:17:19,199
+on va prendre le temps de faire
+
+463
+00:17:19,199 --> 00:17:22,079
+s'inspecter l'équipe de Lily et de voir
+
+464
+00:17:22,079 --> 00:17:24,660
+quel pourrait être le
+
+465
+00:17:24,660 --> 00:17:27,419
+ou les façons de faire là où les façons
+
+466
+00:17:27,419 --> 00:17:30,380
+de faire pour s'en sortir
+
+467
+00:17:30,480 --> 00:17:32,760
+qui choisit le premier de conseiller un
+
+468
+00:17:32,760 --> 00:17:35,460
+maximum de tâches en parallèle
+
+469
+00:17:35,460 --> 00:17:37,020
+c'est facile vous avez la solution merci
+
+470
+00:17:37,020 --> 00:17:40,039
+Monsieur sadique ici
+
+471
+00:17:40,919 --> 00:17:42,660
+et vous êtes tous persuadés qu'il faut
+
+472
+00:17:42,660 --> 00:17:43,679
+prendre le temps du coup de faire
+
+473
+00:17:43,679 --> 00:17:46,280
+s'inspecter l'équipe ouais mais en vrai
+
+474
+00:17:46,280 --> 00:17:48,840
+vous êtes débordé vous avez pas le temps
+
+475
+00:17:48,840 --> 00:17:51,419
+et vous intéressez pas au truc plus que
+
+476
+00:17:51,419 --> 00:17:54,539
+ça donc vécu
+
+477
+00:17:54,539 --> 00:17:56,940
+on va dire à l'équipe débrouille-toi
+
+478
+00:17:56,940 --> 00:17:58,559
+avec ça
+
+479
+00:17:58,559 --> 00:18:00,299
+et nous à l'époque en tant qu'épip bah
+
+480
+00:18:00,299 --> 00:18:02,100
+on a mal interprété le maximum de tâches
+
+481
+00:18:02,100 --> 00:18:04,039
+en parallèle et c'est normal en débutait
+
+482
+00:18:04,039 --> 00:18:08,039
+on a compris ça comme maximum de tâches
+
+483
+00:18:08,039 --> 00:18:10,740
+en parallèle par personne
+
+484
+00:18:10,740 --> 00:18:12,360
+et vous allez voir pourquoi c'est pas
+
+485
+00:18:12,360 --> 00:18:14,340
+bon
+
+486
+00:18:14,340 --> 00:18:16,020
+donc on regarde notre backlog déjà
+
+487
+00:18:16,020 --> 00:18:18,000
+clairement on sait que c'est pas bon il
+
+488
+00:18:18,000 --> 00:18:19,860
+y en a qui sont sur trois tâches donc on
+
+489
+00:18:19,860 --> 00:18:21,919
+va réduire et qu'est-ce qui se passe
+
+490
+00:18:21,919 --> 00:18:24,059
+logiquement et humainement parlant quand
+
+491
+00:18:24,059 --> 00:18:25,740
+vous devez réduire votre nombre de
+
+492
+00:18:25,740 --> 00:18:28,140
+tâches en parallèle
+
+493
+00:18:28,140 --> 00:18:29,580
+vous allez vous focuser sur votre
+
+494
+00:18:29,580 --> 00:18:31,799
+expertise
+
+495
+00:18:31,799 --> 00:18:33,299
+et Lily elle a pas été embauchée pour
+
+496
+00:18:33,299 --> 00:18:35,100
+faire les tests l'idée était embauché
+
+497
+00:18:35,100 --> 00:18:37,020
+pour faire des dev donc elle va arrêter
+
+498
+00:18:37,020 --> 00:18:38,580
+de tester
+
+499
+00:18:38,580 --> 00:18:40,799
+et d'aider son testeur
+
+500
+00:18:40,799 --> 00:18:42,840
+donc le temps file on pensait avoir
+
+501
+00:18:42,840 --> 00:18:45,120
+compris on se dit cool on écoute le
+
+502
+00:18:45,120 --> 00:18:46,620
+coach agile on va devenir super bon en
+
+503
+00:18:46,620 --> 00:18:49,380
+hiver et puis quelques temps après
+
+504
+00:18:49,380 --> 00:18:51,480
+qu'est-ce qui se passe
+
+505
+00:18:51,480 --> 00:18:53,820
+le problème il est plus sur la colonne à
+
+506
+00:18:53,820 --> 00:18:57,480
+tester le problème il est
+
+507
+00:18:57,480 --> 00:18:59,460
+sur le testeur c'est lui c'est de sa
+
+508
+00:18:59,460 --> 00:19:01,320
+faute si ça avance pas c'est lui le
+
+509
+00:19:01,320 --> 00:19:02,940
+point bloquant alors en vrai je vous le
+
+510
+00:19:02,940 --> 00:19:04,020
+souhaite pas parce que quand il y a de
+
+511
+00:19:04,020 --> 00:19:05,460
+la méfiance qui se crée dans l'équipe
+
+512
+00:19:05,460 --> 00:19:08,340
+c'est déjà limite trop tard mais c'est
+
+513
+00:19:08,340 --> 00:19:11,460
+ça qui se passe de temps en temps
+
+514
+00:19:11,460 --> 00:19:12,679
+donc non
+
+515
+00:19:12,679 --> 00:19:15,660
+on va pas laisser l'équipe se dire on
+
+516
+00:19:15,660 --> 00:19:16,740
+est nul on n'a rien compris parce
+
+517
+00:19:16,740 --> 00:19:18,059
+qu'après tout c'est le coaching qui nous
+
+518
+00:19:18,059 --> 00:19:19,500
+l'a dit donc si ça marche pas c'est que
+
+519
+00:19:19,500 --> 00:19:21,780
+c'est nous qui sommes nul non on va pas
+
+520
+00:19:21,780 --> 00:19:24,059
+les laisser penser ça vous n'êtes pas ce
+
+521
+00:19:24,059 --> 00:19:26,520
+genre de coach agile on va prendre le
+
+522
+00:19:26,520 --> 00:19:27,840
+temps
+
+523
+00:19:27,840 --> 00:19:29,640
+d'aider l'équipe et on va faire une
+
+524
+00:19:29,640 --> 00:19:31,500
+pause pour ceux qui pratiquent la
+
+525
+00:19:31,500 --> 00:19:32,720
+rétrospective
+
+526
+00:19:32,720 --> 00:19:35,100
+et pour ceux qui se la font un petit peu
+
+527
+00:19:35,100 --> 00:19:36,360
+voler de temps en temps parce que ce
+
+528
+00:19:36,360 --> 00:19:38,760
+n'est qu'une réunion on se plaint non ça
+
+529
+00:19:38,760 --> 00:19:39,900
+a son importance et vous allez voir
+
+530
+00:19:39,900 --> 00:19:41,760
+pourquoi
+
+531
+00:19:41,760 --> 00:19:44,160
+donc on va venir en tant que coach comme
+
+532
+00:19:44,160 --> 00:19:46,860
+un support oui on en a vu des vertèbres
+
+533
+00:19:46,860 --> 00:19:49,320
+des pas mûres oui on sait ce qui peut ce
+
+534
+00:19:49,320 --> 00:19:51,000
+qui pourrait fonctionner ou pas mais
+
+535
+00:19:51,000 --> 00:19:52,320
+l'important c'est de l'adapter à
+
+536
+00:19:52,320 --> 00:19:54,360
+l'équipe qui en a besoin de cette
+
+537
+00:19:54,360 --> 00:19:56,340
+solution donc oui on va présenter ce que
+
+538
+00:19:56,340 --> 00:19:58,620
+c'est le VIP le Working progresse le
+
+539
+00:19:58,620 --> 00:20:00,419
+maximum de tâches en parallèle et c'est
+
+540
+00:20:00,419 --> 00:20:03,120
+surtout pas sur par personne mais par
+
+541
+00:20:03,120 --> 00:20:06,539
+état du produit comme ça on n'empêche
+
+542
+00:20:06,539 --> 00:20:08,160
+pas l'entraide mais il y a pourra
+
+543
+00:20:08,160 --> 00:20:10,080
+toujours aider son testeur sur les
+
+544
+00:20:10,080 --> 00:20:13,080
+thèses d'accessibilité on va parler de
+
+545
+00:20:13,080 --> 00:20:16,200
+définition du ready du prêt est-ce qu'on
+
+546
+00:20:16,200 --> 00:20:18,179
+a suffisamment les bonnes choses clés en
+
+547
+00:20:18,179 --> 00:20:20,400
+main pour aider finalement notre testeur
+
+548
+00:20:20,400 --> 00:20:22,200
+après par la suite parce qu'il y a pas
+
+549
+00:20:22,200 --> 00:20:24,240
+des choses à faire en amont avec lui
+
+550
+00:20:24,240 --> 00:20:26,460
+plutôt que de les laisser prendre tout
+
+551
+00:20:26,460 --> 00:20:27,900
+ce qui est réalisé le tester dans son
+
+552
+00:20:27,900 --> 00:20:30,900
+coin on va parler qualité il y a plein
+
+553
+00:20:30,900 --> 00:20:33,480
+plein de choses dont on peut parler et
+
+554
+00:20:33,480 --> 00:20:35,039
+présenter à l'équipe en tout cas vous
+
+555
+00:20:35,039 --> 00:20:37,140
+voyez bien qu'il y a un transfert de
+
+556
+00:20:37,140 --> 00:20:40,559
+connaissances d'outils de process
+
+557
+00:20:40,559 --> 00:20:42,539
+à donner à l'équipe pour que elle-même
+
+558
+00:20:42,539 --> 00:20:45,740
+ensuite choisissent ça ou ces solutions
+
+559
+00:20:45,740 --> 00:20:49,260
+et pareil on teste on peut approuver on
+
+560
+00:20:49,260 --> 00:20:51,120
+peut les approuver mais on teste vite
+
+561
+00:20:51,120 --> 00:20:53,760
+fait face et on se rencontre vite si
+
+562
+00:20:53,760 --> 00:20:56,640
+c'est bien la solution qui adéquate en
+
+563
+00:20:56,640 --> 00:20:58,740
+l'occurrence nous très clairement on est
+
+564
+00:20:58,740 --> 00:21:01,559
+des pas du tout notre destin on
+
+565
+00:21:01,559 --> 00:21:03,419
+n'écrivait pas du tout nos tests ou non
+
+566
+00:21:03,419 --> 00:21:05,580
+passant dès le départ du coup on cumulé
+
+567
+00:21:05,580 --> 00:21:08,580
+des développements avec des tests
+
+568
+00:21:08,580 --> 00:21:12,240
+unitaires plus ou moins performants et
+
+569
+00:21:12,240 --> 00:21:14,039
+lui on le laissait sans test automatiser
+
+570
+00:21:14,039 --> 00:21:16,260
+sans test pré-écrit donc forcément ça
+
+571
+00:21:16,260 --> 00:21:18,059
+s'accumule chez lui
+
+572
+00:21:18,059 --> 00:21:20,340
+bref prenez le temps de faire des
+
+573
+00:21:20,340 --> 00:21:22,919
+rétrospectives mais utile vous râler et
+
+574
+00:21:22,919 --> 00:21:25,760
+après vous trouvez des solutions
+
+575
+00:21:25,799 --> 00:21:27,660
+donc là on vient de mettre une petite
+
+576
+00:21:27,660 --> 00:21:28,919
+graine dans l'amélioration continue de
+
+577
+00:21:28,919 --> 00:21:30,720
+l'équipe parce qu'il y a la meilleure
+
+578
+00:21:30,720 --> 00:21:32,580
+façon continue du produit mais aussi de
+
+579
+00:21:32,580 --> 00:21:35,039
+l'équipe comment elle interagit quel
+
+580
+00:21:35,039 --> 00:21:38,700
+outil elle utilise les process etc et
+
+581
+00:21:38,700 --> 00:21:40,320
+encore une fois vous lui donnez la
+
+582
+00:21:40,320 --> 00:21:42,419
+légitimité de tester par rapport à ce
+
+583
+00:21:42,419 --> 00:21:44,940
+qu'elle vit en vrai pas par rapport à ce
+
+584
+00:21:44,940 --> 00:21:48,240
+que lui dit un coach agile
+
+585
+00:21:48,240 --> 00:21:50,760
+donc bravo coach agile pouvez vous
+
+586
+00:21:50,760 --> 00:21:52,440
+reconvertir vous avez vu vous êtes
+
+587
+00:21:52,440 --> 00:21:53,880
+d'excellents coach agiles aussi
+
+588
+00:21:53,880 --> 00:21:58,280
+troisième clé rendu à votre équipe
+
+589
+00:21:58,320 --> 00:22:01,039
+le temps passe
+
+590
+00:22:01,140 --> 00:22:04,799
+le temps passe on arrive à une délit un
+
+591
+00:22:04,799 --> 00:22:06,360
+peu proche de ce qu'on appelle la revue
+
+592
+00:22:06,360 --> 00:22:08,520
+d'itération donc c'est le moment on va
+
+593
+00:22:08,520 --> 00:22:10,320
+venir raconter notre itération on va
+
+594
+00:22:10,320 --> 00:22:12,419
+venir aussi démontrer ce qu'on a réussi
+
+595
+00:22:12,419 --> 00:22:14,039
+à faire et on va prendre du feedback
+
+596
+00:22:14,039 --> 00:22:15,960
+dessus
+
+597
+00:22:15,960 --> 00:22:18,000
+et la délit d'avant bah Lili elle est
+
+598
+00:22:18,000 --> 00:22:19,799
+super contente tout ce qu'elle pensait
+
+599
+00:22:19,799 --> 00:22:21,480
+de voir prendre en charge elle a
+
+600
+00:22:21,480 --> 00:22:23,940
+quasiment terminé bon ok c'est que des
+
+601
+00:22:23,940 --> 00:22:26,640
+petites fonctionnalités des buts
+
+602
+00:22:26,640 --> 00:22:27,780
+ça apporte pas forcément beaucoup de
+
+603
+00:22:27,780 --> 00:22:29,880
+valeur mais elle est contente elle va
+
+604
+00:22:29,880 --> 00:22:31,400
+avoir un indicateur de performance
+
+605
+00:22:31,400 --> 00:22:34,500
+individuelle au top et ce dès les
+
+606
+00:22:34,500 --> 00:22:36,659
+premières itération
+
+607
+00:22:36,659 --> 00:22:38,880
+sauf qu'en face vous avez déjà écrit ce
+
+608
+00:22:38,880 --> 00:22:41,220
+qui eux galèrent un petit peu sur la
+
+609
+00:22:41,220 --> 00:22:42,480
+fonctionnalité qui avait été absolument
+
+610
+00:22:42,480 --> 00:22:46,020
+demandé par l'utilisateur final et donc
+
+611
+00:22:46,020 --> 00:22:48,799
+très attendu donc il remonte leur galère
+
+612
+00:22:48,799 --> 00:22:50,640
+et je sais pas si vous connaissez un
+
+613
+00:22:50,640 --> 00:22:52,200
+petit peu comment ça se passe les
+
+614
+00:22:52,200 --> 00:22:54,240
+délires c'est qu'est-ce que tu as fait
+
+615
+00:22:54,240 --> 00:22:56,520
+hier qui aide l'équipe à atteindre
+
+616
+00:22:56,520 --> 00:22:58,140
+l'objectif de sprint qu'est-ce que tu
+
+617
+00:22:58,140 --> 00:22:59,640
+vas faire aujourd'hui qui aide l'équipe
+
+618
+00:22:59,640 --> 00:23:01,380
+à atteindre l'objectif de sprint et
+
+619
+00:23:01,380 --> 00:23:03,360
+quels sont tes blocages il est possible
+
+620
+00:23:03,360 --> 00:23:05,100
+d'obstacles
+
+621
+00:23:05,100 --> 00:23:07,140
+et puis voilà on a fait le tour la
+
+622
+00:23:07,140 --> 00:23:09,740
+délice termine
+
+623
+00:23:09,900 --> 00:23:11,820
+on va se mettre à la place de Lili vous
+
+624
+00:23:11,820 --> 00:23:13,559
+mettez votre casquette de développeur et
+
+625
+00:23:13,559 --> 00:23:15,539
+développeuse j'espère que c'est pas trop
+
+626
+00:23:15,539 --> 00:23:18,780
+dur et qu'est-ce qu'on fait par rapport
+
+627
+00:23:18,780 --> 00:23:21,659
+à ça est-ce que on se concentre sur
+
+628
+00:23:21,659 --> 00:23:23,280
+notre propre tâche on aura un super café
+
+629
+00:23:23,280 --> 00:23:25,260
+et on aura peut-être une augmentation RH
+
+630
+00:23:25,260 --> 00:23:27,960
+à la fin d'année ou
+
+631
+00:23:27,960 --> 00:23:29,880
+on décide de prêter ma forte à la
+
+632
+00:23:29,880 --> 00:23:31,500
+hauteur de ce qu'on peut faire et de nos
+
+633
+00:23:31,500 --> 00:23:34,640
+connaissances au reste de l'équipe
+
+634
+00:23:35,400 --> 00:23:37,380
+qui choisit le 1
+
+635
+00:23:37,380 --> 00:23:39,679
+ouais
+
+636
+00:23:39,780 --> 00:23:44,460
+et en vrai qui applique vraiment le 2
+
+637
+00:23:44,460 --> 00:23:46,200
+je suis fière de vous
+
+638
+00:23:46,200 --> 00:23:48,480
+petite anecdote le nombre de fois où
+
+639
+00:23:48,480 --> 00:23:50,159
+quand je suis intervenu dans une équipe
+
+640
+00:23:50,159 --> 00:23:53,059
+peu importe en Dave en archi
+
+641
+00:23:53,059 --> 00:23:56,600
+en master j'ai entendu non mais Fanny
+
+642
+00:23:56,600 --> 00:23:58,559
+moi dans mon contrat il y a pas écrit
+
+643
+00:23:58,559 --> 00:24:01,559
+que je dois aider l'équipe
+
+644
+00:24:01,559 --> 00:24:04,020
+j'ai les poils qui se hérissent encore
+
+645
+00:24:04,020 --> 00:24:06,120
+donc on va se concentrer sur nos propres
+
+646
+00:24:06,120 --> 00:24:07,380
+tâches
+
+647
+00:24:07,380 --> 00:24:09,480
+et on a bien fait parce qu'à la
+
+648
+00:24:09,480 --> 00:24:11,340
+répétition de la démonstration vous
+
+649
+00:24:11,340 --> 00:24:13,919
+faites des répétitions de démo
+
+650
+00:24:13,919 --> 00:24:15,900
+il y a pas grand monde qui a plus de 35
+
+651
+00:24:15,900 --> 00:24:18,320
+ans mais l'effet Bonaldi vous connaissez
+
+652
+00:24:18,320 --> 00:24:21,960
+on évite on essaie de répéter ou en tout
+
+653
+00:24:21,960 --> 00:24:24,419
+cas on s'assure que là on va faire la
+
+654
+00:24:24,419 --> 00:24:27,000
+démonstration ça se tient et même si
+
+655
+00:24:27,000 --> 00:24:28,620
+c'est sur environ votre environnement de
+
+656
+00:24:28,620 --> 00:24:29,580
+dev à la rigueur c'est mieux qu'un
+
+657
+00:24:29,580 --> 00:24:32,640
+Powerpoint mais bref on répète et il y a
+
+658
+00:24:32,640 --> 00:24:34,140
+les super contente regardez tout ce que
+
+659
+00:24:34,140 --> 00:24:35,640
+j'ai réussi à faire on va pouvoir
+
+660
+00:24:35,640 --> 00:24:37,919
+montrer ça à l'utilisateur
+
+661
+00:24:37,919 --> 00:24:39,480
+ouais c'est cool on a changé la couleur
+
+662
+00:24:39,480 --> 00:24:40,940
+d'un bouton
+
+663
+00:24:40,940 --> 00:24:44,419
+ouais c'est bien on a changé le menu
+
+664
+00:24:44,419 --> 00:24:47,340
+et vous Jack et Chris bah nous on est
+
+665
+00:24:47,340 --> 00:24:48,900
+super frustré parce que comme vous l'a
+
+666
+00:24:48,900 --> 00:24:51,059
+dit en délire on va pas arriver à sortir
+
+667
+00:24:51,059 --> 00:24:53,220
+le truc merde la vache bah c'est ce
+
+668
+00:24:53,220 --> 00:24:54,299
+qu'on voulait montrer aux clients en
+
+669
+00:24:54,299 --> 00:24:56,400
+priorité donc en fait là il y a double
+
+670
+00:24:56,400 --> 00:24:57,840
+frustration
+
+671
+00:24:57,840 --> 00:24:59,820
+il y a votre équipe qui est frustré
+
+672
+00:24:59,820 --> 00:25:02,340
+parce qu'on va pas livrer la réelle
+
+673
+00:25:02,340 --> 00:25:04,620
+valeur et vous avez Lily qui a bossé
+
+674
+00:25:04,620 --> 00:25:06,179
+comme une dingue sur ces trucs qui a
+
+675
+00:25:06,179 --> 00:25:07,679
+fini et qui a aucune reconnaissance de
+
+676
+00:25:07,679 --> 00:25:09,780
+son travail
+
+677
+00:25:09,780 --> 00:25:12,720
+donc ça non plus je vous le souhaite pas
+
+678
+00:25:12,720 --> 00:25:14,760
+mais vous n'êtes pas ce genre de
+
+679
+00:25:14,760 --> 00:25:17,100
+développeur et développeuse vous allez
+
+680
+00:25:17,100 --> 00:25:19,140
+être à l'écoute de vos petits collègues
+
+681
+00:25:19,140 --> 00:25:21,179
+et vous allez les aider comme vous le
+
+682
+00:25:21,179 --> 00:25:24,179
+pouvez en l'occurrence la fameuse délai
+
+683
+00:25:24,179 --> 00:25:26,400
+ou Jackie sont demandées de l'aide je
+
+684
+00:25:26,400 --> 00:25:27,720
+sais pas si vous avez vécu ça des délits
+
+685
+00:25:27,720 --> 00:25:29,159
+en présentiel on est tous dans la même
+
+686
+00:25:29,159 --> 00:25:31,700
+salle donc entre 7 et 8 personnes
+
+687
+00:25:31,700 --> 00:25:33,900
+quelqu'un dit j'ai besoin d'aide
+
+688
+00:25:33,900 --> 00:25:36,620
+là-dessus et que tout le monde
+
+689
+00:25:36,919 --> 00:25:40,320
+on fait pas ça au contraire on a les
+
+690
+00:25:40,320 --> 00:25:41,880
+côtes on dit bah OK si vous voulez moi
+
+691
+00:25:41,880 --> 00:25:44,039
+je peux regarder j'y connais rien en bac
+
+692
+00:25:44,039 --> 00:25:46,260
+les tests que vous faites bof bof mais
+
+693
+00:25:46,260 --> 00:25:48,179
+je peux vous aider des fois un simple
+
+694
+00:25:48,179 --> 00:25:50,659
+regard extérieur le simple fait de
+
+695
+00:25:50,659 --> 00:25:54,240
+discuter même si ça se trouve Chris ça
+
+696
+00:25:54,240 --> 00:25:55,559
+va expliquer son problème et je sais pas
+
+697
+00:25:55,559 --> 00:25:57,779
+si ça vous le fait mais en expliquant ah
+
+698
+00:25:57,779 --> 00:26:00,200
+oui mais c'est là que ça va pas bref
+
+699
+00:26:00,200 --> 00:26:03,059
+aider un maximum là en l'occurrence nous
+
+700
+00:26:03,059 --> 00:26:05,039
+ce qui s'était passé c'est que Lili
+
+701
+00:26:05,039 --> 00:26:07,620
+avait pris les corrections de test
+
+702
+00:26:07,620 --> 00:26:09,360
+remontés par Jack les plus basiques
+
+703
+00:26:09,360 --> 00:26:11,279
+qu'elle pouvait faire pour laisser
+
+704
+00:26:11,279 --> 00:26:13,559
+justement à Jack le temps de tester les
+
+705
+00:26:13,559 --> 00:26:15,240
+fonctionnalités les plus importantes et
+
+706
+00:26:15,240 --> 00:26:17,880
+à Chris bah de finir les fonctionnalités
+
+707
+00:26:17,880 --> 00:26:20,760
+aussi les plus importantes et on y est
+
+708
+00:26:20,760 --> 00:26:22,679
+arrivé
+
+709
+00:26:22,679 --> 00:26:25,260
+principe de solidarité d'entraide je
+
+710
+00:26:25,260 --> 00:26:26,640
+leur fais pas mais c'est ultra important
+
+711
+00:26:26,640 --> 00:26:27,679
+dans une équipe
+
+712
+00:26:27,679 --> 00:26:30,240
+savoir qu'on peut aller au front en
+
+713
+00:26:30,240 --> 00:26:32,159
+commun et là on va parler d'objectif
+
+714
+00:26:32,159 --> 00:26:35,039
+commun c'est cool les KPI individuels
+
+715
+00:26:35,039 --> 00:26:36,840
+mais au niveau RH il y a des choses qui
+
+716
+00:26:36,840 --> 00:26:38,039
+super intéressantes qui sont faites
+
+717
+00:26:38,039 --> 00:26:39,299
+justement pour faire de la
+
+718
+00:26:39,299 --> 00:26:41,820
+reconnaissance collective et dans
+
+719
+00:26:41,820 --> 00:26:43,620
+l'agilité c'est un petit peu vers ça
+
+720
+00:26:43,620 --> 00:26:46,980
+qu'on va donc ne perdez pas espoir
+
+721
+00:26:46,980 --> 00:26:49,080
+donc bravo en tant que développeur et
+
+722
+00:26:49,080 --> 00:26:50,460
+développeuse vous avez rendu une
+
+723
+00:26:50,460 --> 00:26:53,159
+quatrième clé à votre équipe
+
+724
+00:26:53,159 --> 00:26:54,600
+maintenant qu'il y a quelque chose à
+
+725
+00:26:54,600 --> 00:26:56,400
+montrer alors il y a pas les quatre
+
+726
+00:26:56,400 --> 00:26:58,140
+fonctionnalités qu'on voulait mais il y
+
+727
+00:26:58,140 --> 00:27:00,360
+a les trois principales le producteur va
+
+728
+00:27:00,360 --> 00:27:02,820
+prendre rendez-vous avec le client vous
+
+729
+00:27:02,820 --> 00:27:05,760
+vous avez la casquette de clients
+
+730
+00:27:05,760 --> 00:27:08,700
+et vous dit on a besoin de voir si on
+
+731
+00:27:08,700 --> 00:27:10,260
+est aligné si ça te convient ce qu'on a
+
+732
+00:27:10,260 --> 00:27:11,779
+produit lors de cette itération
+
+733
+00:27:11,779 --> 00:27:14,120
+nos clients va choisir
+
+734
+00:27:14,120 --> 00:27:17,279
+les gars moi je suis sur 50 projets je
+
+735
+00:27:17,279 --> 00:27:19,140
+vous fais confiance on se donne
+
+736
+00:27:19,140 --> 00:27:19,919
+rendez-vous quand il y aura beaucoup
+
+737
+00:27:19,919 --> 00:27:21,419
+plus de fonctionnalités de prêt comme ça
+
+738
+00:27:21,419 --> 00:27:23,760
+on valide tout d'un coup OK
+
+739
+00:27:23,760 --> 00:27:25,559
+ou bien
+
+740
+00:27:25,559 --> 00:27:27,240
+ok je prends je fais une petite pause
+
+741
+00:27:27,240 --> 00:27:29,940
+mais vite fait et on voit si c'est OK ou
+
+742
+00:27:29,940 --> 00:27:33,000
+pas et on passe à la suite
+
+743
+00:27:33,000 --> 00:27:35,700
+comment ça se passe vos démos chez vous
+
+744
+00:27:35,700 --> 00:27:37,860
+qui choisit le 1
+
+745
+00:27:37,860 --> 00:27:40,679
+ouais vous avez déjà entendu ça qui
+
+746
+00:27:40,679 --> 00:27:42,360
+choisit le 2
+
+747
+00:27:42,360 --> 00:27:45,539
+c'est bien on va le voir pourquoi bon on
+
+748
+00:27:45,539 --> 00:27:46,440
+va faire confiance parce qu'on a pas le
+
+749
+00:27:46,440 --> 00:27:47,940
+temps
+
+750
+00:27:47,940 --> 00:27:50,520
+donc on passe d'un backlogue de trois
+
+751
+00:27:50,520 --> 00:27:52,799
+fonctionnalités démontrer à 18
+
+752
+00:27:52,799 --> 00:27:55,020
+fonctionnalités donc forcément on va
+
+753
+00:27:55,020 --> 00:27:56,279
+passer un petit peu plus de temps qu'un
+
+754
+00:27:56,279 --> 00:27:58,380
+quart d'heure on va réserver les trois
+
+755
+00:27:58,380 --> 00:28:00,000
+heures de l'après-midi
+
+756
+00:28:00,000 --> 00:28:04,440
+et on monte ce qu'on a produit au client
+
+757
+00:28:04,440 --> 00:28:06,320
+et là le client vous en l'occurrence
+
+758
+00:28:06,320 --> 00:28:10,640
+vous n'êtes pas du tout content
+
+759
+00:28:10,860 --> 00:28:12,840
+c'est quoi ce navigateur
+
+760
+00:28:12,840 --> 00:28:13,919
+il y a une note interne la semaine
+
+761
+00:28:13,919 --> 00:28:15,059
+dernière vous l'avez pas vu c'est plus
+
+762
+00:28:15,059 --> 00:28:16,860
+du tout supporter et puis ce manus
+
+763
+00:28:16,860 --> 00:28:18,000
+c'était pas du tout comme ça qu'on
+
+764
+00:28:18,000 --> 00:28:20,520
+voulait et puis ça non plus et puis les
+
+765
+00:28:20,520 --> 00:28:22,260
+couleurs bon ok c'est ce que j'avais
+
+766
+00:28:22,260 --> 00:28:23,460
+demandé dans la steak mais vous voyez
+
+767
+00:28:23,460 --> 00:28:25,380
+bien que ça fait moche
+
+768
+00:28:25,380 --> 00:28:27,779
+donc on se retrouve d'une backlogue de
+
+769
+00:28:27,779 --> 00:28:30,299
+18 fonctionnalités on pouvait appuyer
+
+770
+00:28:30,299 --> 00:28:33,320
+sur le bouton Go To prod
+
+771
+00:28:33,659 --> 00:28:36,539
+un backlog de 28 corrections évolution
+
+772
+00:28:36,539 --> 00:28:39,600
+et il y a rien qui peut partir en prod
+
+773
+00:28:39,600 --> 00:28:42,919
+l'état de l'équipe à votre avis
+
+774
+00:28:43,679 --> 00:28:45,179
+on est un peu frustré on a l'impression
+
+775
+00:28:45,179 --> 00:28:46,799
+de faire de la fausse agilité et c'est
+
+776
+00:28:46,799 --> 00:28:47,640
+pas qu'une impression d'ailleurs c'est
+
+777
+00:28:47,640 --> 00:28:49,919
+vrai si le client ne se rend pas
+
+778
+00:28:49,919 --> 00:28:53,279
+disponible régulièrement à quoi bon donc
+
+779
+00:28:53,279 --> 00:28:54,960
+c'est pas ce vers quoi on veut aller et
+
+780
+00:28:54,960 --> 00:28:56,940
+vous aviez raison il fallait faire le
+
+781
+00:28:56,940 --> 00:28:59,400
+second choix avoir des échanges plus
+
+782
+00:28:59,400 --> 00:29:02,340
+nombreux et plus constructif donc dès la
+
+783
+00:29:02,340 --> 00:29:04,380
+première itération on va accepter de
+
+784
+00:29:04,380 --> 00:29:06,419
+passer 10 minutes un quart d'heure si
+
+785
+00:29:06,419 --> 00:29:08,340
+vous n'avez pas beaucoup de choses une
+
+786
+00:29:08,340 --> 00:29:09,360
+itération d'une semaine vous allez pas
+
+787
+00:29:09,360 --> 00:29:10,679
+non plus délivrer 50 milliards de choses
+
+788
+00:29:10,679 --> 00:29:14,000
+mais juste alignez-vous avec le client
+
+789
+00:29:14,000 --> 00:29:16,919
+ok le menu c'est pas bien et ben dès la
+
+790
+00:29:16,919 --> 00:29:18,539
+prochaine itération on le met au bon
+
+791
+00:29:18,539 --> 00:29:20,700
+endroit là un client ils sont écoutés en
+
+792
+00:29:20,700 --> 00:29:22,380
+plus donc vous allez voir que petit à
+
+793
+00:29:22,380 --> 00:29:26,159
+petit il va des réel équipe etc etc donc
+
+794
+00:29:26,159 --> 00:29:27,600
+là
+
+795
+00:29:27,600 --> 00:29:29,279
+amélioration continue du produit c'est
+
+796
+00:29:29,279 --> 00:29:31,140
+très clair on attend pas six mois pour
+
+797
+00:29:31,140 --> 00:29:32,520
+faire l'amélioration continue sinon
+
+798
+00:29:32,520 --> 00:29:33,799
+c'est pas continu
+
+799
+00:29:33,799 --> 00:29:36,000
+on partage enfin une vision commune
+
+800
+00:29:36,000 --> 00:29:37,620
+c'est à dire qu'on y va tous ensemble
+
+801
+00:29:37,620 --> 00:29:40,020
+pas que l'équipe l'agilité c'est pas que
+
+802
+00:29:40,020 --> 00:29:43,140
+pour l'équipe c'est pour tout le monde
+
+803
+00:29:43,140 --> 00:29:44,460
+il y a un principe d'adhésion à l'équipe
+
+804
+00:29:44,460 --> 00:29:47,039
+dont je vous parlais un truc assez sympa
+
+805
+00:29:47,039 --> 00:29:48,539
+qui se faisait un petit peu plus dans le
+
+806
+00:29:48,539 --> 00:29:50,340
+monde d'avant pour le coup mais plus on
+
+807
+00:29:50,340 --> 00:29:52,200
+travaille ensemble et plus il y a un
+
+808
+00:29:52,200 --> 00:29:53,340
+rapprochement du client par rapport à
+
+809
+00:29:53,340 --> 00:29:54,899
+l'équipe et c'est physique c'est-à-dire
+
+810
+00:29:54,899 --> 00:29:56,940
+que nous au final il s'installer dans le
+
+811
+00:29:56,940 --> 00:29:58,620
+bureau et il se passait un truc magique
+
+812
+00:29:58,620 --> 00:29:59,880
+quand on avait une question vous savez
+
+813
+00:29:59,880 --> 00:30:02,039
+ce qu'on faisait bon lever la tête c'est
+
+814
+00:30:02,039 --> 00:30:04,679
+en lui posait et il nous répondait et on
+
+815
+00:30:04,679 --> 00:30:07,980
+était aligné trois secondes
+
+816
+00:30:07,980 --> 00:30:09,899
+enfin l'engagement de l'équipe il y a
+
+817
+00:30:09,899 --> 00:30:11,159
+plus la frustration de tout à l'heure de
+
+818
+00:30:11,159 --> 00:30:12,840
+se dire mais à quoi on sert là on voit
+
+819
+00:30:12,840 --> 00:30:16,140
+l'utilité directement
+
+820
+00:30:16,140 --> 00:30:19,380
+donc bravo une cinquième clé donner à
+
+821
+00:30:19,380 --> 00:30:21,659
+votre équipe en tant que client je l'ai
+
+822
+00:30:21,659 --> 00:30:23,159
+pas précisé mais bien entendu le client
+
+823
+00:30:23,159 --> 00:30:24,659
+il faut qu'il se fasse accompagner lui
+
+824
+00:30:24,659 --> 00:30:26,880
+aussi on accompagne pas que une équipe
+
+825
+00:30:26,880 --> 00:30:29,360
+de Dave dans une transformation
+
+826
+00:30:29,360 --> 00:30:31,860
+spoiler alert ça sert à rien on va dans
+
+827
+00:30:31,860 --> 00:30:34,140
+le mur il faut aussi accompagner tous
+
+828
+00:30:34,140 --> 00:30:38,360
+les acteurs autour dont le client
+
+829
+00:30:39,360 --> 00:30:40,799
+bah c'est cool on avait eu des ça avec
+
+830
+00:30:40,799 --> 00:30:42,240
+le client maintenant il faut qu'on aille
+
+831
+00:30:42,240 --> 00:30:43,440
+en prod
+
+832
+00:30:43,440 --> 00:30:46,020
+donc on prend un petit rendez-vous avec
+
+833
+00:30:46,020 --> 00:30:48,419
+notre équipe expatante on lui dit voilà
+
+834
+00:30:48,419 --> 00:30:50,340
+on a tout packagé il y a plus qu'à
+
+835
+00:30:50,340 --> 00:30:53,120
+comment ça se passe
+
+836
+00:30:53,880 --> 00:30:57,120
+vous avez votre casquette dops
+
+837
+00:30:57,120 --> 00:30:58,220
+on va choisir
+
+838
+00:30:58,220 --> 00:31:00,960
+d'inscrire effectivement le package au
+
+839
+00:31:00,960 --> 00:31:03,600
+prochain tiers de livraison de la DSI
+
+840
+00:31:03,600 --> 00:31:07,140
+donc un jour et encore je suis vraiment
+
+841
+00:31:07,140 --> 00:31:09,480
+sympa des fois c'est pire
+
+842
+00:31:09,480 --> 00:31:11,220
+ou bien
+
+843
+00:31:11,220 --> 00:31:13,500
+et c'est un peu ambitieux on va
+
+844
+00:31:13,500 --> 00:31:15,299
+accompagner l'équipe dans le principe du
+
+845
+00:31:15,299 --> 00:31:17,840
+déploiement continu
+
+846
+00:31:19,620 --> 00:31:21,240
+on en est pas là dans les entreprises la
+
+847
+00:31:21,240 --> 00:31:23,700
+plupart du temps moi je j'admire moi
+
+848
+00:31:23,700 --> 00:31:25,020
+généralement quand on m'appelle sur une
+
+849
+00:31:25,020 --> 00:31:26,460
+mission c'est qu'on galère donc je suis
+
+850
+00:31:26,460 --> 00:31:28,679
+clairement pas dans la partie 2
+
+851
+00:31:28,679 --> 00:31:30,240
+on va inscrire le package dans le
+
+852
+00:31:30,240 --> 00:31:33,480
+prochain tir de livraison donc un jeu
+
+853
+00:31:33,480 --> 00:31:35,640
+donc on est content confiance on repart
+
+854
+00:31:35,640 --> 00:31:37,020
+sur le code source qui va partir dans
+
+855
+00:31:37,020 --> 00:31:38,100
+deux semaines mais on s'en fiche on sait
+
+856
+00:31:38,100 --> 00:31:40,320
+que c'est lui qui va être bon on
+
+857
+00:31:40,320 --> 00:31:41,100
+commence à travailler une première
+
+858
+00:31:41,100 --> 00:31:42,960
+semaine et puis la deuxième semaine
+
+859
+00:31:42,960 --> 00:31:46,980
+arrive le jeudi le jeudi de la livraison
+
+860
+00:31:46,980 --> 00:31:48,600
+ça me fait livrer ça pour certains c'est
+
+861
+00:31:48,600 --> 00:31:49,559
+peut-être le mercredi de la livraison
+
+862
+00:31:49,559 --> 00:31:51,360
+c'est rarement le vendredi de la
+
+863
+00:31:51,360 --> 00:31:53,399
+livraison et encore que normalement
+
+864
+00:31:53,399 --> 00:31:55,500
+quand c'est bien fait on pourrait
+
+865
+00:31:55,500 --> 00:31:58,200
+et là vous êtes là
+
+866
+00:31:58,200 --> 00:32:00,539
+vous prenez votre paquet enfin tous les
+
+867
+00:32:00,539 --> 00:32:01,919
+packages de la DSI dont celui de
+
+868
+00:32:01,919 --> 00:32:04,320
+l'équipe de Lili il est 20h parce que
+
+869
+00:32:04,320 --> 00:32:05,880
+bien sûr on y vivent pas en prendre dans
+
+870
+00:32:05,880 --> 00:32:09,980
+la journée au risque de la casser
+
+871
+00:32:10,860 --> 00:32:12,860
+et vous commencez à faire
+
+872
+00:32:12,860 --> 00:32:15,899
+la livraison juste le déploiement et
+
+873
+00:32:15,899 --> 00:32:17,760
+juste les tests d'intégration et juste
+
+874
+00:32:17,760 --> 00:32:19,620
+tout ce que vous avez à faire pour
+
+875
+00:32:19,620 --> 00:32:21,419
+livrer en prod
+
+876
+00:32:21,419 --> 00:32:23,580
+et qu'est-ce qui se passe
+
+877
+00:32:23,580 --> 00:32:26,340
+à 20h03
+
+878
+00:32:26,340 --> 00:32:29,600
+PAF la livraison
+
+879
+00:32:30,600 --> 00:32:33,720
+qu'est-ce qui m'ont foutu c'est d'elle
+
+880
+00:32:33,720 --> 00:32:35,100
+puis moi je suis pas des donc les logs
+
+881
+00:32:35,100 --> 00:32:36,840
+j'ai même pas envie d'aller les regarder
+
+882
+00:32:36,840 --> 00:32:38,580
+ça se trouve c'est du fonctionnel j'ai
+
+883
+00:32:38,580 --> 00:32:40,080
+pas le temps d'aller corriger des choses
+
+884
+00:32:40,080 --> 00:32:41,760
+et j'ai pas la responsabilité de devoir
+
+885
+00:32:41,760 --> 00:32:43,140
+le faire
+
+886
+00:32:43,140 --> 00:32:44,520
+donc qu'est-ce qui se passe je sais pas
+
+887
+00:32:44,520 --> 00:32:45,659
+si il y en a certains qui ont déjà fait
+
+888
+00:32:45,659 --> 00:32:49,620
+du de l'exploitation on met de côté le
+
+889
+00:32:49,620 --> 00:32:51,720
+package qui va pas on ne met surtout pas
+
+890
+00:32:51,720 --> 00:32:54,120
+en péril la livraison du reste des
+
+891
+00:32:54,120 --> 00:32:57,000
+paquets de la DSI
+
+892
+00:32:57,000 --> 00:32:58,140
+et qu'est-ce qui se passe le lendemain
+
+893
+00:32:58,140 --> 00:33:02,460
+matin à 9h03 et ben l'équipe récupère
+
+894
+00:33:02,460 --> 00:33:05,700
+son package en feu et forcément ça
+
+895
+00:33:05,700 --> 00:33:08,640
+devient la nouvelle priorité donc il
+
+896
+00:33:08,640 --> 00:33:09,480
+laisse tomber ce qu'ils étaient en train
+
+897
+00:33:09,480 --> 00:33:11,159
+de faire et ils se mettent sur le
+
+898
+00:33:11,159 --> 00:33:13,559
+package et ben eux ils sont pas donc ils
+
+899
+00:33:13,559 --> 00:33:15,659
+savent pas non plus lire toutes les logs
+
+900
+00:33:15,659 --> 00:33:18,539
+qui qui montrent comment enfin pour
+
+901
+00:33:18,539 --> 00:33:23,100
+déboguer leur package et son déploiement
+
+902
+00:33:23,100 --> 00:33:24,960
+et pire que tout il se rendent compte
+
+903
+00:33:24,960 --> 00:33:26,880
+que peut-être les sources sur lesquelles
+
+904
+00:33:26,880 --> 00:33:28,200
+ils sont en train de travailler depuis
+
+905
+00:33:28,200 --> 00:33:29,240
+15 jours
+
+906
+00:33:29,240 --> 00:33:31,500
+peut-être que c'est pas les bonnes du
+
+907
+00:33:31,500 --> 00:33:32,700
+coup peut-être qu'il va falloir faire
+
+908
+00:33:32,700 --> 00:33:34,740
+des modifications et là l'erreur humaine
+
+909
+00:33:34,740 --> 00:33:37,620
+même si vous avez un bon un bon World
+
+910
+00:33:37,620 --> 00:33:39,899
+versioning il va falloir encore plus se
+
+911
+00:33:39,899 --> 00:33:43,039
+concentrer pour faire tenir tout ça
+
+912
+00:33:43,140 --> 00:33:45,320
+donc là vous le voyez le mur du conflit
+
+913
+00:33:45,320 --> 00:33:48,799
+c'est assez criant
+
+914
+00:33:49,260 --> 00:33:50,240
+mais
+
+915
+00:33:50,240 --> 00:33:53,039
+on n'est pas ce genre d'exploitant alors
+
+916
+00:33:53,039 --> 00:33:55,799
+je peux le faire en
+
+917
+00:33:55,799 --> 00:33:57,960
+c'est mieux avec l'image
+
+918
+00:33:57,960 --> 00:34:00,000
+on n'est pas ce genre d'exploitant et on
+
+919
+00:34:00,000 --> 00:34:02,460
+va prendre le temps d'accompagner et
+
+920
+00:34:02,460 --> 00:34:03,720
+d'ailleurs de se faire accompagner je
+
+921
+00:34:03,720 --> 00:34:05,880
+vous l'ai dit tout à l'heure mais l'Obs
+
+922
+00:34:05,880 --> 00:34:07,019
+c'est pas normal qu'il soit mis de côté
+
+923
+00:34:07,019 --> 00:34:10,080
+quand on fait une transformation donc on
+
+924
+00:34:10,080 --> 00:34:12,540
+va fluidifier les déploiements et ça va
+
+925
+00:34:12,540 --> 00:34:16,560
+aller par étape c'est pas un Big Bang
+
+926
+00:34:16,560 --> 00:34:18,300
+qu'est-ce qu'on veut nous et en tant
+
+927
+00:34:18,300 --> 00:34:21,239
+qu'Ops et en tant qu'équipe de Dave on
+
+928
+00:34:21,239 --> 00:34:23,280
+veut une production magnifique qui
+
+929
+00:34:23,280 --> 00:34:24,780
+brille
+
+930
+00:34:24,780 --> 00:34:27,119
+pour ça on va se pencher tous ensemble
+
+931
+00:34:27,119 --> 00:34:29,099
+dessus et on va voir ce qu'on peut
+
+932
+00:34:29,099 --> 00:34:32,639
+mettre pour fluidifier et garantir cet
+
+933
+00:34:32,639 --> 00:34:34,080
+état stable de production unique
+
+934
+00:34:34,080 --> 00:34:37,080
+magnifique on va parler plateforme
+
+935
+00:34:37,080 --> 00:34:39,119
+d'intégration continue on va peut-être
+
+936
+00:34:39,119 --> 00:34:42,239
+même mettre des droits d'admin au
+
+937
+00:34:42,239 --> 00:34:44,099
+développeur cette plateforme à condition
+
+938
+00:34:44,099 --> 00:34:45,780
+de les former
+
+939
+00:34:45,780 --> 00:34:47,418
+on va parler continue s'intégration
+
+940
+00:34:47,418 --> 00:34:49,639
+continue de se déploiement
+
+941
+00:34:49,639 --> 00:34:51,839
+les thèses intégration peut-être qu'on
+
+942
+00:34:51,839 --> 00:34:53,159
+va pas attendre de les faire en
+
+943
+00:34:53,159 --> 00:34:55,859
+production après que le paquet de livré
+
+944
+00:34:55,859 --> 00:34:57,720
+non on va l'inclure peut-être à la
+
+945
+00:34:57,720 --> 00:35:00,300
+définition du hockey la définition of
+
+946
+00:35:00,300 --> 00:35:02,520
+donne pour dire bah voilà au moins ça
+
+947
+00:35:02,520 --> 00:35:04,320
+c'est déjà passé et garantir un peu plus
+
+948
+00:35:04,320 --> 00:35:06,839
+le package on va parler niveau de
+
+949
+00:35:06,839 --> 00:35:09,660
+qualité etc etc bref
+
+950
+00:35:09,660 --> 00:35:14,160
+on va vraiment inclure la partie hops à
+
+951
+00:35:14,160 --> 00:35:16,260
+l'équipe de dev
+
+952
+00:35:16,260 --> 00:35:18,359
+en faisant ça on permet une couche
+
+953
+00:35:18,359 --> 00:35:21,200
+supplémentaire à la soi-disant
+
+954
+00:35:21,200 --> 00:35:23,280
+disciplinarité pardon faut que je trouve
+
+955
+00:35:23,280 --> 00:35:25,859
+un autre mot c'est trop dur donc les
+
+956
+00:35:25,859 --> 00:35:28,380
+multi sachants de l'équipe on va encore
+
+957
+00:35:28,380 --> 00:35:30,599
+plus loin parce que ça enfin ça suffit
+
+958
+00:35:30,599 --> 00:35:32,400
+pas de dire ça marche sur mon poste de
+
+959
+00:35:32,400 --> 00:35:35,700
+Dave le principe d'entraide encore et
+
+960
+00:35:35,700 --> 00:35:37,859
+toujours et surtout on va responsabilité
+
+961
+00:35:37,859 --> 00:35:40,200
+tout le monde sur le principe de
+
+962
+00:35:40,200 --> 00:35:42,780
+production le maintien en conditions
+
+963
+00:35:42,780 --> 00:35:45,300
+opérationnelles de production
+
+964
+00:35:45,300 --> 00:35:47,099
+quitte à faire vivre des livraisons à
+
+965
+00:35:47,099 --> 00:35:49,619
+des développeurs ça fait du bien un
+
+966
+00:35:49,619 --> 00:35:51,119
+petit vis ma vie pour voir comment ça se
+
+967
+00:35:51,119 --> 00:35:52,859
+passe réellement
+
+968
+00:35:52,859 --> 00:35:55,320
+et là aussi quand tout se passe bien et
+
+969
+00:35:55,320 --> 00:35:57,300
+moi j'ai eu la chance une fois de le
+
+970
+00:35:57,300 --> 00:35:59,760
+vivre c'est qu'on avait carrément un Obs
+
+971
+00:35:59,760 --> 00:36:01,320
+dans l'équipe il nous était pas dédié
+
+972
+00:36:01,320 --> 00:36:03,359
+mais il participait à tous nos
+
+973
+00:36:03,359 --> 00:36:04,500
+événements ce qui fait qu'il était au
+
+974
+00:36:04,500 --> 00:36:05,940
+courant de tout ce qui fait qu'il avait
+
+975
+00:36:05,940 --> 00:36:07,020
+le droit de partir en vacances aussi
+
+976
+00:36:07,020 --> 00:36:08,339
+parce que du coup il nous avait donné
+
+977
+00:36:08,339 --> 00:36:10,200
+les billes pour faire les actions qui
+
+978
+00:36:10,200 --> 00:36:12,480
+faisaient donc les Ops je vous le dis si
+
+979
+00:36:12,480 --> 00:36:14,400
+vous voulez partir en vacances peut-être
+
+980
+00:36:14,400 --> 00:36:17,520
+un peu d'agilité bref vous avez rendu
+
+981
+00:36:17,520 --> 00:36:21,140
+une dernière clé à votre équipe
+
+982
+00:36:21,180 --> 00:36:23,400
+ce qu'on a vu jusque là c'est que du
+
+983
+00:36:23,400 --> 00:36:25,320
+coup peut-être qu'il faut prendre le
+
+984
+00:36:25,320 --> 00:36:28,020
+temps d'accueillir d'intégrer les
+
+985
+00:36:28,020 --> 00:36:29,820
+membres d'une équipe agile peut-être
+
+986
+00:36:29,820 --> 00:36:31,440
+qu'il faut prendre le temps de tester
+
+987
+00:36:31,440 --> 00:36:32,880
+les façons de faire les outils les
+
+988
+00:36:32,880 --> 00:36:35,640
+process prendre le temps de se poser de
+
+989
+00:36:35,640 --> 00:36:37,859
+réfléchir à comment mieux créer réaliser
+
+990
+00:36:37,859 --> 00:36:40,440
+tester donc on va parler processus mais
+
+991
+00:36:40,440 --> 00:36:42,839
+pas que interaction aussi
+
+992
+00:36:42,839 --> 00:36:44,339
+on va prendre le temps d'écouter
+
+993
+00:36:44,339 --> 00:36:47,520
+l'équipe ces appels à l'aide formulées
+
+994
+00:36:47,520 --> 00:36:49,160
+ou non formulées vous avez des choses
+
+995
+00:36:49,160 --> 00:36:51,359
+quand quelqu'un vous dit cinq jours de
+
+996
+00:36:51,359 --> 00:36:52,700
+suite oui oui tout va bien
+
+997
+00:36:52,700 --> 00:36:55,260
+petite alerte essayer de voir si on peut
+
+998
+00:36:55,260 --> 00:36:56,940
+pas l'aider quand même
+
+999
+00:36:56,940 --> 00:36:58,619
+prendre le temps de donner du feedback
+
+1000
+00:36:58,619 --> 00:37:01,160
+sur ce qui est fait et de manière
+
+1001
+00:37:01,160 --> 00:37:03,480
+constructive toujours bienveillante
+
+1002
+00:37:03,480 --> 00:37:05,400
+construction
+
+1003
+00:37:05,400 --> 00:37:07,320
+prendre le temps d'optimiser sa chaîne
+
+1004
+00:37:07,320 --> 00:37:09,780
+de valeur depuis l'idée jusqu'à l'après
+
+1005
+00:37:09,780 --> 00:37:11,460
+production on s'arrête pas une fois que
+
+1006
+00:37:11,460 --> 00:37:14,400
+le package est livré et si possible
+
+1007
+00:37:14,400 --> 00:37:16,020
+c'est la même équipe qui fait le après
+
+1008
+00:37:16,020 --> 00:37:18,980
+prod que le avant prod
+
+1009
+00:37:18,980 --> 00:37:21,960
+finalement c'est tête la moralité vraie
+
+1010
+00:37:21,960 --> 00:37:25,099
+c'est peut-être de prendre le temps
+
+1011
+00:37:25,440 --> 00:37:28,020
+donc finalement l'agilité ça appartient
+
+1012
+00:37:28,020 --> 00:37:29,520
+pas à que au développeur et développeuse
+
+1013
+00:37:29,520 --> 00:37:31,920
+mais on a toutes et tous un rôle à jouer
+
+1014
+00:37:31,920 --> 00:37:34,380
+pour permettre à l'équipe d'être agile
+
+1015
+00:37:34,380 --> 00:37:38,280
+là j'ai pris des rôles qui si vous voyez
+
+1016
+00:37:38,280 --> 00:37:40,500
+ne sont pas tous agiles d'ailleurs mais
+
+1017
+00:37:40,500 --> 00:37:43,079
+qui ont un intérêt à participer ça
+
+1018
+00:37:43,079 --> 00:37:45,119
+aurait pu être plein d'autres rôles
+
+1019
+00:37:45,119 --> 00:37:46,920
+d'ailleurs je vous invite à m'en faire
+
+1020
+00:37:46,920 --> 00:37:48,359
+part si vous avez des petites anecdotes
+
+1021
+00:37:48,359 --> 00:37:50,400
+là-dessus
+
+1022
+00:37:50,400 --> 00:37:51,980
+je suis Fanny Claude je suis
+
+1023
+00:37:51,980 --> 00:37:54,200
+accompagnatrice agile chez hapsid
+
+1024
+00:37:54,200 --> 00:37:57,540
+co-créatrice de tadix tour agile et
+
+1025
+00:37:57,540 --> 00:38:00,180
+devovs qui sont des Meetup mensuelles à
+
+1026
+00:38:00,180 --> 00:38:01,500
+Tours n'hésitez pas à venir si vous êtes
+
+1027
+00:38:01,500 --> 00:38:03,060
+intéressé
+
+1028
+00:38:03,060 --> 00:38:06,420
+et je suis Lily merci beaucoup et encore
+
+1029
+00:38:06,420 --> 00:38:09,460
+plus aujourd'hui prenez le temps
+
+1030
+00:38:09,460 --> 00:38:16,559
+[Applaudissements]
+

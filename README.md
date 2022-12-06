@@ -50,5 +50,26 @@ flowchart TB
 
 * <q>Comment inclure l’inclusivité dès les premières étapes de conception d'un service ou d'un produit digital</q> - Noémie M. Rivière
   * Etat : `autogénéré`
-  * Vidéo youtube : https://www.youtube.com/watch?v=KNlVkRs9a94&t=243s
+  * Vidéo youtube : https://www.youtube.com/watch?v=KNlVkRs9a94
   * Fichier autogénéré : [./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt](./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt)
+
+* <q>Syndrome de l'Imposteur, l'arbre qui cache la forêt</q> - Boris Shapira
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=vS2WKdWRNqo
+  * Fichier autogénéré : [./autogenere/syndrome-de-l-imposteur-l-arbre-qui-cache-la-foret.srt](./autogenere/syndrome-de-l-imposteur-l-arbre-qui-cache-la-foret.srt)
+
+* <q>Rendez l’agilité aux développeur·se·s !</q> - Fanny Klauk
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=Ib2uoz2JTeY
+  * Fichier autogénéré : [./autogenere/rendez-l-agilite-aux-developpeur·se·s.srt](./autogenere/rendez-l-agilite-aux-developpeur·se·s.srt)
+  
+* <q>Mon application en Serverless</q> - Marie Minasyan
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=8kGkIlcaV0Q
+  * Fichier autogénéré : [./autogenere/mon-application-en-serverless.srt](./autogenere/mon-application-en-serverless.srt)
+
+* <q>Test me up, before you Go-Go</q> - Nicolas Comet
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=8wguarCwSII
+  * Fichier autogénéré : [./autogenere/test-me-up-before-you-Go-Go.srt](./autogenere/test-me-up-before-you-Go-Go.srt)
+
