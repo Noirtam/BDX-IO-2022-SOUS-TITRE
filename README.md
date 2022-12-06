@@ -30,6 +30,10 @@ flowchart TB
     subgraph En attente de validation
     A["Contribuer à l'open source"]
     end
+    
+    subgraph En cours de correction
+    D["Syndrome de l'Imposteur"]
+    end
 
     subgraph A faire
     B["Introduction aux Design Tokens"]
@@ -53,7 +57,7 @@ flowchart TB
   * Vidéo youtube : https://www.youtube.com/watch?v=KNlVkRs9a94
   * Fichier autogénéré : [./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt](./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt)
 
-* <q>Syndrome de l'Imposteur, l'arbre qui cache la forêt</q> - Boris Shapira
+* <q>Syndrome de l'Imposteur, l'arbre qui cache la forêt</q> - Boris Schapira
   * Etat : `autogénéré`
   * Vidéo youtube : https://www.youtube.com/watch?v=vS2WKdWRNqo
   * Fichier autogénéré : [./autogenere/syndrome-de-l-imposteur-l-arbre-qui-cache-la-foret.srt](./autogenere/syndrome-de-l-imposteur-l-arbre-qui-cache-la-foret.srt)
