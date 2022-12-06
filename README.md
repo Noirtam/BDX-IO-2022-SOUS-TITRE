@@ -32,7 +32,7 @@ flowchart TB
     end
     
     subgraph En cours de correction
-    A["Syndrome de l'Imposteur"]
+    D["Syndrome de l'Imposteur"]
     end
 
     subgraph A faire
