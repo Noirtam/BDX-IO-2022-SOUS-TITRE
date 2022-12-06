@@ -68,3 +68,8 @@ flowchart TB
   * Vidéo youtube : https://www.youtube.com/watch?v=8kGkIlcaV0Q
   * Fichier autogénéré : [./autogenere/mon-application-en-serverless.srt](./autogenere/mon-application-en-serverless.srt)
 
+* <q>Test me up, before you Go-Go</q> - Nicolas Comet
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=8wguarCwSII
+  * Fichier autogénéré : [./autogenere/test-me-up-before-you-Go-Go.srt](./autogenere/test-me-up-before-you-Go-Go.srt)
+
