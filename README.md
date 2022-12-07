@@ -33,6 +33,7 @@ flowchart TB
     
     subgraph En cours de correction
     D["Syndrome de l'Imposteur"]
+    E["La pensée visuelle"]
     end
 
     subgraph A faire
@@ -77,3 +78,8 @@ flowchart TB
   * Vidéo youtube : https://www.youtube.com/watch?v=8wguarCwSII
   * Fichier autogénéré : [./autogenere/test-me-up-before-you-Go-Go.srt](./autogenere/test-me-up-before-you-Go-Go.srt)
 
+* <q>La pensée visuelle a changé ma vie</q> - Ane Diaz de Tuesta / Aurélie Vache / Horacio Gonzales / Piere Tibulle
+  * Etat : `autogénéré`
+  * Vidéo youtube : https://www.youtube.com/watch?v=ifXy9jRLWl8&
+  * Fichier autogénéré : [./autogenere/la-pensee-visuelle-a-change-ma-vie.srt](./autogenere/la-pensee-visuelle-a-change-ma-vie.srt)
+  * Fichier final (en cours) : [./final/la-pensee-visuelle-a-change-ma-vie.srt](./final/la-pensee-visuelle-a-change-ma-vie.srt)
