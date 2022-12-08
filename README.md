@@ -19,6 +19,20 @@ en situation d'handicap par exemple.
 * `autogenere` : répertoire contenant les sous-titres auto-générés des talks. La génération est réalisée via DownSub.com, l'url `https://subtitle.to/{lien YouTube}` (exemple https://subtitle.to/www.youtube.com/watch?v=gyhR5m4RgyE)
 * `final` : sous-titre des talks dans leur version finale
 
+## Processus de validation
+
+```mermaid
+sequenceDiagram
+    vidéo youtube->>autogenere: Ajout du fichier de base autogenere
+    autogenere->>En cours de traiment: Initialisation du fichier final
+    loop Validation des sous-titres
+        loop Chaque commit / push
+            En cours de traiment->>En attente de validation steaker:Pull request
+        end
+        En attente de validation steaker->>En cours de traiment:Retour sur le pullRequest
+    end
+    En attente de validation steaker->>En attente d'intégration BDX I/O:Contact BDX I/O
+```
 
 ## Avancement
 ```mermaid
@@ -35,7 +49,7 @@ flowchart TB
     D["Syndrome de l'Imposteur"]
     end
 
-    subgraph A faire
+    subgraph autogenere
     B["Introduction aux Design Tokens"]
     C["Inclure l'inclusivité"]
     end
