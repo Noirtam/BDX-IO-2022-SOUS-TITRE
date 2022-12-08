@@ -1,0 +1,5225 @@
+1
+00:00:01,840 --> 00:00:13,490
+
+[Musique]
+
+2
+00:00:13,490 --> 00:00:13,500
+
+ 
+
+3
+00:00:13,500 --> 00:00:15,250
+
+bonjour
+
+4
+00:00:15,250 --> 00:00:15,260
+bonjour
+ 
+
+5
+00:00:15,260 --> 00:00:18,109
+bonjour
+merci d'être venu aussi peu nombreux
+
+6
+00:00:18,109 --> 00:00:18,119
+merci d'être venu aussi peu nombreux
+ 
+
+7
+00:00:18,119 --> 00:00:20,050
+merci d'être venu aussi peu nombreux
+manifestement
+
+8
+00:00:20,050 --> 00:00:20,060
+manifestement
+ 
+
+9
+00:00:20,060 --> 00:00:23,990
+manifestement
+je me présente rapidement je m'appelle
+
+10
+00:00:23,990 --> 00:00:24,000
+je me présente rapidement je m'appelle
+ 
+
+11
+00:00:24,000 --> 00:00:26,870
+je me présente rapidement je m'appelle
+Paul breton je suis ingénieur data chez
+
+12
+00:00:26,870 --> 00:00:26,880
+Paul breton je suis ingénieur data chez
+ 
+
+13
+00:00:26,880 --> 00:00:29,630
+Paul breton je suis ingénieur data chez
+bitume une entreprise de conseils design
+
+14
+00:00:29,630 --> 00:00:29,640
+bitume une entreprise de conseils design
+ 
+
+15
+00:00:29,640 --> 00:00:31,009
+bitume une entreprise de conseils design
+et développement à Bordeaux et aux
+
+16
+00:00:31,009 --> 00:00:31,019
+et développement à Bordeaux et aux
+ 
+
+17
+00:00:31,019 --> 00:00:32,089
+et développement à Bordeaux et aux
+Chartrons
+
+18
+00:00:32,089 --> 00:00:32,099
+Chartrons
+ 
+
+19
+00:00:32,099 --> 00:00:34,370
+Chartrons
+après 70 employés et on fait beaucoup de
+
+20
+00:00:34,370 --> 00:00:34,380
+après 70 employés et on fait beaucoup de
+ 
+
+21
+00:00:34,380 --> 00:00:36,590
+après 70 employés et on fait beaucoup de
+projets on est c'est une forme de SSI on
+
+22
+00:00:36,590 --> 00:00:36,600
+projets on est c'est une forme de SSI on
+ 
+
+23
+00:00:36,600 --> 00:00:38,330
+projets on est c'est une forme de SSI on
+fait beaucoup de projets web et mobiles
+
+24
+00:00:38,330 --> 00:00:38,340
+fait beaucoup de projets web et mobiles
+ 
+
+25
+00:00:38,340 --> 00:00:40,190
+fait beaucoup de projets web et mobiles
+et en fait ce qu'on aime bien faire dans
+
+26
+00:00:40,190 --> 00:00:40,200
+et en fait ce qu'on aime bien faire dans
+ 
+
+27
+00:00:40,200 --> 00:00:41,270
+et en fait ce qu'on aime bien faire dans
+chacun de nos projets c'est mettre des
+
+28
+00:00:41,270 --> 00:00:41,280
+chacun de nos projets c'est mettre des
+ 
+
+29
+00:00:41,280 --> 00:00:43,250
+chacun de nos projets c'est mettre des
+petites composantes un peu originales de
+
+30
+00:00:43,250 --> 00:00:43,260
+petites composantes un peu originales de
+ 
+
+31
+00:00:43,260 --> 00:00:46,369
+petites composantes un peu originales de
+la 3D par exemple de Lia ou de la data
+
+32
+00:00:46,369 --> 00:00:46,379
+la 3D par exemple de Lia ou de la data
+ 
+
+33
+00:00:46,379 --> 00:00:48,350
+la 3D par exemple de Lia ou de la data
+ou encore plein d'autres choses de la VR
+
+34
+00:00:48,350 --> 00:00:48,360
+ou encore plein d'autres choses de la VR
+ 
+
+35
+00:00:48,360 --> 00:00:50,389
+ou encore plein d'autres choses de la VR
+de la r etc
+
+36
+00:00:50,389 --> 00:00:50,399
+de la r etc
+ 
+
+37
+00:00:50,399 --> 00:00:51,830
+de la r etc
+et donc moi je suis plus responsable de
+
+38
+00:00:51,830 --> 00:00:51,840
+et donc moi je suis plus responsable de
+ 
+
+39
+00:00:51,840 --> 00:00:52,970
+et donc moi je suis plus responsable de
+toute la partie qui est intelligence
+
+40
+00:00:52,970 --> 00:00:52,980
+toute la partie qui est intelligence
+ 
+
+41
+00:00:52,980 --> 00:00:55,430
+toute la partie qui est intelligence
+artificielle et data
+
+42
+00:00:55,430 --> 00:00:55,440
+artificielle et data
+ 
+
+43
+00:00:55,440 --> 00:00:56,689
+artificielle et data
+et mon objectif aujourd'hui ça va être
+
+44
+00:00:56,689 --> 00:00:56,699
+et mon objectif aujourd'hui ça va être
+ 
+
+45
+00:00:56,699 --> 00:00:58,910
+et mon objectif aujourd'hui ça va être
+de vous présenter un petit peu comment
+
+46
+00:00:58,910 --> 00:00:58,920
+de vous présenter un petit peu comment
+ 
+
+47
+00:00:58,920 --> 00:01:03,349
+de vous présenter un petit peu comment
+vous en tant que n'importe qui
+
+48
+00:01:03,349 --> 00:01:03,359
+vous en tant que n'importe qui
+ 
+
+49
+00:01:03,359 --> 00:01:05,149
+vous en tant que n'importe qui
+vous pouvez vous faire de la
+
+50
+00:01:05,149 --> 00:01:05,159
+vous pouvez vous faire de la
+ 
+
+51
+00:01:05,159 --> 00:01:06,469
+vous pouvez vous faire de la
+recommandation de contenu sans pour
+
+52
+00:01:06,469 --> 00:01:06,479
+recommandation de contenu sans pour
+ 
+
+53
+00:01:06,479 --> 00:01:08,090
+recommandation de contenu sans pour
+autant avoir fait des années d'études et
+
+54
+00:01:08,090 --> 00:01:08,100
+autant avoir fait des années d'études et
+ 
+
+55
+00:01:08,100 --> 00:01:09,230
+autant avoir fait des années d'études et
+comprendre parfaitement comment ça
+
+56
+00:01:09,230 --> 00:01:09,240
+comprendre parfaitement comment ça
+ 
+
+57
+00:01:09,240 --> 00:01:11,450
+comprendre parfaitement comment ça
+fonctionne on va faire quelques petits
+
+58
+00:01:11,450 --> 00:01:11,460
+fonctionne on va faire quelques petits
+ 
+
+59
+00:01:11,460 --> 00:01:12,590
+fonctionne on va faire quelques petits
+rappels rapides qui ne sont pas des
+
+60
+00:01:12,590 --> 00:01:12,600
+rappels rapides qui ne sont pas des
+ 
+
+61
+00:01:12,600 --> 00:01:14,890
+rappels rapides qui ne sont pas des
+rappels
+
+62
+00:01:14,890 --> 00:01:14,900
+
+ 
+
+63
+00:01:14,900 --> 00:01:16,670
+
+en gros la recommandation de contenu
+
+64
+00:01:16,670 --> 00:01:16,680
+en gros la recommandation de contenu
+ 
+
+65
+00:01:16,680 --> 00:01:18,590
+en gros la recommandation de contenu
+c'est très simple c'est vous avez deux
+
+66
+00:01:18,590 --> 00:01:18,600
+c'est très simple c'est vous avez deux
+ 
+
+67
+00:01:18,600 --> 00:01:20,149
+c'est très simple c'est vous avez deux
+matrices une matrice enfin de matrice
+
+68
+00:01:20,149 --> 00:01:20,159
+matrices une matrice enfin de matrice
+ 
+
+69
+00:01:20,159 --> 00:01:22,850
+matrices une matrice enfin de matrice
+une matrice pardon avec sur une ligne
+
+70
+00:01:22,850 --> 00:01:22,860
+une matrice pardon avec sur une ligne
+ 
+
+71
+00:01:22,860 --> 00:01:25,190
+une matrice pardon avec sur une ligne
+par exemple les utilisateurs en colonne
+
+72
+00:01:25,190 --> 00:01:25,200
+par exemple les utilisateurs en colonne
+ 
+
+73
+00:01:25,200 --> 00:01:28,609
+par exemple les utilisateurs en colonne
+les items d'une base de données donc
+
+74
+00:01:28,609 --> 00:01:28,619
+les items d'une base de données donc
+ 
+
+75
+00:01:28,619 --> 00:01:29,929
+les items d'une base de données donc
+j'en sais rien il va donner deux vidéos
+
+76
+00:01:29,929 --> 00:01:29,939
+j'en sais rien il va donner deux vidéos
+ 
+
+77
+00:01:29,939 --> 00:01:31,789
+j'en sais rien il va donner deux vidéos
+de livres vous pouvez voir tout ce que
+
+78
+00:01:31,789 --> 00:01:31,799
+de livres vous pouvez voir tout ce que
+ 
+
+79
+00:01:31,799 --> 00:01:34,190
+de livres vous pouvez voir tout ce que
+vous voulez Amazon etc et puis on fait
+
+80
+00:01:34,190 --> 00:01:34,200
+vous voulez Amazon etc et puis on fait
+ 
+
+81
+00:01:34,200 --> 00:01:35,870
+vous voulez Amazon etc et puis on fait
+match et tout ça ensemble évidemment
+
+82
+00:01:35,870 --> 00:01:35,880
+match et tout ça ensemble évidemment
+ 
+
+83
+00:01:35,880 --> 00:01:37,130
+match et tout ça ensemble évidemment
+chacun va avoir des caractéristiques
+
+84
+00:01:37,130 --> 00:01:37,140
+chacun va avoir des caractéristiques
+ 
+
+85
+00:01:37,140 --> 00:01:38,929
+chacun va avoir des caractéristiques
+intrinsèques c'est évidemment simplifié
+
+86
+00:01:38,929 --> 00:01:38,939
+intrinsèques c'est évidemment simplifié
+ 
+
+87
+00:01:38,939 --> 00:01:40,789
+intrinsèques c'est évidemment simplifié
+mais l'idée est vraiment très simple
+
+88
+00:01:40,789 --> 00:01:40,799
+mais l'idée est vraiment très simple
+ 
+
+89
+00:01:40,799 --> 00:01:42,230
+mais l'idée est vraiment très simple
+c'est qu'on va juste chercher à combler
+
+90
+00:01:42,230 --> 00:01:42,240
+c'est qu'on va juste chercher à combler
+ 
+
+91
+00:01:42,240 --> 00:01:44,749
+c'est qu'on va juste chercher à combler
+les cases et s'assurer que tous les
+
+92
+00:01:44,749 --> 00:01:44,759
+les cases et s'assurer que tous les
+ 
+
+93
+00:01:44,759 --> 00:01:46,190
+les cases et s'assurer que tous les
+utilisateurs vont potentiellement voir
+
+94
+00:01:46,190 --> 00:01:46,200
+utilisateurs vont potentiellement voir
+ 
+
+95
+00:01:46,200 --> 00:01:47,810
+utilisateurs vont potentiellement voir
+tout ce qui va les rapprocher d'autres
+
+96
+00:01:47,810 --> 00:01:47,820
+tout ce qui va les rapprocher d'autres
+ 
+
+97
+00:01:47,820 --> 00:01:49,429
+tout ce qui va les rapprocher d'autres
+utilisateurs par le biais de cette
+
+98
+00:01:49,429 --> 00:01:49,439
+utilisateurs par le biais de cette
+ 
+
+99
+00:01:49,439 --> 00:01:51,590
+utilisateurs par le biais de cette
+matrice si jamais ça vous intéresse je
+
+100
+00:01:51,590 --> 00:01:51,600
+matrice si jamais ça vous intéresse je
+ 
+
+101
+00:01:51,600 --> 00:01:52,670
+matrice si jamais ça vous intéresse je
+vous encourage à aller faire le cours de
+
+102
+00:01:52,670 --> 00:01:52,680
+vous encourage à aller faire le cours de
+ 
+
+103
+00:01:52,680 --> 00:01:55,010
+vous encourage à aller faire le cours de
+Google qui est gratuit vous tapez Google
+
+104
+00:01:55,010 --> 00:01:55,020
+Google qui est gratuit vous tapez Google
+ 
+
+105
+00:01:55,020 --> 00:01:56,810
+Google qui est gratuit vous tapez Google
+recommander system c'est une premier
+
+106
+00:01:56,810 --> 00:01:56,820
+recommander system c'est une premier
+ 
+
+107
+00:01:56,820 --> 00:02:01,190
+recommander system c'est une premier
+résultat et super intéressant
+
+108
+00:02:01,190 --> 00:02:01,200
+
+ 
+
+109
+00:02:01,200 --> 00:02:04,310
+
+donc premier type de recommandation
+
+110
+00:02:04,310 --> 00:02:04,320
+donc premier type de recommandation
+ 
+
+111
+00:02:04,320 --> 00:02:07,010
+donc premier type de recommandation
+le filtrage collaboratif c'est celui que
+
+112
+00:02:07,010 --> 00:02:07,020
+le filtrage collaboratif c'est celui que
+ 
+
+113
+00:02:07,020 --> 00:02:08,389
+le filtrage collaboratif c'est celui que
+vous imaginez je suppose de la manière
+
+114
+00:02:08,389 --> 00:02:08,399
+vous imaginez je suppose de la manière
+ 
+
+115
+00:02:08,399 --> 00:02:10,669
+vous imaginez je suppose de la manière
+la plus simple on a deux utilisateurs
+
+116
+00:02:10,669 --> 00:02:10,679
+la plus simple on a deux utilisateurs
+ 
+
+117
+00:02:10,679 --> 00:02:14,330
+la plus simple on a deux utilisateurs
+qui aiment deux livres différents
+
+118
+00:02:14,330 --> 00:02:14,340
+qui aiment deux livres différents
+ 
+
+119
+00:02:14,340 --> 00:02:15,410
+qui aiment deux livres différents
+parce qu'ils aiment ces deux livres
+
+120
+00:02:15,410 --> 00:02:15,420
+parce qu'ils aiment ces deux livres
+ 
+
+121
+00:02:15,420 --> 00:02:17,930
+parce qu'ils aiment ces deux livres
+différents logiquement logiquement il se
+
+122
+00:02:17,930 --> 00:02:17,940
+différents logiquement logiquement il se
+ 
+
+123
+00:02:17,940 --> 00:02:21,050
+différents logiquement logiquement il se
+ressemblent donc cylin de se met à
+
+124
+00:02:21,050 --> 00:02:21,060
+ressemblent donc cylin de se met à
+ 
+
+125
+00:02:21,060 --> 00:02:22,869
+ressemblent donc cylin de se met à
+apprécier un autre livre
+
+126
+00:02:22,869 --> 00:02:22,879
+apprécier un autre livre
+ 
+
+127
+00:02:22,879 --> 00:02:25,010
+apprécier un autre livre
+on va le recommander à l'autre c'est
+
+128
+00:02:25,010 --> 00:02:25,020
+on va le recommander à l'autre c'est
+ 
+
+129
+00:02:25,020 --> 00:02:26,809
+on va le recommander à l'autre c'est
+aussi simple que ça donc on a toujours
+
+130
+00:02:26,809 --> 00:02:26,819
+aussi simple que ça donc on a toujours
+ 
+
+131
+00:02:26,819 --> 00:02:28,250
+aussi simple que ça donc on a toujours
+cette histoire de matrice on fait match
+
+132
+00:02:28,250 --> 00:02:28,260
+cette histoire de matrice on fait match
+ 
+
+133
+00:02:28,260 --> 00:02:29,390
+cette histoire de matrice on fait match
+les deux on voit que c'est présent chez
+
+134
+00:02:29,390 --> 00:02:29,400
+les deux on voit que c'est présent chez
+ 
+
+135
+00:02:29,400 --> 00:02:31,130
+les deux on voit que c'est présent chez
+l'un mais pas chez l'autre on essaie de
+
+136
+00:02:31,130 --> 00:02:31,140
+l'un mais pas chez l'autre on essaie de
+ 
+
+137
+00:02:31,140 --> 00:02:33,830
+l'un mais pas chez l'autre on essaie de
+lui recommander
+
+138
+00:02:33,830 --> 00:02:33,840
+
+ 
+
+139
+00:02:33,840 --> 00:02:41,830
+
+on appelle ça des tascoop
+
+140
+00:02:41,830 --> 00:02:41,840
+
+ 
+
+141
+00:02:41,840 --> 00:02:44,809
+
+la deuxième chose c'est la deuxième type
+
+142
+00:02:44,809 --> 00:02:44,819
+la deuxième chose c'est la deuxième type
+ 
+
+143
+00:02:44,819 --> 00:02:46,190
+la deuxième chose c'est la deuxième type
+de recommandation c'est le high tech
+
+144
+00:02:46,190 --> 00:02:46,200
+de recommandation c'est le high tech
+ 
+
+145
+00:02:46,200 --> 00:02:48,350
+de recommandation c'est le high tech
+donc basé plutôt sur non plus sur les
+
+146
+00:02:48,350 --> 00:02:48,360
+donc basé plutôt sur non plus sur les
+ 
+
+147
+00:02:48,360 --> 00:02:50,030
+donc basé plutôt sur non plus sur les
+utilisateurs mais sur le contenu c'est
+
+148
+00:02:50,030 --> 00:02:50,040
+utilisateurs mais sur le contenu c'est
+ 
+
+149
+00:02:50,040 --> 00:02:51,229
+utilisateurs mais sur le contenu c'est
+exactement la même chose mais renversé
+
+150
+00:02:51,229 --> 00:02:51,239
+exactement la même chose mais renversé
+ 
+
+151
+00:02:51,239 --> 00:02:53,750
+exactement la même chose mais renversé
+dans l'autre sens je m'explique mais
+
+152
+00:02:53,750 --> 00:02:53,760
+dans l'autre sens je m'explique mais
+ 
+
+153
+00:02:53,760 --> 00:02:55,070
+dans l'autre sens je m'explique mais
+donc on est plein d'utilisateurs qui
+
+154
+00:02:55,070 --> 00:02:55,080
+donc on est plein d'utilisateurs qui
+ 
+
+155
+00:02:55,080 --> 00:02:56,390
+donc on est plein d'utilisateurs qui
+aiment plein de livres un nouvel
+
+156
+00:02:56,390 --> 00:02:56,400
+aiment plein de livres un nouvel
+ 
+
+157
+00:02:56,400 --> 00:02:58,550
+aiment plein de livres un nouvel
+utilisateur arrive et il apprécie un des
+
+158
+00:02:58,550 --> 00:02:58,560
+utilisateur arrive et il apprécie un des
+ 
+
+159
+00:02:58,560 --> 00:03:00,650
+utilisateur arrive et il apprécie un des
+livres de cet ensemble
+
+160
+00:03:00,650 --> 00:03:00,660
+livres de cet ensemble
+ 
+
+161
+00:03:00,660 --> 00:03:02,330
+livres de cet ensemble
+sauf que
+
+162
+00:03:02,330 --> 00:03:02,340
+sauf que
+ 
+
+163
+00:03:02,340 --> 00:03:04,610
+sauf que
+ces livres forment un ensemble parce
+
+164
+00:03:04,610 --> 00:03:04,620
+ces livres forment un ensemble parce
+ 
+
+165
+00:03:04,620 --> 00:03:05,690
+ces livres forment un ensemble parce
+qu'ils ont été appréciés par d'autres
+
+166
+00:03:05,690 --> 00:03:05,700
+qu'ils ont été appréciés par d'autres
+ 
+
+167
+00:03:05,700 --> 00:03:09,490
+qu'ils ont été appréciés par d'autres
+utilisateurs donc logiquement il y a il
+
+168
+00:03:09,490 --> 00:03:09,500
+utilisateurs donc logiquement il y a il
+ 
+
+169
+00:03:09,500 --> 00:03:12,410
+utilisateurs donc logiquement il y a il
+existe une forme de ressemblance entre
+
+170
+00:03:12,410 --> 00:03:12,420
+existe une forme de ressemblance entre
+ 
+
+171
+00:03:12,420 --> 00:03:14,449
+existe une forme de ressemblance entre
+tous ces livres qui va donc nous
+
+172
+00:03:14,449 --> 00:03:14,459
+tous ces livres qui va donc nous
+ 
+
+173
+00:03:14,459 --> 00:03:16,970
+tous ces livres qui va donc nous
+permettre par le biais de la
+
+174
+00:03:16,970 --> 00:03:16,980
+permettre par le biais de la
+ 
+
+175
+00:03:16,980 --> 00:03:18,470
+permettre par le biais de la
+ressemblance entre le livre donc de le
+
+176
+00:03:18,470 --> 00:03:18,480
+ressemblance entre le livre donc de le
+ 
+
+177
+00:03:18,480 --> 00:03:20,270
+ressemblance entre le livre donc de le
+recommander à l'utilisateur en question
+
+178
+00:03:20,270 --> 00:03:20,280
+recommander à l'utilisateur en question
+ 
+
+179
+00:03:20,280 --> 00:03:22,190
+recommander à l'utilisateur en question
+et donc cette utilisateur ne fera pas
+
+180
+00:03:22,190 --> 00:03:22,200
+et donc cette utilisateur ne fera pas
+ 
+
+181
+00:03:22,200 --> 00:03:23,990
+et donc cette utilisateur ne fera pas
+nécessairement partie du test groupe
+
+182
+00:03:23,990 --> 00:03:24,000
+nécessairement partie du test groupe
+ 
+
+183
+00:03:24,000 --> 00:03:26,330
+nécessairement partie du test groupe
+d'utilisateur qui a l'origine ont aimé
+
+184
+00:03:26,330 --> 00:03:26,340
+d'utilisateur qui a l'origine ont aimé
+ 
+
+185
+00:03:26,340 --> 00:03:28,190
+d'utilisateur qui a l'origine ont aimé
+tous ces ensembles de livres surtout que
+
+186
+00:03:28,190 --> 00:03:28,200
+tous ces ensembles de livres surtout que
+ 
+
+187
+00:03:28,200 --> 00:03:29,449
+tous ces ensembles de livres surtout que
+il peut y avoir plusieurs groupes
+
+188
+00:03:29,449 --> 00:03:29,459
+il peut y avoir plusieurs groupes
+ 
+
+189
+00:03:29,459 --> 00:03:30,890
+il peut y avoir plusieurs groupes
+différents qui vont aimer plusieurs
+
+190
+00:03:30,890 --> 00:03:30,900
+différents qui vont aimer plusieurs
+ 
+
+191
+00:03:30,900 --> 00:03:32,449
+différents qui vont aimer plusieurs
+livres différents plusieurs ensembles
+
+192
+00:03:32,449 --> 00:03:32,459
+livres différents plusieurs ensembles
+ 
+
+193
+00:03:32,459 --> 00:03:34,130
+livres différents plusieurs ensembles
+différents et donc de la même manière on
+
+194
+00:03:34,130 --> 00:03:34,140
+différents et donc de la même manière on
+ 
+
+195
+00:03:34,140 --> 00:03:35,750
+différents et donc de la même manière on
+va recommander par rapport à cette
+
+196
+00:03:35,750 --> 00:03:35,760
+va recommander par rapport à cette
+ 
+
+197
+00:03:35,760 --> 00:03:37,190
+va recommander par rapport à cette
+complexité
+
+198
+00:03:37,190 --> 00:03:37,200
+complexité
+ 
+
+199
+00:03:37,200 --> 00:03:39,350
+complexité
+ensuite la plus simple d'entre toutes et
+
+200
+00:03:39,350 --> 00:03:39,360
+ensuite la plus simple d'entre toutes et
+ 
+
+201
+00:03:39,360 --> 00:03:40,550
+ensuite la plus simple d'entre toutes et
+là du coup ça nécessite même pas de
+
+202
+00:03:40,550 --> 00:03:40,560
+là du coup ça nécessite même pas de
+ 
+
+203
+00:03:40,560 --> 00:03:42,170
+là du coup ça nécessite même pas de
+matrice c'est juste la recommandation
+
+204
+00:03:42,170 --> 00:03:42,180
+matrice c'est juste la recommandation
+ 
+
+205
+00:03:42,180 --> 00:03:44,509
+matrice c'est juste la recommandation
+basée sur le contenu c'est juste une
+
+206
+00:03:44,509 --> 00:03:44,519
+basée sur le contenu c'est juste une
+ 
+
+207
+00:03:44,519 --> 00:03:46,070
+basée sur le contenu c'est juste une
+matrice de similarité par rapport à ce
+
+208
+00:03:46,070 --> 00:03:46,080
+matrice de similarité par rapport à ce
+ 
+
+209
+00:03:46,080 --> 00:03:47,710
+matrice de similarité par rapport à ce
+qu'il y a dans le livre donc je sais pas
+
+210
+00:03:47,710 --> 00:03:47,720
+qu'il y a dans le livre donc je sais pas
+ 
+
+211
+00:03:47,720 --> 00:03:50,149
+qu'il y a dans le livre donc je sais pas
+si vous regardez un livre de SF
+
+212
+00:03:50,149 --> 00:03:50,159
+si vous regardez un livre de SF
+ 
+
+213
+00:03:50,159 --> 00:03:51,649
+si vous regardez un livre de SF
+logiquement amazon va vous proposer des
+
+214
+00:03:51,649 --> 00:03:51,659
+logiquement amazon va vous proposer des
+ 
+
+215
+00:03:51,659 --> 00:03:54,170
+logiquement amazon va vous proposer des
+livres de SF peut-être même une baguette
+
+216
+00:03:54,170 --> 00:03:54,180
+livres de SF peut-être même une baguette
+ 
+
+217
+00:03:54,180 --> 00:03:58,670
+livres de SF peut-être même une baguette
+en plastique d'Harry Potter
+
+218
+00:03:58,670 --> 00:03:58,680
+
+ 
+
+219
+00:03:58,680 --> 00:03:59,869
+
+et le truc c'est que toutes ces
+
+220
+00:03:59,869 --> 00:03:59,879
+et le truc c'est que toutes ces
+ 
+
+221
+00:03:59,879 --> 00:04:01,610
+et le truc c'est que toutes ces
+recommandations en fait elles vont se
+
+222
+00:04:01,610 --> 00:04:01,620
+recommandations en fait elles vont se
+ 
+
+223
+00:04:01,620 --> 00:04:03,410
+recommandations en fait elles vont se
+baser sur le contenu qui est déjà
+
+224
+00:04:03,410 --> 00:04:03,420
+baser sur le contenu qui est déjà
+ 
+
+225
+00:04:03,420 --> 00:04:04,729
+baser sur le contenu qui est déjà
+présent et surtout sur les interactions
+
+226
+00:04:04,729 --> 00:04:04,739
+présent et surtout sur les interactions
+ 
+
+227
+00:04:04,739 --> 00:04:07,309
+présent et surtout sur les interactions
+c'est à dire que plus un utilisateur va
+
+228
+00:04:07,309 --> 00:04:07,319
+c'est à dire que plus un utilisateur va
+ 
+
+229
+00:04:07,319 --> 00:04:08,930
+c'est à dire que plus un utilisateur va
+interagir avec la plateforme plus les
+
+230
+00:04:08,930 --> 00:04:08,940
+interagir avec la plateforme plus les
+ 
+
+231
+00:04:08,940 --> 00:04:10,070
+interagir avec la plateforme plus les
+recommandations vont être pertinentes
+
+232
+00:04:10,070 --> 00:04:10,080
+recommandations vont être pertinentes
+ 
+
+233
+00:04:10,080 --> 00:04:11,570
+recommandations vont être pertinentes
+c'est font comme ça qu'on fonctionne
+
+234
+00:04:11,570 --> 00:04:11,580
+c'est font comme ça qu'on fonctionne
+ 
+
+235
+00:04:11,580 --> 00:04:13,429
+c'est font comme ça qu'on fonctionne
+aujourd'hui les réseaux sociaux qu'on
+
+236
+00:04:13,429 --> 00:04:13,439
+aujourd'hui les réseaux sociaux qu'on
+ 
+
+237
+00:04:13,439 --> 00:04:15,229
+aujourd'hui les réseaux sociaux qu'on
+fonctionne les plateformes de vente en
+
+238
+00:04:15,229 --> 00:04:15,239
+fonctionne les plateformes de vente en
+ 
+
+239
+00:04:15,239 --> 00:04:17,150
+fonctionne les plateformes de vente en
+ligne c'est qu'en fait vous avez
+
+240
+00:04:17,150 --> 00:04:17,160
+ligne c'est qu'en fait vous avez
+ 
+
+241
+00:04:17,160 --> 00:04:18,289
+ligne c'est qu'en fait vous avez
+constamment derrière un moteur qui
+
+242
+00:04:18,289 --> 00:04:18,299
+constamment derrière un moteur qui
+ 
+
+243
+00:04:18,299 --> 00:04:19,909
+constamment derrière un moteur qui
+regarde tout ce que vous faites et qui
+
+244
+00:04:19,909 --> 00:04:19,919
+regarde tout ce que vous faites et qui
+ 
+
+245
+00:04:19,919 --> 00:04:21,469
+regarde tout ce que vous faites et qui
+ensuite interprète pour recommander au
+
+246
+00:04:21,469 --> 00:04:21,479
+ensuite interprète pour recommander au
+ 
+
+247
+00:04:21,479 --> 00:04:24,170
+ensuite interprète pour recommander au
+mieux le contenu qu'il a à sa
+
+248
+00:04:24,170 --> 00:04:24,180
+mieux le contenu qu'il a à sa
+ 
+
+249
+00:04:24,180 --> 00:04:26,090
+mieux le contenu qu'il a à sa
+disposition le problème c'est qu'au
+
+250
+00:04:26,090 --> 00:04:26,100
+disposition le problème c'est qu'au
+ 
+
+251
+00:04:26,100 --> 00:04:26,990
+disposition le problème c'est qu'au
+lancement de la plateforme il y a pas
+
+252
+00:04:26,990 --> 00:04:27,000
+lancement de la plateforme il y a pas
+ 
+
+253
+00:04:27,000 --> 00:04:28,790
+lancement de la plateforme il y a pas
+d'interaction et elle arrive dans
+
+254
+00:04:28,790 --> 00:04:28,800
+d'interaction et elle arrive dans
+ 
+
+255
+00:04:28,800 --> 00:04:30,890
+d'interaction et elle arrive dans
+l'utilisateur le nouvel utilisateur n'a
+
+256
+00:04:30,890 --> 00:04:30,900
+l'utilisateur le nouvel utilisateur n'a
+ 
+
+257
+00:04:30,900 --> 00:04:31,969
+l'utilisateur le nouvel utilisateur n'a
+quasiment pas interagi avec le contenu
+
+258
+00:04:31,969 --> 00:04:31,979
+quasiment pas interagi avec le contenu
+ 
+
+259
+00:04:31,979 --> 00:04:33,950
+quasiment pas interagi avec le contenu
+ce qui fait que là pour proposer une
+
+260
+00:04:33,950 --> 00:04:33,960
+ce qui fait que là pour proposer une
+ 
+
+261
+00:04:33,960 --> 00:04:36,230
+ce qui fait que là pour proposer une
+recommandation qui soit pertinente il y
+
+262
+00:04:36,230 --> 00:04:36,240
+recommandation qui soit pertinente il y
+ 
+
+263
+00:04:36,240 --> 00:04:38,450
+recommandation qui soit pertinente il y
+a peu de possibilités
+
+264
+00:04:38,450 --> 00:04:38,460
+a peu de possibilités
+ 
+
+265
+00:04:38,460 --> 00:04:40,070
+a peu de possibilités
+pour ça que du coup on va déterminer une
+
+266
+00:04:40,070 --> 00:04:40,080
+pour ça que du coup on va déterminer une
+ 
+
+267
+00:04:40,080 --> 00:04:43,010
+pour ça que du coup on va déterminer une
+un quatrième type de recommandation que
+
+268
+00:04:43,010 --> 00:04:43,020
+un quatrième type de recommandation que
+ 
+
+269
+00:04:43,020 --> 00:04:44,330
+un quatrième type de recommandation que
+j'ai appelé business base dans le sens
+
+270
+00:04:44,330 --> 00:04:44,340
+j'ai appelé business base dans le sens
+ 
+
+271
+00:04:44,340 --> 00:04:45,830
+j'ai appelé business base dans le sens
+basé sur le domaine donc sur votre
+
+272
+00:04:45,830 --> 00:04:45,840
+basé sur le domaine donc sur votre
+ 
+
+273
+00:04:45,840 --> 00:04:48,830
+basé sur le domaine donc sur votre
+métier par exemple on va recommander des
+
+274
+00:04:48,830 --> 00:04:48,840
+métier par exemple on va recommander des
+ 
+
+275
+00:04:48,840 --> 00:04:50,689
+métier par exemple on va recommander des
+sujets populaires des sujets du moment
+
+276
+00:04:50,689 --> 00:04:50,699
+sujets populaires des sujets du moment
+ 
+
+277
+00:04:50,699 --> 00:04:52,909
+sujets populaires des sujets du moment
+des trending ou alors du contenu
+
+278
+00:04:52,909 --> 00:04:52,919
+des trending ou alors du contenu
+ 
+
+279
+00:04:52,919 --> 00:04:55,550
+des trending ou alors du contenu
+sponsorisé par exemple si on est sur
+
+280
+00:04:55,550 --> 00:04:55,560
+sponsorisé par exemple si on est sur
+ 
+
+281
+00:04:55,560 --> 00:04:58,249
+sponsorisé par exemple si on est sur
+Youtube et que on arrive à la perte de
+
+282
+00:04:58,249 --> 00:04:58,259
+Youtube et que on arrive à la perte de
+ 
+
+283
+00:04:58,259 --> 00:04:59,629
+Youtube et que on arrive à la perte de
+Noël on va recommander surtout des
+
+284
+00:04:59,629 --> 00:04:59,639
+Noël on va recommander surtout des
+ 
+
+285
+00:04:59,639 --> 00:05:01,310
+Noël on va recommander surtout des
+vidéos en rapport avec Noël parce que
+
+286
+00:05:01,310 --> 00:05:01,320
+vidéos en rapport avec Noël parce que
+ 
+
+287
+00:05:01,320 --> 00:05:03,469
+vidéos en rapport avec Noël parce que
+c'est du contenu événementiel qui va
+
+288
+00:05:03,469 --> 00:05:03,479
+c'est du contenu événementiel qui va
+ 
+
+289
+00:05:03,479 --> 00:05:05,150
+c'est du contenu événementiel qui va
+juste permettre comme ça aux
+
+290
+00:05:05,150 --> 00:05:05,160
+juste permettre comme ça aux
+ 
+
+291
+00:05:05,160 --> 00:05:06,530
+juste permettre comme ça aux
+utilisateurs nouveaux de se faire un
+
+292
+00:05:06,530 --> 00:05:06,540
+utilisateurs nouveaux de se faire un
+ 
+
+293
+00:05:06,540 --> 00:05:07,490
+utilisateurs nouveaux de se faire un
+petit peu d'interaction pour comprendre
+
+294
+00:05:07,490 --> 00:05:07,500
+petit peu d'interaction pour comprendre
+ 
+
+295
+00:05:07,500 --> 00:05:09,710
+petit peu d'interaction pour comprendre
+un peu ce qu'ils apprécient sur la
+
+296
+00:05:09,710 --> 00:05:09,720
+un peu ce qu'ils apprécient sur la
+ 
+
+297
+00:05:09,720 --> 00:05:11,810
+un peu ce qu'ils apprécient sur la
+plateforme
+
+298
+00:05:11,810 --> 00:05:11,820
+plateforme
+ 
+
+299
+00:05:11,820 --> 00:05:13,010
+plateforme
+bon maintenant la partie technique parce
+
+300
+00:05:13,010 --> 00:05:13,020
+bon maintenant la partie technique parce
+ 
+
+301
+00:05:13,020 --> 00:05:14,150
+bon maintenant la partie technique parce
+que c'est bien sympa tout ça mais c'est
+
+302
+00:05:14,150 --> 00:05:14,160
+que c'est bien sympa tout ça mais c'est
+ 
+
+303
+00:05:14,160 --> 00:05:15,710
+que c'est bien sympa tout ça mais c'est
+pas ce qui nous intéresse vraiment la
+
+304
+00:05:15,710 --> 00:05:15,720
+pas ce qui nous intéresse vraiment la
+ 
+
+305
+00:05:15,720 --> 00:05:17,210
+pas ce qui nous intéresse vraiment la
+partie technique avec quoi est-ce qu'on
+
+306
+00:05:17,210 --> 00:05:17,220
+partie technique avec quoi est-ce qu'on
+ 
+
+307
+00:05:17,220 --> 00:05:19,570
+partie technique avec quoi est-ce qu'on
+fait des recommandations aujourd'hui
+
+308
+00:05:19,570 --> 00:05:19,580
+fait des recommandations aujourd'hui
+ 
+
+309
+00:05:19,580 --> 00:05:21,350
+fait des recommandations aujourd'hui
+vous pouvez faire avec élastique search
+
+310
+00:05:21,350 --> 00:05:21,360
+vous pouvez faire avec élastique search
+ 
+
+311
+00:05:21,360 --> 00:05:23,390
+vous pouvez faire avec élastique search
+si vous connaissez il y a un petit outil
+
+312
+00:05:23,390 --> 00:05:23,400
+si vous connaissez il y a un petit outil
+ 
+
+313
+00:05:23,400 --> 00:05:25,370
+si vous connaissez il y a un petit outil
+enfin il y a une méthode de requête
+
+314
+00:05:25,370 --> 00:05:25,380
+enfin il y a une méthode de requête
+ 
+
+315
+00:05:25,380 --> 00:05:26,450
+enfin il y a une méthode de requête
+d'élastique charge qui permet de faire
+
+316
+00:05:26,450 --> 00:05:26,460
+d'élastique charge qui permet de faire
+ 
+
+317
+00:05:26,460 --> 00:05:28,550
+d'élastique charge qui permet de faire
+des recommandations qui est sympa qui
+
+318
+00:05:28,550 --> 00:05:28,560
+des recommandations qui est sympa qui
+ 
+
+319
+00:05:28,560 --> 00:05:30,890
+des recommandations qui est sympa qui
+est assez facile à utiliser vous pouvez
+
+320
+00:05:30,890 --> 00:05:30,900
+est assez facile à utiliser vous pouvez
+ 
+
+321
+00:05:30,900 --> 00:05:32,570
+est assez facile à utiliser vous pouvez
+le faire à la main
+
+322
+00:05:32,570 --> 00:05:32,580
+le faire à la main
+ 
+
+323
+00:05:32,580 --> 00:05:34,870
+le faire à la main
+si vous êtes vraiment un purger
+
+324
+00:05:34,870 --> 00:05:34,880
+si vous êtes vraiment un purger
+ 
+
+325
+00:05:34,880 --> 00:05:37,249
+si vous êtes vraiment un purger
+vous sortez la page Spark ce cas là ce
+
+326
+00:05:37,249 --> 00:05:37,259
+vous sortez la page Spark ce cas là ce
+ 
+
+327
+00:05:37,259 --> 00:05:38,330
+vous sortez la page Spark ce cas là ce
+que vous voulez vous sortez une arme
+
+328
+00:05:38,330 --> 00:05:38,340
+que vous voulez vous sortez une arme
+ 
+
+329
+00:05:38,340 --> 00:05:41,450
+que vous voulez vous sortez une arme
+infra et hop c'est parti et là vous y
+
+330
+00:05:41,450 --> 00:05:41,460
+infra et hop c'est parti et là vous y
+ 
+
+331
+00:05:41,460 --> 00:05:46,129
+infra et hop c'est parti et là vous y
+passez du temps ou alors
+
+332
+00:05:46,129 --> 00:05:46,139
+
+ 
+
+333
+00:05:46,139 --> 00:05:48,469
+
+on utilise des offres managers vous vous
+
+334
+00:05:48,469 --> 00:05:48,479
+on utilise des offres managers vous vous
+ 
+
+335
+00:05:48,479 --> 00:05:49,430
+on utilise des offres managers vous vous
+en doutez je suis plutôt là pour vous
+
+336
+00:05:49,430 --> 00:05:49,440
+en doutez je suis plutôt là pour vous
+ 
+
+337
+00:05:49,440 --> 00:05:50,810
+en doutez je suis plutôt là pour vous
+parler des offres managers parce que je
+
+338
+00:05:50,810 --> 00:05:50,820
+parler des offres managers parce que je
+ 
+
+339
+00:05:50,820 --> 00:05:52,070
+parler des offres managers parce que je
+vais pas vous faire un exposé sur Spark
+
+340
+00:05:52,070 --> 00:05:52,080
+vais pas vous faire un exposé sur Spark
+ 
+
+341
+00:05:52,080 --> 00:05:54,950
+vais pas vous faire un exposé sur Spark
+ça va prendre trois plombes
+
+342
+00:05:54,950 --> 00:05:54,960
+ça va prendre trois plombes
+ 
+
+343
+00:05:54,960 --> 00:05:56,090
+ça va prendre trois plombes
+et je suis surtout là pour vous parler
+
+344
+00:05:56,090 --> 00:05:56,100
+et je suis surtout là pour vous parler
+ 
+
+345
+00:05:56,100 --> 00:05:57,469
+et je suis surtout là pour vous parler
+d'adulese personalize qui est quelque
+
+346
+00:05:57,469 --> 00:05:57,479
+d'adulese personalize qui est quelque
+ 
+
+347
+00:05:57,479 --> 00:05:58,390
+d'adulese personalize qui est quelque
+chose que nous avons personnellement
+
+348
+00:05:58,390 --> 00:05:58,400
+chose que nous avons personnellement
+ 
+
+349
+00:05:58,400 --> 00:06:00,230
+chose que nous avons personnellement
+particulièrement utilisé à bille
+
+350
+00:06:00,230 --> 00:06:00,240
+particulièrement utilisé à bille
+ 
+
+351
+00:06:00,240 --> 00:06:02,270
+particulièrement utilisé à bille
+tomorrow et qu'en utilisant encore avec
+
+352
+00:06:02,270 --> 00:06:02,280
+tomorrow et qu'en utilisant encore avec
+ 
+
+353
+00:06:02,280 --> 00:06:03,950
+tomorrow et qu'en utilisant encore avec
+nos clients
+
+354
+00:06:03,950 --> 00:06:03,960
+nos clients
+ 
+
+355
+00:06:03,960 --> 00:06:06,909
+nos clients
+donc personnel c'est la solution
+
+356
+00:06:06,909 --> 00:06:06,919
+donc personnel c'est la solution
+ 
+
+357
+00:06:06,919 --> 00:06:10,909
+donc personnel c'est la solution
+de recommandations d'AWS Google à la
+
+358
+00:06:10,909 --> 00:06:10,919
+de recommandations d'AWS Google à la
+ 
+
+359
+00:06:10,919 --> 00:06:13,490
+de recommandations d'AWS Google à la
+sienne Azur à la sienne Microsoft
+
+360
+00:06:13,490 --> 00:06:13,500
+sienne Azur à la sienne Microsoft
+ 
+
+361
+00:06:13,500 --> 00:06:15,230
+sienne Azur à la sienne Microsoft
+qu'ils ont lancé en 2000 à partir de
+
+362
+00:06:15,230 --> 00:06:15,240
+qu'ils ont lancé en 2000 à partir de
+ 
+
+363
+00:06:15,240 --> 00:06:19,550
+qu'ils ont lancé en 2000 à partir de
+leur recherche de leur propre Ia en 2004
+
+364
+00:06:19,550 --> 00:06:19,560
+leur recherche de leur propre Ia en 2004
+ 
+
+365
+00:06:19,560 --> 00:06:20,870
+leur recherche de leur propre Ia en 2004
+et en gros ce que vous faites c'est que
+
+366
+00:06:20,870 --> 00:06:20,880
+et en gros ce que vous faites c'est que
+ 
+
+367
+00:06:20,880 --> 00:06:21,730
+et en gros ce que vous faites c'est que
+simplement
+
+368
+00:06:21,730 --> 00:06:21,740
+simplement
+ 
+
+369
+00:06:21,740 --> 00:06:25,090
+simplement
+vous lui fournissez un datacet
+
+370
+00:06:25,090 --> 00:06:25,100
+vous lui fournissez un datacet
+ 
+
+371
+00:06:25,100 --> 00:06:29,150
+vous lui fournissez un datacet
+d'utilisateur un Data 7
+
+372
+00:06:29,150 --> 00:06:29,160
+d'utilisateur un Data 7
+ 
+
+373
+00:06:29,160 --> 00:06:32,110
+d'utilisateur un Data 7
+de d'objets et
+
+374
+00:06:32,110 --> 00:06:32,120
+de d'objets et
+ 
+
+375
+00:06:32,120 --> 00:06:33,770
+de d'objets et
+d'interaction entre les deux c'est juste
+
+376
+00:06:33,770 --> 00:06:33,780
+d'interaction entre les deux c'est juste
+ 
+
+377
+00:06:33,780 --> 00:06:35,930
+d'interaction entre les deux c'est juste
+des gros Jones rien de plus que ça et
+
+378
+00:06:35,930 --> 00:06:35,940
+des gros Jones rien de plus que ça et
+ 
+
+379
+00:06:35,940 --> 00:06:36,950
+des gros Jones rien de plus que ça et
+lui ensuite il se débrouille pour faire
+
+380
+00:06:36,950 --> 00:06:36,960
+lui ensuite il se débrouille pour faire
+ 
+
+381
+00:06:36,960 --> 00:06:38,749
+lui ensuite il se débrouille pour faire
+son entraînement il est capable de vous
+
+382
+00:06:38,749 --> 00:06:38,759
+son entraînement il est capable de vous
+ 
+
+383
+00:06:38,759 --> 00:06:41,090
+son entraînement il est capable de vous
+donner plein de choses des tendances des
+
+384
+00:06:41,090 --> 00:06:41,100
+donner plein de choses des tendances des
+ 
+
+385
+00:06:41,100 --> 00:06:42,170
+donner plein de choses des tendances des
+objets similaires de la personnalisation
+
+386
+00:06:42,170 --> 00:06:42,180
+objets similaires de la personnalisation
+ 
+
+387
+00:06:42,180 --> 00:06:43,909
+objets similaires de la personnalisation
+réelle comme on a comme on l'a vu là du
+
+388
+00:06:43,909 --> 00:06:43,919
+réelle comme on a comme on l'a vu là du
+ 
+
+389
+00:06:43,919 --> 00:06:46,010
+réelle comme on a comme on l'a vu là du
+filtrage collaboratif mais aussi du
+
+390
+00:06:46,010 --> 00:06:46,020
+filtrage collaboratif mais aussi du
+ 
+
+391
+00:06:46,020 --> 00:06:47,210
+filtrage collaboratif mais aussi du
+ranking personnalisé c'est-à-dire le
+
+392
+00:06:47,210 --> 00:06:47,220
+ranking personnalisé c'est-à-dire le
+ 
+
+393
+00:06:47,220 --> 00:06:48,650
+ranking personnalisé c'est-à-dire le
+fait de recommander tout le temps les
+
+394
+00:06:48,650 --> 00:06:48,660
+fait de recommander tout le temps les
+ 
+
+395
+00:06:48,660 --> 00:06:51,529
+fait de recommander tout le temps les
+recherches d'utilisateurs etc
+
+396
+00:06:51,529 --> 00:06:51,539
+recherches d'utilisateurs etc
+ 
+
+397
+00:06:51,539 --> 00:06:54,290
+recherches d'utilisateurs etc
+en plus de ça il évolue constamment
+
+398
+00:06:54,290 --> 00:06:54,300
+en plus de ça il évolue constamment
+ 
+
+399
+00:06:54,300 --> 00:06:57,189
+en plus de ça il évolue constamment
+c'est à dire que par le biais de petites
+
+400
+00:06:57,189 --> 00:06:57,199
+c'est à dire que par le biais de petites
+ 
+
+401
+00:06:57,199 --> 00:06:58,850
+c'est à dire que par le biais de petites
+interactions vous allez mettre dans
+
+402
+00:06:58,850 --> 00:06:58,860
+interactions vous allez mettre dans
+ 
+
+403
+00:06:58,860 --> 00:07:00,290
+interactions vous allez mettre dans
+votre application par exemple lorsqu'il
+
+404
+00:07:00,290 --> 00:07:00,300
+votre application par exemple lorsqu'il
+ 
+
+405
+00:07:00,300 --> 00:07:03,110
+votre application par exemple lorsqu'il
+va faire un appel lorsqu'il va aller sur
+
+406
+00:07:03,110 --> 00:07:03,120
+va faire un appel lorsqu'il va aller sur
+ 
+
+407
+00:07:03,120 --> 00:07:04,550
+va faire un appel lorsqu'il va aller sur
+une page produit etc vous allez pouvoir
+
+408
+00:07:04,550 --> 00:07:04,560
+une page produit etc vous allez pouvoir
+ 
+
+409
+00:07:04,560 --> 00:07:06,710
+une page produit etc vous allez pouvoir
+envoyer en plus d'informations en live à
+
+410
+00:07:06,710 --> 00:07:06,720
+envoyer en plus d'informations en live à
+ 
+
+411
+00:07:06,720 --> 00:07:07,909
+envoyer en plus d'informations en live à
+personalise pour qu'il améliore en
+
+412
+00:07:07,909 --> 00:07:07,919
+personalise pour qu'il améliore en
+ 
+
+413
+00:07:07,919 --> 00:07:10,909
+personalise pour qu'il améliore en
+continu ses recommandations
+
+414
+00:07:10,909 --> 00:07:10,919
+
+ 
+
+415
+00:07:10,919 --> 00:07:13,969
+
+en plus de ça pour terminer l'outil vous
+
+416
+00:07:13,969 --> 00:07:13,979
+en plus de ça pour terminer l'outil vous
+ 
+
+417
+00:07:13,979 --> 00:07:16,309
+en plus de ça pour terminer l'outil vous
+propose d'améliorer avec des objectifs
+
+418
+00:07:16,309 --> 00:07:16,319
+propose d'améliorer avec des objectifs
+ 
+
+419
+00:07:16,319 --> 00:07:18,350
+propose d'améliorer avec des objectifs
+précis votre modèle par exemple
+
+420
+00:07:18,350 --> 00:07:18,360
+précis votre modèle par exemple
+ 
+
+421
+00:07:18,360 --> 00:07:21,290
+précis votre modèle par exemple
+maximiser les revenus c'est-à-dire faire
+
+422
+00:07:21,290 --> 00:07:21,300
+maximiser les revenus c'est-à-dire faire
+ 
+
+423
+00:07:21,300 --> 00:07:23,990
+maximiser les revenus c'est-à-dire faire
+en sorte que le l'algo soit capable de
+
+424
+00:07:23,990 --> 00:07:24,000
+en sorte que le l'algo soit capable de
+ 
+
+425
+00:07:24,000 --> 00:07:25,370
+en sorte que le l'algo soit capable de
+créer le meilleur parcours utilisateur
+
+426
+00:07:25,370 --> 00:07:25,380
+créer le meilleur parcours utilisateur
+ 
+
+427
+00:07:25,380 --> 00:07:26,689
+créer le meilleur parcours utilisateur
+pour être sûr que au final votre
+
+428
+00:07:26,689 --> 00:07:26,699
+pour être sûr que au final votre
+ 
+
+429
+00:07:26,699 --> 00:07:29,089
+pour être sûr que au final votre
+utilisateur achète quelque chose il est
+
+430
+00:07:29,089 --> 00:07:29,099
+utilisateur achète quelque chose il est
+ 
+
+431
+00:07:29,099 --> 00:07:30,850
+utilisateur achète quelque chose il est
+plutôt balèze
+
+432
+00:07:30,850 --> 00:07:30,860
+plutôt balèze
+ 
+
+433
+00:07:30,860 --> 00:07:32,930
+plutôt balèze
+je vais passer assez vite là dessus
+
+434
+00:07:32,930 --> 00:07:32,940
+je vais passer assez vite là dessus
+ 
+
+435
+00:07:32,940 --> 00:07:35,589
+je vais passer assez vite là dessus
+parce que évidemment je suis trop bavard
+
+436
+00:07:35,589 --> 00:07:35,599
+parce que évidemment je suis trop bavard
+ 
+
+437
+00:07:35,599 --> 00:07:38,089
+parce que évidemment je suis trop bavard
+concrètement le modèle fonctionne en
+
+438
+00:07:38,089 --> 00:07:38,099
+concrètement le modèle fonctionne en
+ 
+
+439
+00:07:38,099 --> 00:07:41,029
+concrètement le modèle fonctionne en
+deux couches une couche profonde qui va
+
+440
+00:07:41,029 --> 00:07:41,039
+deux couches une couche profonde qui va
+ 
+
+441
+00:07:41,039 --> 00:07:42,950
+deux couches une couche profonde qui va
+être la compréhension réelle de ce qu'un
+
+442
+00:07:42,950 --> 00:07:42,960
+être la compréhension réelle de ce qu'un
+ 
+
+443
+00:07:42,960 --> 00:07:44,390
+être la compréhension réelle de ce qu'un
+utilisateur veut et une couche
+
+444
+00:07:44,390 --> 00:07:44,400
+utilisateur veut et une couche
+ 
+
+445
+00:07:44,400 --> 00:07:45,890
+utilisateur veut et une couche
+superficielle qui elle va constamment
+
+446
+00:07:45,890 --> 00:07:45,900
+superficielle qui elle va constamment
+ 
+
+447
+00:07:45,900 --> 00:07:49,070
+superficielle qui elle va constamment
+évoluer
+
+448
+00:07:49,070 --> 00:07:49,080
+
+ 
+
+449
+00:07:49,080 --> 00:07:51,409
+
+elle va constamment évoluer typiquement
+
+450
+00:07:51,409 --> 00:07:51,419
+elle va constamment évoluer typiquement
+ 
+
+451
+00:07:51,419 --> 00:07:52,610
+elle va constamment évoluer typiquement
+les retours utilisateurs que vous allez
+
+452
+00:07:52,610 --> 00:07:52,620
+les retours utilisateurs que vous allez
+ 
+
+453
+00:07:52,620 --> 00:07:54,290
+les retours utilisateurs que vous allez
+faire en live elles vont mettre à jour
+
+454
+00:07:54,290 --> 00:07:54,300
+faire en live elles vont mettre à jour
+ 
+
+455
+00:07:54,300 --> 00:07:55,309
+faire en live elles vont mettre à jour
+constamment ses couches superficielles
+
+456
+00:07:55,309 --> 00:07:55,319
+constamment ses couches superficielles
+ 
+
+457
+00:07:55,319 --> 00:07:58,909
+constamment ses couches superficielles
+et lorsque vous allez rien entraîner
+
+458
+00:07:58,909 --> 00:07:58,919
+et lorsque vous allez rien entraîner
+ 
+
+459
+00:07:58,919 --> 00:08:00,830
+et lorsque vous allez rien entraîner
+votre modèle le modèle va intégrer ou
+
+460
+00:08:00,830 --> 00:08:00,840
+votre modèle le modèle va intégrer ou
+ 
+
+461
+00:08:00,840 --> 00:08:02,029
+votre modèle le modèle va intégrer ou
+non tout ce qui s'est passé dans les
+
+462
+00:08:02,029 --> 00:08:02,039
+non tout ce qui s'est passé dans les
+ 
+
+463
+00:08:02,039 --> 00:08:04,249
+non tout ce qui s'est passé dans les
+couches superficielles
+
+464
+00:08:04,249 --> 00:08:04,259
+couches superficielles
+ 
+
+465
+00:08:04,259 --> 00:08:06,050
+couches superficielles
+en plus de ça vous avez plein de
+
+466
+00:08:06,050 --> 00:08:06,060
+en plus de ça vous avez plein de
+ 
+
+467
+00:08:06,060 --> 00:08:08,350
+en plus de ça vous avez plein de
+manières de faire varier les les
+
+468
+00:08:08,350 --> 00:08:08,360
+manières de faire varier les les
+ 
+
+469
+00:08:08,360 --> 00:08:11,210
+manières de faire varier les les
+recommandations par exemple en mettant
+
+470
+00:08:11,210 --> 00:08:11,220
+recommandations par exemple en mettant
+ 
+
+471
+00:08:11,220 --> 00:08:12,650
+recommandations par exemple en mettant
+une session utilisateur qui va être
+
+472
+00:08:12,650 --> 00:08:12,660
+une session utilisateur qui va être
+ 
+
+473
+00:08:12,660 --> 00:08:14,689
+une session utilisateur qui va être
+déduite par exemple pendant une période
+
+474
+00:08:14,689 --> 00:08:14,699
+déduite par exemple pendant une période
+ 
+
+475
+00:08:14,699 --> 00:08:16,490
+déduite par exemple pendant une période
+de temps on va voir que l'utilisateur va
+
+476
+00:08:16,490 --> 00:08:16,500
+de temps on va voir que l'utilisateur va
+ 
+
+477
+00:08:16,500 --> 00:08:18,230
+de temps on va voir que l'utilisateur va
+se mettre à apprécier le yoga alors que
+
+478
+00:08:18,230 --> 00:08:18,240
+se mettre à apprécier le yoga alors que
+ 
+
+479
+00:08:18,240 --> 00:08:19,550
+se mettre à apprécier le yoga alors que
+d'habitude j'en sais rien il apprécie le
+
+480
+00:08:19,550 --> 00:08:19,560
+d'habitude j'en sais rien il apprécie le
+ 
+
+481
+00:08:19,560 --> 00:08:22,730
+d'habitude j'en sais rien il apprécie le
+fitness personnel va comprendre ça et va
+
+482
+00:08:22,730 --> 00:08:22,740
+fitness personnel va comprendre ça et va
+ 
+
+483
+00:08:22,740 --> 00:08:23,450
+fitness personnel va comprendre ça et va
+se mettre du coup à lui proposer
+
+484
+00:08:23,450 --> 00:08:23,460
+se mettre du coup à lui proposer
+ 
+
+485
+00:08:23,460 --> 00:08:25,670
+se mettre du coup à lui proposer
+beaucoup plus de yoga d'un coup et puis
+
+486
+00:08:25,670 --> 00:08:25,680
+beaucoup plus de yoga d'un coup et puis
+ 
+
+487
+00:08:25,680 --> 00:08:26,450
+beaucoup plus de yoga d'un coup et puis
+si ça se trouve à la prochaine session
+
+488
+00:08:26,450 --> 00:08:26,460
+si ça se trouve à la prochaine session
+ 
+
+489
+00:08:26,460 --> 00:08:28,010
+si ça se trouve à la prochaine session
+utilisateur il va plus regarder du tout
+
+490
+00:08:28,010 --> 00:08:28,020
+utilisateur il va plus regarder du tout
+ 
+
+491
+00:08:28,020 --> 00:08:29,809
+utilisateur il va plus regarder du tout
+et donc on va le comprendre comme juste
+
+492
+00:08:29,809 --> 00:08:29,819
+et donc on va le comprendre comme juste
+ 
+
+493
+00:08:29,819 --> 00:08:31,430
+et donc on va le comprendre comme juste
+c'était le temps d'une session et on se
+
+494
+00:08:31,430 --> 00:08:31,440
+c'était le temps d'une session et on se
+ 
+
+495
+00:08:31,440 --> 00:08:32,570
+c'était le temps d'une session et on se
+sera adapté à lui juste pour ce moment
+
+496
+00:08:32,570 --> 00:08:32,580
+sera adapté à lui juste pour ce moment
+ 
+
+497
+00:08:32,580 --> 00:08:36,430
+sera adapté à lui juste pour ce moment
+là
+
+498
+00:08:36,430 --> 00:08:36,440
+
+ 
+
+499
+00:08:36,440 --> 00:08:38,269
+
+contexte utilisateur ça paraît mais
+
+500
+00:08:38,269 --> 00:08:38,279
+contexte utilisateur ça paraît mais
+ 
+
+501
+00:08:38,279 --> 00:08:39,230
+contexte utilisateur ça paraît mais
+c'est quelque chose qui va être déclaré
+
+502
+00:08:39,230 --> 00:08:39,240
+c'est quelque chose qui va être déclaré
+ 
+
+503
+00:08:39,240 --> 00:08:40,909
+c'est quelque chose qui va être déclaré
+explicitement par le développeur par
+
+504
+00:08:40,909 --> 00:08:40,919
+explicitement par le développeur par
+ 
+
+505
+00:08:40,919 --> 00:08:41,709
+explicitement par le développeur par
+exemple
+
+506
+00:08:41,709 --> 00:08:41,719
+exemple
+ 
+
+507
+00:08:41,719 --> 00:08:44,630
+exemple
+à certains de recommandations je vais
+
+508
+00:08:44,630 --> 00:08:44,640
+à certains de recommandations je vais
+ 
+
+509
+00:08:44,640 --> 00:08:46,490
+à certains de recommandations je vais
+préciser un moment de la journée donc si
+
+510
+00:08:46,490 --> 00:08:46,500
+préciser un moment de la journée donc si
+ 
+
+511
+00:08:46,500 --> 00:08:47,769
+préciser un moment de la journée donc si
+j'ai une plateforme de cuisine
+
+512
+00:08:47,769 --> 00:08:47,779
+j'ai une plateforme de cuisine
+ 
+
+513
+00:08:47,779 --> 00:08:49,430
+j'ai une plateforme de cuisine
+logiquement je vais surtout vouloir
+
+514
+00:08:49,430 --> 00:08:49,440
+logiquement je vais surtout vouloir
+ 
+
+515
+00:08:49,440 --> 00:08:51,290
+logiquement je vais surtout vouloir
+recommander le matin du petit déj je
+
+516
+00:08:51,290 --> 00:08:51,300
+recommander le matin du petit déj je
+ 
+
+517
+00:08:51,300 --> 00:08:52,850
+recommander le matin du petit déj je
+vais pas recommander une choucroute à 8h
+
+518
+00:08:52,850 --> 00:08:52,860
+vais pas recommander une choucroute à 8h
+ 
+
+519
+00:08:52,860 --> 00:08:55,310
+vais pas recommander une choucroute à 8h
+ça va être un peu délicat
+
+520
+00:08:55,310 --> 00:08:55,320
+ça va être un peu délicat
+ 
+
+521
+00:08:55,320 --> 00:08:56,650
+ça va être un peu délicat
+c'est à ça que servent ce genre de chose
+
+522
+00:08:56,650 --> 00:08:56,660
+c'est à ça que servent ce genre de chose
+ 
+
+523
+00:08:56,660 --> 00:08:58,850
+c'est à ça que servent ce genre de chose
+contextualiser véritablement les
+
+524
+00:08:58,850 --> 00:08:58,860
+contextualiser véritablement les
+ 
+
+525
+00:08:58,860 --> 00:08:59,930
+contextualiser véritablement les
+recommandations que vous demandez au
+
+526
+00:08:59,930 --> 00:08:59,940
+recommandations que vous demandez au
+ 
+
+527
+00:08:59,940 --> 00:09:02,530
+recommandations que vous demandez au
+moteur
+
+528
+00:09:02,530 --> 00:09:02,540
+
+ 
+
+529
+00:09:02,540 --> 00:09:06,110
+
+amazon a mis en place une petite outil
+
+530
+00:09:06,110 --> 00:09:06,120
+amazon a mis en place une petite outil
+ 
+
+531
+00:09:06,120 --> 00:09:07,670
+amazon a mis en place une petite outil
+qui s'appelle le retail demostors alors
+
+532
+00:09:07,670 --> 00:09:07,680
+qui s'appelle le retail demostors alors
+ 
+
+533
+00:09:07,680 --> 00:09:09,170
+qui s'appelle le retail demostors alors
+il était en live malheureusement il ne
+
+534
+00:09:09,170 --> 00:09:09,180
+il était en live malheureusement il ne
+ 
+
+535
+00:09:09,180 --> 00:09:10,190
+il était en live malheureusement il ne
+l'est plus mais en tout cas ils ont un
+
+536
+00:09:10,190 --> 00:09:10,200
+l'est plus mais en tout cas ils ont un
+ 
+
+537
+00:09:10,200 --> 00:09:11,990
+l'est plus mais en tout cas ils ont un
+GitHub qui est accessible vous devez
+
+538
+00:09:11,990 --> 00:09:12,000
+GitHub qui est accessible vous devez
+ 
+
+539
+00:09:12,000 --> 00:09:13,630
+GitHub qui est accessible vous devez
+para hériter le dimosport Amazon
+
+540
+00:09:13,630 --> 00:09:13,640
+para hériter le dimosport Amazon
+ 
+
+541
+00:09:13,640 --> 00:09:16,009
+para hériter le dimosport Amazon
+vous avez juste à démarrer l'infras
+
+542
+00:09:16,009 --> 00:09:16,019
+vous avez juste à démarrer l'infras
+ 
+
+543
+00:09:16,019 --> 00:09:18,530
+vous avez juste à démarrer l'infras
+associé et vous avez tout de suite la
+
+544
+00:09:18,530 --> 00:09:18,540
+associé et vous avez tout de suite la
+ 
+
+545
+00:09:18,540 --> 00:09:19,730
+associé et vous avez tout de suite la
+totalité évidemment vous payez les frais
+
+546
+00:09:19,730 --> 00:09:19,740
+totalité évidemment vous payez les frais
+ 
+
+547
+00:09:19,740 --> 00:09:22,269
+totalité évidemment vous payez les frais
+faut pas rêver
+
+548
+00:09:22,269 --> 00:09:22,279
+faut pas rêver
+ 
+
+549
+00:09:22,279 --> 00:09:24,230
+faut pas rêver
+là c'est juste des exemples mais bon je
+
+550
+00:09:24,230 --> 00:09:24,240
+là c'est juste des exemples mais bon je
+ 
+
+551
+00:09:24,240 --> 00:09:25,670
+là c'est juste des exemples mais bon je
+vais pas vous je vais pas aller plus
+
+552
+00:09:25,670 --> 00:09:25,680
+vais pas vous je vais pas aller plus
+ 
+
+553
+00:09:25,680 --> 00:09:30,050
+vais pas vous je vais pas aller plus
+loin là dessus
+
+554
+00:09:30,050 --> 00:09:30,060
+
+ 
+
+555
+00:09:30,060 --> 00:09:31,389
+
+et pour vous donner juste des petites
+
+556
+00:09:31,389 --> 00:09:31,399
+et pour vous donner juste des petites
+ 
+
+557
+00:09:31,399 --> 00:09:33,650
+et pour vous donner juste des petites
+indications sur la qualité de votre
+
+558
+00:09:33,650 --> 00:09:33,660
+indications sur la qualité de votre
+ 
+
+559
+00:09:33,660 --> 00:09:35,949
+indications sur la qualité de votre
+entraînement c'est à dire que
+
+560
+00:09:35,949 --> 00:09:35,959
+entraînement c'est à dire que
+ 
+
+561
+00:09:35,959 --> 00:09:38,570
+entraînement c'est à dire que
+vous quand vous allez vouloir entraîner
+
+562
+00:09:38,570 --> 00:09:38,580
+vous quand vous allez vouloir entraîner
+ 
+
+563
+00:09:38,580 --> 00:09:39,889
+vous quand vous allez vouloir entraîner
+votre votre réseau vous allez peut-être
+
+564
+00:09:39,889 --> 00:09:39,899
+votre votre réseau vous allez peut-être
+ 
+
+565
+00:09:39,899 --> 00:09:42,470
+votre votre réseau vous allez peut-être
+vouloir un peu savoir quelle est sa
+
+566
+00:09:42,470 --> 00:09:42,480
+vouloir un peu savoir quelle est sa
+ 
+
+567
+00:09:42,480 --> 00:09:43,430
+vouloir un peu savoir quelle est sa
+performance le problème c'est que
+
+568
+00:09:43,430 --> 00:09:43,440
+performance le problème c'est que
+ 
+
+569
+00:09:43,440 --> 00:09:43,910
+performance le problème c'est que
+comment est-ce qu'on mesure
+
+570
+00:09:43,910 --> 00:09:43,920
+comment est-ce qu'on mesure
+ 
+
+571
+00:09:43,920 --> 00:09:46,190
+comment est-ce qu'on mesure
+véritablement la performance d'un moteur
+
+572
+00:09:46,190 --> 00:09:46,200
+véritablement la performance d'un moteur
+ 
+
+573
+00:09:46,200 --> 00:09:47,990
+véritablement la performance d'un moteur
+de recommandation parce que propose
+
+574
+00:09:47,990 --> 00:09:48,000
+de recommandation parce que propose
+ 
+
+575
+00:09:48,000 --> 00:09:50,269
+de recommandation parce que propose
+Amazon c'est d'établir plein de
+
+576
+00:09:50,269 --> 00:09:50,279
+Amazon c'est d'établir plein de
+ 
+
+577
+00:09:50,279 --> 00:09:52,009
+Amazon c'est d'établir plein de
+métriques à partir de petites
+
+578
+00:09:52,009 --> 00:09:52,019
+métriques à partir de petites
+ 
+
+579
+00:09:52,019 --> 00:09:53,210
+métriques à partir de petites
+vérifications qu'il va faire lui-même il
+
+580
+00:09:53,210 --> 00:09:53,220
+vérifications qu'il va faire lui-même il
+ 
+
+581
+00:09:53,220 --> 00:09:55,670
+vérifications qu'il va faire lui-même il
+va prendre 90% de votre datacès
+
+582
+00:09:55,670 --> 00:09:55,680
+va prendre 90% de votre datacès
+ 
+
+583
+00:09:55,680 --> 00:09:57,650
+va prendre 90% de votre datacès
+d'interaction va s'entraîner dessus il
+
+584
+00:09:57,650 --> 00:09:57,660
+d'interaction va s'entraîner dessus il
+ 
+
+585
+00:09:57,660 --> 00:09:59,650
+d'interaction va s'entraîner dessus il
+va essayer de
+
+586
+00:09:59,650 --> 00:09:59,660
+va essayer de
+ 
+
+587
+00:09:59,660 --> 00:10:03,829
+va essayer de
+d'insérer les 10% restants suivant ces
+
+588
+00:10:03,829 --> 00:10:03,839
+d'insérer les 10% restants suivant ces
+ 
+
+589
+00:10:03,839 --> 00:10:05,269
+d'insérer les 10% restants suivant ces
+inférences il va ensuite déterminer un
+
+590
+00:10:05,269 --> 00:10:05,279
+inférences il va ensuite déterminer un
+ 
+
+591
+00:10:05,279 --> 00:10:07,250
+inférences il va ensuite déterminer un
+tout un panel de métrique
+
+592
+00:10:07,250 --> 00:10:07,260
+tout un panel de métrique
+ 
+
+593
+00:10:07,260 --> 00:10:09,470
+tout un panel de métrique
+par exemple la couverture de contenu à
+
+594
+00:10:09,470 --> 00:10:09,480
+par exemple la couverture de contenu à
+ 
+
+595
+00:10:09,480 --> 00:10:10,370
+par exemple la couverture de contenu à
+quel point est-ce qu'il est capable de
+
+596
+00:10:10,370 --> 00:10:10,380
+quel point est-ce qu'il est capable de
+ 
+
+597
+00:10:10,380 --> 00:10:11,870
+quel point est-ce qu'il est capable de
+recommander l'entièreté de votre base de
+
+598
+00:10:11,870 --> 00:10:11,880
+recommander l'entièreté de votre base de
+ 
+
+599
+00:10:11,880 --> 00:10:13,730
+recommander l'entièreté de votre base de
+données de contenu
+
+600
+00:10:13,730 --> 00:10:13,740
+données de contenu
+ 
+
+601
+00:10:13,740 --> 00:10:16,490
+données de contenu
+la précision de recommandation c'est à
+
+602
+00:10:16,490 --> 00:10:16,500
+la précision de recommandation c'est à
+ 
+
+603
+00:10:16,500 --> 00:10:17,990
+la précision de recommandation c'est à
+dire si les prendre recommandations vont
+
+604
+00:10:17,990 --> 00:10:18,000
+dire si les prendre recommandations vont
+ 
+
+605
+00:10:18,000 --> 00:10:19,750
+dire si les prendre recommandations vont
+être pertinentes ou non sur un certain
+
+606
+00:10:19,750 --> 00:10:19,760
+être pertinentes ou non sur un certain
+ 
+
+607
+00:10:19,760 --> 00:10:23,389
+être pertinentes ou non sur un certain
+une certaine quantité de de contenu et
+
+608
+00:10:23,389 --> 00:10:23,399
+une certaine quantité de de contenu et
+ 
+
+609
+00:10:23,399 --> 00:10:25,070
+une certaine quantité de de contenu et
+enfin la moyenne des récompenses pour un
+
+610
+00:10:25,070 --> 00:10:25,080
+enfin la moyenne des récompenses pour un
+ 
+
+611
+00:10:25,080 --> 00:10:26,329
+enfin la moyenne des récompenses pour un
+objectif donné ça c'est les choses qui
+
+612
+00:10:26,329 --> 00:10:26,339
+objectif donné ça c'est les choses qui
+ 
+
+613
+00:10:26,339 --> 00:10:27,290
+objectif donné ça c'est les choses qui
+vont peut-être vous intéresser un peu
+
+614
+00:10:27,290 --> 00:10:27,300
+vont peut-être vous intéresser un peu
+ 
+
+615
+00:10:27,300 --> 00:10:29,570
+vont peut-être vous intéresser un peu
+plus c'est typiquement la rémunération
+
+616
+00:10:29,570 --> 00:10:29,580
+plus c'est typiquement la rémunération
+ 
+
+617
+00:10:29,580 --> 00:10:33,490
+plus c'est typiquement la rémunération
+on clique
+
+618
+00:10:33,490 --> 00:10:33,500
+
+ 
+
+619
+00:10:33,500 --> 00:10:36,530
+
+cela dit je l'ai précisé parce que
+
+620
+00:10:36,530 --> 00:10:36,540
+cela dit je l'ai précisé parce que
+ 
+
+621
+00:10:36,540 --> 00:10:38,329
+cela dit je l'ai précisé parce que
+justement on a fait les frais on a quand
+
+622
+00:10:38,329 --> 00:10:38,339
+justement on a fait les frais on a quand
+ 
+
+623
+00:10:38,339 --> 00:10:40,250
+justement on a fait les frais on a quand
+on a utilisé les premières fois
+
+624
+00:10:40,250 --> 00:10:40,260
+on a utilisé les premières fois
+ 
+
+625
+00:10:40,260 --> 00:10:42,050
+on a utilisé les premières fois
+personalize on a utilisé beaucoup de
+
+626
+00:10:42,050 --> 00:10:42,060
+personalize on a utilisé beaucoup de
+ 
+
+627
+00:10:42,060 --> 00:10:43,850
+personalize on a utilisé beaucoup de
+données générées en fin de compte ça a
+
+628
+00:10:43,850 --> 00:10:43,860
+données générées en fin de compte ça a
+ 
+
+629
+00:10:43,860 --> 00:10:44,690
+données générées en fin de compte ça a
+donné des résultats qui étaient
+
+630
+00:10:44,690 --> 00:10:44,700
+donné des résultats qui étaient
+ 
+
+631
+00:10:44,700 --> 00:10:45,550
+donné des résultats qui étaient
+complètement
+
+632
+00:10:45,550 --> 00:10:45,560
+complètement
+ 
+
+633
+00:10:45,560 --> 00:10:48,050
+complètement
+pétés ça partait dans tous les sens dans
+
+634
+00:10:48,050 --> 00:10:48,060
+pétés ça partait dans tous les sens dans
+ 
+
+635
+00:10:48,060 --> 00:10:49,130
+pétés ça partait dans tous les sens dans
+le sens où ça n'avait pas de réelle
+
+636
+00:10:49,130 --> 00:10:49,140
+le sens où ça n'avait pas de réelle
+ 
+
+637
+00:10:49,140 --> 00:10:51,290
+le sens où ça n'avait pas de réelle
+valeur et c'est pour ça que je voulais
+
+638
+00:10:51,290 --> 00:10:51,300
+valeur et c'est pour ça que je voulais
+ 
+
+639
+00:10:51,300 --> 00:10:52,550
+valeur et c'est pour ça que je voulais
+mettre ce petit disclaimer c'est que il
+
+640
+00:10:52,550 --> 00:10:52,560
+mettre ce petit disclaimer c'est que il
+ 
+
+641
+00:10:52,560 --> 00:10:53,870
+mettre ce petit disclaimer c'est que il
+faut quand même garder en tête que dans
+
+642
+00:10:53,870 --> 00:10:53,880
+faut quand même garder en tête que dans
+ 
+
+643
+00:10:53,880 --> 00:10:55,630
+faut quand même garder en tête que dans
+les systèmes de recommandation
+
+644
+00:10:55,630 --> 00:10:55,640
+les systèmes de recommandation
+ 
+
+645
+00:10:55,640 --> 00:10:57,350
+les systèmes de recommandation
+reproduire le comportement utilisateur
+
+646
+00:10:57,350 --> 00:10:57,360
+reproduire le comportement utilisateur
+ 
+
+647
+00:10:57,360 --> 00:11:00,230
+reproduire le comportement utilisateur
+c'est très difficile donc enfin générer
+
+648
+00:11:00,230 --> 00:11:00,240
+c'est très difficile donc enfin générer
+ 
+
+649
+00:11:00,240 --> 00:11:01,610
+c'est très difficile donc enfin générer
+du comportement utilisateur c'est très
+
+650
+00:11:01,610 --> 00:11:01,620
+du comportement utilisateur c'est très
+ 
+
+651
+00:11:01,620 --> 00:11:02,930
+du comportement utilisateur c'est très
+difficile donc il vaut mieux toujours
+
+652
+00:11:02,930 --> 00:11:02,940
+difficile donc il vaut mieux toujours
+ 
+
+653
+00:11:02,940 --> 00:11:04,269
+difficile donc il vaut mieux toujours
+privilégier
+
+654
+00:11:04,269 --> 00:11:04,279
+privilégier
+ 
+
+655
+00:11:04,279 --> 00:11:07,130
+privilégier
+les tests utilisateurs réels ou tout
+
+656
+00:11:07,130 --> 00:11:07,140
+les tests utilisateurs réels ou tout
+ 
+
+657
+00:11:07,140 --> 00:11:08,810
+les tests utilisateurs réels ou tout
+simplement le fait d'incorporer petit à
+
+658
+00:11:08,810 --> 00:11:08,820
+simplement le fait d'incorporer petit à
+ 
+
+659
+00:11:08,820 --> 00:11:10,490
+simplement le fait d'incorporer petit à
+petit des utilisateurs voire même mieux
+
+660
+00:11:10,490 --> 00:11:10,500
+petit des utilisateurs voire même mieux
+ 
+
+661
+00:11:10,500 --> 00:11:12,050
+petit des utilisateurs voire même mieux
+en fait quand vous démarrez une solution
+
+662
+00:11:12,050 --> 00:11:12,060
+en fait quand vous démarrez une solution
+ 
+
+663
+00:11:12,060 --> 00:11:14,030
+en fait quand vous démarrez une solution
+quand vous démarrez un produit
+
+664
+00:11:14,030 --> 00:11:14,040
+quand vous démarrez un produit
+ 
+
+665
+00:11:14,040 --> 00:11:15,650
+quand vous démarrez un produit
+de laisser faire la plateforme de
+
+666
+00:11:15,650 --> 00:11:15,660
+de laisser faire la plateforme de
+ 
+
+667
+00:11:15,660 --> 00:11:17,509
+de laisser faire la plateforme de
+laisser créer du contenu les secrets des
+
+668
+00:11:17,509 --> 00:11:17,519
+laisser créer du contenu les secrets des
+ 
+
+669
+00:11:17,519 --> 00:11:18,470
+laisser créer du contenu les secrets des
+interactions naturellement les
+
+670
+00:11:18,470 --> 00:11:18,480
+interactions naturellement les
+ 
+
+671
+00:11:18,480 --> 00:11:19,670
+interactions naturellement les
+enregistrés quand même c'est important
+
+672
+00:11:19,670 --> 00:11:19,680
+enregistrés quand même c'est important
+ 
+
+673
+00:11:19,680 --> 00:11:22,910
+enregistrés quand même c'est important
+pour ensuite plus tard deux trois mois
+
+674
+00:11:22,910 --> 00:11:22,920
+pour ensuite plus tard deux trois mois
+ 
+
+675
+00:11:22,920 --> 00:11:24,490
+pour ensuite plus tard deux trois mois
+quatre mois six mois un an après
+
+676
+00:11:24,490 --> 00:11:24,500
+quatre mois six mois un an après
+ 
+
+677
+00:11:24,500 --> 00:11:28,670
+quatre mois six mois un an après
+entraîner il y a dessus
+
+678
+00:11:28,670 --> 00:11:28,680
+
+ 
+
+679
+00:11:28,680 --> 00:11:30,590
+
+et la tarification parce qu'il faut
+
+680
+00:11:30,590 --> 00:11:30,600
+et la tarification parce qu'il faut
+ 
+
+681
+00:11:30,600 --> 00:11:32,269
+et la tarification parce qu'il faut
+parler un peu d'argent quand même
+
+682
+00:11:32,269 --> 00:11:32,279
+parler un peu d'argent quand même
+ 
+
+683
+00:11:32,279 --> 00:11:34,190
+parler un peu d'argent quand même
+combien ça coûte ça
+
+684
+00:11:34,190 --> 00:11:34,200
+combien ça coûte ça
+ 
+
+685
+00:11:34,200 --> 00:11:38,110
+combien ça coûte ça
+en gros ils vont vous
+
+686
+00:11:38,110 --> 00:11:38,120
+en gros ils vont vous
+ 
+
+687
+00:11:38,120 --> 00:11:40,250
+en gros ils vont vous
+facturer à la transaction par seconde
+
+688
+00:11:40,250 --> 00:11:40,260
+facturer à la transaction par seconde
+ 
+
+689
+00:11:40,260 --> 00:11:42,050
+facturer à la transaction par seconde
+c'est-à-dire que amazon va vous
+
+690
+00:11:42,050 --> 00:11:42,060
+c'est-à-dire que amazon va vous
+ 
+
+691
+00:11:42,060 --> 00:11:44,870
+c'est-à-dire que amazon va vous
+provisionner une machine tout le temps
+
+692
+00:11:44,870 --> 00:11:44,880
+provisionner une machine tout le temps
+ 
+
+693
+00:11:44,880 --> 00:11:46,730
+provisionner une machine tout le temps
+avec un minimum de une transaction par
+
+694
+00:11:46,730 --> 00:11:46,740
+avec un minimum de une transaction par
+ 
+
+695
+00:11:46,740 --> 00:11:49,310
+avec un minimum de une transaction par
+seconde suivant comment vont vos
+
+696
+00:11:49,310 --> 00:11:49,320
+seconde suivant comment vont vos
+ 
+
+697
+00:11:49,320 --> 00:11:51,110
+seconde suivant comment vont vos
+utilisateurs vont interagir amazon va
+
+698
+00:11:51,110 --> 00:11:51,120
+utilisateurs vont interagir amazon va
+ 
+
+699
+00:11:51,120 --> 00:11:52,490
+utilisateurs vont interagir amazon va
+rescaller automatiquement cette machine
+
+700
+00:11:52,490 --> 00:11:52,500
+rescaller automatiquement cette machine
+ 
+
+701
+00:11:52,500 --> 00:11:54,290
+rescaller automatiquement cette machine
+par exemple si comment s'il y avoir une
+
+702
+00:11:54,290 --> 00:11:54,300
+par exemple si comment s'il y avoir une
+ 
+
+703
+00:11:54,300 --> 00:11:55,550
+par exemple si comment s'il y avoir une
+forte influence elle va passer
+
+704
+00:11:55,550 --> 00:11:55,560
+forte influence elle va passer
+ 
+
+705
+00:11:55,560 --> 00:11:58,250
+forte influence elle va passer
+progressivement à 10 20 50 100 200
+
+706
+00:11:58,250 --> 00:11:58,260
+progressivement à 10 20 50 100 200
+ 
+
+707
+00:11:58,260 --> 00:12:00,530
+progressivement à 10 20 50 100 200
+maximum transactions par seconde sachant
+
+708
+00:12:00,530 --> 00:12:00,540
+maximum transactions par seconde sachant
+ 
+
+709
+00:12:00,540 --> 00:12:02,389
+maximum transactions par seconde sachant
+que une transaction c'est un appel à
+
+710
+00:12:02,389 --> 00:12:02,399
+que une transaction c'est un appel à
+ 
+
+711
+00:12:02,399 --> 00:12:06,829
+que une transaction c'est un appel à
+pays à si je Maker par personne en gros
+
+712
+00:12:06,829 --> 00:12:06,839
+pays à si je Maker par personne en gros
+ 
+
+713
+00:12:06,839 --> 00:12:08,810
+pays à si je Maker par personne en gros
+c'est je demande une recommandation par
+
+714
+00:12:08,810 --> 00:12:08,820
+c'est je demande une recommandation par
+ 
+
+715
+00:12:08,820 --> 00:12:10,970
+c'est je demande une recommandation par
+exemple sur une page web souvent une
+
+716
+00:12:10,970 --> 00:12:10,980
+exemple sur une page web souvent une
+ 
+
+717
+00:12:10,980 --> 00:12:13,130
+exemple sur une page web souvent une
+page web Amazon il y a entre 3 et 10
+
+718
+00:12:13,130 --> 00:12:13,140
+page web Amazon il y a entre 3 et 10
+ 
+
+719
+00:12:13,140 --> 00:12:15,050
+page web Amazon il y a entre 3 et 10
+recommandations
+
+720
+00:12:15,050 --> 00:12:15,060
+recommandations
+ 
+
+721
+00:12:15,060 --> 00:12:16,250
+recommandations
+parce que il va y avoir les articles
+
+722
+00:12:16,250 --> 00:12:16,260
+parce que il va y avoir les articles
+ 
+
+723
+00:12:16,260 --> 00:12:17,230
+parce que il va y avoir les articles
+similaires
+
+724
+00:12:17,230 --> 00:12:17,240
+similaires
+ 
+
+725
+00:12:17,240 --> 00:12:19,610
+similaires
+telle personne qui a aussi aimé ça a
+
+726
+00:12:19,610 --> 00:12:19,620
+telle personne qui a aussi aimé ça a
+ 
+
+727
+00:12:19,620 --> 00:12:21,590
+telle personne qui a aussi aimé ça a
+aussi pris ça les utilisateurs
+
+728
+00:12:21,590 --> 00:12:21,600
+aussi pris ça les utilisateurs
+ 
+
+729
+00:12:21,600 --> 00:12:23,389
+aussi pris ça les utilisateurs
+similaires ont acheté ça etc dans tous
+
+730
+00:12:23,389 --> 00:12:23,399
+similaires ont acheté ça etc dans tous
+ 
+
+731
+00:12:23,399 --> 00:12:24,290
+similaires ont acheté ça etc dans tous
+les sens donc ça c'est à chaque fois
+
+732
+00:12:24,290 --> 00:12:24,300
+les sens donc ça c'est à chaque fois
+ 
+
+733
+00:12:24,300 --> 00:12:26,090
+les sens donc ça c'est à chaque fois
+c'est autant d'appels différents à la
+
+734
+00:12:26,090 --> 00:12:26,100
+c'est autant d'appels différents à la
+ 
+
+735
+00:12:26,100 --> 00:12:28,009
+c'est autant d'appels différents à la
+recommandation
+
+736
+00:12:28,009 --> 00:12:28,019
+recommandation
+ 
+
+737
+00:12:28,019 --> 00:12:30,190
+recommandation
+et donc pour le pricing
+
+738
+00:12:30,190 --> 00:12:30,200
+et donc pour le pricing
+ 
+
+739
+00:12:30,200 --> 00:12:32,870
+et donc pour le pricing
+par exemple si on prend une moyenne de
+
+740
+00:12:32,870 --> 00:12:32,880
+par exemple si on prend une moyenne de
+ 
+
+741
+00:12:32,880 --> 00:12:36,769
+par exemple si on prend une moyenne de
+10 tensions par seconde à l'heure sur un
+
+742
+00:12:36,769 --> 00:12:36,779
+10 tensions par seconde à l'heure sur un
+ 
+
+743
+00:12:36,779 --> 00:12:38,630
+10 tensions par seconde à l'heure sur un
+mois
+
+744
+00:12:38,630 --> 00:12:38,640
+mois
+ 
+
+745
+00:12:38,640 --> 00:12:39,769
+mois
+sachant que la transaction par seconde
+
+746
+00:12:39,769 --> 00:12:39,779
+sachant que la transaction par seconde
+ 
+
+747
+00:12:39,779 --> 00:12:41,810
+sachant que la transaction par seconde
+est facturée enfin selon que le tps est
+
+748
+00:12:41,810 --> 00:12:41,820
+est facturée enfin selon que le tps est
+ 
+
+749
+00:12:41,820 --> 00:12:45,110
+est facturée enfin selon que le tps est
+facturé 20 centimes vous arrivez à 1440
+
+750
+00:12:45,110 --> 00:12:45,120
+facturé 20 centimes vous arrivez à 1440
+ 
+
+751
+00:12:45,120 --> 00:12:48,050
+facturé 20 centimes vous arrivez à 1440
+euros donc en gros sur un mois vous avez
+
+752
+00:12:48,050 --> 00:12:48,060
+euros donc en gros sur un mois vous avez
+ 
+
+753
+00:12:48,060 --> 00:12:49,850
+euros donc en gros sur un mois vous avez
+pour 1500 euros vous avez une idée de
+
+754
+00:12:49,850 --> 00:12:49,860
+pour 1500 euros vous avez une idée de
+ 
+
+755
+00:12:49,860 --> 00:12:51,410
+pour 1500 euros vous avez une idée de
+recommandation donc 10 transactions par
+
+756
+00:12:51,410 --> 00:12:51,420
+recommandation donc 10 transactions par
+ 
+
+757
+00:12:51,420 --> 00:12:52,610
+recommandation donc 10 transactions par
+seconde c'est quand même pas mal vous
+
+758
+00:12:52,610 --> 00:12:52,620
+seconde c'est quand même pas mal vous
+ 
+
+759
+00:12:52,620 --> 00:12:53,690
+seconde c'est quand même pas mal vous
+avez déjà une petite communauté qui fait
+
+760
+00:12:53,690 --> 00:12:53,700
+avez déjà une petite communauté qui fait
+ 
+
+761
+00:12:53,700 --> 00:12:55,610
+avez déjà une petite communauté qui fait
+déjà pas mal de choses
+
+762
+00:12:55,610 --> 00:12:55,620
+déjà pas mal de choses
+ 
+
+763
+00:12:55,620 --> 00:12:57,650
+déjà pas mal de choses
+et donc si on divise par 10 si vous avez
+
+764
+00:12:57,650 --> 00:12:57,660
+et donc si on divise par 10 si vous avez
+ 
+
+765
+00:12:57,660 --> 00:12:58,930
+et donc si on divise par 10 si vous avez
+vraiment quelque chose de minimal
+
+766
+00:12:58,930 --> 00:12:58,940
+vraiment quelque chose de minimal
+ 
+
+767
+00:12:58,940 --> 00:13:01,490
+vraiment quelque chose de minimal
+sachant que c'est c'est la moyenne sur
+
+768
+00:13:01,490 --> 00:13:01,500
+sachant que c'est c'est la moyenne sur
+ 
+
+769
+00:13:01,500 --> 00:13:03,530
+sachant que c'est c'est la moyenne sur
+le mois ça prend en compte également la
+
+770
+00:13:03,530 --> 00:13:03,540
+le mois ça prend en compte également la
+ 
+
+771
+00:13:03,540 --> 00:13:05,090
+le mois ça prend en compte également la
+nuit la journée où il y a de l'influence
+
+772
+00:13:05,090 --> 00:13:05,100
+nuit la journée où il y a de l'influence
+ 
+
+773
+00:13:05,100 --> 00:13:06,949
+nuit la journée où il y a de l'influence
+etc donc si on divise par 10 c'est
+
+774
+00:13:06,949 --> 00:13:06,959
+etc donc si on divise par 10 c'est
+ 
+
+775
+00:13:06,959 --> 00:13:08,810
+etc donc si on divise par 10 c'est
+minimum 144 euros en fait que vous devez
+
+776
+00:13:08,810 --> 00:13:08,820
+minimum 144 euros en fait que vous devez
+ 
+
+777
+00:13:08,820 --> 00:13:10,310
+minimum 144 euros en fait que vous devez
+payer
+
+778
+00:13:10,310 --> 00:13:10,320
+payer
+ 
+
+779
+00:13:10,320 --> 00:13:13,009
+payer
+144 euros à titre comparatif petit
+
+780
+00:13:13,009 --> 00:13:13,019
+144 euros à titre comparatif petit
+ 
+
+781
+00:13:13,019 --> 00:13:14,210
+144 euros à titre comparatif petit
+détail il y a aussi un tarif dégressif
+
+782
+00:13:14,210 --> 00:13:14,220
+détail il y a aussi un tarif dégressif
+ 
+
+783
+00:13:14,220 --> 00:13:16,569
+détail il y a aussi un tarif dégressif
+ils sont gentils chez Amazon
+
+784
+00:13:16,569 --> 00:13:16,579
+ils sont gentils chez Amazon
+ 
+
+785
+00:13:16,579 --> 00:13:19,269
+ils sont gentils chez Amazon
+petit détail
+
+786
+00:13:19,269 --> 00:13:19,279
+petit détail
+ 
+
+787
+00:13:19,279 --> 00:13:22,310
+petit détail
+144 euros c'est pas grand chose en fait
+
+788
+00:13:22,310 --> 00:13:22,320
+144 euros c'est pas grand chose en fait
+ 
+
+789
+00:13:22,320 --> 00:13:24,590
+144 euros c'est pas grand chose en fait
+comparé au temps de développement d'une
+
+790
+00:13:24,590 --> 00:13:24,600
+comparé au temps de développement d'une
+ 
+
+791
+00:13:24,600 --> 00:13:28,509
+comparé au temps de développement d'une
+véritable recommandation sur un an X 12
+
+792
+00:13:28,509 --> 00:13:28,519
+véritable recommandation sur un an X 12
+ 
+
+793
+00:13:28,519 --> 00:13:30,829
+véritable recommandation sur un an X 12
+on arrive vraiment pas on arrive à
+
+794
+00:13:30,829 --> 00:13:30,839
+on arrive vraiment pas on arrive à
+ 
+
+795
+00:13:30,839 --> 00:13:32,930
+on arrive vraiment pas on arrive à
+combien deux trois jours de dev un peu
+
+796
+00:13:32,930 --> 00:13:32,940
+combien deux trois jours de dev un peu
+ 
+
+797
+00:13:32,940 --> 00:13:34,430
+combien deux trois jours de dev un peu
+plus peut-être suivant les suivants les
+
+798
+00:13:34,430 --> 00:13:34,440
+plus peut-être suivant les suivants les
+ 
+
+799
+00:13:34,440 --> 00:13:35,389
+plus peut-être suivant les suivants les
+entreprises et votre méthode de
+
+800
+00:13:35,389 --> 00:13:35,399
+entreprises et votre méthode de
+ 
+
+801
+00:13:35,399 --> 00:13:37,610
+entreprises et votre méthode de
+facturation en gros vous avez une idée
+
+802
+00:13:37,610 --> 00:13:37,620
+facturation en gros vous avez une idée
+ 
+
+803
+00:13:37,620 --> 00:13:38,870
+facturation en gros vous avez une idée
+de recommandation qui est extrêmement
+
+804
+00:13:38,870 --> 00:13:38,880
+de recommandation qui est extrêmement
+ 
+
+805
+00:13:38,880 --> 00:13:41,030
+de recommandation qui est extrêmement
+performante pour pas grand chose alors
+
+806
+00:13:41,030 --> 00:13:41,040
+performante pour pas grand chose alors
+ 
+
+807
+00:13:41,040 --> 00:13:42,410
+performante pour pas grand chose alors
+évidemment faut pas en abuser c'est
+
+808
+00:13:42,410 --> 00:13:42,420
+évidemment faut pas en abuser c'est
+ 
+
+809
+00:13:42,420 --> 00:13:44,509
+évidemment faut pas en abuser c'est
+comme le fast-food
+
+810
+00:13:44,509 --> 00:13:44,519
+comme le fast-food
+ 
+
+811
+00:13:44,519 --> 00:13:48,009
+comme le fast-food
+une comparation douteuse mais
+
+812
+00:13:48,009 --> 00:13:48,019
+une comparation douteuse mais
+ 
+
+813
+00:13:48,019 --> 00:13:50,329
+une comparation douteuse mais
+dans l'idée c'est ça c'est que si vous
+
+814
+00:13:50,329 --> 00:13:50,339
+dans l'idée c'est ça c'est que si vous
+ 
+
+815
+00:13:50,339 --> 00:13:52,009
+dans l'idée c'est ça c'est que si vous
+avez besoin de démarrer assez rapidement
+
+816
+00:13:52,009 --> 00:13:52,019
+avez besoin de démarrer assez rapidement
+ 
+
+817
+00:13:52,019 --> 00:13:53,690
+avez besoin de démarrer assez rapidement
+un projet que vous avez un petit peu de
+
+818
+00:13:53,690 --> 00:13:53,700
+un projet que vous avez un petit peu de
+ 
+
+819
+00:13:53,700 --> 00:13:54,949
+un projet que vous avez un petit peu de
+données et que vous aimeriez la
+
+820
+00:13:54,949 --> 00:13:54,959
+données et que vous aimeriez la
+ 
+
+821
+00:13:54,959 --> 00:13:58,990
+données et que vous aimeriez la
+valoriser c'est l'occasion parfaite
+
+822
+00:13:58,990 --> 00:13:59,000
+
+ 
+
+823
+00:13:59,000 --> 00:14:02,329
+
+oui petit détail le redimensionnement je
+
+824
+00:14:02,329 --> 00:14:02,339
+oui petit détail le redimensionnement je
+ 
+
+825
+00:14:02,339 --> 00:14:04,250
+oui petit détail le redimensionnement je
+pense ça trans ça se voyait un peu le
+
+826
+00:14:04,250 --> 00:14:04,260
+pense ça trans ça se voyait un peu le
+ 
+
+827
+00:14:04,260 --> 00:14:05,870
+pense ça trans ça se voyait un peu le
+redimensionnement de vos TPS n'est pas
+
+828
+00:14:05,870 --> 00:14:05,880
+redimensionnement de vos TPS n'est pas
+ 
+
+829
+00:14:05,880 --> 00:14:07,129
+redimensionnement de vos TPS n'est pas
+contrôlable c'est Amazon qui gère tout
+
+830
+00:14:07,129 --> 00:14:07,139
+contrôlable c'est Amazon qui gère tout
+ 
+
+831
+00:14:07,139 --> 00:14:09,889
+contrôlable c'est Amazon qui gère tout
+seul donc il vous dit vous payez toute
+
+832
+00:14:09,889 --> 00:14:09,899
+seul donc il vous dit vous payez toute
+ 
+
+833
+00:14:09,899 --> 00:14:12,430
+seul donc il vous dit vous payez toute
+manière ça je vous l'assure mais aussi
+
+834
+00:14:12,430 --> 00:14:12,440
+manière ça je vous l'assure mais aussi
+ 
+
+835
+00:14:12,440 --> 00:14:16,310
+manière ça je vous l'assure mais aussi
+je vous assure un service continu
+
+836
+00:14:16,310 --> 00:14:16,320
+je vous assure un service continu
+ 
+
+837
+00:14:16,320 --> 00:14:18,050
+je vous assure un service continu
+en plus de ça vous avez des frais aussi
+
+838
+00:14:18,050 --> 00:14:18,060
+en plus de ça vous avez des frais aussi
+ 
+
+839
+00:14:18,060 --> 00:14:19,490
+en plus de ça vous avez des frais aussi
+pour le stockage des Data 7 et
+
+840
+00:14:19,490 --> 00:14:19,500
+pour le stockage des Data 7 et
+ 
+
+841
+00:14:19,500 --> 00:14:21,050
+pour le stockage des Data 7 et
+l'entraînement mais en fait comparé au
+
+842
+00:14:21,050 --> 00:14:21,060
+l'entraînement mais en fait comparé au
+ 
+
+843
+00:14:21,060 --> 00:14:22,610
+l'entraînement mais en fait comparé au
+reste c'est presque anecdotique puisque
+
+844
+00:14:22,610 --> 00:14:22,620
+reste c'est presque anecdotique puisque
+ 
+
+845
+00:14:22,620 --> 00:14:24,350
+reste c'est presque anecdotique puisque
+vous voyez pour 1440 euros sur le mois
+
+846
+00:14:24,350 --> 00:14:24,360
+vous voyez pour 1440 euros sur le mois
+ 
+
+847
+00:14:24,360 --> 00:14:26,810
+vous voyez pour 1440 euros sur le mois
+juste pour un entraînement toutes les
+
+848
+00:14:26,810 --> 00:14:26,820
+juste pour un entraînement toutes les
+ 
+
+849
+00:14:26,820 --> 00:14:29,889
+juste pour un entraînement toutes les
+semaines on est à 17 euros
+
+850
+00:14:29,889 --> 00:14:29,899
+semaines on est à 17 euros
+ 
+
+851
+00:14:29,899 --> 00:14:31,550
+semaines on est à 17 euros
+il faut quand même le considérer mais
+
+852
+00:14:31,550 --> 00:14:31,560
+il faut quand même le considérer mais
+ 
+
+853
+00:14:31,560 --> 00:14:32,870
+il faut quand même le considérer mais
+voilà
+
+854
+00:14:32,870 --> 00:14:32,880
+voilà
+ 
+
+855
+00:14:32,880 --> 00:14:34,430
+voilà
+en plus de ça l'entraînement personnel
+
+856
+00:14:34,430 --> 00:14:34,440
+en plus de ça l'entraînement personnel
+ 
+
+857
+00:14:34,440 --> 00:14:36,949
+en plus de ça l'entraînement personnel
+c'est plutôt long donc il faut penser à
+
+858
+00:14:36,949 --> 00:14:36,959
+c'est plutôt long donc il faut penser à
+ 
+
+859
+00:14:36,959 --> 00:14:40,850
+c'est plutôt long donc il faut penser à
+bien programmer ce genre de choses
+
+860
+00:14:40,850 --> 00:14:40,860
+
+ 
+
+861
+00:14:40,860 --> 00:14:42,769
+
+pour conclure parce que je suis dans les
+
+862
+00:14:42,769 --> 00:14:42,779
+pour conclure parce que je suis dans les
+ 
+
+863
+00:14:42,779 --> 00:14:45,910
+pour conclure parce que je suis dans les
+temps
+
+864
+00:14:45,910 --> 00:14:45,920
+
+ 
+
+865
+00:14:45,920 --> 00:14:48,470
+
+le je voulais simplement encore
+
+866
+00:14:48,470 --> 00:14:48,480
+le je voulais simplement encore
+ 
+
+867
+00:14:48,480 --> 00:14:49,790
+le je voulais simplement encore
+réappuyer le fait que la recommandation
+
+868
+00:14:49,790 --> 00:14:49,800
+réappuyer le fait que la recommandation
+ 
+
+869
+00:14:49,800 --> 00:14:51,829
+réappuyer le fait que la recommandation
+à ce service notamment personnalise
+
+870
+00:14:51,829 --> 00:14:51,839
+à ce service notamment personnalise
+ 
+
+871
+00:14:51,839 --> 00:14:53,590
+à ce service notamment personnalise
+c'est aussi valable pour Google
+
+872
+00:14:53,590 --> 00:14:53,600
+c'est aussi valable pour Google
+ 
+
+873
+00:14:53,600 --> 00:14:55,449
+c'est aussi valable pour Google
+recommandations
+
+874
+00:14:55,449 --> 00:14:55,459
+recommandations
+ 
+
+875
+00:14:55,459 --> 00:14:57,290
+recommandations
+je sais plus comment il s'appelle le
+
+876
+00:14:57,290 --> 00:14:57,300
+je sais plus comment il s'appelle le
+ 
+
+877
+00:14:57,300 --> 00:15:00,350
+je sais plus comment il s'appelle le
+l'or sont vraiment des solutions qui
+
+878
+00:15:00,350 --> 00:15:00,360
+l'or sont vraiment des solutions qui
+ 
+
+879
+00:15:00,360 --> 00:15:01,610
+l'or sont vraiment des solutions qui
+sont sympathiques dans le sens où elles
+
+880
+00:15:01,610 --> 00:15:01,620
+sont sympathiques dans le sens où elles
+ 
+
+881
+00:15:01,620 --> 00:15:03,110
+sont sympathiques dans le sens où elles
+sont qualitatives performantes et elles
+
+882
+00:15:03,110 --> 00:15:03,120
+sont qualitatives performantes et elles
+ 
+
+883
+00:15:03,120 --> 00:15:04,490
+sont qualitatives performantes et elles
+s'adapte assez rapidement à ce que vous
+
+884
+00:15:04,490 --> 00:15:04,500
+s'adapte assez rapidement à ce que vous
+ 
+
+885
+00:15:04,500 --> 00:15:06,829
+s'adapte assez rapidement à ce que vous
+leur demandez que vous avez vous allez
+
+886
+00:15:06,829 --> 00:15:06,839
+leur demandez que vous avez vous allez
+ 
+
+887
+00:15:06,839 --> 00:15:08,090
+leur demandez que vous avez vous allez
+avoir une mise en place et un dev qui va
+
+888
+00:15:08,090 --> 00:15:08,100
+avoir une mise en place et un dev qui va
+ 
+
+889
+00:15:08,100 --> 00:15:10,610
+avoir une mise en place et un dev qui va
+être vraiment très réduit à fournir de
+
+890
+00:15:10,610 --> 00:15:10,620
+être vraiment très réduit à fournir de
+ 
+
+891
+00:15:10,620 --> 00:15:11,210
+être vraiment très réduit à fournir de
+toute façon je trouve c'est uniquement
+
+892
+00:15:11,210 --> 00:15:11,220
+toute façon je trouve c'est uniquement
+ 
+
+893
+00:15:11,220 --> 00:15:14,350
+toute façon je trouve c'est uniquement
+du DevOps et une rapidité des résultats
+
+894
+00:15:14,350 --> 00:15:14,360
+du DevOps et une rapidité des résultats
+ 
+
+895
+00:15:14,360 --> 00:15:16,610
+du DevOps et une rapidité des résultats
+qui est bah c'est instantané quoi le
+
+896
+00:15:16,610 --> 00:15:16,620
+qui est bah c'est instantané quoi le
+ 
+
+897
+00:15:16,620 --> 00:15:17,569
+qui est bah c'est instantané quoi le
+temps de faire un entraînement peut-être
+
+898
+00:15:17,569 --> 00:15:17,579
+temps de faire un entraînement peut-être
+ 
+
+899
+00:15:17,579 --> 00:15:20,269
+temps de faire un entraînement peut-être
+et puis vous y êtes déjà cela dit il
+
+900
+00:15:20,269 --> 00:15:20,279
+et puis vous y êtes déjà cela dit il
+ 
+
+901
+00:15:20,279 --> 00:15:20,930
+et puis vous y êtes déjà cela dit il
+faut prendre en compte donc les
+
+902
+00:15:20,930 --> 00:15:20,940
+faut prendre en compte donc les
+ 
+
+903
+00:15:20,940 --> 00:15:24,290
+faut prendre en compte donc les
+éventuels considérations de coûts et en
+
+904
+00:15:24,290 --> 00:15:24,300
+éventuels considérations de coûts et en
+ 
+
+905
+00:15:24,300 --> 00:15:26,329
+éventuels considérations de coûts et en
+fin de compte le data set de départ il
+
+906
+00:15:26,329 --> 00:15:26,339
+fin de compte le data set de départ il
+ 
+
+907
+00:15:26,339 --> 00:15:27,650
+fin de compte le data set de départ il
+faut pas que ce soit vide il faut qu'il
+
+908
+00:15:27,650 --> 00:15:27,660
+faut pas que ce soit vide il faut qu'il
+ 
+
+909
+00:15:27,660 --> 00:15:28,790
+faut pas que ce soit vide il faut qu'il
+y ait un minimum de données il faut
+
+910
+00:15:28,790 --> 00:15:28,800
+y ait un minimum de données il faut
+ 
+
+911
+00:15:28,800 --> 00:15:30,110
+y ait un minimum de données il faut
+vraiment que vous utilisateurs aient
+
+912
+00:15:30,110 --> 00:15:30,120
+vraiment que vous utilisateurs aient
+ 
+
+913
+00:15:30,120 --> 00:15:31,069
+vraiment que vous utilisateurs aient
+bien interagissent que ce soit la donnée
+
+914
+00:15:31,069 --> 00:15:31,079
+bien interagissent que ce soit la donnée
+ 
+
+915
+00:15:31,079 --> 00:15:33,470
+bien interagissent que ce soit la donnée
+réelle
+
+916
+00:15:33,470 --> 00:15:33,480
+
+ 
+
+917
+00:15:33,480 --> 00:15:37,790
+
+bref c'est sympa
+
+918
+00:15:37,790 --> 00:15:37,800
+
+ 
+
+919
+00:15:37,800 --> 00:15:39,889
+
+je vous remercie de votre écoute si vous
+
+920
+00:15:39,889 --> 00:15:39,899
+je vous remercie de votre écoute si vous
+ 
+
+921
+00:15:39,899 --> 00:15:41,090
+je vous remercie de votre écoute si vous
+avez des questions n'hésitez pas et
+
+922
+00:15:41,090 --> 00:15:41,100
+avez des questions n'hésitez pas et
+ 
+
+923
+00:15:41,100 --> 00:15:42,470
+avez des questions n'hésitez pas et
+sinon je vous encourage à me faire de
+
+924
+00:15:42,470 --> 00:15:42,480
+sinon je vous encourage à me faire de
+ 
+
+925
+00:15:42,480 --> 00:15:45,270
+sinon je vous encourage à me faire de
+retour me dire que vous avez super kiffé
+
+926
+00:15:45,270 --> 00:15:45,280
+retour me dire que vous avez super kiffé
+ 
+
+927
+00:15:45,280 --> 00:16:03,310
+retour me dire que vous avez super kiffé
+[Applaudissements]
+
+928
+00:16:03,310 --> 00:16:03,320
+
+ 
+
+929
+00:16:03,320 --> 00:16:05,769
+
+ça dépend de la taille du Data 7 entre
+
+930
+00:16:05,769 --> 00:16:05,779
+ça dépend de la taille du Data 7 entre
+ 
+
+931
+00:16:05,779 --> 00:16:08,949
+ça dépend de la taille du Data 7 entre
+entre 1 à 2h
+
+932
+00:16:08,949 --> 00:16:08,959
+entre 1 à 2h
+ 
+
+933
+00:16:08,959 --> 00:16:11,629
+entre 1 à 2h
+à 3-4 heures si c'est vraiment trop gros
+
+934
+00:16:11,629 --> 00:16:11,639
+à 3-4 heures si c'est vraiment trop gros
+ 
+
+935
+00:16:11,639 --> 00:16:13,730
+à 3-4 heures si c'est vraiment trop gros
+c'est c'est long c'est long quand on est
+
+936
+00:16:13,730 --> 00:16:13,740
+c'est c'est long c'est long quand on est
+ 
+
+937
+00:16:13,740 --> 00:16:16,069
+c'est c'est long c'est long quand on est
+devant l'écran et qu'il faut attendre
+
+938
+00:16:16,069 --> 00:16:16,079
+devant l'écran et qu'il faut attendre
+ 
+
+939
+00:16:16,079 --> 00:16:19,910
+devant l'écran et qu'il faut attendre
+mais en moyenne ça va ça passe
+
+940
+00:16:19,910 --> 00:16:19,920
+
+ 
+
+941
+00:16:19,920 --> 00:16:22,250
+
+ah oui pardon la question c'était j'ai
+
+942
+00:16:22,250 --> 00:16:22,260
+ah oui pardon la question c'était j'ai
+ 
+
+943
+00:16:22,260 --> 00:16:23,509
+ah oui pardon la question c'était j'ai
+oublié la question avec combien de temps
+
+944
+00:16:23,509 --> 00:16:23,519
+oublié la question avec combien de temps
+ 
+
+945
+00:16:23,519 --> 00:16:37,090
+oublié la question avec combien de temps
+ça prend l'entraînement
+
+946
+00:16:37,090 --> 00:16:37,100
+
+ 
+
+947
+00:16:37,100 --> 00:16:39,290
+
+il y a des petites différences de coups
+
+948
+00:16:39,290 --> 00:16:39,300
+il y a des petites différences de coups
+ 
+
+949
+00:16:39,300 --> 00:16:40,790
+il y a des petites différences de coups
+oui je crois qu'Azur est un peu plus
+
+950
+00:16:40,790 --> 00:16:40,800
+oui je crois qu'Azur est un peu plus
+ 
+
+951
+00:16:40,800 --> 00:16:45,050
+oui je crois qu'Azur est un peu plus
+cher et Google c'est du semblable mais à
+
+952
+00:16:45,050 --> 00:16:45,060
+cher et Google c'est du semblable mais à
+ 
+
+953
+00:16:45,060 --> 00:16:46,610
+cher et Google c'est du semblable mais à
+une échelle plus importante c'est assez
+
+954
+00:16:46,610 --> 00:16:46,620
+une échelle plus importante c'est assez
+ 
+
+955
+00:16:46,620 --> 00:16:48,470
+une échelle plus importante c'est assez
+similaire en fait la différence de coût
+
+956
+00:16:48,470 --> 00:16:48,480
+similaire en fait la différence de coût
+ 
+
+957
+00:16:48,480 --> 00:16:49,730
+similaire en fait la différence de coût
+ça va être surtout vous comment vous
+
+958
+00:16:49,730 --> 00:16:49,740
+ça va être surtout vous comment vous
+ 
+
+959
+00:16:49,740 --> 00:17:05,569
+ça va être surtout vous comment vous
+connaissez le Cloud en question
+
+960
+00:17:05,569 --> 00:17:05,579
+
+ 
+
+961
+00:17:05,579 --> 00:17:08,090
+
+mais tout dépend de votre plateforme de
+
+962
+00:17:08,090 --> 00:17:08,100
+mais tout dépend de votre plateforme de
+ 
+
+963
+00:17:08,100 --> 00:17:09,710
+mais tout dépend de votre plateforme de
+ce que vous visez de la communauté que
+
+964
+00:17:09,710 --> 00:17:09,720
+ce que vous visez de la communauté que
+ 
+
+965
+00:17:09,720 --> 00:17:11,150
+ce que vous visez de la communauté que
+vous souhaitez avoir etc en fait c'est
+
+966
+00:17:11,150 --> 00:17:11,160
+vous souhaitez avoir etc en fait c'est
+ 
+
+967
+00:17:11,160 --> 00:17:12,590
+vous souhaitez avoir etc en fait c'est
+très variable je vais pas vous dire
+
+968
+00:17:12,590 --> 00:17:12,600
+très variable je vais pas vous dire
+ 
+
+969
+00:17:12,600 --> 00:17:14,409
+très variable je vais pas vous dire
+qu'il vous faut un Data 7 de 100 Go si
+
+970
+00:17:14,409 --> 00:17:14,419
+qu'il vous faut un Data 7 de 100 Go si
+ 
+
+971
+00:17:14,419 --> 00:17:16,549
+qu'il vous faut un Data 7 de 100 Go si
+dans l'absolu vous avez juste besoin de
+
+972
+00:17:16,549 --> 00:17:16,559
+dans l'absolu vous avez juste besoin de
+ 
+
+973
+00:17:16,559 --> 00:17:17,809
+dans l'absolu vous avez juste besoin de
+10 personnes qui ait des recommandations
+
+974
+00:17:17,809 --> 00:17:17,819
+10 personnes qui ait des recommandations
+ 
+
+975
+00:17:17,819 --> 00:17:20,090
+10 personnes qui ait des recommandations
+correct donc dans l'absolu je dirais
+
+976
+00:17:20,090 --> 00:17:20,100
+correct donc dans l'absolu je dirais
+ 
+
+977
+00:17:20,100 --> 00:17:24,130
+correct donc dans l'absolu je dirais
+c'est ça c'est très empirique
+
+978
+00:17:24,130 --> 00:17:24,140
+c'est ça c'est très empirique
+ 
+
+979
+00:17:24,140 --> 00:17:26,929
+c'est ça c'est très empirique
+nous dans notre cas c'était quelques
+
+980
+00:17:26,929 --> 00:17:26,939
+nous dans notre cas c'était quelques
+ 
+
+981
+00:17:26,939 --> 00:17:28,370
+nous dans notre cas c'était quelques
+centaines d'utilisateurs et on avait
+
+982
+00:17:28,370 --> 00:17:28,380
+centaines d'utilisateurs et on avait
+ 
+
+983
+00:17:28,380 --> 00:17:31,010
+centaines d'utilisateurs et on avait
+forcé au moins au moins 100 à 200
+
+984
+00:17:31,010 --> 00:17:31,020
+forcé au moins au moins 100 à 200
+ 
+
+985
+00:17:31,020 --> 00:17:33,350
+forcé au moins au moins 100 à 200
+interactions par utilisateur
+
+986
+00:17:33,350 --> 00:17:33,360
+interactions par utilisateur
+ 
+
+987
+00:17:33,360 --> 00:17:36,770
+interactions par utilisateur
+donc en vrai en quantité sur un sur un
+
+988
+00:17:36,770 --> 00:17:36,780
+donc en vrai en quantité sur un sur un
+ 
+
+989
+00:17:36,780 --> 00:17:38,570
+donc en vrai en quantité sur un sur un
+design données c'est pas monstrueux mais
+
+990
+00:17:38,570 --> 00:17:38,580
+design données c'est pas monstrueux mais
+ 
+
+991
+00:17:38,580 --> 00:17:41,930
+design données c'est pas monstrueux mais
+il faut quand même qu'elle soit présente
+
+992
+00:17:41,930 --> 00:17:41,940
+
+ 
+
+993
+00:17:41,940 --> 00:17:42,970
+
+en fait il faut
+
+994
+00:17:42,970 --> 00:17:42,980
+en fait il faut
+ 
+
+995
+00:17:42,980 --> 00:17:45,169
+en fait il faut
+si vous voulez dans l'idéal il faut
+
+996
+00:17:45,169 --> 00:17:45,179
+si vous voulez dans l'idéal il faut
+ 
+
+997
+00:17:45,179 --> 00:17:46,909
+si vous voulez dans l'idéal il faut
+gêner il faut il faut déjà avoir un
+
+998
+00:17:46,909 --> 00:17:46,919
+gêner il faut il faut déjà avoir un
+ 
+
+999
+00:17:46,919 --> 00:17:49,010
+gêner il faut il faut déjà avoir un
+minimum de données pour que les
+
+1000
+00:17:49,010 --> 00:17:49,020
+minimum de données pour que les
+ 
+
+1001
+00:17:49,020 --> 00:17:50,150
+minimum de données pour que les
+recommandations qui soient générées
+
+1002
+00:17:50,150 --> 00:17:50,160
+recommandations qui soient générées
+ 
+
+1003
+00:17:50,160 --> 00:17:52,370
+recommandations qui soient générées
+soient un minimum pertinente pour que
+
+1004
+00:17:52,370 --> 00:17:52,380
+soient un minimum pertinente pour que
+ 
+
+1005
+00:17:52,380 --> 00:17:54,409
+soient un minimum pertinente pour que
+ensuite le système sans balle de
+
+1006
+00:17:54,409 --> 00:17:54,419
+ensuite le système sans balle de
+ 
+
+1007
+00:17:54,419 --> 00:17:55,850
+ensuite le système sans balle de
+lui-même en fait et que les utilisateurs
+
+1008
+00:17:55,850 --> 00:17:55,860
+lui-même en fait et que les utilisateurs
+ 
+
+1009
+00:17:55,860 --> 00:17:57,049
+lui-même en fait et que les utilisateurs
+commencent à cliquer sur leur
+
+1010
+00:17:57,049 --> 00:17:57,059
+commencent à cliquer sur leur
+ 
+
+1011
+00:17:57,059 --> 00:17:59,630
+commencent à cliquer sur leur
+recommandations que Amazon enfin que
+
+1012
+00:17:59,630 --> 00:17:59,640
+recommandations que Amazon enfin que
+ 
+
+1013
+00:17:59,640 --> 00:18:02,150
+recommandations que Amazon enfin que
+personne lise voit ce qu'il enfin qu'ils
+
+1014
+00:18:02,150 --> 00:18:02,160
+personne lise voit ce qu'il enfin qu'ils
+ 
+
+1015
+00:18:02,160 --> 00:18:04,070
+personne lise voit ce qu'il enfin qu'ils
+se corriger en fait etc et puis pour
+
+1016
+00:18:04,070 --> 00:18:04,080
+se corriger en fait etc et puis pour
+ 
+
+1017
+00:18:04,080 --> 00:18:07,610
+se corriger en fait etc et puis pour
+qu'il puisse vivre sa vie finalement
+
+1018
+00:18:07,610 --> 00:18:07,620
+
+ 
+
+1019
+00:18:07,620 --> 00:18:10,549
+
+ce que tu as des noms de systèmes un peu
+
+1020
+00:18:10,549 --> 00:18:10,559
+ce que tu as des noms de systèmes un peu
+ 
+
+1021
+00:18:10,559 --> 00:18:11,990
+ce que tu as des noms de systèmes un peu
+similaires sans forcément être aussi la
+
+1022
+00:18:11,990 --> 00:18:12,000
+similaires sans forcément être aussi la
+ 
+
+1023
+00:18:12,000 --> 00:18:13,190
+similaires sans forcément être aussi la
+boutique celui d'Amazon ou autre mais
+
+1024
+00:18:13,190 --> 00:18:13,200
+boutique celui d'Amazon ou autre mais
+ 
+
+1025
+00:18:13,200 --> 00:18:15,470
+boutique celui d'Amazon ou autre mais
+qui pourrait tourner en Ferrari
+
+1026
+00:18:15,470 --> 00:18:15,480
+qui pourrait tourner en Ferrari
+ 
+
+1027
+00:18:15,480 --> 00:18:17,590
+qui pourrait tourner en Ferrari
+chez soi ses propres serveurs
+
+1028
+00:18:17,590 --> 00:18:17,600
+chez soi ses propres serveurs
+ 
+
+1029
+00:18:17,600 --> 00:18:21,610
+chez soi ses propres serveurs
+oui mais j'ai oublié
+
+1030
+00:18:21,610 --> 00:18:21,620
+oui mais j'ai oublié
+ 
+
+1031
+00:18:21,620 --> 00:18:23,870
+oui mais j'ai oublié
+oui il me semble qu'il y en a un
+
+1032
+00:18:23,870 --> 00:18:23,880
+oui il me semble qu'il y en a un
+ 
+
+1033
+00:18:23,880 --> 00:18:26,510
+oui il me semble qu'il y en a un
+élastique search et une un autre je sais
+
+1034
+00:18:26,510 --> 00:18:26,520
+élastique search et une un autre je sais
+ 
+
+1035
+00:18:26,520 --> 00:18:28,190
+élastique search et une un autre je sais
+plus combien mais je non je suis désolé
+
+1036
+00:18:28,190 --> 00:18:28,200
+plus combien mais je non je suis désolé
+ 
+
+1037
+00:18:28,200 --> 00:18:29,690
+plus combien mais je non je suis désolé
+je pourrai pas te donner mais il y en a
+
+1038
+00:18:29,690 --> 00:18:29,700
+je pourrai pas te donner mais il y en a
+ 
+
+1039
+00:18:29,700 --> 00:18:34,730
+je pourrai pas te donner mais il y en a
+ça c'est sûr
+
+1040
+00:18:34,730 --> 00:18:34,740
+
+ 
+
+1041
+00:18:34,740 --> 00:18:36,169
+
+merci
+
+1042
+00:18:36,169 --> 00:18:36,179
+merci
+ 
+
+1043
+00:18:36,179 --> 00:18:37,430
+merci
+c'était sympa
+
+1044
+00:18:37,430 --> 00:18:37,440
+c'était sympa
+ 
+
+1045
+00:18:37,440 --> 00:18:41,709
+c'était sympa
+[Applaudissements]
+

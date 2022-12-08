@@ -1,0 +1,3772 @@
+1
+00:00:13,139 --> 00:00:17,820
+bonjour à tout le monde donc on est
+
+2
+00:00:15,960 --> 00:00:19,920
+ensemble ce matin pour parler de Deep
+
+3
+00:00:17,820 --> 00:00:21,240
+learning en python alors pour quelqu'un
+
+4
+00:00:19,920 --> 00:00:24,080
+comme moi qui a besoin d'avoir des
+
+5
+00:00:21,240 --> 00:00:26,279
+schémas un plan grand un petit à petit B
+
+6
+00:00:24,080 --> 00:00:27,779
+entrer dans ce genre de sujet ça peut
+
+7
+00:00:26,279 --> 00:00:30,480
+être un petit peu déroutant parce que
+
+8
+00:00:27,779 --> 00:00:32,279
+c'est hyper dense mais on va essayer de
+
+9
+00:00:30,480 --> 00:00:34,160
+naviguer dans tout ça ensemble et
+
+10
+00:00:32,279 --> 00:00:37,320
+l'objectif en fait c'est que
+
+11
+00:00:34,160 --> 00:00:39,480
+vous repartiez avec quelques clés pour
+
+12
+00:00:37,320 --> 00:00:41,460
+savoir un peu comment choisir un
+
+13
+00:00:39,480 --> 00:00:43,620
+framework donc je vais d'abord commencer
+
+14
+00:00:41,460 --> 00:00:46,140
+par parler un petit peu technique
+
+15
+00:00:43,620 --> 00:00:48,660
+mathématique les notions importantes
+
+16
+00:00:46,140 --> 00:00:50,520
+ensuite et bien sûr je parlerai de tout
+
+17
+00:00:48,660 --> 00:00:53,640
+ce qui est framework librairies les
+
+18
+00:00:50,520 --> 00:00:55,260
+outils etc et surtout on terminera par
+
+19
+00:00:53,640 --> 00:00:57,360
+un tour des questions qui peut être
+
+20
+00:00:55,260 --> 00:00:59,460
+important de se poser avant de choisir
+
+21
+00:00:57,360 --> 00:01:01,079
+quelque chose
+
+22
+00:00:59,460 --> 00:01:03,420
+donc déjà quelques mots pour être poli
+
+23
+00:01:01,079 --> 00:01:05,220
+donc moi c'est juste une belle étoile et
+
+24
+00:01:03,420 --> 00:01:07,080
+je suis head of data science chez Hello
+
+25
+00:01:05,220 --> 00:01:09,780
+work hello work c'est le premier acteur
+
+26
+00:01:07,080 --> 00:01:11,460
+français numérique de l'emploi du
+
+27
+00:01:09,780 --> 00:01:13,020
+recrutement et de la formation donc en
+
+28
+00:01:11,460 --> 00:01:15,740
+gros l'objectif c'est d'accompagner les
+
+29
+00:01:13,020 --> 00:01:18,960
+actifs tout au long de leur vie pro
+
+30
+00:01:15,740 --> 00:01:20,040
+et je vous ai mis quelques chiffres mais
+
+31
+00:01:18,960 --> 00:01:22,560
+ce qu'on peut retenir bah c'est en gros
+
+32
+00:01:20,040 --> 00:01:24,240
+5 millions d'utilisateurs par mois sur
+
+33
+00:01:22,560 --> 00:01:26,520
+toutes nos plateformes et ça ça permet
+
+34
+00:01:24,240 --> 00:01:28,860
+de générer 4400 signatures de contrat de
+
+35
+00:01:26,520 --> 00:01:30,420
+travail par jour en moyenne toujours et
+
+36
+00:01:28,860 --> 00:01:31,860
+donc côté data science nous on va
+
+37
+00:01:30,420 --> 00:01:33,840
+principalement travailler pour les trois
+
+38
+00:01:31,860 --> 00:01:35,280
+premiers piliers du graphique et c'est
+
+39
+00:01:33,840 --> 00:01:36,720
+pour tous ces produits là qu'on peut
+
+40
+00:01:35,280 --> 00:01:38,340
+être amené à faire du Deep learning
+
+41
+00:01:36,720 --> 00:01:40,560
+notamment parce qu'on fait beaucoup de
+
+42
+00:01:38,340 --> 00:01:42,060
+NLP
+
+43
+00:01:40,560 --> 00:01:43,799
+alors le Deep learning est-ce que c'est
+
+44
+00:01:42,060 --> 00:01:45,840
+en fait c'est juste faire du machine
+
+45
+00:01:43,799 --> 00:01:47,820
+learning en utilisant des réseaux de
+
+46
+00:01:45,840 --> 00:01:49,020
+neurones et plus ils seront profonds et
+
+47
+00:01:47,820 --> 00:01:50,939
+bien plus vous collerez avec le thème
+
+48
+00:01:49,020 --> 00:01:52,799
+mais finalement c'est juste un sous
+
+49
+00:01:50,939 --> 00:01:55,079
+cette de toutes les méthodes machine
+
+50
+00:01:52,799 --> 00:01:56,000
+learning possibles par contre on peut
+
+51
+00:01:55,079 --> 00:01:58,500
+faire plein plein de choses avec
+
+52
+00:01:56,000 --> 00:02:00,360
+généralement on pense reconnaissance
+
+53
+00:01:58,500 --> 00:02:03,479
+automatique de la parole traitement
+
+54
+00:02:00,360 --> 00:02:05,219
+d'image voiture autonome etc c'est aussi
+
+55
+00:02:03,479 --> 00:02:07,439
+ce que vous avez derrière les systèmes
+
+56
+00:02:05,219 --> 00:02:09,239
+de traduction et même j'ai vu que de
+
+57
+00:02:07,439 --> 00:02:11,700
+plus en plus il y a des systèmes de
+
+58
+00:02:09,239 --> 00:02:13,620
+recommandations à base de réseau Netflix
+
+59
+00:02:11,700 --> 00:02:15,420
+a publié là dessus récemment donc
+
+60
+00:02:13,620 --> 00:02:17,459
+vraiment une méthode très utilisée
+
+61
+00:02:15,420 --> 00:02:19,260
+aujourd'hui
+
+62
+00:02:17,459 --> 00:02:21,540
+donc avant de parler cœur cœur du sujet
+
+63
+00:02:19,260 --> 00:02:24,180
+si vous voulez bien on va juste arrêter
+
+64
+00:02:21,540 --> 00:02:25,200
+un tout petit peu sur la partie mat en
+
+65
+00:02:24,180 --> 00:02:27,420
+fait c'est surtout pour bien comprendre
+
+66
+00:02:25,200 --> 00:02:30,620
+de quoi on va avoir besoin au moment de
+
+67
+00:02:27,420 --> 00:02:30,620
+coder tout ça en python
+
+68
+00:02:30,720 --> 00:02:35,040
+donc déjà pour faire l'entraînement d'un
+
+69
+00:02:33,000 --> 00:02:38,360
+réseau généralement on dispose d'un Data
+
+70
+00:02:35,040 --> 00:02:40,319
+7 de couple de vecteurs ici et de Target
+
+71
+00:02:38,360 --> 00:02:43,200
+on envoie à nos vecteurs dans notre
+
+72
+00:02:40,319 --> 00:02:45,420
+réseau là-dedans il va se voir appliquer
+
+73
+00:02:43,200 --> 00:02:48,239
+plein de calculs des multiplications des
+
+74
+00:02:45,420 --> 00:02:50,640
+fonctions d'activation etc pour à la fin
+
+75
+00:02:48,239 --> 00:02:52,319
+nous sortir une prédiction y échappeaux
+
+76
+00:02:50,640 --> 00:02:55,200
+et on veut que cette prédiction soit la
+
+77
+00:02:52,319 --> 00:02:57,840
+plus proche possible de notre vrai
+
+78
+00:02:55,200 --> 00:03:00,120
+valeur et pour ça faire l'entraînement
+
+79
+00:02:57,840 --> 00:03:01,379
+ça consiste à venir ajuster les
+
+80
+00:03:00,120 --> 00:03:03,000
+paramètres du modèle les paramètres
+
+81
+00:03:01,379 --> 00:03:05,400
+d'état donc tous les poids des matrices
+
+82
+00:03:03,000 --> 00:03:07,260
+etc pour se rapprocher le plus possible
+
+83
+00:03:05,400 --> 00:03:09,060
+de cette vraie valeur et pour nous
+
+84
+00:03:07,260 --> 00:03:11,659
+guider dans tout ça on utilise une
+
+85
+00:03:09,060 --> 00:03:14,099
+fonction de coût le los qui en fait va
+
+86
+00:03:11,659 --> 00:03:16,800
+pénaliser l'écart entre les deux et
+
+87
+00:03:14,099 --> 00:03:18,840
+petit à petit nous guider vers vers un
+
+88
+00:03:16,800 --> 00:03:20,459
+réseau sympa
+
+89
+00:03:18,840 --> 00:03:22,500
+donc pour savoir comment est-ce qu'on a
+
+90
+00:03:20,459 --> 00:03:24,120
+juste cet état on s'appuie sur ce qu'on
+
+91
+00:03:22,500 --> 00:03:26,459
+appelle la descente de gradient donc
+
+92
+00:03:24,120 --> 00:03:28,260
+c'est un algodoptimisation qui vise à
+
+93
+00:03:26,459 --> 00:03:30,659
+trouver les inputs d'une fonction qui
+
+94
+00:03:28,260 --> 00:03:32,580
+vont venir minimiser la valeur de cette
+
+95
+00:03:30,659 --> 00:03:34,200
+fonction donc ça c'est pas propre au
+
+96
+00:03:32,580 --> 00:03:36,900
+deep learning c'est une méthode d'Optim
+
+97
+00:03:34,200 --> 00:03:38,700
+en général mais dans notre contexte la
+
+98
+00:03:36,900 --> 00:03:41,280
+fonction qu'on va minimiser ce sera le
+
+99
+00:03:38,700 --> 00:03:42,560
+loss et les inputs ce seront les pois du
+
+100
+00:03:41,280 --> 00:03:44,760
+modèle qu'on est en train d'entraîner
+
+101
+00:03:42,560 --> 00:03:46,560
+donc quand je dis descente de gradient
+
+102
+00:03:44,760 --> 00:03:48,540
+en fait j'englobe toute une variation de
+
+103
+00:03:46,560 --> 00:03:50,940
+méthode de ce principe là vous avez
+
+104
+00:03:48,540 --> 00:03:54,659
+stochastique radian-descent Adam enfin
+
+105
+00:03:50,940 --> 00:03:55,799
+voilà plein d'autres mais elle repose
+
+106
+00:03:54,659 --> 00:03:57,599
+toutes sur la même principe qui est
+
+107
+00:03:55,799 --> 00:03:59,940
+qu'on va venir ajuster les paramètres
+
+108
+00:03:57,599 --> 00:04:01,500
+thêta de manière itérative en leur
+
+109
+00:03:59,940 --> 00:04:04,620
+soustrayant à chaque fois une fraction
+
+110
+00:04:01,500 --> 00:04:06,239
+du gradient de notre fonction
+
+111
+00:04:04,620 --> 00:04:08,819
+donc ça veut dire qu'on a besoin de
+
+112
+00:04:06,239 --> 00:04:11,459
+calculer le gradient de notre loss par
+
+113
+00:04:08,819 --> 00:04:13,319
+rapport à tous les paramètres du modèle
+
+114
+00:04:11,459 --> 00:04:15,120
+donc ça veut dire calculer des dérivés
+
+115
+00:04:13,319 --> 00:04:17,400
+partielles pour tous les nœuds du réseau
+
+116
+00:04:15,120 --> 00:04:19,739
+et bien sûr de manière précise et
+
+117
+00:04:17,400 --> 00:04:21,180
+efficace
+
+118
+00:04:19,739 --> 00:04:22,620
+donc pour faire ça on utilise une
+
+119
+00:04:21,180 --> 00:04:24,720
+méthode de calcul qui s'appelle la
+
+120
+00:04:22,620 --> 00:04:26,340
+rétropropagation bac propagation en
+
+121
+00:04:24,720 --> 00:04:28,680
+anglais et finalement c'est le fait
+
+122
+00:04:26,340 --> 00:04:30,540
+d'avoir un algo d'optimisation la
+
+123
+00:04:28,680 --> 00:04:33,180
+descente de radiant et une méthode de
+
+124
+00:04:30,540 --> 00:04:36,000
+calcul la rétropropagation qui va nous
+
+125
+00:04:33,180 --> 00:04:38,100
+permettre d'entraîner notre réseau et en
+
+126
+00:04:36,000 --> 00:04:39,360
+fait la rétropagation c'est un cas
+
+127
+00:04:38,100 --> 00:04:40,919
+particulier d'une méthode plus
+
+128
+00:04:39,360 --> 00:04:43,740
+généraliste qu'on appelle la dérivation
+
+129
+00:04:40,919 --> 00:04:45,720
+automatique
+
+130
+00:04:43,740 --> 00:04:48,240
+vous la trouverez sous plein de noms
+
+131
+00:04:45,720 --> 00:04:49,979
+différents sur l'Internet mais selon
+
+132
+00:04:48,240 --> 00:04:52,139
+Wikipédia c'est un ensemble de
+
+133
+00:04:49,979 --> 00:04:54,000
+techniques d'évaluation de la dérivée
+
+134
+00:04:52,139 --> 00:04:57,060
+d'une fonction par un programme
+
+135
+00:04:54,000 --> 00:04:59,400
+informatique on l'oppose à la dérivation
+
+136
+00:04:57,060 --> 00:05:01,199
+symbolique donc des formules ou à la
+
+137
+00:04:59,400 --> 00:05:03,900
+dérivation numérique des approximations
+
+138
+00:05:01,199 --> 00:05:05,580
+et avec la dérivation automatique ce qui
+
+139
+00:05:03,900 --> 00:05:08,340
+est bien c'est que on peut calculer des
+
+140
+00:05:05,580 --> 00:05:10,979
+dérivés d'ordre arbitraire avec autant
+
+141
+00:05:08,340 --> 00:05:13,860
+de précisions qu'on veut et en plus de
+
+142
+00:05:10,979 --> 00:05:16,080
+manière stable et plutôt sympa au niveau
+
+143
+00:05:13,860 --> 00:05:17,639
+efficacité
+
+144
+00:05:16,080 --> 00:05:19,560
+pour ça on s'appuie sur ce qu'on appelle
+
+145
+00:05:17,639 --> 00:05:21,300
+le théorème de dérivation des fonctions
+
+146
+00:05:19,560 --> 00:05:25,500
+composées donc en gros on prend notre
+
+147
+00:05:21,300 --> 00:05:27,600
+grosse dérivée et on va la décomposer en
+
+148
+00:05:25,500 --> 00:05:30,060
+un enchaînement d'opérations
+
+149
+00:05:27,600 --> 00:05:32,100
+arithmétique élémentaire l'objectif
+
+150
+00:05:30,060 --> 00:05:34,979
+c'est vraiment d'aboutir à une procédure
+
+151
+00:05:32,100 --> 00:05:36,660
+de calcul et pas à une formule vous avez
+
+152
+00:05:34,979 --> 00:05:38,940
+deux manières de faire ça l'accumulation
+
+153
+00:05:36,660 --> 00:05:41,039
+directe ou l'accumulation inverse donc
+
+154
+00:05:38,940 --> 00:05:43,380
+grosso modo c'est commencer à décomposer
+
+155
+00:05:41,039 --> 00:05:45,600
+par l'intérieur de la fonction ou au
+
+156
+00:05:43,380 --> 00:05:47,759
+contraire par l'extérieur
+
+157
+00:05:45,600 --> 00:05:50,460
+et je vous ai mis à droite un petit
+
+158
+00:05:47,759 --> 00:05:52,199
+exemple sous forme de graphe et vous
+
+159
+00:05:50,460 --> 00:05:54,360
+allez voir en dérivation automatique on
+
+160
+00:05:52,199 --> 00:05:56,520
+raisonne très souvent avec un graphe et
+
+161
+00:05:54,360 --> 00:05:59,780
+là on voit bien l'idée qu'on est dans un
+
+162
+00:05:56,520 --> 00:05:59,780
+enchaînement d'opération
+
+163
+00:06:00,180 --> 00:06:05,340
+donc finalement en somme ce qu'on
+
+164
+00:06:02,340 --> 00:06:07,440
+recherche au moment de coder un projet
+
+165
+00:06:05,340 --> 00:06:09,780
+de Deep learning c'est un framework qui
+
+166
+00:06:07,440 --> 00:06:12,120
+nous permette et ben de s'appuyer sur ce
+
+167
+00:06:09,780 --> 00:06:14,340
+concept de grâce pour représenter notre
+
+168
+00:06:12,120 --> 00:06:16,620
+réseau et de faire de la dérivation
+
+169
+00:06:14,340 --> 00:06:18,479
+automatique sur tout mais aussi tant
+
+170
+00:06:16,620 --> 00:06:20,759
+qu'à faire d'optimiser le graphe en
+
+171
+00:06:18,479 --> 00:06:22,919
+lui-même et puis bien sûr tout en étant
+
+172
+00:06:20,759 --> 00:06:25,100
+hyper astucieux sur la manière de
+
+173
+00:06:22,919 --> 00:06:27,660
+d'exécuter tout ça donc de compiler
+
+174
+00:06:25,100 --> 00:06:30,840
+d'utiliser le hardware de vectoriser les
+
+175
+00:06:27,660 --> 00:06:32,699
+calculs etc donc tous les framework dont
+
+176
+00:06:30,840 --> 00:06:35,340
+on va parler ils font ça en fait ils
+
+177
+00:06:32,699 --> 00:06:37,139
+vont pour vous transformer votre réseau
+
+178
+00:06:35,340 --> 00:06:39,300
+de neurones en un graphe et surtout en
+
+179
+00:06:37,139 --> 00:06:41,280
+un enchaînement d'opérations élémentaire
+
+180
+00:06:39,300 --> 00:06:44,720
+derrière et puis faire un certain nombre
+
+181
+00:06:41,280 --> 00:06:44,720
+d'optimisations de calculs etc
+
+182
+00:06:44,880 --> 00:06:48,660
+voilà donc ce que je vous propose c'est
+
+183
+00:06:46,080 --> 00:06:50,300
+qu'on regarde en python quel framework
+
+184
+00:06:48,660 --> 00:06:52,740
+vers quel framework on peut se tourner
+
+185
+00:06:50,300 --> 00:06:55,440
+un des plus connus c'est pastouch donc
+
+186
+00:06:52,740 --> 00:06:57,479
+lui il a été lancé fin 2016 par le faire
+
+187
+00:06:55,440 --> 00:06:59,160
+donc le labo de recherche intelligence
+
+188
+00:06:57,479 --> 00:07:00,780
+artificielle de Facebook et depuis
+
+189
+00:06:59,160 --> 00:07:03,199
+septembre de cette année il est passé
+
+190
+00:07:00,780 --> 00:07:06,960
+sous la Linux
+
+191
+00:07:03,199 --> 00:07:09,419
+il repose sur torche et par contre il a
+
+192
+00:07:06,960 --> 00:07:10,919
+une approche qui est très pitonique et
+
+193
+00:07:09,419 --> 00:07:13,259
+entre autre chose il nous permet de
+
+194
+00:07:10,919 --> 00:07:14,100
+définir des tenseurs donc des Aréas à
+
+195
+00:07:13,259 --> 00:07:15,680
+une dimension comme vous pouvez avoir
+
+196
+00:07:14,100 --> 00:07:17,819
+dans le même paille mais
+
+197
+00:07:15,680 --> 00:07:20,819
+de pouvoir faire notamment avec des
+
+198
+00:07:17,819 --> 00:07:23,340
+calculs sur GPU CUDA mais aussi rock m
+
+199
+00:07:20,819 --> 00:07:25,680
+Apple métal enfin voilà divers GPU
+
+200
+00:07:23,340 --> 00:07:27,060
+à savoir que à l'origine j'ai Facebook
+
+201
+00:07:25,680 --> 00:07:29,819
+il y avait deux frameworks de Deep
+
+202
+00:07:27,060 --> 00:07:31,500
+learning pipech et café tout et à un
+
+203
+00:07:29,819 --> 00:07:34,560
+moment ils ont eu besoin d'avoir un
+
+204
+00:07:31,500 --> 00:07:35,759
+format de définition de modèle machine
+
+205
+00:07:34,560 --> 00:07:37,919
+learning qui est en gros leur permet de
+
+206
+00:07:35,759 --> 00:07:41,639
+passer de l'un à l'autre et donc en 2017
+
+207
+00:07:37,919 --> 00:07:43,380
+ils ont lancé le projet onx et donc
+
+208
+00:07:41,639 --> 00:07:45,000
+c'est un format un peu standard
+
+209
+00:07:43,380 --> 00:07:46,259
+maintenant qui est utilisé par plein de
+
+210
+00:07:45,000 --> 00:07:47,580
+frameworks différents plein d'outils
+
+211
+00:07:46,259 --> 00:07:50,580
+mais forcément il est supporté
+
+212
+00:07:47,580 --> 00:07:51,900
+nativement paritorch
+
+213
+00:07:50,580 --> 00:07:53,039
+ce qu'on peut retenir c'est que c'est un
+
+214
+00:07:51,900 --> 00:07:55,220
+framework qui est très populaire dans le
+
+215
+00:07:53,039 --> 00:07:57,180
+monde de la recherche et
+
+216
+00:07:55,220 --> 00:07:59,520
+conceptuellement il s'appuie sur un
+
+217
+00:07:57,180 --> 00:08:01,319
+graphe dynamique ça veut dire que le
+
+218
+00:07:59,520 --> 00:08:03,180
+fameux graphe il est défini de manière
+
+219
+00:08:01,319 --> 00:08:05,940
+implicite au moment de l'exécution
+
+220
+00:08:03,180 --> 00:08:08,039
+forward et ça ça présente l'avantage
+
+221
+00:08:05,940 --> 00:08:09,840
+d'être hyper flexible et notamment de
+
+222
+00:08:08,039 --> 00:08:12,180
+faire du debug ligne ce qui est très
+
+223
+00:08:09,840 --> 00:08:14,099
+pratique et pour définir vos modèles
+
+224
+00:08:12,180 --> 00:08:16,199
+vous avez deux manières de faire soit le
+
+225
+00:08:14,099 --> 00:08:19,560
+mode se classing ou le mode seekwondo
+
+226
+00:08:16,199 --> 00:08:22,460
+c'est empiler des couches prédéfinies
+
+227
+00:08:19,560 --> 00:08:22,460
+pour définir votre réseau
+
+228
+00:08:22,740 --> 00:08:27,900
+le deuxième très connu probablement le
+
+229
+00:08:25,020 --> 00:08:29,580
+plus connu c'est tensorflow donc lui il
+
+230
+00:08:27,900 --> 00:08:32,039
+est sorti de chez Google brain en 2015
+
+231
+00:08:29,580 --> 00:08:34,979
+et fin 2019 ils en ont sorti la version
+
+232
+00:08:32,039 --> 00:08:37,260
+2 qui a porté de gros changements avant
+
+233
+00:08:34,979 --> 00:08:39,060
+ils étaient sur un graphe statique donc
+
+234
+00:08:37,260 --> 00:08:41,459
+ça veut dire une phase de définition de
+
+235
+00:08:39,060 --> 00:08:43,680
+graphe et ensuite une phase de Run et ça
+
+236
+00:08:41,459 --> 00:08:45,180
+c'est bien pour optimiser le graphe mais
+
+237
+00:08:43,680 --> 00:08:47,040
+par contre c'est plus complexe de coder
+
+238
+00:08:45,180 --> 00:08:49,500
+avec notamment parce que on peut pas
+
+239
+00:08:47,040 --> 00:08:52,740
+faire ce debug ligne à ligne et donc
+
+240
+00:08:49,500 --> 00:08:54,240
+avec la version 2.0 ils ont rendu
+
+241
+00:08:52,740 --> 00:08:56,820
+possible le mode eager donc le fait
+
+242
+00:08:54,240 --> 00:08:58,980
+d'avoir un graphe dynamique
+
+243
+00:08:56,820 --> 00:09:01,140
+eux techniquement il s'appuie sur le
+
+244
+00:08:58,980 --> 00:09:03,360
+compilateur XLA donc accéléréité de
+
+245
+00:09:01,140 --> 00:09:05,880
+lineral Jabra ça ça permet les calculs
+
+246
+00:09:03,360 --> 00:09:07,740
+sur GPU et sur TPU aussi et puis de
+
+247
+00:09:05,880 --> 00:09:09,480
+l'autre côté je dirais il y a aussi
+
+248
+00:09:07,740 --> 00:09:12,420
+l'intégrer une API au niveau qui
+
+249
+00:09:09,480 --> 00:09:14,160
+s'appelle kéras donc l'écosystème autour
+
+250
+00:09:12,420 --> 00:09:16,019
+de Tenser flow il est quand même très
+
+251
+00:09:14,160 --> 00:09:18,300
+riche vous avez par exemple d'une sœur
+
+252
+00:09:16,019 --> 00:09:20,220
+flowlite si vous faites du mobile TFX
+
+253
+00:09:18,300 --> 00:09:21,540
+pour déployer des pipelines machine
+
+254
+00:09:20,220 --> 00:09:24,600
+learning des choses pour faire du
+
+255
+00:09:21,540 --> 00:09:26,279
+surving voilà pas mal d'outils
+
+256
+00:09:24,600 --> 00:09:28,200
+après il est un petit peu en perte de
+
+257
+00:09:26,279 --> 00:09:30,540
+vitesse dans le monde de la recherche au
+
+258
+00:09:28,200 --> 00:09:32,279
+bénéfice justement de pas et Torch mais
+
+259
+00:09:30,540 --> 00:09:33,779
+par contre je pense que il reste
+
+260
+00:09:32,279 --> 00:09:36,480
+aujourd'hui celui qui est le plus
+
+261
+00:09:33,779 --> 00:09:39,120
+utilisé dans l'industrie au sens large
+
+262
+00:09:36,480 --> 00:09:40,680
+et en plus des deux modes ce classique
+
+263
+00:09:39,120 --> 00:09:42,720
+c'est quoi une chose il vous offre aussi
+
+264
+00:09:40,680 --> 00:09:44,279
+le mode fonctionnel donc ça c'est bien
+
+265
+00:09:42,720 --> 00:09:45,720
+pour les modèles qui sont pas linéaires
+
+266
+00:09:44,279 --> 00:09:48,380
+ceux qui ont plusieurs input et
+
+267
+00:09:45,720 --> 00:09:48,380
+plusieurs out
+
+268
+00:09:48,600 --> 00:09:53,160
+ensuite un nouveau venu aussi développé
+
+269
+00:09:51,000 --> 00:09:55,279
+par Google depuis 2018 mais qui est pas
+
+270
+00:09:53,160 --> 00:09:57,360
+officiellement un produit Google c'est
+
+271
+00:09:55,279 --> 00:09:59,160
+jacks donc en fait c'est plus un
+
+272
+00:09:57,360 --> 00:10:00,360
+framework pour transformer des fonctions
+
+273
+00:09:59,160 --> 00:10:03,360
+numériques mais du coup vous pouvez
+
+274
+00:10:00,360 --> 00:10:04,920
+faire du Deep learning avec et c'est il
+
+275
+00:10:03,360 --> 00:10:07,320
+faut voir ça comme un mix entre une
+
+276
+00:10:04,920 --> 00:10:10,080
+version modifiée de autographe qui est
+
+277
+00:10:07,320 --> 00:10:11,940
+une librairie de d'olive et XLA et
+
+278
+00:10:10,080 --> 00:10:13,560
+souvent il se présente comme étant comme
+
+279
+00:10:11,940 --> 00:10:16,019
+une paille mais
+
+280
+00:10:13,560 --> 00:10:19,760
+ultra optimisé pour calculer sur CPU sur
+
+281
+00:10:16,019 --> 00:10:23,399
+GPU et sur TPU
+
+282
+00:10:19,760 --> 00:10:25,140
+lui vraiment il se veut être hyper
+
+283
+00:10:23,399 --> 00:10:27,959
+puissant pour accélérer des modèles un
+
+284
+00:10:25,140 --> 00:10:29,459
+petit peu costauds notamment grâce aux
+
+285
+00:10:27,959 --> 00:10:31,860
+quatre fonctionnalités qui vous offrent
+
+286
+00:10:29,459 --> 00:10:33,899
+donc l'autodérisation bien sûr la
+
+287
+00:10:31,860 --> 00:10:37,140
+compilation de Justin Times et la
+
+288
+00:10:33,899 --> 00:10:38,760
+vectorisation la réalisation des calculs
+
+289
+00:10:37,140 --> 00:10:40,800
+donc il y a de plus en plus d'équipes de
+
+290
+00:10:38,760 --> 00:10:43,500
+recherche à Google notamment deep mind
+
+291
+00:10:40,800 --> 00:10:46,620
+qui sont passés sous Jack donc c'est un
+
+292
+00:10:43,500 --> 00:10:48,600
+framework qui monte après il reste
+
+293
+00:10:46,620 --> 00:10:50,579
+encore jeune par rapport aux autres en
+
+294
+00:10:48,600 --> 00:10:52,680
+plus le cœur du vrai noir qui est quand
+
+295
+00:10:50,579 --> 00:10:54,000
+même assez bas niveau donc il faut
+
+296
+00:10:52,680 --> 00:10:56,100
+savoir si vous l'utilisez qui peut
+
+297
+00:10:54,000 --> 00:10:57,420
+paraître un petit peu plus brut que que
+
+298
+00:10:56,100 --> 00:10:59,339
+d'autres
+
+299
+00:10:57,420 --> 00:11:00,899
+et aussi point important lui ne
+
+300
+00:10:59,339 --> 00:11:02,160
+construit pas de graphes explicite donc
+
+301
+00:11:00,899 --> 00:11:05,040
+sa logique derrière et un petit peu
+
+302
+00:11:02,160 --> 00:11:06,060
+différente
+
+303
+00:11:05,040 --> 00:11:08,459
+et enfin je voulais quand même
+
+304
+00:11:06,060 --> 00:11:10,260
+mentionner mixnet qui paradoxalement est
+
+305
+00:11:08,459 --> 00:11:13,260
+assez ancien parce que c'est 2015 aussi
+
+306
+00:11:10,260 --> 00:11:15,240
+mais qui reste clairement moins
+
+307
+00:11:13,260 --> 00:11:17,040
+populaire que que tu es une sœur flow ou
+
+308
+00:11:15,240 --> 00:11:18,720
+pas torche lui il vient de la
+
+309
+00:11:17,040 --> 00:11:21,600
+collaboration de plusieurs équipes de
+
+310
+00:11:18,720 --> 00:11:24,480
+recherche de grandes universités carnet
+
+311
+00:11:21,600 --> 00:11:27,180
+gimelan Stanford etc il est porté par
+
+312
+00:11:24,480 --> 00:11:29,000
+Apache et il a été très très adapté chez
+
+313
+00:11:27,180 --> 00:11:31,680
+Amazon donc je pense que ça a dû aussi
+
+314
+00:11:29,000 --> 00:11:33,540
+soutenir le développement et sa
+
+315
+00:11:31,680 --> 00:11:35,339
+particularité c'est que il a une
+
+316
+00:11:33,540 --> 00:11:37,079
+fonctionnalité qui s'appelle hybridize
+
+317
+00:11:35,339 --> 00:11:38,640
+qui en gros vous permet de supporter à
+
+318
+00:11:37,079 --> 00:11:41,339
+la fois de la programmation impérative
+
+319
+00:11:38,640 --> 00:11:42,680
+et du symbolique donc en gros on est
+
+320
+00:11:41,339 --> 00:11:45,360
+plus dans l'opposition
+
+321
+00:11:42,680 --> 00:11:48,300
+grave statique graves dynamique lui vous
+
+322
+00:11:45,360 --> 00:11:50,700
+permet de passer de l'un à l'autre et il
+
+323
+00:11:48,300 --> 00:11:52,500
+est vraiment pensé pour faciliter la
+
+324
+00:11:50,700 --> 00:11:55,079
+transition entre votre code de recherche
+
+325
+00:11:52,500 --> 00:11:56,519
+et ensuite de la production aussi par
+
+326
+00:11:55,079 --> 00:11:57,720
+exemple parce que il supporte huit
+
+327
+00:11:56,519 --> 00:12:00,120
+langages ce qui est beaucoup par rapport
+
+328
+00:11:57,720 --> 00:12:02,100
+aux autres et il vous permet d'entraîner
+
+329
+00:12:00,120 --> 00:12:04,500
+dans un langage et ensuite d'exporter
+
+330
+00:12:02,100 --> 00:12:05,760
+votre réseau pour un référence dans un
+
+331
+00:12:04,500 --> 00:12:07,980
+autre
+
+332
+00:12:05,760 --> 00:12:11,360
+donc voilà lui il est vraiment plus sur
+
+333
+00:12:07,980 --> 00:12:11,360
+tout en flexibilité
+
+334
+00:12:11,940 --> 00:12:15,779
+ce que je vous propose c'est qu'on garde
+
+335
+00:12:13,500 --> 00:12:17,760
+un petit peu concrètement en quoi ça
+
+336
+00:12:15,779 --> 00:12:20,100
+consiste de d'implémenter un réseau
+
+337
+00:12:17,760 --> 00:12:22,200
+neurones avec pittorch ou avec
+
+338
+00:12:20,100 --> 00:12:24,720
+tensorflow
+
+339
+00:12:22,200 --> 00:12:26,540
+donc pour ça j'ai utilisé le datacès de
+
+340
+00:12:24,720 --> 00:12:28,320
+l'Amazon des musées
+
+341
+00:12:26,540 --> 00:12:30,360
+donc en gros c'est un problème de
+
+342
+00:12:28,320 --> 00:12:32,279
+classification de texte multi-class
+
+343
+00:12:30,360 --> 00:12:35,100
+chaque record ça contient entre autres
+
+344
+00:12:32,279 --> 00:12:36,540
+le texte de la vie qu'un utilisateur a
+
+345
+00:12:35,100 --> 00:12:38,880
+laissé sur un produit et puis la note
+
+346
+00:12:36,540 --> 00:12:41,519
+qui lui a attribué et il faut prédire le
+
+347
+00:12:38,880 --> 00:12:43,680
+rating sauf que les réseaux ça comprend
+
+348
+00:12:41,519 --> 00:12:45,360
+pas le texte ça prend en entrée que des
+
+349
+00:12:43,680 --> 00:12:48,000
+nombres donc il y a d'abord du pré
+
+350
+00:12:45,360 --> 00:12:51,420
+processing à faire que j'ai fait avec la
+
+351
+00:12:48,000 --> 00:12:53,519
+librairie tokinizer face pour notamment
+
+352
+00:12:51,420 --> 00:12:55,920
+entraîner un token Heizer donc de quoi
+
+353
+00:12:53,519 --> 00:12:58,740
+découper mes grosses séquences de texte
+
+354
+00:12:55,920 --> 00:13:00,839
+en tant qu'un individuel rajouter du
+
+355
+00:12:58,740 --> 00:13:02,100
+padding tronqué et tout pour avoir des
+
+356
+00:13:00,839 --> 00:13:03,480
+séquences qui font toute la même taille
+
+357
+00:13:02,100 --> 00:13:04,680
+ça c'est important pour les réseaux
+
+358
+00:13:03,480 --> 00:13:07,019
+neurones
+
+359
+00:13:04,680 --> 00:13:09,600
+et puis aussi convertir ces token texte
+
+360
+00:13:07,019 --> 00:13:11,639
+en tant que nombre donc en gros affecter
+
+361
+00:13:09,600 --> 00:13:13,440
+un indice pour chaque mot dans un
+
+362
+00:13:11,639 --> 00:13:16,920
+vocabulaire
+
+363
+00:13:13,440 --> 00:13:18,300
+et du coup en sortie on obtient ce que
+
+364
+00:13:16,920 --> 00:13:20,100
+vous avez ici chaque record est devenu
+
+365
+00:13:18,300 --> 00:13:22,380
+un input qui est une séquence de nombres
+
+366
+00:13:20,100 --> 00:13:26,600
+et une target qui est cette fois une
+
+367
+00:13:22,380 --> 00:13:26,600
+valeur unique un entier entre 0 et 5
+
+368
+00:13:26,820 --> 00:13:30,660
+le réseau qu'on va implémenter c'est
+
+369
+00:13:28,620 --> 00:13:33,000
+celui-ci donc d'abord une étape
+
+370
+00:13:30,660 --> 00:13:35,040
+d'embelline pour convertir mes indices
+
+371
+00:13:33,000 --> 00:13:37,980
+dans le vocabulaire en un vecteur qui va
+
+372
+00:13:35,040 --> 00:13:39,300
+représenter chaque token en moyenne tout
+
+373
+00:13:37,980 --> 00:13:41,399
+ça sur une séquence pour avoir une
+
+374
+00:13:39,300 --> 00:13:43,740
+représentation de de la séquence de la
+
+375
+00:13:41,399 --> 00:13:46,500
+vie et ensuite une couche cachée
+
+376
+00:13:43,740 --> 00:13:48,360
+activation un petit peu dropade pour
+
+377
+00:13:46,500 --> 00:13:50,820
+l'entraînement et en sortie une couche
+
+378
+00:13:48,360 --> 00:13:53,940
+de classification donc activation soft
+
+379
+00:13:50,820 --> 00:13:55,680
+max voilà bon c'est ultra basique c'est
+
+380
+00:13:53,940 --> 00:13:57,360
+clairement pas l'état de l'art en
+
+381
+00:13:55,680 --> 00:14:00,740
+classification de texte je sais mais
+
+382
+00:13:57,360 --> 00:14:00,740
+c'était juste pour illustration
+
+383
+00:14:00,839 --> 00:14:05,040
+donc on démarre avec pytors déjà il faut
+
+384
+00:14:03,120 --> 00:14:07,139
+qu'on définisse de quoi manipuler notre
+
+385
+00:14:05,040 --> 00:14:09,320
+data 7 donc on s'appuie sur ce que
+
+386
+00:14:07,139 --> 00:14:12,120
+pitorch nous propose de ce côté là
+
+387
+00:14:09,320 --> 00:14:13,860
+ensuite et ben il faut qu'on implémente
+
+388
+00:14:12,120 --> 00:14:15,660
+notre modèle donc on éteint une classe
+
+389
+00:14:13,860 --> 00:14:17,760
+de pastorge qui s'appelle module et il
+
+390
+00:14:15,660 --> 00:14:18,839
+faut définir un minima un miniat dans
+
+391
+00:14:17,760 --> 00:14:20,519
+lequel on peut mettre un peu tout ce
+
+392
+00:14:18,839 --> 00:14:21,959
+dont on va avoir besoin et surtout un
+
+393
+00:14:20,519 --> 00:14:24,660
+forward qui est là on va spécifier
+
+394
+00:14:21,959 --> 00:14:26,820
+comment on calcule une prédiction à
+
+395
+00:14:24,660 --> 00:14:28,740
+partir des inputs
+
+396
+00:14:26,820 --> 00:14:31,139
+et ensuite on rentre dans vraiment le
+
+397
+00:14:28,740 --> 00:14:32,399
+script d'entraînement donc déjà il faut
+
+398
+00:14:31,139 --> 00:14:34,920
+appliquer notre prix processing
+
+399
+00:14:32,399 --> 00:14:36,600
+récupérer nos data 7 d'entraînement et
+
+400
+00:14:34,920 --> 00:14:38,959
+de validation
+
+401
+00:14:36,600 --> 00:14:41,519
+ensuite on instant si notre modèle
+
+402
+00:14:38,959 --> 00:14:42,899
+on instinctie aussi une fonction de
+
+403
+00:14:41,519 --> 00:14:44,779
+coupe donc là j'ai pris le cross
+
+404
+00:14:42,899 --> 00:14:47,639
+anthropilos parce qu'on est en classe
+
+405
+00:14:44,779 --> 00:14:49,260
+multiclass et puis aussi un optimiser
+
+406
+00:14:47,639 --> 00:14:50,940
+donc là j'ai choisi Adam et puis vous
+
+407
+00:14:49,260 --> 00:14:53,540
+voyez chacun a ses petits paramètres que
+
+408
+00:14:50,940 --> 00:14:53,540
+je peux ajuster
+
+409
+00:14:53,760 --> 00:14:58,199
+et ensuite et ben on écrit une boucle
+
+410
+00:14:56,160 --> 00:15:00,360
+d'entraînement donc on va retrouver
+
+411
+00:14:58,199 --> 00:15:02,699
+toutes les étapes donc on va dire pour
+
+412
+00:15:00,360 --> 00:15:05,339
+chaque époque pour chaque badge déjà
+
+413
+00:15:02,699 --> 00:15:07,079
+place-toi en mode Entraînement donc ça
+
+414
+00:15:05,339 --> 00:15:09,300
+veut dire calcul les gradur au fur et à
+
+415
+00:15:07,079 --> 00:15:11,519
+mesure et puis ensuite applique le
+
+416
+00:15:09,300 --> 00:15:13,380
+modèle à partir des prédictions calculs
+
+417
+00:15:11,519 --> 00:15:15,180
+moi le loss utilise le los et
+
+418
+00:15:13,380 --> 00:15:16,980
+l'optimizer pour venir mettre à jour les
+
+419
+00:15:15,180 --> 00:15:18,320
+points du modèle et c'est reparti pour
+
+420
+00:15:16,980 --> 00:15:21,120
+une étape
+
+421
+00:15:18,320 --> 00:15:24,540
+à la fin de chaque époque j'ai fait en
+
+422
+00:15:21,120 --> 00:15:26,459
+sorte de calculer la cuirassy sur mon
+
+423
+00:15:24,540 --> 00:15:28,199
+jeu de validation justement donc là il
+
+424
+00:15:26,459 --> 00:15:30,060
+faut que je dise à pightorch là on est
+
+425
+00:15:28,199 --> 00:15:31,980
+en mode eval donc pas la peine de
+
+426
+00:15:30,060 --> 00:15:33,899
+calculer les gradients ça permet
+
+427
+00:15:31,980 --> 00:15:35,940
+d'économiser du temps de calcul et de la
+
+428
+00:15:33,899 --> 00:15:39,000
+mémoire et par contre et bien il faut
+
+429
+00:15:35,940 --> 00:15:43,339
+que je déroule à la main le calcul de
+
+430
+00:15:39,000 --> 00:15:43,339
+prédiction de la cuirassie etc
+
+431
+00:15:43,380 --> 00:15:47,160
+et puis ensuite je peux une fois que mon
+
+432
+00:15:45,660 --> 00:15:48,540
+modèle est entraîné l'utiliser pour
+
+433
+00:15:47,160 --> 00:15:49,980
+référence sur une petite phrase
+
+434
+00:15:48,540 --> 00:15:52,079
+d'exemple
+
+435
+00:15:49,980 --> 00:15:54,240
+niveau lock ça donne ça donc je lui ai
+
+436
+00:15:52,079 --> 00:15:55,320
+fait printer en début le modèle donc on
+
+437
+00:15:54,240 --> 00:15:57,180
+voit bien qu'on enchaîne un certain
+
+438
+00:15:55,320 --> 00:15:58,800
+nombre de couches et puis voilà après un
+
+439
+00:15:57,180 --> 00:16:01,320
+petit peu de log pour suivre le los en
+
+440
+00:15:58,800 --> 00:16:02,339
+cours d'entraînement et puis à la fin on
+
+441
+00:16:01,320 --> 00:16:04,500
+a vu qu'on a réussi à sortir une
+
+442
+00:16:02,339 --> 00:16:06,660
+prédiction qui n'était pas bonne sur la
+
+443
+00:16:04,500 --> 00:16:08,279
+phrase de exemple
+
+444
+00:16:06,660 --> 00:16:09,540
+on va regarder maintenant ce que comment
+
+445
+00:16:08,279 --> 00:16:11,220
+on ferait ça en pleine sur flow vous
+
+446
+00:16:09,540 --> 00:16:14,060
+allez voir c'est très proche donc de la
+
+447
+00:16:11,220 --> 00:16:16,620
+même manière de quoi gérer notre data 7
+
+448
+00:16:14,060 --> 00:16:18,120
+ensuite je suis restée sur le mode
+
+449
+00:16:16,620 --> 00:16:21,839
+classique pour qu'on voit bien le
+
+450
+00:16:18,120 --> 00:16:23,040
+parallèle donc pareil un limite et c'est
+
+451
+00:16:21,839 --> 00:16:25,860
+un forward c'est un call mais sinon
+
+452
+00:16:23,040 --> 00:16:28,440
+c'est c'est la même chose
+
+453
+00:16:25,860 --> 00:16:31,320
+ensuite mon script d'entraînement donc
+
+454
+00:16:28,440 --> 00:16:34,139
+avec pré-processing récupération des
+
+455
+00:16:31,320 --> 00:16:36,480
+datacettes puis un sensation du modèle
+
+456
+00:16:34,139 --> 00:16:38,519
+du loss de l'optimizer cette fois je
+
+457
+00:16:36,480 --> 00:16:40,320
+peux aussi définir une métrique grâce à
+
+458
+00:16:38,519 --> 00:16:43,560
+la pays que race ma maîtrise de la
+
+459
+00:16:40,320 --> 00:16:46,560
+curation et je passe à ma boucle
+
+460
+00:16:43,560 --> 00:16:48,540
+d'entraînement donc ça c'est voyez on
+
+461
+00:16:46,560 --> 00:16:51,000
+utilise le gradient tape côté tenseinflo
+
+462
+00:16:48,540 --> 00:16:52,980
+et c'est notamment ça qu'ils ont rajouté
+
+463
+00:16:51,000 --> 00:16:54,720
+développé à partir de la version 2 qui
+
+464
+00:16:52,980 --> 00:16:57,199
+nous permet d'avoir ce mode Giger et
+
+465
+00:16:54,720 --> 00:17:00,240
+d'écrire ce genre de boucle
+
+466
+00:16:57,199 --> 00:17:01,800
+et cette fois chaque fin d'époque et ben
+
+467
+00:17:00,240 --> 00:17:04,620
+j'utilise directement ma métrique que
+
+468
+00:17:01,800 --> 00:17:07,199
+j'ai défini et je l'applique sur sur mon
+
+469
+00:17:04,620 --> 00:17:08,459
+datacet de validation
+
+470
+00:17:07,199 --> 00:17:10,679
+et puis pareil une fois que le modèle
+
+471
+00:17:08,459 --> 00:17:13,380
+est entraîné je peux m'en servir pour
+
+472
+00:17:10,679 --> 00:17:16,199
+l'appliquer sur un exemple
+
+473
+00:17:13,380 --> 00:17:17,760
+côté lock ça donne ça je suis lolos
+
+474
+00:17:16,199 --> 00:17:20,880
+aussi cette fois j'ai pu printer le
+
+475
+00:17:17,760 --> 00:17:22,799
+modèle qu'après que l'entraînement a été
+
+476
+00:17:20,880 --> 00:17:26,780
+fait tender Flo me laissait pas le prix
+
+477
+00:17:22,799 --> 00:17:26,780
+avant pour avoir ce genre de résumé
+
+478
+00:17:27,480 --> 00:17:30,480
+je voulais aussi qu'on regarde un petit
+
+479
+00:17:28,620 --> 00:17:32,880
+peu comment on aurait fait ça avec le
+
+480
+00:17:30,480 --> 00:17:34,500
+mode seekwondo donc le début c'est
+
+481
+00:17:32,880 --> 00:17:36,240
+exactement pareil donc je vais pas
+
+482
+00:17:34,500 --> 00:17:38,160
+m'attarder dessus mais par contre
+
+483
+00:17:36,240 --> 00:17:39,600
+ensuite plus besoin de définir une
+
+484
+00:17:38,160 --> 00:17:42,120
+classe pour mon modèle là je peux
+
+485
+00:17:39,600 --> 00:17:43,679
+directement écrire l'enchaînement de
+
+486
+00:17:42,120 --> 00:17:45,419
+couches en appuyant sur des classes
+
+487
+00:17:43,679 --> 00:17:47,580
+existantes
+
+488
+00:17:45,419 --> 00:17:49,260
+ensuite je compile mon modèle où là je
+
+489
+00:17:47,580 --> 00:17:51,120
+lui précise qu'elle Optimizer je veux
+
+490
+00:17:49,260 --> 00:17:52,559
+mon loss et puis des métrique que je
+
+491
+00:17:51,120 --> 00:17:55,320
+veux suivre
+
+492
+00:17:52,559 --> 00:17:56,820
+et ensuite pareil plus de plus de
+
+493
+00:17:55,320 --> 00:17:58,980
+boucles d'entraînement j'appelle point
+
+494
+00:17:56,820 --> 00:18:00,660
+feet sur mon data scène d'entraînement
+
+495
+00:17:58,980 --> 00:18:02,160
+en lui disant pour combien d'époques je
+
+496
+00:18:00,660 --> 00:18:04,980
+peux lui passer mon data 7 de validation
+
+497
+00:18:02,160 --> 00:18:07,100
+et il se débrouille tout seul en fait il
+
+498
+00:18:04,980 --> 00:18:09,240
+me sort ce genre de log
+
+499
+00:18:07,100 --> 00:18:11,520
+donc bon normalement c'est interactif
+
+500
+00:18:09,240 --> 00:18:13,200
+mais je fais une capture d'écran et on
+
+501
+00:18:11,520 --> 00:18:16,620
+voit bien que chaque fin d'époque il me
+
+502
+00:18:13,200 --> 00:18:18,799
+calcule la cuirassy sur sur mon jeu de
+
+503
+00:18:16,620 --> 00:18:18,799
+validation
+
+504
+00:19:07,559 --> 00:19:11,520
+et puis surtout la plus grosse DIF c'est
+
+505
+00:19:09,179 --> 00:19:12,299
+que avec tenserflow et le mode c'est
+
+506
+00:19:11,520 --> 00:19:15,299
+quand même chaud et ben je peux
+
+507
+00:19:12,299 --> 00:19:18,600
+complètement m'apprécir du du training
+
+508
+00:19:15,299 --> 00:19:22,799
+loop en fait et utiliser les fonctions à
+
+509
+00:19:18,600 --> 00:19:24,419
+dispo point qu'on paye point fit etc
+
+510
+00:19:22,799 --> 00:19:25,919
+par contre dans les deux cas vous avez
+
+511
+00:19:24,419 --> 00:19:27,539
+vu il faut que je fasse attention à
+
+512
+00:19:25,919 --> 00:19:29,880
+comment est-ce que je vais gérer mes
+
+513
+00:19:27,539 --> 00:19:32,220
+données en entrée en fait dans la vraie
+
+514
+00:19:29,880 --> 00:19:34,500
+vie vous n'aurez quasiment jamais un
+
+515
+00:19:32,220 --> 00:19:36,539
+datacet qui est tout prêt à être balancé
+
+516
+00:19:34,500 --> 00:19:38,520
+en entrée du réseau il faudra faire du
+
+517
+00:19:36,539 --> 00:19:39,960
+pré processing et là chaque Framework
+
+518
+00:19:38,520 --> 00:19:42,240
+est un petit peu sa logique différente
+
+519
+00:19:39,960 --> 00:19:43,799
+avec des Data 7 des dates à l'odeur des
+
+520
+00:19:42,240 --> 00:19:45,860
+sampler etc il faut regarder un petit
+
+521
+00:19:43,799 --> 00:19:45,860
+peu
+
+522
+00:19:46,559 --> 00:19:50,640
+voilà donc en plus de tous ces
+
+523
+00:19:48,360 --> 00:19:53,760
+frameworks comme on est en python on a
+
+524
+00:19:50,640 --> 00:19:55,740
+aussi une myriade de librairie autour du
+
+525
+00:19:53,760 --> 00:19:57,600
+Deep learning qui viennent se
+
+526
+00:19:55,740 --> 00:19:59,940
+positionner à différents niveaux vous
+
+527
+00:19:57,600 --> 00:20:01,500
+allez voir donc on a déjà les librairies
+
+528
+00:19:59,940 --> 00:20:03,980
+que j'ai appelé généraliste là ça va
+
+529
+00:20:01,500 --> 00:20:07,559
+être toutes des surcouches qui viennent
+
+530
+00:20:03,980 --> 00:20:09,960
+au dessus des frames au niveau que que
+
+531
+00:20:07,559 --> 00:20:13,679
+les frameworks eux-mêmes donc vous allez
+
+532
+00:20:09,960 --> 00:20:15,240
+me dire kéras c'est ça aussi oui mais je
+
+533
+00:20:13,679 --> 00:20:16,919
+l'ai pas mis sur la slide parce que
+
+534
+00:20:15,240 --> 00:20:18,840
+aujourd'hui Kira c'est tellement
+
+535
+00:20:16,919 --> 00:20:21,419
+imbriqué l'antenne sur flow que c'est
+
+536
+00:20:18,840 --> 00:20:24,559
+plus vraiment une librairie à part en
+
+537
+00:20:21,419 --> 00:20:27,000
+fait ils avaient carrément récupéré le
+
+538
+00:20:24,559 --> 00:20:28,020
+keras et tout intégré au même ripo j'ai
+
+539
+00:20:27,000 --> 00:20:30,000
+cru comprendre qu'ils étaient en train
+
+540
+00:20:28,020 --> 00:20:32,460
+de reséparer mais enfin ça vient ça
+
+541
+00:20:30,000 --> 00:20:33,960
+vient avec Kenzo quoi par contre antenne
+
+542
+00:20:32,460 --> 00:20:36,240
+sur flow vous avez aussi sonnette qui
+
+543
+00:20:33,960 --> 00:20:38,700
+est proposé par dipmind et qui est fait
+
+544
+00:20:36,240 --> 00:20:41,179
+pour implémenter coder des réseaux
+
+545
+00:20:38,700 --> 00:20:44,400
+neurones en tensorflow 2
+
+546
+00:20:41,179 --> 00:20:45,360
+il s'appuie sur le principe des modules
+
+547
+00:20:44,400 --> 00:20:47,539
+donc ça fait quand même beaucoup penser
+
+548
+00:20:45,360 --> 00:20:50,340
+à paille Torch mais la maison
+
+549
+00:20:47,539 --> 00:20:52,799
+tout la partie apichaul qui reste très
+
+550
+00:20:50,340 --> 00:20:54,059
+proche de caresses
+
+551
+00:20:52,799 --> 00:20:56,460
+en pipteur je vous en avez plusieurs
+
+552
+00:20:54,059 --> 00:20:58,679
+aussi vous avez notamment Lightning
+
+553
+00:20:56,460 --> 00:21:00,960
+qu'il a en gros va vous demander
+
+554
+00:20:58,679 --> 00:21:02,100
+d'organiser votre code tout ce qu'on a
+
+555
+00:21:00,960 --> 00:21:04,380
+pu mettre dans le training loop de
+
+556
+00:21:02,100 --> 00:21:06,900
+l'organiser derrière des fonctions qui
+
+557
+00:21:04,380 --> 00:21:09,299
+sont attendues par un Lightning module
+
+558
+00:21:06,900 --> 00:21:11,700
+et ça vous allez pouvoir l'utiliser avec
+
+559
+00:21:09,299 --> 00:21:15,539
+les classes de la libe de type trainer
+
+560
+00:21:11,700 --> 00:21:17,520
+métrique etc qui vont gérer pas mal de
+
+561
+00:21:15,539 --> 00:21:19,980
+choses pour vous tout ce qui est basculé
+
+562
+00:21:17,520 --> 00:21:20,900
+du mode eval au mode train faire les
+
+563
+00:21:19,980 --> 00:21:23,460
+itération
+
+564
+00:21:20,900 --> 00:21:25,260
+envoyer la donnée sur le GPU si il y a
+
+565
+00:21:23,460 --> 00:21:26,539
+besoin etc pour vous faciliter un peu la
+
+566
+00:21:25,260 --> 00:21:28,799
+vie
+
+567
+00:21:26,539 --> 00:21:30,659
+c'est le même principe mais ils
+
+568
+00:21:28,799 --> 00:21:33,419
+appellent ça un learner au lieu d'un
+
+569
+00:21:30,659 --> 00:21:37,140
+trainer et ignate c'est toujours le même
+
+570
+00:21:33,419 --> 00:21:40,440
+type de librairie avec le même but sauf
+
+571
+00:21:37,140 --> 00:21:42,960
+que cette fois-ci il parle d'engine
+
+572
+00:21:40,440 --> 00:21:45,480
+côté jacks on peut mentionner par
+
+573
+00:21:42,960 --> 00:21:47,880
+exemple aiku aussi fait par Deep mind
+
+574
+00:21:45,480 --> 00:21:50,940
+qui se présente comme étant un sonnette
+
+575
+00:21:47,880 --> 00:21:52,919
+pour jacks et en fait une fin l'équipe
+
+576
+00:21:50,940 --> 00:21:54,900
+qui est derrière haïku c'est une partie
+
+577
+00:21:52,919 --> 00:21:57,840
+de l'équipe qui est derrière sonnette
+
+578
+00:21:54,900 --> 00:21:59,700
+donc très similaire voilà vraiment les
+
+579
+00:21:57,840 --> 00:22:02,760
+mêmes paradigmes ils mettent en comment
+
+580
+00:21:59,700 --> 00:22:05,760
+certaines choses vous avez aussi Google
+
+581
+00:22:02,760 --> 00:22:07,380
+qui vous propose flax donc qui fait
+
+582
+00:22:05,760 --> 00:22:10,740
+essentiellement la même chose mais par
+
+583
+00:22:07,380 --> 00:22:13,080
+exemple pour gérer vos optimizers de
+
+584
+00:22:10,740 --> 00:22:15,299
+façon un petit peu custom dans Flac
+
+585
+00:22:13,080 --> 00:22:17,820
+c'est directement intégré alors que si
+
+586
+00:22:15,299 --> 00:22:20,820
+vous utilisez haïku deep mine va vous
+
+587
+00:22:17,820 --> 00:22:22,200
+encourager à utiliser une autre de leur
+
+588
+00:22:20,820 --> 00:22:25,020
+librairie qui s'appelle optacle c'est
+
+589
+00:22:22,200 --> 00:22:27,000
+qui est dédié Optimizer
+
+590
+00:22:25,020 --> 00:22:28,919
+et puis vous avez aussi Google brin qui
+
+591
+00:22:27,000 --> 00:22:30,179
+propose tracks qui a pris la relève
+
+592
+00:22:28,919 --> 00:22:33,480
+d'une ancienne libre qui s'appelait
+
+593
+00:22:30,179 --> 00:22:35,460
+tensor tout sensor donc toujours les
+
+594
+00:22:33,480 --> 00:22:38,580
+mêmes principes mais qui est quand même
+
+595
+00:22:35,460 --> 00:22:40,100
+plus dédié au modèle seekwins notamment
+
+596
+00:22:38,580 --> 00:22:45,000
+aujourd'hui tout ce qui est Transformers
+
+597
+00:22:40,100 --> 00:22:47,400
+pas mal élevé ça passe par là et puis
+
+598
+00:22:45,000 --> 00:22:48,780
+pour terminer mix net a aussi son API
+
+599
+00:22:47,400 --> 00:22:50,240
+plus haut niveau chez eux ça s'appelle
+
+600
+00:22:48,780 --> 00:22:52,200
+gluant
+
+601
+00:22:50,240 --> 00:22:54,480
+leur site la présente comme étant
+
+602
+00:22:52,200 --> 00:22:56,880
+vraiment très proche de paille torche
+
+603
+00:22:54,480 --> 00:22:59,880
+donc de permettre une implémentation de
+
+604
+00:22:56,880 --> 00:23:02,039
+style impératif mais de quand même
+
+605
+00:22:59,880 --> 00:23:04,799
+ensuite pouvoir profiter des avantages
+
+606
+00:23:02,039 --> 00:23:08,159
+du symbolique via le fait d'hybrider son
+
+607
+00:23:04,799 --> 00:23:09,720
+modèle que vous permet de mix net
+
+608
+00:23:08,159 --> 00:23:12,000
+voilà donc là on est sur des librairies
+
+609
+00:23:09,720 --> 00:23:14,159
+qui sont vraiment
+
+610
+00:23:12,000 --> 00:23:16,740
+ultra généraliste après chaque domaine
+
+611
+00:23:14,159 --> 00:23:18,419
+d'application voit aussi un certain
+
+612
+00:23:16,740 --> 00:23:21,000
+nombre de livres qui vont être plus
+
+613
+00:23:18,419 --> 00:23:22,380
+spécifiquement concentré sur un point
+
+614
+00:23:21,000 --> 00:23:24,200
+donc forcément là je suis un petit peu
+
+615
+00:23:22,380 --> 00:23:27,120
+biaisé mais
+
+616
+00:23:24,200 --> 00:23:30,720
+j'ai listé là des libres en python
+
+617
+00:23:27,120 --> 00:23:32,640
+autour du NLP alors déjà sachez que Ten
+
+618
+00:23:30,720 --> 00:23:35,640
+saint-flow et pasteur ton chacun leur
+
+619
+00:23:32,640 --> 00:23:37,500
+propre livre dédiée NLP tenserflows qui
+
+620
+00:23:35,640 --> 00:23:40,080
+mettent en avant c'est que tout le pré
+
+621
+00:23:37,500 --> 00:23:41,580
+processing il va être intégré au graphe
+
+622
+00:23:40,080 --> 00:23:44,179
+du réseau donc vraiment géré comme une
+
+623
+00:23:41,580 --> 00:23:46,679
+seule étape de calcul
+
+624
+00:23:44,179 --> 00:23:48,120
+pas touch de ce que j'ai pu voir j'ai
+
+625
+00:23:46,679 --> 00:23:51,600
+l'impression que c'est surtout un gros
+
+626
+00:23:48,120 --> 00:23:53,880
+hub de Data 7 NLP donc tous les Data 7
+
+627
+00:23:51,600 --> 00:23:57,059
+utilisées pour les benchmark dans les
+
+628
+00:23:53,880 --> 00:23:59,760
+littérature les mnalis Squad etc sont
+
+629
+00:23:57,059 --> 00:24:01,260
+accessibles via torcht ils ont aussi
+
+630
+00:23:59,760 --> 00:24:03,360
+quelques modèles prédéfinis pour vous
+
+631
+00:24:01,260 --> 00:24:05,820
+mais qui sont tous des modèles Roberta
+
+632
+00:24:03,360 --> 00:24:08,700
+qui en fait le type de modèle de langage
+
+633
+00:24:05,820 --> 00:24:11,159
+modèle défini par Facebook
+
+634
+00:24:08,700 --> 00:24:14,280
+après si on parle NLP forcément on parle
+
+635
+00:24:11,159 --> 00:24:15,720
+de hugging face donc en quelques années
+
+636
+00:24:14,280 --> 00:24:17,159
+la boîte est vraiment devenue un
+
+637
+00:24:15,720 --> 00:24:20,460
+incontournable pour tout ce qui est
+
+638
+00:24:17,159 --> 00:24:22,740
+partage de modèles pré-entraînés de Data
+
+639
+00:24:20,460 --> 00:24:25,400
+7 d'outils machine learning donc c'est
+
+640
+00:24:22,740 --> 00:24:27,539
+beaucoup beaucoup du NLP
+
+641
+00:24:25,400 --> 00:24:29,760
+à la base le premier produit de ligne
+
+642
+00:24:27,539 --> 00:24:30,840
+face c'est un chatbot après il s'ouvre
+
+643
+00:24:29,760 --> 00:24:33,020
+de plus en plus à d'autres domaines
+
+644
+00:24:30,840 --> 00:24:33,020
+aussi
+
+645
+00:25:27,600 --> 00:25:31,440
+alors il n'y a pas que le NP dans la vie
+
+646
+00:25:29,340 --> 00:25:34,020
+je sais si vous vous intéressez à la
+
+647
+00:25:31,440 --> 00:25:35,900
+vision vous pouvez regarder des tech en
+
+648
+00:25:34,020 --> 00:25:39,240
+tout qui est encore une librairie du fer
+
+649
+00:25:35,900 --> 00:25:40,980
+là aussi vous avez accès à des baseline
+
+650
+00:25:39,240 --> 00:25:43,320
+en vision donc ça c'est vraiment très
+
+651
+00:25:40,980 --> 00:25:44,640
+bien parce que en ce moment on est
+
+652
+00:25:43,320 --> 00:25:46,260
+vraiment dans une mouvance où on essaye
+
+653
+00:25:44,640 --> 00:25:49,980
+de capitaliser sur des gros modèles
+
+654
+00:25:46,260 --> 00:25:51,720
+pré-entraînés pour ensuite derrière les
+
+655
+00:25:49,980 --> 00:25:53,820
+réutiliser dans des modèles sur des
+
+656
+00:25:51,720 --> 00:25:55,799
+tâches bien spécifiques mais en fait
+
+657
+00:25:53,820 --> 00:25:58,140
+c'est devenu trop coûteux en termes de
+
+658
+00:25:55,799 --> 00:26:00,720
+ressources et en termes de temps de
+
+659
+00:25:58,140 --> 00:26:02,220
+repartir de zéro à chaque fois donc
+
+660
+00:26:00,720 --> 00:26:03,480
+toutes les livres là que je mentionne
+
+661
+00:26:02,220 --> 00:26:05,039
+généralement et bah vont vous donner
+
+662
+00:26:03,480 --> 00:26:07,140
+accès à des ressources qui sont quand
+
+663
+00:26:05,039 --> 00:26:09,240
+même hyper précieuses
+
+664
+00:26:07,140 --> 00:26:11,340
+en paille torche côté vision vous avez
+
+665
+00:26:09,240 --> 00:26:13,320
+Tim et là ce qui est intéressant c'est
+
+666
+00:26:11,340 --> 00:26:14,940
+que Ross Wideman qui est le développeur
+
+667
+00:26:13,320 --> 00:26:17,640
+principal il vient de rejoindre
+
+668
+00:26:14,940 --> 00:26:19,919
+greenface avec pour mission d'y
+
+669
+00:26:17,640 --> 00:26:22,620
+développer la vision donc à mon avis
+
+670
+00:26:19,919 --> 00:26:25,980
+faut prévoir une intégration de plus en
+
+671
+00:26:22,620 --> 00:26:27,980
+plus étroite entre team et face voir un
+
+672
+00:26:25,980 --> 00:26:30,480
+jour une fusion je ne sais pas
+
+673
+00:26:27,980 --> 00:26:31,260
+sur un autre domaine je sais pas s'il y
+
+674
+00:26:30,480 --> 00:26:33,240
+en a qui font de rien une force
+
+675
+00:26:31,260 --> 00:26:34,620
+mentlearning mais apparemment Jack c'est
+
+676
+00:26:33,240 --> 00:26:36,779
+un librairie dédiée à ça qui s'appelle
+
+677
+00:26:34,620 --> 00:26:38,520
+relax
+
+678
+00:26:36,779 --> 00:26:41,520
+et puis il y a aussi des librairies qui
+
+679
+00:26:38,520 --> 00:26:43,380
+sont plus des de l'outil âge en fait par
+
+680
+00:26:41,520 --> 00:26:45,600
+exemple hugging face à créer une livre
+
+681
+00:26:43,380 --> 00:26:48,779
+data 7 pour tout ce qui est manipulation
+
+682
+00:26:45,600 --> 00:26:50,220
+de Data 7 de tout type et puis comme je
+
+683
+00:26:48,779 --> 00:26:52,919
+disais si vous êtes plus sur tout ce qui
+
+684
+00:26:50,220 --> 00:26:55,320
+est R&D sur le processing de gradient
+
+685
+00:26:52,919 --> 00:26:57,900
+les optimizers et tout et ben en Jax
+
+686
+00:26:55,320 --> 00:26:59,940
+vous avez hoptax qui non seulement vous
+
+687
+00:26:57,900 --> 00:27:03,059
+donne accès à tous les optimizers
+
+688
+00:26:59,940 --> 00:27:05,460
+classiques j'ai des etc mais ça toutes
+
+689
+00:27:03,059 --> 00:27:08,039
+les autres libres le font aussi mais par
+
+690
+00:27:05,460 --> 00:27:09,500
+contre Obs va vous donner du facilités
+
+691
+00:27:08,039 --> 00:27:12,059
+pour
+
+692
+00:27:09,500 --> 00:27:15,140
+construire votre propre Optimizer custom
+
+693
+00:27:12,059 --> 00:27:15,140
+à partir de blocs de base
+
+694
+00:27:16,260 --> 00:27:21,600
+voilà donc ça fait quand même beaucoup
+
+695
+00:27:17,700 --> 00:27:23,220
+de possibles alors j'ai pas un framework
+
+696
+00:27:21,600 --> 00:27:25,380
+ou une libre à vous recommander en
+
+697
+00:27:23,220 --> 00:27:27,179
+particulier ce serait trop facile mais
+
+698
+00:27:25,380 --> 00:27:28,559
+ce que je voulais faire maintenant c'est
+
+699
+00:27:27,179 --> 00:27:30,419
+qu'on regarde ensemble un peu quels sont
+
+700
+00:27:28,559 --> 00:27:32,279
+les questions qui peut être important de
+
+701
+00:27:30,419 --> 00:27:34,440
+se poser avant de démarrer un projet
+
+702
+00:27:32,279 --> 00:27:38,360
+parce que selon les réponses vous allez
+
+703
+00:27:34,440 --> 00:27:38,360
+voir ça peut orienter votre choix
+
+704
+00:27:38,640 --> 00:27:42,299
+déjà il y a tout ce qui va concerner
+
+705
+00:27:39,900 --> 00:27:45,059
+votre environnement technique on peut
+
+706
+00:27:42,299 --> 00:27:48,059
+faire du Deep learning sur CPU GPU TPU
+
+707
+00:27:45,059 --> 00:27:49,799
+changer etc bon ben côté GPU aujourd'hui
+
+708
+00:27:48,059 --> 00:27:52,020
+tous les framework supportent qu'une
+
+709
+00:27:49,799 --> 00:27:53,940
+heure après sur les autres types de
+
+710
+00:27:52,020 --> 00:27:55,200
+puces c'est un peu plus variable par
+
+711
+00:27:53,940 --> 00:27:58,400
+exemple tu as une sœur Flo a pris un peu
+
+712
+00:27:55,200 --> 00:28:01,220
+d'avance pour tout ce qui est Apple
+
+713
+00:27:58,400 --> 00:28:04,559
+leur nouveau GPU les plus à main etc
+
+714
+00:28:01,220 --> 00:28:06,779
+côté TPU bah ça a été fait par Google et
+
+715
+00:28:04,559 --> 00:28:09,659
+pour Google et tenserflow donc ça marche
+
+716
+00:28:06,779 --> 00:28:10,860
+très bien forcément en pipers et en jack
+
+717
+00:28:09,659 --> 00:28:14,340
+c'est quand même possible d'avoir accès
+
+718
+00:28:10,860 --> 00:28:16,679
+au TPU il faut passer par XL et
+
+719
+00:28:14,340 --> 00:28:19,919
+Aprilia est-ce que vous comptez déployer
+
+720
+00:28:16,679 --> 00:28:22,080
+vos modèles sur un serveur si oui et ben
+
+721
+00:28:19,919 --> 00:28:24,600
+tout le tooling de tenserflow avec
+
+722
+00:28:22,080 --> 00:28:27,779
+serveing TFX sera sans doute un petit
+
+723
+00:28:24,600 --> 00:28:29,760
+peu plus intéressant que torchsurf qui
+
+724
+00:28:27,779 --> 00:28:32,520
+est quand même beaucoup moins avancé de
+
+725
+00:28:29,760 --> 00:28:34,559
+ce côté là pareil si vous voulez envoyer
+
+726
+00:28:32,520 --> 00:28:35,760
+votre modèle sur un mobile tu es une
+
+727
+00:28:34,559 --> 00:28:38,279
+sœur flow Lite aujourd'hui et plus
+
+728
+00:28:35,760 --> 00:28:39,900
+mature que ce que vous propose pasteur
+
+729
+00:28:38,279 --> 00:28:41,580
+live qui est encore quand même assez
+
+730
+00:28:39,900 --> 00:28:43,880
+jeune ils ont pas trop mis l'accent là
+
+731
+00:28:41,580 --> 00:28:45,779
+dessus et puis il y a aussi je dirais
+
+732
+00:28:43,880 --> 00:28:47,700
+demander à ce que c'est pour un projet
+
+733
+00:28:45,779 --> 00:28:49,500
+court terme pour maintenant du One Shot
+
+734
+00:28:47,700 --> 00:28:51,360
+ou un truc que vous allez vouloir
+
+735
+00:28:49,500 --> 00:28:54,299
+pérenniser en voyant production
+
+736
+00:28:51,360 --> 00:28:55,799
+maintenir dans le temps etc là pour moi
+
+737
+00:28:54,299 --> 00:28:58,260
+l'important c'est de réfléchir au
+
+738
+00:28:55,799 --> 00:29:00,600
+compromis entre la stabilité des outils
+
+739
+00:28:58,260 --> 00:29:03,539
+que vous allez choisir et puis leur côté
+
+740
+00:29:00,600 --> 00:29:05,100
+est-ce qu'ils sont trendy est-ce que ils
+
+741
+00:29:03,539 --> 00:29:06,179
+intègrent rapidement l'état de l'art
+
+742
+00:29:05,100 --> 00:29:09,000
+mais du coup peut-être un petit peu
+
+743
+00:29:06,179 --> 00:29:10,320
+moins stable et comme le Deep learning
+
+744
+00:29:09,000 --> 00:29:12,480
+c'est un domaine qui évolue quand même
+
+745
+00:29:10,320 --> 00:29:14,520
+assez rapidement les frameworks les
+
+746
+00:29:12,480 --> 00:29:15,799
+livres aussi donc on peut jamais bien
+
+747
+00:29:14,520 --> 00:29:18,299
+être trop sûr de
+
+748
+00:29:15,799 --> 00:29:20,220
+vers quelle version on va aller derrière
+
+749
+00:29:18,299 --> 00:29:24,140
+et à quel point ce sera suivi dans le
+
+750
+00:29:20,220 --> 00:29:24,140
+temps adopté par d'autres etc
+
+751
+00:29:25,140 --> 00:29:29,100
+ensuite il me semble important de se
+
+752
+00:29:26,700 --> 00:29:30,899
+demander quel est l'objectif du projet
+
+753
+00:29:29,100 --> 00:29:33,260
+déjà est-ce que c'est votre première
+
+754
+00:29:30,899 --> 00:29:36,480
+expérience en dipling
+
+755
+00:29:33,260 --> 00:29:38,760
+si oui alors là c'est très très perso
+
+756
+00:29:36,480 --> 00:29:41,340
+comme avis mais je trouve que pasteur a
+
+757
+00:29:38,760 --> 00:29:44,220
+moins d'abstraction alors queens of flow
+
+758
+00:29:41,340 --> 00:29:46,440
+va vous offrir plus de facilité par
+
+759
+00:29:44,220 --> 00:29:48,840
+exemple en pytock quand on utilise une
+
+760
+00:29:46,440 --> 00:29:51,080
+couche linéaire on doit préciser les
+
+761
+00:29:48,840 --> 00:29:53,580
+dimensions in et les dimensions out
+
+762
+00:29:51,080 --> 00:29:55,620
+antensurflow dans la couche dance qui
+
+763
+00:29:53,580 --> 00:29:57,419
+est l'équivalent ça fonctionne même si
+
+764
+00:29:55,620 --> 00:29:59,340
+vous précisez pas l'input shape et
+
+765
+00:29:57,419 --> 00:30:00,440
+tensorflow va la déduire du reste du
+
+766
+00:29:59,340 --> 00:30:03,360
+réseau
+
+767
+00:30:00,440 --> 00:30:04,980
+je trouve que la première méthode et ben
+
+768
+00:30:03,360 --> 00:30:07,679
+vous oblige à bien maîtriser votre
+
+769
+00:30:04,980 --> 00:30:09,240
+réseau et la donner qui qui va le
+
+770
+00:30:07,679 --> 00:30:10,799
+traverser alors c'est sur c'est plus
+
+771
+00:30:09,240 --> 00:30:12,360
+contraignant mais c'est aussi plus
+
+772
+00:30:10,799 --> 00:30:14,580
+instructif
+
+773
+00:30:12,360 --> 00:30:17,220
+après si vous comptez utiliser les
+
+774
+00:30:14,580 --> 00:30:19,620
+modèles pré-entraînés comme on l'a vu le
+
+775
+00:30:17,220 --> 00:30:21,960
+hub de Game face il est ultra fourni par
+
+776
+00:30:19,620 --> 00:30:23,880
+contre c'est beaucoup sur pitorch après
+
+777
+00:30:21,960 --> 00:30:25,559
+pighterche à son propre hub mais qui lui
+
+778
+00:30:23,880 --> 00:30:30,120
+paradoxalement est encore en version
+
+779
+00:30:25,559 --> 00:30:33,000
+bêta et le hub de tenserflow et lui plus
+
+780
+00:30:30,120 --> 00:30:35,159
+développé et tenserflow vous propose
+
+781
+00:30:33,000 --> 00:30:37,559
+aussi un modèle Garden donc en gros
+
+782
+00:30:35,159 --> 00:30:39,360
+c'est un rassemblement du code source de
+
+783
+00:30:37,559 --> 00:30:41,520
+plein de modèles de l'état de l'art ce
+
+784
+00:30:39,360 --> 00:30:42,960
+qui peut être aussi hyper intéressant
+
+785
+00:30:41,520 --> 00:30:45,240
+et puis après comme on l'a vu selon
+
+786
+00:30:42,960 --> 00:30:48,559
+l'application selon le domaine il y a
+
+787
+00:30:45,240 --> 00:30:48,559
+aussi des livres qui sont plus adaptés
+
+788
+00:30:49,440 --> 00:30:53,399
+et enfin il y a aussi tout ce qui va
+
+789
+00:30:51,600 --> 00:30:54,779
+concerner votre style d'implémentation
+
+790
+00:30:53,399 --> 00:30:56,520
+comment est-ce que vous aimez coder
+
+791
+00:30:54,779 --> 00:30:58,500
+comment est-ce que vous allez coder déjà
+
+792
+00:30:56,520 --> 00:31:01,140
+si vous voulez utiliser un réseau
+
+793
+00:30:58,500 --> 00:31:03,299
+pré-entraîné sachez que Berthe a été
+
+794
+00:31:01,140 --> 00:31:05,580
+fait par Google donc antenne sur flow
+
+795
+00:31:03,299 --> 00:31:07,559
+nativement camembert qui est un peu
+
+796
+00:31:05,580 --> 00:31:10,080
+l'équivalent mais en français a été fait
+
+797
+00:31:07,559 --> 00:31:11,760
+par Facebook et INRIA sur pitorch donc
+
+798
+00:31:10,080 --> 00:31:13,620
+aujourd'hui vous pouvez trouver des
+
+799
+00:31:11,760 --> 00:31:15,000
+ponts mais peut-être que vous aurez un
+
+800
+00:31:13,620 --> 00:31:16,980
+petit peu plus de ressources sur un
+
+801
+00:31:15,000 --> 00:31:20,159
+modèle en particulier dans le framework
+
+802
+00:31:16,980 --> 00:31:21,240
+original dans lequel il a été proposé
+
+803
+00:31:20,159 --> 00:31:23,580
+après est-ce que c'est pour un travail
+
+804
+00:31:21,240 --> 00:31:24,659
+de recherche comme on l'a vu payter chez
+
+805
+00:31:23,580 --> 00:31:26,460
+très utilisé dans le monde de la
+
+806
+00:31:24,659 --> 00:31:27,899
+recherche donc peut-être que ça peut
+
+807
+00:31:26,460 --> 00:31:30,539
+être une bonne piste pour pouvoir plus
+
+808
+00:31:27,899 --> 00:31:32,399
+facilement communiquer avec vos pairs
+
+809
+00:31:30,539 --> 00:31:35,039
+pouvoir relire les implémentations des
+
+810
+00:31:32,399 --> 00:31:36,480
+papiers de recherche etc sauf si bien
+
+811
+00:31:35,039 --> 00:31:37,380
+sûr ben vous constatez que vous êtes sur
+
+812
+00:31:36,480 --> 00:31:39,200
+un domaine qui est en train de
+
+813
+00:31:37,380 --> 00:31:42,960
+s'orienter vers une libre en particulier
+
+814
+00:31:39,200 --> 00:31:45,779
+voilà et essayez peut-être de suivre la
+
+815
+00:31:42,960 --> 00:31:47,520
+communauté autour de votre sujet
+
+816
+00:31:45,779 --> 00:31:48,799
+après il y a la question est-ce qu'il
+
+817
+00:31:47,520 --> 00:31:52,100
+faut utiliser une sur couche ou pas
+
+818
+00:31:48,799 --> 00:31:55,140
+c'est hyper subjectif
+
+819
+00:31:52,100 --> 00:31:58,080
+c'est très formateur de faire sans mais
+
+820
+00:31:55,140 --> 00:31:59,399
+avoir parce que si toutes les ressources
+
+821
+00:31:58,080 --> 00:32:01,640
+sur Internet tous les tutos que vous
+
+822
+00:31:59,399 --> 00:32:05,700
+trouvez utilisent une certaine librairie
+
+823
+00:32:01,640 --> 00:32:08,340
+ce sera sans doute plus plus facile et
+
+824
+00:32:05,700 --> 00:32:10,159
+peut-être plus adapté de passer vous
+
+825
+00:32:08,340 --> 00:32:12,059
+aussi par cette lime
+
+826
+00:32:10,159 --> 00:32:15,480
+après il y a est-ce que vous avez besoin
+
+827
+00:32:12,059 --> 00:32:17,760
+de définir un réseau qui va être hyper
+
+828
+00:32:15,480 --> 00:32:19,080
+custom ou est-ce que ce sera pour voilà
+
+829
+00:32:17,760 --> 00:32:22,140
+faire des choses un petit peu standard
+
+830
+00:32:19,080 --> 00:32:24,059
+dans le cas du custom le fait d'utiliser
+
+831
+00:32:22,140 --> 00:32:26,220
+plutôt les approches plus classique et
+
+832
+00:32:24,059 --> 00:32:28,140
+de faire votre training loop à la main
+
+833
+00:32:26,220 --> 00:32:30,059
+je trouvais particulièrement adapté
+
+834
+00:32:28,140 --> 00:32:31,500
+parce que là vous maîtrisez toutes les
+
+835
+00:32:30,059 --> 00:32:34,200
+étapes vous pouvez faire des choses un
+
+836
+00:32:31,500 --> 00:32:35,640
+petit peu spécialisées qui sont pas
+
+837
+00:32:34,200 --> 00:32:38,220
+forcément ce qui est prédéfini dans les
+
+838
+00:32:35,640 --> 00:32:39,720
+classes dispo dans les API
+
+839
+00:32:38,220 --> 00:32:42,299
+après voilà je pense qu'il faut aussi
+
+840
+00:32:39,720 --> 00:32:43,860
+viser ce qui va faciliter la vie par
+
+841
+00:32:42,299 --> 00:32:46,380
+exemple en tensorflow toujours dans la
+
+842
+00:32:43,860 --> 00:32:48,240
+couche dance vous pouvez spécifier un
+
+843
+00:32:46,380 --> 00:32:49,980
+carnet regulariser donc en gros lui dire
+
+844
+00:32:48,240 --> 00:32:52,980
+d'appliquer de la régularisation sur
+
+845
+00:32:49,980 --> 00:32:54,539
+cette couche dense en particulier il y a
+
+846
+00:32:52,980 --> 00:32:56,100
+pas l'équivalent dans pas étain donc en
+
+847
+00:32:54,539 --> 00:32:57,899
+pailleté il faudra le gérer à la main
+
+848
+00:32:56,100 --> 00:32:59,700
+dans les calculs si c'est un truc que
+
+849
+00:32:57,899 --> 00:33:00,899
+vous allez être amené à faire plein de
+
+850
+00:32:59,700 --> 00:33:03,799
+fois dans votre réseau ou dans votre
+
+851
+00:33:00,899 --> 00:33:05,940
+travaux ce sera peut-être plus rapide de
+
+852
+00:33:03,799 --> 00:33:08,279
+bénéficier de la fonctionnalité côté
+
+853
+00:33:05,940 --> 00:33:10,140
+tenserflow et puis il y a aussi tout ce
+
+854
+00:33:08,279 --> 00:33:12,360
+qui concerne comment est-ce que vous
+
+855
+00:33:10,140 --> 00:33:14,100
+allez vouloir monitorer l'entraînement
+
+856
+00:33:12,360 --> 00:33:16,019
+donc sachez qu'il y a des choses qui
+
+857
+00:33:14,100 --> 00:33:16,919
+existent comme des callback tu es une
+
+858
+00:33:16,019 --> 00:33:18,360
+sorboard qui a été fait au début
+
+859
+00:33:16,919 --> 00:33:20,240
+forcément pourtant flow mais qui
+
+860
+00:33:18,360 --> 00:33:23,360
+fonctionne avec d'autres framework
+
+861
+00:33:20,240 --> 00:33:25,200
+différents outils par exemple ml flow
+
+862
+00:33:23,360 --> 00:33:26,820
+j'ai regardé un petit peu j'ai
+
+863
+00:33:25,200 --> 00:33:28,799
+l'impression qu'en pas il Torch si vous
+
+864
+00:33:26,820 --> 00:33:30,779
+voulez utiliser le autologue de la
+
+865
+00:33:28,799 --> 00:33:33,059
+mailflow et ben il supporte seulement
+
+866
+00:33:30,779 --> 00:33:35,059
+les Lightning modules donc peut-être que
+
+867
+00:33:33,059 --> 00:33:37,080
+si vous voulez combiner les deux
+
+868
+00:33:35,059 --> 00:33:40,260
+il faut passer par la surcouche
+
+869
+00:33:37,080 --> 00:33:41,940
+Lightning etc regardez un petit peu les
+
+870
+00:33:40,260 --> 00:33:44,240
+outils de monitoring qui vont vous
+
+871
+00:33:41,940 --> 00:33:44,240
+intéresser
+
+872
+00:33:44,820 --> 00:33:47,760
+et puis bien sûr je pouvais pas
+
+873
+00:33:46,140 --> 00:33:50,700
+m'empêcher de terminer en parlant de
+
+874
+00:33:47,760 --> 00:33:51,840
+votre employabilité par rapport aux
+
+875
+00:33:50,700 --> 00:33:53,460
+techno demandez en fait par les
+
+876
+00:33:51,840 --> 00:33:55,500
+recruteurs donc là j'ai pris un
+
+877
+00:33:53,460 --> 00:33:57,899
+échantillon d'offre sur nos sites et
+
+878
+00:33:55,500 --> 00:34:00,360
+j'ai regardé les mentions des quatre
+
+879
+00:33:57,899 --> 00:34:03,440
+vraiment tout simplement donc grosse
+
+880
+00:34:00,360 --> 00:34:06,059
+grosse majorité de tener
+
+881
+00:34:03,440 --> 00:34:08,399
+chez quand même pas si loin derrière et
+
+882
+00:34:06,059 --> 00:34:09,780
+en gros généralement quand pighters j'ai
+
+883
+00:34:08,399 --> 00:34:12,000
+demandé tenzerflow aussi enfin voilà on
+
+884
+00:34:09,780 --> 00:34:15,899
+va trouver souvent les deux ensemble par
+
+885
+00:34:12,000 --> 00:34:17,639
+contre bon mix Night et les jacks pas du
+
+886
+00:34:15,899 --> 00:34:19,379
+tout du tout le même ordre de grandeur
+
+887
+00:34:17,639 --> 00:34:21,540
+je pense que ils jouent pas dans la même
+
+888
+00:34:19,379 --> 00:34:23,639
+cour de ce point de vue là
+
+889
+00:34:21,540 --> 00:34:25,919
+donc si vous vous demandez qu'est-ce
+
+890
+00:34:23,639 --> 00:34:27,300
+qu'il est plus rentable d'apprendre dans
+
+891
+00:34:25,919 --> 00:34:29,879
+l'objectif de me faire embaucher quelque
+
+892
+00:34:27,300 --> 00:34:33,599
+part je dirais que à moins que vous ne
+
+893
+00:34:29,879 --> 00:34:35,220
+postuliez chez deep mind sur jacks tu es
+
+894
+00:34:33,599 --> 00:34:39,139
+une sœur flow ou pas une Torch sont
+
+895
+00:34:35,220 --> 00:34:39,139
+quand même plutôt des valeurs sûres
+
+896
+00:34:39,540 --> 00:34:43,820
+voilà bah écoutez j'espère que vous
+
+897
+00:34:41,159 --> 00:34:47,820
+ressortez pas plus noyé que autre chose
+
+898
+00:34:43,820 --> 00:34:49,859
+que vous repartirez avec envie d'aller
+
+899
+00:34:47,820 --> 00:34:52,139
+creuser une techno ou voilà au moins
+
+900
+00:34:49,859 --> 00:34:53,220
+quelques éléments pour vous dire bon ben
+
+901
+00:34:52,139 --> 00:34:54,720
+j'ai besoin de choisir quelque chose
+
+902
+00:34:53,220 --> 00:34:57,660
+quelle question il faut que je me pose
+
+903
+00:34:54,720 --> 00:34:59,520
+avant de d'arrêter mon choix
+
+904
+00:34:57,660 --> 00:35:01,800
+et puis ben merci beaucoup et si vous
+
+905
+00:34:59,520 --> 00:35:04,040
+avez des questions je peux essayer d'y
+
+906
+00:35:01,800 --> 00:35:04,040
+répondre
+
+907
+00:35:36,140 --> 00:35:46,380
+bonjour je suis un peu un noob en NLP et
+
+908
+00:35:42,300 --> 00:35:48,359
+récemment j'ai découvert openahi avec le
+
+909
+00:35:46,380 --> 00:35:50,400
+modèle GPT 3 et puis tout ce qu'ils ont
+
+910
+00:35:48,359 --> 00:35:53,599
+sorti là récemment et j'ai vraiment été
+
+911
+00:35:50,400 --> 00:35:56,760
+impressionné par la facilité qu'on peut
+
+912
+00:35:53,599 --> 00:36:00,300
+développer des modèles maintenant de NLP
+
+913
+00:35:56,760 --> 00:36:02,520
+avec ces techno là comment ça se compare
+
+914
+00:36:00,300 --> 00:36:06,240
+par rapport à tout ce qu'on peut faire
+
+915
+00:36:02,520 --> 00:36:07,740
+avec pytorch ou tonsorflow c'est c'est
+
+916
+00:36:06,240 --> 00:36:09,720
+ces outils la fin au delà du fait que
+
+917
+00:36:07,740 --> 00:36:12,060
+d'un côté on a une API payant de l'autre
+
+918
+00:36:09,720 --> 00:36:12,859
+côté on se build notre truc par
+
+919
+00:36:12,060 --> 00:36:15,839
+nous-mêmes
+
+920
+00:36:12,859 --> 00:36:17,820
+alors j'avoue que moi j'ai finalement
+
+921
+00:36:15,839 --> 00:36:19,800
+assez peu joué avec opening donc je sais
+
+922
+00:36:17,820 --> 00:36:21,800
+pas exactement mais de ce que je
+
+923
+00:36:19,800 --> 00:36:24,240
+comprends c'est que
+
+924
+00:36:21,800 --> 00:36:26,240
+un des intérêts de passer par la paye de
+
+925
+00:36:24,240 --> 00:36:28,680
+panaïs c'est que vous allez pouvoir
+
+926
+00:36:26,240 --> 00:36:30,660
+bénéficier de justement leur énorme
+
+927
+00:36:28,680 --> 00:36:33,180
+modèle pré-entraîné qu'il a est vraiment
+
+928
+00:36:30,660 --> 00:36:36,000
+sur une échelle où on peut pas le
+
+929
+00:36:33,180 --> 00:36:37,040
+refaire tout seul derrière je crois que
+
+930
+00:36:36,000 --> 00:36:39,180
+c'est quand même
+
+931
+00:36:37,040 --> 00:36:40,859
+enfin tu n'es en gros leur gros modèle
+
+932
+00:36:39,180 --> 00:36:43,020
+sur vos tâches et en particulier et tout
+
+933
+00:36:40,859 --> 00:36:45,960
+et typiquement le modèle d'openéi vous
+
+934
+00:36:43,020 --> 00:36:47,099
+ne le trouverez pas dans tous les dans
+
+935
+00:36:45,960 --> 00:36:49,079
+tous les hubs de modèles qui sont
+
+936
+00:36:47,099 --> 00:36:51,119
+proposés gingface etc parce que c'est
+
+937
+00:36:49,079 --> 00:36:52,260
+quelque chose de propriétaire donc ça à
+
+938
+00:36:51,119 --> 00:36:54,740
+mon avis ça peut être là l'intérêt de
+
+939
+00:36:52,260 --> 00:36:56,640
+passer plutôt par ça si
+
+940
+00:36:54,740 --> 00:36:58,560
+vous voulez bénéficier de ce modèle
+
+941
+00:36:56,640 --> 00:37:01,099
+pré-entraîner
+
+942
+00:36:58,560 --> 00:37:01,099
+ok merci
+
+943
+00:37:16,200 --> 00:37:18,859
+beaucoup
+

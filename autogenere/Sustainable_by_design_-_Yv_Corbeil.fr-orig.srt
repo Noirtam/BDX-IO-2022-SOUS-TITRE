@@ -1,0 +1,10305 @@
+1
+00:00:01,840 --> 00:00:13,310
+
+[Musique]
+
+2
+00:00:13,310 --> 00:00:13,320
+
+ 
+
+3
+00:00:13,320 --> 00:00:15,970
+
+bonjour Bon Matin bienvenue
+
+4
+00:00:15,970 --> 00:00:15,980
+bonjour Bon Matin bienvenue
+ 
+
+5
+00:00:15,980 --> 00:00:18,370
+bonjour Bon Matin bienvenue
+bordeaux.io ce sont des
+
+6
+00:00:18,370 --> 00:00:18,380
+bordeaux.io ce sont des
+ 
+
+7
+00:00:18,380 --> 00:00:21,109
+bordeaux.io ce sont des
+bdx.io.io qu'est-ce qu'on dit
+
+8
+00:00:21,109 --> 00:00:21,119
+bdx.io.io qu'est-ce qu'on dit
+ 
+
+9
+00:00:21,119 --> 00:00:23,750
+bdx.io.io qu'est-ce qu'on dit
+les deux se disent dans la salle est-ce
+
+10
+00:00:23,750 --> 00:00:23,760
+les deux se disent dans la salle est-ce
+ 
+
+11
+00:00:23,760 --> 00:00:26,810
+les deux se disent dans la salle est-ce
+qu'il y a des dev
+
+12
+00:00:26,810 --> 00:00:26,820
+
+ 
+
+13
+00:00:26,820 --> 00:00:28,630
+
+ah plein plein
+
+14
+00:00:28,630 --> 00:00:28,640
+ah plein plein
+ 
+
+15
+00:00:28,640 --> 00:00:38,880
+ah plein plein
+[Musique]
+
+16
+00:00:38,880 --> 00:00:38,890
+
+ 
+
+17
+00:00:38,890 --> 00:00:42,350
+
+[Musique]
+
+18
+00:00:42,350 --> 00:00:42,360
+[Musique]
+ 
+
+19
+00:00:42,360 --> 00:00:44,869
+[Musique]
+et qu'est-ce que vous faites
+
+20
+00:00:44,869 --> 00:00:44,879
+et qu'est-ce que vous faites
+ 
+
+21
+00:00:44,879 --> 00:00:49,209
+et qu'est-ce que vous faites
+oui
+
+22
+00:00:49,209 --> 00:00:49,219
+
+ 
+
+23
+00:00:49,219 --> 00:00:52,369
+
+par exemple cool au sens large du design
+
+24
+00:00:52,369 --> 00:00:52,379
+par exemple cool au sens large du design
+ 
+
+25
+00:00:52,379 --> 00:00:55,010
+par exemple cool au sens large du design
+bienvenue on va aujourd'hui parler de ce
+
+26
+00:00:55,010 --> 00:00:55,020
+bienvenue on va aujourd'hui parler de ce
+ 
+
+27
+00:00:55,020 --> 00:00:56,889
+bienvenue on va aujourd'hui parler de ce
+stenable by design
+
+28
+00:00:56,889 --> 00:00:56,899
+stenable by design
+ 
+
+29
+00:00:56,899 --> 00:00:59,810
+stenable by design
+Yves Corbeil je suis le manager le Chief
+
+30
+00:00:59,810 --> 00:00:59,820
+Yves Corbeil je suis le manager le Chief
+ 
+
+31
+00:00:59,820 --> 00:01:02,110
+Yves Corbeil je suis le manager le Chief
+Creed Eva
+
+32
+00:01:02,110 --> 00:01:02,120
+Creed Eva
+ 
+
+33
+00:01:02,120 --> 00:01:05,690
+Creed Eva
+du kodiar Niji 1200 personnes une agence
+
+34
+00:01:05,690 --> 00:01:05,700
+du kodiar Niji 1200 personnes une agence
+ 
+
+35
+00:01:05,700 --> 00:01:08,570
+du kodiar Niji 1200 personnes une agence
+de 150 agence digitale cœur du réacteur
+
+36
+00:01:08,570 --> 00:01:08,580
+de 150 agence digitale cœur du réacteur
+ 
+
+37
+00:01:08,580 --> 00:01:11,750
+de 150 agence digitale cœur du réacteur
+c'est du design on a du conseil et on a
+
+38
+00:01:11,750 --> 00:01:11,760
+c'est du design on a du conseil et on a
+ 
+
+39
+00:01:11,760 --> 00:01:14,810
+c'est du design on a du conseil et on a
+tout plein de devs plus de 600 on a un
+
+40
+00:01:14,810 --> 00:01:14,820
+tout plein de devs plus de 600 on a un
+ 
+
+41
+00:01:14,820 --> 00:01:15,830
+tout plein de devs plus de 600 on a un
+peu partout il y en a beaucoup beaucoup
+
+42
+00:01:15,830 --> 00:01:15,840
+peu partout il y en a beaucoup beaucoup
+ 
+
+43
+00:01:15,840 --> 00:01:17,990
+peu partout il y en a beaucoup beaucoup
+à Bordeaux quand je suis arrivé à
+
+44
+00:01:17,990 --> 00:01:18,000
+à Bordeaux quand je suis arrivé à
+ 
+
+45
+00:01:18,000 --> 00:01:19,370
+à Bordeaux quand je suis arrivé à
+Bordeaux la première fois on m'a dit ce
+
+46
+00:01:19,370 --> 00:01:19,380
+Bordeaux la première fois on m'a dit ce
+ 
+
+47
+00:01:19,380 --> 00:01:22,730
+Bordeaux la première fois on m'a dit ce
+n'est pas un sac c'est une poche
+
+48
+00:01:22,730 --> 00:01:22,740
+
+ 
+
+49
+00:01:22,740 --> 00:01:25,010
+
+donc ce que vous voyez devant les
+
+50
+00:01:25,010 --> 00:01:25,020
+donc ce que vous voyez devant les
+ 
+
+51
+00:01:25,020 --> 00:01:27,350
+donc ce que vous voyez devant les
+muscles de ma cuisse de droite n'est pas
+
+52
+00:01:27,350 --> 00:01:27,360
+muscles de ma cuisse de droite n'est pas
+ 
+
+53
+00:01:27,360 --> 00:01:29,390
+muscles de ma cuisse de droite n'est pas
+une poche de cuisse c'est un holster
+
+54
+00:01:29,390 --> 00:01:29,400
+une poche de cuisse c'est un holster
+ 
+
+55
+00:01:29,400 --> 00:01:30,530
+une poche de cuisse c'est un holster
+pourquoi c'est un rose tube parce que je
+
+56
+00:01:30,530 --> 00:01:30,540
+pourquoi c'est un rose tube parce que je
+ 
+
+57
+00:01:30,540 --> 00:01:32,390
+pourquoi c'est un rose tube parce que je
+suis nord-américain du Québec de
+
+58
+00:01:32,390 --> 00:01:32,400
+suis nord-américain du Québec de
+ 
+
+59
+00:01:32,400 --> 00:01:34,310
+suis nord-américain du Québec de
+plusieurs années que je suis parti je
+
+60
+00:01:34,310 --> 00:01:34,320
+plusieurs années que je suis parti je
+ 
+
+61
+00:01:34,320 --> 00:01:37,550
+plusieurs années que je suis parti je
+n'ai presque plus d'accent
+
+62
+00:01:37,550 --> 00:01:37,560
+
+ 
+
+63
+00:01:37,560 --> 00:01:39,410
+
+en devait être les QR code c'est pour
+
+64
+00:01:39,410 --> 00:01:39,420
+en devait être les QR code c'est pour
+ 
+
+65
+00:01:39,420 --> 00:01:41,090
+en devait être les QR code c'est pour
+les limites
+
+66
+00:01:41,090 --> 00:01:41,100
+les limites
+ 
+
+67
+00:01:41,100 --> 00:01:45,550
+les limites
+je vous laisse 30 secondes peut-être
+
+68
+00:01:45,550 --> 00:01:45,560
+
+ 
+
+69
+00:01:45,560 --> 00:01:47,510
+
+Vincent Vincent pelto devait être ici
+
+70
+00:01:47,510 --> 00:01:47,520
+Vincent Vincent pelto devait être ici
+ 
+
+71
+00:01:47,520 --> 00:01:50,990
+Vincent Vincent pelto devait être ici
+Vincent c'est un expert green Haïti et
+
+72
+00:01:50,990 --> 00:01:51,000
+Vincent c'est un expert green Haïti et
+ 
+
+73
+00:01:51,000 --> 00:01:53,990
+Vincent c'est un expert green Haïti et
+un architecte solution en revanche la
+
+74
+00:01:53,990 --> 00:01:54,000
+un architecte solution en revanche la
+ 
+
+75
+00:01:54,000 --> 00:01:57,230
+un architecte solution en revanche la
+SNCF ayant décidé de bousiller après ces
+
+76
+00:01:57,230 --> 00:01:57,240
+SNCF ayant décidé de bousiller après ces
+ 
+
+77
+00:01:57,240 --> 00:02:02,649
+SNCF ayant décidé de bousiller après ces
+quelques petits soucis techniques
+
+78
+00:02:02,649 --> 00:02:02,659
+
+ 
+
+79
+00:02:02,659 --> 00:02:05,630
+
+ce matin juste après la quinote comme ça
+
+80
+00:02:05,630 --> 00:02:05,640
+ce matin juste après la quinote comme ça
+ 
+
+81
+00:02:05,640 --> 00:02:20,690
+ce matin juste après la quinote comme ça
+on va pouvoir attaquer
+
+82
+00:02:20,690 --> 00:02:20,700
+
+ 
+
+83
+00:02:20,700 --> 00:02:23,449
+
+droit de on repart et donc Vincent pelto
+
+84
+00:02:23,449 --> 00:02:23,459
+droit de on repart et donc Vincent pelto
+ 
+
+85
+00:02:23,459 --> 00:02:26,510
+droit de on repart et donc Vincent pelto
+architecte solution Vincent avec la SNCF
+
+86
+00:02:26,510 --> 00:02:26,520
+architecte solution Vincent avec la SNCF
+ 
+
+87
+00:02:26,520 --> 00:02:28,729
+architecte solution Vincent avec la SNCF
+qui ont décidé de je pense qu'ils en
+
+88
+00:02:28,729 --> 00:02:28,739
+qui ont décidé de je pense qu'ils en
+ 
+
+89
+00:02:28,739 --> 00:02:30,050
+qui ont décidé de je pense qu'ils en
+avaient contre bordeaux.io ils ont
+
+90
+00:02:30,050 --> 00:02:30,060
+avaient contre bordeaux.io ils ont
+ 
+
+91
+00:02:30,060 --> 00:02:31,430
+avaient contre bordeaux.io ils ont
+décidé de bousiller la ligne sud-ouest
+
+92
+00:02:31,430 --> 00:02:31,440
+décidé de bousiller la ligne sud-ouest
+ 
+
+93
+00:02:31,440 --> 00:02:33,530
+décidé de bousiller la ligne sud-ouest
+ce qui fait que ben il n'a pas pu venir
+
+94
+00:02:33,530 --> 00:02:33,540
+ce qui fait que ben il n'a pas pu venir
+ 
+
+95
+00:02:33,540 --> 00:02:37,130
+ce qui fait que ben il n'a pas pu venir
+donc vous aurez l'occasion par moi-même
+
+96
+00:02:37,130 --> 00:02:37,140
+donc vous aurez l'occasion par moi-même
+ 
+
+97
+00:02:37,140 --> 00:02:39,710
+donc vous aurez l'occasion par moi-même
+d'avoir toute la présentation incluant
+
+98
+00:02:39,710 --> 00:02:39,720
+d'avoir toute la présentation incluant
+ 
+
+99
+00:02:39,720 --> 00:02:40,750
+d'avoir toute la présentation incluant
+la tech
+
+100
+00:02:40,750 --> 00:02:40,760
+la tech
+ 
+
+101
+00:02:40,760 --> 00:02:42,770
+la tech
+aujourd'hui au programme on va faire
+
+102
+00:02:42,770 --> 00:02:42,780
+aujourd'hui au programme on va faire
+ 
+
+103
+00:02:42,780 --> 00:02:44,449
+aujourd'hui au programme on va faire
+deux trois petites choses on va parler
+
+104
+00:02:44,449 --> 00:02:44,459
+deux trois petites choses on va parler
+ 
+
+105
+00:02:44,459 --> 00:02:46,850
+deux trois petites choses on va parler
+donc de la vision parce que je pense
+
+106
+00:02:46,850 --> 00:02:46,860
+donc de la vision parce que je pense
+ 
+
+107
+00:02:46,860 --> 00:02:48,350
+donc de la vision parce que je pense
+qu'on parle d'éco-conception ce qui est
+
+108
+00:02:48,350 --> 00:02:48,360
+qu'on parle d'éco-conception ce qui est
+ 
+
+109
+00:02:48,360 --> 00:02:49,430
+qu'on parle d'éco-conception ce qui est
+hyper important aussi c'est d'en avoir
+
+110
+00:02:49,430 --> 00:02:49,440
+hyper important aussi c'est d'en avoir
+ 
+
+111
+00:02:49,440 --> 00:02:51,589
+hyper important aussi c'est d'en avoir
+une vision tout le monde en parle tout
+
+112
+00:02:51,589 --> 00:02:51,599
+une vision tout le monde en parle tout
+ 
+
+113
+00:02:51,599 --> 00:02:52,970
+une vision tout le monde en parle tout
+le monde en parle avec des méthodologies
+
+114
+00:02:52,970 --> 00:02:52,980
+le monde en parle avec des méthodologies
+ 
+
+115
+00:02:52,980 --> 00:02:54,770
+le monde en parle avec des méthodologies
+en revanche c'est bien d'avoir une
+
+116
+00:02:54,770 --> 00:02:54,780
+en revanche c'est bien d'avoir une
+ 
+
+117
+00:02:54,780 --> 00:02:55,970
+en revanche c'est bien d'avoir une
+vision c'est bien d'avoir certaines
+
+118
+00:02:55,970 --> 00:02:55,980
+vision c'est bien d'avoir certaines
+ 
+
+119
+00:02:55,980 --> 00:02:58,729
+vision c'est bien d'avoir certaines
+convictions après c'est toujours bien de
+
+120
+00:02:58,729 --> 00:02:58,739
+convictions après c'est toujours bien de
+ 
+
+121
+00:02:58,739 --> 00:03:00,170
+convictions après c'est toujours bien de
+se rappeler quelques chiffres on envoie
+
+122
+00:03:00,170 --> 00:03:00,180
+se rappeler quelques chiffres on envoie
+ 
+
+123
+00:03:00,180 --> 00:03:02,330
+se rappeler quelques chiffres on envoie
+on en lit on en a quelques-uns juste
+
+124
+00:03:02,330 --> 00:03:02,340
+on en lit on en a quelques-uns juste
+ 
+
+125
+00:03:02,340 --> 00:03:04,490
+on en lit on en a quelques-uns juste
+pour qu'on ait les chiffres clés et
+
+126
+00:03:04,490 --> 00:03:04,500
+pour qu'on ait les chiffres clés et
+ 
+
+127
+00:03:04,500 --> 00:03:06,350
+pour qu'on ait les chiffres clés et
+après on va faire deux Rex parce que
+
+128
+00:03:06,350 --> 00:03:06,360
+après on va faire deux Rex parce que
+ 
+
+129
+00:03:06,360 --> 00:03:07,430
+après on va faire deux Rex parce que
+souvent ce que vous allez vous rendre
+
+130
+00:03:07,430 --> 00:03:07,440
+souvent ce que vous allez vous rendre
+ 
+
+131
+00:03:07,440 --> 00:03:08,690
+souvent ce que vous allez vous rendre
+compte c'est que beaucoup en parlent
+
+132
+00:03:08,690 --> 00:03:08,700
+compte c'est que beaucoup en parlent
+ 
+
+133
+00:03:08,700 --> 00:03:10,610
+compte c'est que beaucoup en parlent
+très peu en font et donc on a l'occasion
+
+134
+00:03:10,610 --> 00:03:10,620
+très peu en font et donc on a l'occasion
+ 
+
+135
+00:03:10,620 --> 00:03:13,210
+très peu en font et donc on a l'occasion
+d'en avoir fait déjà deux
+
+136
+00:03:13,210 --> 00:03:13,220
+d'en avoir fait déjà deux
+ 
+
+137
+00:03:13,220 --> 00:03:16,490
+d'en avoir fait déjà deux
+dalkia.fr delkia.com et notre propre
+
+138
+00:03:16,490 --> 00:03:16,500
+dalkia.fr delkia.com et notre propre
+ 
+
+139
+00:03:16,500 --> 00:03:18,229
+dalkia.fr delkia.com et notre propre
+site qui est pour le coup sur une
+
+140
+00:03:18,229 --> 00:03:18,239
+site qui est pour le coup sur une
+ 
+
+141
+00:03:18,239 --> 00:03:21,649
+site qui est pour le coup sur une
+démarche entière très musicale du
+
+142
+00:03:21,649 --> 00:03:21,659
+démarche entière très musicale du
+ 
+
+143
+00:03:21,659 --> 00:03:24,770
+démarche entière très musicale du
+concept de Soster
+
+144
+00:03:24,770 --> 00:03:24,780
+
+ 
+
+145
+00:03:24,780 --> 00:03:26,509
+
+la vision
+
+146
+00:03:26,509 --> 00:03:26,519
+la vision
+ 
+
+147
+00:03:26,519 --> 00:03:27,890
+la vision
+en fait aujourd'hui le réchauffement
+
+148
+00:03:27,890 --> 00:03:27,900
+en fait aujourd'hui le réchauffement
+ 
+
+149
+00:03:27,900 --> 00:03:30,350
+en fait aujourd'hui le réchauffement
+climatique c'est un fait la pollution
+
+150
+00:03:30,350 --> 00:03:30,360
+climatique c'est un fait la pollution
+ 
+
+151
+00:03:30,360 --> 00:03:33,229
+climatique c'est un fait la pollution
+produite par internet au sens large et
+
+152
+00:03:33,229 --> 00:03:33,239
+produite par internet au sens large et
+ 
+
+153
+00:03:33,239 --> 00:03:34,910
+produite par internet au sens large et
+donc avec un grand i ça aussi c'est un
+
+154
+00:03:34,910 --> 00:03:34,920
+donc avec un grand i ça aussi c'est un
+ 
+
+155
+00:03:34,920 --> 00:03:37,309
+donc avec un grand i ça aussi c'est un
+fait les entreprises elles doivent
+
+156
+00:03:37,309 --> 00:03:37,319
+fait les entreprises elles doivent
+ 
+
+157
+00:03:37,319 --> 00:03:38,930
+fait les entreprises elles doivent
+réduire leur empreinte carbone notamment
+
+158
+00:03:38,930 --> 00:03:38,940
+réduire leur empreinte carbone notamment
+ 
+
+159
+00:03:38,940 --> 00:03:41,809
+réduire leur empreinte carbone notamment
+à travers la réconcelle en fait ça aussi
+
+160
+00:03:41,809 --> 00:03:41,819
+à travers la réconcelle en fait ça aussi
+ 
+
+161
+00:03:41,819 --> 00:03:45,229
+à travers la réconcelle en fait ça aussi
+c'est un fait et en revanche j'imagine
+
+162
+00:03:45,229 --> 00:03:45,239
+c'est un fait et en revanche j'imagine
+ 
+
+163
+00:03:45,239 --> 00:03:46,490
+c'est un fait et en revanche j'imagine
+soit vous travaillez chez des clients
+
+164
+00:03:46,490 --> 00:03:46,500
+soit vous travaillez chez des clients
+ 
+
+165
+00:03:46,500 --> 00:03:48,770
+soit vous travaillez chez des clients
+finaux soit vous travaillez en agence
+
+166
+00:03:48,770 --> 00:03:48,780
+finaux soit vous travaillez en agence
+ 
+
+167
+00:03:48,780 --> 00:03:51,289
+finaux soit vous travaillez en agence
+pour des clients finaux et dans tous les
+
+168
+00:03:51,289 --> 00:03:51,299
+pour des clients finaux et dans tous les
+ 
+
+169
+00:03:51,299 --> 00:03:52,369
+pour des clients finaux et dans tous les
+cas il faut savoir par où commencer
+
+170
+00:03:52,369 --> 00:03:52,379
+cas il faut savoir par où commencer
+ 
+
+171
+00:03:52,379 --> 00:03:54,470
+cas il faut savoir par où commencer
+parce qu'on peut pas nier le business en
+
+172
+00:03:54,470 --> 00:03:54,480
+parce qu'on peut pas nier le business en
+ 
+
+173
+00:03:54,480 --> 00:03:55,970
+parce qu'on peut pas nier le business en
+fait qu'on soit une agence qu'on soit
+
+174
+00:03:55,970 --> 00:03:55,980
+fait qu'on soit une agence qu'on soit
+ 
+
+175
+00:03:55,980 --> 00:03:57,770
+fait qu'on soit une agence qu'on soit
+une entreprise on peut pas on peut on ne
+
+176
+00:03:57,770 --> 00:03:57,780
+une entreprise on peut pas on peut on ne
+ 
+
+177
+00:03:57,780 --> 00:03:59,149
+une entreprise on peut pas on peut on ne
+peut jamais lier le business on peut pas
+
+178
+00:03:59,149 --> 00:03:59,159
+peut jamais lier le business on peut pas
+ 
+
+179
+00:03:59,159 --> 00:04:00,770
+peut jamais lier le business on peut pas
+dégrader l'expérience en fait on n'est
+
+180
+00:04:00,770 --> 00:04:00,780
+dégrader l'expérience en fait on n'est
+ 
+
+181
+00:04:00,780 --> 00:04:03,110
+dégrader l'expérience en fait on n'est
+plus en 2000-2001 l'expérience elle est
+
+182
+00:04:03,110 --> 00:04:03,120
+plus en 2000-2001 l'expérience elle est
+ 
+
+183
+00:04:03,120 --> 00:04:04,309
+plus en 2000-2001 l'expérience elle est
+devenue immersive il y a toujours plus
+
+184
+00:04:04,309 --> 00:04:04,319
+devenue immersive il y a toujours plus
+ 
+
+185
+00:04:04,319 --> 00:04:06,410
+devenue immersive il y a toujours plus
+de contenu toujours plus d'expérience au
+
+186
+00:04:06,410 --> 00:04:06,420
+de contenu toujours plus d'expérience au
+ 
+
+187
+00:04:06,420 --> 00:04:08,570
+de contenu toujours plus d'expérience au
+sens large on va pas la dégrader cette
+
+188
+00:04:08,570 --> 00:04:08,580
+sens large on va pas la dégrader cette
+ 
+
+189
+00:04:08,580 --> 00:04:10,130
+sens large on va pas la dégrader cette
+expérience
+
+190
+00:04:10,130 --> 00:04:10,140
+expérience
+ 
+
+191
+00:04:10,140 --> 00:04:11,869
+expérience
+et en fait il y a un truc qui est hyper
+
+192
+00:04:11,869 --> 00:04:11,879
+et en fait il y a un truc qui est hyper
+ 
+
+193
+00:04:11,879 --> 00:04:13,429
+et en fait il y a un truc qui est hyper
+important et ça c'est le premier message
+
+194
+00:04:13,429 --> 00:04:13,439
+important et ça c'est le premier message
+ 
+
+195
+00:04:13,439 --> 00:04:15,770
+important et ça c'est le premier message
+que vous devez personne de prendre note
+
+196
+00:04:15,770 --> 00:04:15,780
+que vous devez personne de prendre note
+ 
+
+197
+00:04:15,780 --> 00:04:17,330
+que vous devez personne de prendre note
+c'est très bien si jamais vous prenez
+
+198
+00:04:17,330 --> 00:04:17,340
+c'est très bien si jamais vous prenez
+ 
+
+199
+00:04:17,340 --> 00:04:19,129
+c'est très bien si jamais vous prenez
+une note mentale ce truc là hyper
+
+200
+00:04:19,129 --> 00:04:19,139
+une note mentale ce truc là hyper
+ 
+
+201
+00:04:19,139 --> 00:04:22,270
+une note mentale ce truc là hyper
+important il ne faut jamais sous-estimer
+
+202
+00:04:22,270 --> 00:04:22,280
+important il ne faut jamais sous-estimer
+ 
+
+203
+00:04:22,280 --> 00:04:25,030
+important il ne faut jamais sous-estimer
+la résistance aux changements
+
+204
+00:04:25,030 --> 00:04:25,040
+la résistance aux changements
+ 
+
+205
+00:04:25,040 --> 00:04:27,650
+la résistance aux changements
+particulièrement de ceux et celles qui
+
+206
+00:04:27,650 --> 00:04:27,660
+particulièrement de ceux et celles qui
+ 
+
+207
+00:04:27,660 --> 00:04:29,210
+particulièrement de ceux et celles qui
+sont convaincus de la nécessité du
+
+208
+00:04:29,210 --> 00:04:29,220
+sont convaincus de la nécessité du
+ 
+
+209
+00:04:29,220 --> 00:04:30,830
+sont convaincus de la nécessité du
+changement dans des mots simples ça veut
+
+210
+00:04:30,830 --> 00:04:30,840
+changement dans des mots simples ça veut
+ 
+
+211
+00:04:30,840 --> 00:04:31,850
+changement dans des mots simples ça veut
+dire que tout le monde parle de
+
+212
+00:04:31,850 --> 00:04:31,860
+dire que tout le monde parle de
+ 
+
+213
+00:04:31,860 --> 00:04:32,870
+dire que tout le monde parle de
+l'éco-conception tout le monde veut
+
+214
+00:04:32,870 --> 00:04:32,880
+l'éco-conception tout le monde veut
+ 
+
+215
+00:04:32,880 --> 00:04:34,909
+l'éco-conception tout le monde veut
+faire de l'éco-conception dès que vous
+
+216
+00:04:34,909 --> 00:04:34,919
+faire de l'éco-conception dès que vous
+ 
+
+217
+00:04:34,919 --> 00:04:36,290
+faire de l'éco-conception dès que vous
+allez commencer les gens vont être ultra
+
+218
+00:04:36,290 --> 00:04:36,300
+allez commencer les gens vont être ultra
+ 
+
+219
+00:04:36,300 --> 00:04:37,790
+allez commencer les gens vont être ultra
+motivés durant tout le projet où vont
+
+220
+00:04:37,790 --> 00:04:37,800
+motivés durant tout le projet où vont
+ 
+
+221
+00:04:37,800 --> 00:04:39,469
+motivés durant tout le projet où vont
+essayer de tout faire sauf de
+
+222
+00:04:39,469 --> 00:04:39,479
+essayer de tout faire sauf de
+ 
+
+223
+00:04:39,479 --> 00:04:41,450
+essayer de tout faire sauf de
+l'éco-conception pourquoi ils font ça
+
+224
+00:04:41,450 --> 00:04:41,460
+l'éco-conception pourquoi ils font ça
+ 
+
+225
+00:04:41,460 --> 00:04:43,610
+l'éco-conception pourquoi ils font ça
+parce qu'en fait ça fait des années qui
+
+226
+00:04:43,610 --> 00:04:43,620
+parce qu'en fait ça fait des années qui
+ 
+
+227
+00:04:43,620 --> 00:04:46,070
+parce qu'en fait ça fait des années qui
+ont pris ils ont pris des réflexes ils
+
+228
+00:04:46,070 --> 00:04:46,080
+ont pris ils ont pris des réflexes ils
+ 
+
+229
+00:04:46,080 --> 00:04:47,930
+ont pris ils ont pris des réflexes ils
+ont pris des habitudes qui vont à
+
+230
+00:04:47,930 --> 00:04:47,940
+ont pris des habitudes qui vont à
+ 
+
+231
+00:04:47,940 --> 00:04:49,370
+ont pris des habitudes qui vont à
+l'encontre de l'éco-conception donc ça
+
+232
+00:04:49,370 --> 00:04:49,380
+l'encontre de l'éco-conception donc ça
+ 
+
+233
+00:04:49,380 --> 00:04:50,749
+l'encontre de l'éco-conception donc ça
+c'est le premier frein c'est le premier
+
+234
+00:04:50,749 --> 00:04:50,759
+c'est le premier frein c'est le premier
+ 
+
+235
+00:04:50,759 --> 00:04:52,430
+c'est le premier frein c'est le premier
+la première difficulté lorsqu'on fait de
+
+236
+00:04:52,430 --> 00:04:52,440
+la première difficulté lorsqu'on fait de
+ 
+
+237
+00:04:52,440 --> 00:04:54,530
+la première difficulté lorsqu'on fait de
+l'éco-conception
+
+238
+00:04:54,530 --> 00:04:54,540
+l'éco-conception
+ 
+
+239
+00:04:54,540 --> 00:04:56,030
+l'éco-conception
+et en fait c'est pour ça que c'est que
+
+240
+00:04:56,030 --> 00:04:56,040
+et en fait c'est pour ça que c'est que
+ 
+
+241
+00:04:56,040 --> 00:04:57,830
+et en fait c'est pour ça que c'est que
+les bonnes volontés se heurte souvent
+
+242
+00:04:57,830 --> 00:04:57,840
+les bonnes volontés se heurte souvent
+ 
+
+243
+00:04:57,840 --> 00:05:00,110
+les bonnes volontés se heurte souvent
+aux réalités
+
+244
+00:05:00,110 --> 00:05:00,120
+aux réalités
+ 
+
+245
+00:05:00,120 --> 00:05:03,110
+aux réalités
+et là pour moi c'est véritablement de
+
+246
+00:05:03,110 --> 00:05:03,120
+et là pour moi c'est véritablement de
+ 
+
+247
+00:05:03,120 --> 00:05:06,230
+et là pour moi c'est véritablement de
+vrai pour que le bon sens soit bon pour
+
+248
+00:05:06,230 --> 00:05:06,240
+vrai pour que le bon sens soit bon pour
+ 
+
+249
+00:05:06,240 --> 00:05:08,090
+vrai pour que le bon sens soit bon pour
+le business et c'est ce qu'on appelle le
+
+250
+00:05:08,090 --> 00:05:08,100
+le business et c'est ce qu'on appelle le
+ 
+
+251
+00:05:08,100 --> 00:05:10,850
+le business et c'est ce qu'on appelle le
+système nable by design
+
+252
+00:05:10,850 --> 00:05:10,860
+système nable by design
+ 
+
+253
+00:05:10,860 --> 00:05:12,530
+système nable by design
+donc les convictions je vais aller assez
+
+254
+00:05:12,530 --> 00:05:12,540
+donc les convictions je vais aller assez
+ 
+
+255
+00:05:12,540 --> 00:05:13,909
+donc les convictions je vais aller assez
+rapidement là-dessus mais c'est pour moi
+
+256
+00:05:13,909 --> 00:05:13,919
+rapidement là-dessus mais c'est pour moi
+ 
+
+257
+00:05:13,919 --> 00:05:18,070
+rapidement là-dessus mais c'est pour moi
+c'est clair concis les initiatives
+
+258
+00:05:18,070 --> 00:05:18,080
+c'est clair concis les initiatives
+ 
+
+259
+00:05:18,080 --> 00:05:20,629
+c'est clair concis les initiatives
+sociales sur le digital ne se
+
+260
+00:05:20,629 --> 00:05:20,639
+sociales sur le digital ne se
+ 
+
+261
+00:05:20,639 --> 00:05:23,450
+sociales sur le digital ne se
+concrétiseront uniquement que si les
+
+262
+00:05:23,450 --> 00:05:23,460
+concrétiseront uniquement que si les
+ 
+
+263
+00:05:23,460 --> 00:05:25,129
+concrétiseront uniquement que si les
+bénéfices business sont probants en
+
+264
+00:05:25,129 --> 00:05:25,139
+bénéfices business sont probants en
+ 
+
+265
+00:05:25,139 --> 00:05:27,469
+bénéfices business sont probants en
+clair vous avez des KPI ce stanle
+
+266
+00:05:27,469 --> 00:05:27,479
+clair vous avez des KPI ce stanle
+ 
+
+267
+00:05:27,479 --> 00:05:30,290
+clair vous avez des KPI ce stanle
+éco-conception si ça permet de propulser
+
+268
+00:05:30,290 --> 00:05:30,300
+éco-conception si ça permet de propulser
+ 
+
+269
+00:05:30,300 --> 00:05:33,350
+éco-conception si ça permet de propulser
+les kippyi business ça fonctionne si ça
+
+270
+00:05:33,350 --> 00:05:33,360
+les kippyi business ça fonctionne si ça
+ 
+
+271
+00:05:33,360 --> 00:05:35,870
+les kippyi business ça fonctionne si ça
+va à l'encontre ça ne fonctionne pas
+
+272
+00:05:35,870 --> 00:05:35,880
+va à l'encontre ça ne fonctionne pas
+ 
+
+273
+00:05:35,880 --> 00:05:37,490
+va à l'encontre ça ne fonctionne pas
+les bénéfices de la conception de
+
+274
+00:05:37,490 --> 00:05:37,500
+les bénéfices de la conception de
+ 
+
+275
+00:05:37,500 --> 00:05:38,810
+les bénéfices de la conception de
+l'éco-conception c'est beaucoup plus
+
+276
+00:05:38,810 --> 00:05:38,820
+l'éco-conception c'est beaucoup plus
+ 
+
+277
+00:05:38,820 --> 00:05:41,029
+l'éco-conception c'est beaucoup plus
+large et beaucoup plus fédérateur
+
+278
+00:05:41,029 --> 00:05:41,039
+large et beaucoup plus fédérateur
+ 
+
+279
+00:05:41,039 --> 00:05:43,010
+large et beaucoup plus fédérateur
+c'est vital d'accompagner les équipes au
+
+280
+00:05:43,010 --> 00:05:43,020
+c'est vital d'accompagner les équipes au
+ 
+
+281
+00:05:43,020 --> 00:05:44,689
+c'est vital d'accompagner les équipes au
+changement faut pas sous-estimer la
+
+282
+00:05:44,689 --> 00:05:44,699
+changement faut pas sous-estimer la
+ 
+
+283
+00:05:44,699 --> 00:05:47,090
+changement faut pas sous-estimer la
+gouvernance la gouvernance en agence
+
+284
+00:05:47,090 --> 00:05:47,100
+gouvernance la gouvernance en agence
+ 
+
+285
+00:05:47,100 --> 00:05:49,310
+gouvernance la gouvernance en agence
+normalement ça se passe bien
+
+286
+00:05:49,310 --> 00:05:49,320
+normalement ça se passe bien
+ 
+
+287
+00:05:49,320 --> 00:05:50,689
+normalement ça se passe bien
+côté client il faut vraiment une
+
+288
+00:05:50,689 --> 00:05:50,699
+côté client il faut vraiment une
+ 
+
+289
+00:05:50,699 --> 00:05:52,610
+côté client il faut vraiment une
+gouvernance qui soit efficace un des
+
+290
+00:05:52,610 --> 00:05:52,620
+gouvernance qui soit efficace un des
+ 
+
+291
+00:05:52,620 --> 00:05:53,990
+gouvernance qui soit efficace un des
+aspects qui perd important c'est d'avoir
+
+292
+00:05:53,990 --> 00:05:54,000
+aspects qui perd important c'est d'avoir
+ 
+
+293
+00:05:54,000 --> 00:05:55,370
+aspects qui perd important c'est d'avoir
+du sponsor chez si vous êtes en
+
+294
+00:05:55,370 --> 00:05:55,380
+du sponsor chez si vous êtes en
+ 
+
+295
+00:05:55,380 --> 00:05:57,890
+du sponsor chez si vous êtes en
+entreprise et que ce ne vient pas du du
+
+296
+00:05:57,890 --> 00:05:57,900
+entreprise et que ce ne vient pas du du
+ 
+
+297
+00:05:57,900 --> 00:06:01,070
+entreprise et que ce ne vient pas du du
+bord du CODIR de la direction générale
+
+298
+00:06:01,070 --> 00:06:01,080
+bord du CODIR de la direction générale
+ 
+
+299
+00:06:01,080 --> 00:06:03,350
+bord du CODIR de la direction générale
+ça ne se fera pas
+
+300
+00:06:03,350 --> 00:06:03,360
+ça ne se fera pas
+ 
+
+301
+00:06:03,360 --> 00:06:04,850
+ça ne se fera pas
+en agence si vous travaillez pour des
+
+302
+00:06:04,850 --> 00:06:04,860
+en agence si vous travaillez pour des
+ 
+
+303
+00:06:04,860 --> 00:06:07,430
+en agence si vous travaillez pour des
+clients et que vous donne en ordre
+
+304
+00:06:07,430 --> 00:06:07,440
+clients et que vous donne en ordre
+ 
+
+305
+00:06:07,440 --> 00:06:11,810
+clients et que vous donne en ordre
+sont opérationnels ça ne se fera pas
+
+306
+00:06:11,810 --> 00:06:11,820
+sont opérationnels ça ne se fera pas
+ 
+
+307
+00:06:11,820 --> 00:06:13,129
+sont opérationnels ça ne se fera pas
+et la mesure doit être au cœur du
+
+308
+00:06:13,129 --> 00:06:13,139
+et la mesure doit être au cœur du
+ 
+
+309
+00:06:13,139 --> 00:06:14,689
+et la mesure doit être au cœur du
+dispositif et là on va voir en terme de
+
+310
+00:06:14,689 --> 00:06:14,699
+dispositif et là on va voir en terme de
+ 
+
+311
+00:06:14,699 --> 00:06:16,129
+dispositif et là on va voir en terme de
+dev comment on peut arriver à mesurer
+
+312
+00:06:16,129 --> 00:06:16,139
+dev comment on peut arriver à mesurer
+ 
+
+313
+00:06:16,139 --> 00:06:18,770
+dev comment on peut arriver à mesurer
+des tas de l'art il est imparfait on va
+
+314
+00:06:18,770 --> 00:06:18,780
+des tas de l'art il est imparfait on va
+ 
+
+315
+00:06:18,780 --> 00:06:19,969
+des tas de l'art il est imparfait on va
+être en mesure de se dire tiens voilà
+
+316
+00:06:19,969 --> 00:06:19,979
+être en mesure de se dire tiens voilà
+ 
+
+317
+00:06:19,979 --> 00:06:21,590
+être en mesure de se dire tiens voilà
+comment on fait pour un peu faire de la
+
+318
+00:06:21,590 --> 00:06:21,600
+comment on fait pour un peu faire de la
+ 
+
+319
+00:06:21,600 --> 00:06:23,390
+comment on fait pour un peu faire de la
+mesure quelques chiffres rapides parce
+
+320
+00:06:23,390 --> 00:06:23,400
+mesure quelques chiffres rapides parce
+ 
+
+321
+00:06:23,400 --> 00:06:25,010
+mesure quelques chiffres rapides parce
+que vous les connaissez ce sera entre
+
+322
+00:06:25,010 --> 00:06:25,020
+que vous les connaissez ce sera entre
+ 
+
+323
+00:06:25,020 --> 00:06:29,870
+que vous les connaissez ce sera entre
+1,5 et 2,2 % donc 2,0 pour 100
+
+324
+00:06:29,870 --> 00:06:29,880
+1,5 et 2,2 % donc 2,0 pour 100
+ 
+
+325
+00:06:29,880 --> 00:06:31,749
+1,5 et 2,2 % donc 2,0 pour 100
+d'augmentation de la température
+
+326
+00:06:31,749 --> 00:06:31,759
+d'augmentation de la température
+ 
+
+327
+00:06:31,759 --> 00:06:34,790
+d'augmentation de la température
+température mondiale ça c'est le jet en
+
+328
+00:06:34,790 --> 00:06:34,800
+température mondiale ça c'est le jet en
+ 
+
+329
+00:06:34,800 --> 00:06:36,590
+température mondiale ça c'est le jet en
+2021
+
+330
+00:06:36,590 --> 00:06:36,600
+2021
+ 
+
+331
+00:06:36,600 --> 00:06:39,050
+2021
+10% c'est à peu près 10% de la
+
+332
+00:06:39,050 --> 00:06:39,060
+10% c'est à peu près 10% de la
+ 
+
+333
+00:06:39,060 --> 00:06:43,249
+10% c'est à peu près 10% de la
+consommation digitale dans le monde
+
+334
+00:06:43,249 --> 00:06:43,259
+
+ 
+
+335
+00:06:43,259 --> 00:06:46,430
+
+de faire des délaissages d'en avoir
+
+336
+00:06:46,430 --> 00:06:46,440
+de faire des délaissages d'en avoir
+ 
+
+337
+00:06:46,440 --> 00:06:48,529
+de faire des délaissages d'en avoir
+entendu parler on pourra aussi fermer
+
+338
+00:06:48,529 --> 00:06:48,539
+entendu parler on pourra aussi fermer
+ 
+
+339
+00:06:48,539 --> 00:06:49,909
+entendu parler on pourra aussi fermer
+tous les sites qui sont donc côté la
+
+340
+00:06:49,909 --> 00:06:49,919
+tous les sites qui sont donc côté la
+ 
+
+341
+00:06:49,919 --> 00:06:50,930
+tous les sites qui sont donc côté la
+nuit parce que personne va aller
+
+342
+00:06:50,930 --> 00:06:50,940
+nuit parce que personne va aller
+ 
+
+343
+00:06:50,940 --> 00:06:52,730
+nuit parce que personne va aller
+contribuer ni personne va aller visiter
+
+344
+00:06:52,730 --> 00:06:52,740
+contribuer ni personne va aller visiter
+ 
+
+345
+00:06:52,740 --> 00:06:55,189
+contribuer ni personne va aller visiter
+à 4 heures du matin
+
+346
+00:06:55,189 --> 00:06:55,199
+à 4 heures du matin
+ 
+
+347
+00:06:55,199 --> 00:06:58,850
+à 4 heures du matin
+3% 6,7 donc ça c'est 3% des émissions de
+
+348
+00:06:58,850 --> 00:06:58,860
+3% 6,7 donc ça c'est 3% des émissions de
+ 
+
+349
+00:06:58,860 --> 00:07:02,390
+3% 6,7 donc ça c'est 3% des émissions de
+gaz à effet de serre
+
+350
+00:07:02,390 --> 00:07:02,400
+
+ 
+
+351
+00:07:02,400 --> 00:07:07,129
+
+et en fait ce sera 6,7 2040
+
+352
+00:07:07,129 --> 00:07:07,139
+et en fait ce sera 6,7 2040
+ 
+
+353
+00:07:07,139 --> 00:07:09,290
+et en fait ce sera 6,7 2040
+donc ça a pris 3 % pendant des années et
+
+354
+00:07:09,290 --> 00:07:09,300
+donc ça a pris 3 % pendant des années et
+ 
+
+355
+00:07:09,300 --> 00:07:10,550
+donc ça a pris 3 % pendant des années et
+ça va se multiplier ça va se doubler
+
+356
+00:07:10,550 --> 00:07:10,560
+ça va se multiplier ça va se doubler
+ 
+
+357
+00:07:10,560 --> 00:07:12,830
+ça va se multiplier ça va se doubler
+donc c'est courbe d'accélération très
+
+358
+00:07:12,830 --> 00:07:12,840
+donc c'est courbe d'accélération très
+ 
+
+359
+00:07:12,840 --> 00:07:15,469
+donc c'est courbe d'accélération très
+forte
+
+360
+00:07:15,469 --> 00:07:15,479
+
+ 
+
+361
+00:07:15,479 --> 00:07:17,450
+
+on parle de dématérialisation et ça
+
+362
+00:07:17,450 --> 00:07:17,460
+on parle de dématérialisation et ça
+ 
+
+363
+00:07:17,460 --> 00:07:19,089
+on parle de dématérialisation et ça
+c'est une notion hyper importante
+
+364
+00:07:19,089 --> 00:07:19,099
+c'est une notion hyper importante
+ 
+
+365
+00:07:19,099 --> 00:07:22,189
+c'est une notion hyper importante
+aujourd'hui tout est en stream tout est
+
+366
+00:07:22,189 --> 00:07:22,199
+aujourd'hui tout est en stream tout est
+ 
+
+367
+00:07:22,199 --> 00:07:24,350
+aujourd'hui tout est en stream tout est
+dans le Cloud lorsque vous jouez à
+
+368
+00:07:24,350 --> 00:07:24,360
+dans le Cloud lorsque vous jouez à
+ 
+
+369
+00:07:24,360 --> 00:07:26,830
+dans le Cloud lorsque vous jouez à
+certains jeux à l'époque on avait des
+
+370
+00:07:26,830 --> 00:07:26,840
+certains jeux à l'époque on avait des
+ 
+
+371
+00:07:26,840 --> 00:07:29,570
+certains jeux à l'époque on avait des
+disques pour jouer disquette pour ceux
+
+372
+00:07:29,570 --> 00:07:29,580
+disques pour jouer disquette pour ceux
+ 
+
+373
+00:07:29,580 --> 00:07:31,610
+disques pour jouer disquette pour ceux
+qui sont un peu plus âgés
+
+374
+00:07:31,610 --> 00:07:31,620
+qui sont un peu plus âgés
+ 
+
+375
+00:07:31,620 --> 00:07:33,710
+qui sont un peu plus âgés
+aujourd'hui on joue en dématérialisé ces
+
+376
+00:07:33,710 --> 00:07:33,720
+aujourd'hui on joue en dématérialisé ces
+ 
+
+377
+00:07:33,720 --> 00:07:35,150
+aujourd'hui on joue en dématérialisé ces
+serveurs qui poussent le jeu on a même
+
+378
+00:07:35,150 --> 00:07:35,160
+serveurs qui poussent le jeu on a même
+ 
+
+379
+00:07:35,160 --> 00:07:37,309
+serveurs qui poussent le jeu on a même
+plus besoin d'avoir une console on peut
+
+380
+00:07:37,309 --> 00:07:37,319
+plus besoin d'avoir une console on peut
+ 
+
+381
+00:07:37,319 --> 00:07:39,050
+plus besoin d'avoir une console on peut
+aussi jouer en ligne tout ça c'est
+
+382
+00:07:39,050 --> 00:07:39,060
+aussi jouer en ligne tout ça c'est
+ 
+
+383
+00:07:39,060 --> 00:07:40,430
+aussi jouer en ligne tout ça c'est
+dématérialisé donc on se dit ben
+
+384
+00:07:40,430 --> 00:07:40,440
+dématérialisé donc on se dit ben
+ 
+
+385
+00:07:40,440 --> 00:07:41,809
+dématérialisé donc on se dit ben
+finalement il y a pas d'impact il y a
+
+386
+00:07:41,809 --> 00:07:41,819
+finalement il y a pas d'impact il y a
+ 
+
+387
+00:07:41,819 --> 00:07:43,450
+finalement il y a pas d'impact il y a
+rien en fait au contraire par contre
+
+388
+00:07:43,450 --> 00:07:43,460
+rien en fait au contraire par contre
+ 
+
+389
+00:07:43,460 --> 00:07:45,890
+rien en fait au contraire par contre
+tous les serveurs toutes les fermes de
+
+390
+00:07:45,890 --> 00:07:45,900
+tous les serveurs toutes les fermes de
+ 
+
+391
+00:07:45,900 --> 00:07:47,930
+tous les serveurs toutes les fermes de
+serveurs qui poussent ce contenu là il y
+
+392
+00:07:47,930 --> 00:07:47,940
+serveurs qui poussent ce contenu là il y
+ 
+
+393
+00:07:47,940 --> 00:07:49,850
+serveurs qui poussent ce contenu là il y
+a une vraie matérialité
+
+394
+00:07:49,850 --> 00:07:49,860
+a une vraie matérialité
+ 
+
+395
+00:07:49,860 --> 00:07:51,290
+a une vraie matérialité
+le schéma magnifique c'est un peu ce que
+
+396
+00:07:51,290 --> 00:07:51,300
+le schéma magnifique c'est un peu ce que
+ 
+
+397
+00:07:51,300 --> 00:07:52,790
+le schéma magnifique c'est un peu ce que
+ça veut dire tout ce que vous trouvez
+
+398
+00:07:52,790 --> 00:07:52,800
+ça veut dire tout ce que vous trouvez
+ 
+
+399
+00:07:52,800 --> 00:07:54,170
+ça veut dire tout ce que vous trouvez
+joli c'est moi qui l'ai fait tout ce que
+
+400
+00:07:54,170 --> 00:07:54,180
+joli c'est moi qui l'ai fait tout ce que
+ 
+
+401
+00:07:54,180 --> 00:07:58,070
+joli c'est moi qui l'ai fait tout ce que
+vous trouvez obscur c'est Vincent pelto
+
+402
+00:07:58,070 --> 00:07:58,080
+vous trouvez obscur c'est Vincent pelto
+ 
+
+403
+00:07:58,080 --> 00:07:59,390
+vous trouvez obscur c'est Vincent pelto
+voulait que je remette son LinkedIn pour
+
+404
+00:07:59,390 --> 00:07:59,400
+voulait que je remette son LinkedIn pour
+ 
+
+405
+00:07:59,400 --> 00:08:01,550
+voulait que je remette son LinkedIn pour
+passer les commentaires
+
+406
+00:08:01,550 --> 00:08:01,560
+passer les commentaires
+ 
+
+407
+00:08:01,560 --> 00:08:03,050
+passer les commentaires
+les cycles de vie c'est hyper important
+
+408
+00:08:03,050 --> 00:08:03,060
+les cycles de vie c'est hyper important
+ 
+
+409
+00:08:03,060 --> 00:08:04,969
+les cycles de vie c'est hyper important
+il y a des formations qui se donnent sur
+
+410
+00:08:04,969 --> 00:08:04,979
+il y a des formations qui se donnent sur
+ 
+
+411
+00:08:04,979 --> 00:08:07,249
+il y a des formations qui se donnent sur
+la CV l'analyse du cycle de vie le cycle
+
+412
+00:08:07,249 --> 00:08:07,259
+la CV l'analyse du cycle de vie le cycle
+ 
+
+413
+00:08:07,259 --> 00:08:10,490
+la CV l'analyse du cycle de vie le cycle
+de vie il y a 4 étapes majeures nous on
+
+414
+00:08:10,490 --> 00:08:10,500
+de vie il y a 4 étapes majeures nous on
+ 
+
+415
+00:08:10,500 --> 00:08:12,409
+de vie il y a 4 étapes majeures nous on
+se concentre sur la troisième la
+
+416
+00:08:12,409 --> 00:08:12,419
+se concentre sur la troisième la
+ 
+
+417
+00:08:12,419 --> 00:08:16,430
+se concentre sur la troisième la
+troisième c'est l'usage
+
+418
+00:08:16,430 --> 00:08:16,440
+
+ 
+
+419
+00:08:16,440 --> 00:08:18,409
+
+on utilise des devises donc il faut que
+
+420
+00:08:18,409 --> 00:08:18,419
+on utilise des devises donc il faut que
+ 
+
+421
+00:08:18,419 --> 00:08:20,629
+on utilise des devises donc il faut que
+ce soit fabriqué bien évidemment faut
+
+422
+00:08:20,629 --> 00:08:20,639
+ce soit fabriqué bien évidemment faut
+ 
+
+423
+00:08:20,639 --> 00:08:24,129
+ce soit fabriqué bien évidemment faut
+qu'elle soit distribuées
+
+424
+00:08:24,129 --> 00:08:24,139
+
+ 
+
+425
+00:08:24,139 --> 00:08:27,050
+
+avec les démarches RSE souvent comme par
+
+426
+00:08:27,050 --> 00:08:27,060
+avec les démarches RSE souvent comme par
+ 
+
+427
+00:08:27,060 --> 00:08:28,790
+avec les démarches RSE souvent comme par
+exemple chez ninji ils ont décidé
+
+428
+00:08:28,790 --> 00:08:28,800
+exemple chez ninji ils ont décidé
+ 
+
+429
+00:08:28,800 --> 00:08:31,070
+exemple chez ninji ils ont décidé
+d'augmenter la durée de vie des devises
+
+430
+00:08:31,070 --> 00:08:31,080
+d'augmenter la durée de vie des devises
+ 
+
+431
+00:08:31,080 --> 00:08:33,170
+d'augmenter la durée de vie des devises
+donc déjà qu'on avait l'impression des
+
+432
+00:08:33,170 --> 00:08:33,180
+donc déjà qu'on avait l'impression des
+ 
+
+433
+00:08:33,180 --> 00:08:34,250
+donc déjà qu'on avait l'impression des
+fois d'avoir des ordis qui est un peu
+
+434
+00:08:34,250 --> 00:08:34,260
+fois d'avoir des ordis qui est un peu
+ 
+
+435
+00:08:34,260 --> 00:08:37,850
+fois d'avoir des ordis qui est un peu
+vieux
+
+436
+00:08:37,850 --> 00:08:37,860
+
+ 
+
+437
+00:08:37,860 --> 00:08:39,170
+
+et donc l'usage c'est ce qui
+
+438
+00:08:39,170 --> 00:08:39,180
+et donc l'usage c'est ce qui
+ 
+
+439
+00:08:39,180 --> 00:08:41,750
+et donc l'usage c'est ce qui
+particulièrement en tout c'est là où on
+
+440
+00:08:41,750 --> 00:08:41,760
+particulièrement en tout c'est là où on
+ 
+
+441
+00:08:41,760 --> 00:08:43,010
+particulièrement en tout c'est là où on
+va avoir un impact en tout cas dans la
+
+442
+00:08:43,010 --> 00:08:43,020
+va avoir un impact en tout cas dans la
+ 
+
+443
+00:08:43,020 --> 00:08:44,990
+va avoir un impact en tout cas dans la
+salle et c'est là où on va avoir un
+
+444
+00:08:44,990 --> 00:08:45,000
+salle et c'est là où on va avoir un
+ 
+
+445
+00:08:45,000 --> 00:08:46,970
+salle et c'est là où on va avoir un
+impact l'usage ça doit aussi être
+
+446
+00:08:46,970 --> 00:08:46,980
+impact l'usage ça doit aussi être
+ 
+
+447
+00:08:46,980 --> 00:08:49,730
+impact l'usage ça doit aussi être
+performant sur tous les tiers donc là
+
+448
+00:08:49,730 --> 00:08:49,740
+performant sur tous les tiers donc là
+ 
+
+449
+00:08:49,740 --> 00:08:52,130
+performant sur tous les tiers donc là
+vous avez trois tiers le premier sont
+
+450
+00:08:52,130 --> 00:08:52,140
+vous avez trois tiers le premier sont
+ 
+
+451
+00:08:52,140 --> 00:08:53,630
+vous avez trois tiers le premier sont
+les terminaux donc forcément vous avez
+
+452
+00:08:53,630 --> 00:08:53,640
+les terminaux donc forcément vous avez
+ 
+
+453
+00:08:53,640 --> 00:08:56,389
+les terminaux donc forcément vous avez
+tout ce qui écartement CPU
+
+454
+00:08:56,389 --> 00:08:56,399
+tout ce qui écartement CPU
+ 
+
+455
+00:08:56,399 --> 00:09:00,290
+tout ce qui écartement CPU
+RAM si vous parlez en anglais
+
+456
+00:09:00,290 --> 00:09:00,300
+
+ 
+
+457
+00:09:00,300 --> 00:09:02,210
+
+tous les écrans
+
+458
+00:09:02,210 --> 00:09:02,220
+tous les écrans
+ 
+
+459
+00:09:02,220 --> 00:09:06,470
+tous les écrans
+les DALO LED les vieux écrans
+
+460
+00:09:06,470 --> 00:09:06,480
+les DALO LED les vieux écrans
+ 
+
+461
+00:09:06,480 --> 00:09:08,449
+les DALO LED les vieux écrans
+vous avez tout ce qui est réseau sur les
+
+462
+00:09:08,449 --> 00:09:08,459
+vous avez tout ce qui est réseau sur les
+ 
+
+463
+00:09:08,459 --> 00:09:10,730
+vous avez tout ce qui est réseau sur les
+tiers d'usage donc là aussi ça c'est
+
+464
+00:09:10,730 --> 00:09:10,740
+tiers d'usage donc là aussi ça c'est
+ 
+
+465
+00:09:10,740 --> 00:09:12,829
+tiers d'usage donc là aussi ça c'est
+majeur après on ne ces trois tiers là
+
+466
+00:09:12,829 --> 00:09:12,839
+majeur après on ne ces trois tiers là
+ 
+
+467
+00:09:12,839 --> 00:09:14,810
+majeur après on ne ces trois tiers là
+c'est presque trois tiers aussi c'est 30
+
+468
+00:09:14,810 --> 00:09:14,820
+c'est presque trois tiers aussi c'est 30
+ 
+
+469
+00:09:14,820 --> 00:09:19,430
+c'est presque trois tiers aussi c'est 30
+35 et le reste pour arriver à 100
+
+470
+00:09:19,430 --> 00:09:19,440
+
+ 
+
+471
+00:09:19,440 --> 00:09:20,810
+
+et vous avez tous les centres de données
+
+472
+00:09:20,810 --> 00:09:20,820
+et vous avez tous les centres de données
+ 
+
+473
+00:09:20,820 --> 00:09:22,070
+et vous avez tous les centres de données
+donc tout ce qui est réseau vous avez
+
+474
+00:09:22,070 --> 00:09:22,080
+donc tout ce qui est réseau vous avez
+ 
+
+475
+00:09:22,080 --> 00:09:23,329
+donc tout ce qui est réseau vous avez
+les centres de données vous avez les
+
+476
+00:09:23,329 --> 00:09:23,339
+les centres de données vous avez les
+ 
+
+477
+00:09:23,339 --> 00:09:26,150
+les centres de données vous avez les
+Data Center vous avez le codec vous avez
+
+478
+00:09:26,150 --> 00:09:26,160
+Data Center vous avez le codec vous avez
+ 
+
+479
+00:09:26,160 --> 00:09:28,310
+Data Center vous avez le codec vous avez
+les disques durs serveur front mais le
+
+480
+00:09:28,310 --> 00:09:28,320
+les disques durs serveur front mais le
+ 
+
+481
+00:09:28,320 --> 00:09:30,530
+les disques durs serveur front mais le
+Loir et tout ça en fait c'est ce qui
+
+482
+00:09:30,530 --> 00:09:30,540
+Loir et tout ça en fait c'est ce qui
+ 
+
+483
+00:09:30,540 --> 00:09:33,530
+Loir et tout ça en fait c'est ce qui
+compose l'ensemble des usages et donc on
+
+484
+00:09:33,530 --> 00:09:33,540
+compose l'ensemble des usages et donc on
+ 
+
+485
+00:09:33,540 --> 00:09:35,990
+compose l'ensemble des usages et donc on
+a un vrai rôle chacun et chacune d'entre
+
+486
+00:09:35,990 --> 00:09:36,000
+a un vrai rôle chacun et chacune d'entre
+ 
+
+487
+00:09:36,000 --> 00:09:38,269
+a un vrai rôle chacun et chacune d'entre
+nous ici on a un vrai rôle pour réduire
+
+488
+00:09:38,269 --> 00:09:38,279
+nous ici on a un vrai rôle pour réduire
+ 
+
+489
+00:09:38,279 --> 00:09:40,370
+nous ici on a un vrai rôle pour réduire
+l'impact environnemental du numérique
+
+490
+00:09:40,370 --> 00:09:40,380
+l'impact environnemental du numérique
+ 
+
+491
+00:09:40,380 --> 00:09:43,250
+l'impact environnemental du numérique
+pour être hyper modeste aujourd'hui on
+
+492
+00:09:43,250 --> 00:09:43,260
+pour être hyper modeste aujourd'hui on
+ 
+
+493
+00:09:43,260 --> 00:09:45,590
+pour être hyper modeste aujourd'hui on
+est au balbutiements c'est au début on
+
+494
+00:09:45,590 --> 00:09:45,600
+est au balbutiements c'est au début on
+ 
+
+495
+00:09:45,600 --> 00:09:47,690
+est au balbutiements c'est au début on
+en parle beaucoup encore une fois dans
+
+496
+00:09:47,690 --> 00:09:47,700
+en parle beaucoup encore une fois dans
+ 
+
+497
+00:09:47,700 --> 00:09:49,430
+en parle beaucoup encore une fois dans
+la vraie vie il y a très peu d'outils de
+
+498
+00:09:49,430 --> 00:09:49,440
+la vraie vie il y a très peu d'outils de
+ 
+
+499
+00:09:49,440 --> 00:09:51,350
+la vraie vie il y a très peu d'outils de
+mesures il y a pas de standard il y a
+
+500
+00:09:51,350 --> 00:09:51,360
+mesures il y a pas de standard il y a
+ 
+
+501
+00:09:51,360 --> 00:09:52,550
+mesures il y a pas de standard il y a
+pas de d'étiquette il y a pas de
+
+502
+00:09:52,550 --> 00:09:52,560
+pas de d'étiquette il y a pas de
+ 
+
+503
+00:09:52,560 --> 00:09:56,570
+pas de d'étiquette il y a pas de
+certification vraiment
+
+504
+00:09:56,570 --> 00:09:56,580
+
+ 
+
+505
+00:09:56,580 --> 00:09:59,389
+
+et l'usage d'un application web dans ce
+
+506
+00:09:59,389 --> 00:09:59,399
+et l'usage d'un application web dans ce
+ 
+
+507
+00:09:59,399 --> 00:10:02,210
+et l'usage d'un application web dans ce
+que l'on parle d'un asset digital que ce
+
+508
+00:10:02,210 --> 00:10:02,220
+que l'on parle d'un asset digital que ce
+ 
+
+509
+00:10:02,220 --> 00:10:04,550
+que l'on parle d'un asset digital que ce
+soit un site une appli bout d'écosystème
+
+510
+00:10:04,550 --> 00:10:04,560
+soit un site une appli bout d'écosystème
+ 
+
+511
+00:10:04,560 --> 00:10:07,730
+soit un site une appli bout d'écosystème
+doit être optimisé est-ce que vous avez
+
+512
+00:10:07,730 --> 00:10:07,740
+doit être optimisé est-ce que vous avez
+ 
+
+513
+00:10:07,740 --> 00:10:10,790
+doit être optimisé est-ce que vous avez
+des questions jusqu'à présent
+
+514
+00:10:10,790 --> 00:10:10,800
+des questions jusqu'à présent
+ 
+
+515
+00:10:10,800 --> 00:10:12,829
+des questions jusqu'à présent
+si oui vous pouvez les noter on y
+
+516
+00:10:12,829 --> 00:10:12,839
+si oui vous pouvez les noter on y
+ 
+
+517
+00:10:12,839 --> 00:10:14,570
+si oui vous pouvez les noter on y
+répondra à la fin
+
+518
+00:10:14,570 --> 00:10:14,580
+répondra à la fin
+ 
+
+519
+00:10:14,580 --> 00:10:17,990
+répondra à la fin
+sinon vous pouvez les poser maintenant
+
+520
+00:10:17,990 --> 00:10:18,000
+
+ 
+
+521
+00:10:18,000 --> 00:10:20,530
+
+Dalkia Dalkia c'est assez intéressant
+
+522
+00:10:20,530 --> 00:10:20,540
+Dalkia Dalkia c'est assez intéressant
+ 
+
+523
+00:10:20,540 --> 00:10:22,970
+Dalkia Dalkia c'est assez intéressant
+Dalkia c'est un goat market de plus de
+
+524
+00:10:22,970 --> 00:10:22,980
+Dalkia c'est un goat market de plus de
+ 
+
+525
+00:10:22,980 --> 00:10:25,790
+Dalkia c'est un goat market de plus de
+16 mois donc ça ça vous donne aussi une
+
+526
+00:10:25,790 --> 00:10:25,800
+16 mois donc ça ça vous donne aussi une
+ 
+
+527
+00:10:25,800 --> 00:10:29,449
+16 mois donc ça ça vous donne aussi une
+idée il y a deux mises comme ça les
+
+528
+00:10:29,449 --> 00:10:29,459
+idée il y a deux mises comme ça les
+ 
+
+529
+00:10:29,459 --> 00:10:31,009
+idée il y a deux mises comme ça les
+projets en éco-conception vont très vite
+
+530
+00:10:31,009 --> 00:10:31,019
+projets en éco-conception vont très vite
+ 
+
+531
+00:10:31,019 --> 00:10:33,590
+projets en éco-conception vont très vite
+vu que c'est très simple c'est faux
+
+532
+00:10:33,590 --> 00:10:33,600
+vu que c'est très simple c'est faux
+ 
+
+533
+00:10:33,600 --> 00:10:35,990
+vu que c'est très simple c'est faux
+beaucoup plus long
+
+534
+00:10:35,990 --> 00:10:36,000
+beaucoup plus long
+ 
+
+535
+00:10:36,000 --> 00:10:40,730
+beaucoup plus long
+pourquoi résistance au changement
+
+536
+00:10:40,730 --> 00:10:40,740
+
+ 
+
+537
+00:10:40,740 --> 00:10:42,730
+
+Dalkia c'est
+
+538
+00:10:42,730 --> 00:10:42,740
+Dalkia c'est
+ 
+
+539
+00:10:42,740 --> 00:10:45,110
+Dalkia c'est
+ce n'est pas une refonte ça c'est la
+
+540
+00:10:45,110 --> 00:10:45,120
+ce n'est pas une refonte ça c'est la
+ 
+
+541
+00:10:45,120 --> 00:10:46,970
+ce n'est pas une refonte ça c'est la
+deuxième mais c'est comme ça c'est pas
+
+542
+00:10:46,970 --> 00:10:46,980
+deuxième mais c'est comme ça c'est pas
+ 
+
+543
+00:10:46,980 --> 00:10:49,250
+deuxième mais c'est comme ça c'est pas
+de la refonte des cochons c'est du build
+
+544
+00:10:49,250 --> 00:10:49,260
+de la refonte des cochons c'est du build
+ 
+
+545
+00:10:49,260 --> 00:10:52,670
+de la refonte des cochons c'est du build
+from scratch on prend le site on
+
+546
+00:10:52,670 --> 00:10:52,680
+from scratch on prend le site on
+ 
+
+547
+00:10:52,680 --> 00:10:55,069
+from scratch on prend le site on
+l'explose on a fait un autre certes on
+
+548
+00:10:55,069 --> 00:10:55,079
+l'explose on a fait un autre certes on
+ 
+
+549
+00:10:55,079 --> 00:10:57,590
+l'explose on a fait un autre certes on
+peut se baser sur certains des éléments
+
+550
+00:10:57,590 --> 00:10:57,600
+peut se baser sur certains des éléments
+ 
+
+551
+00:10:57,600 --> 00:11:00,170
+peut se baser sur certains des éléments
+de contenu et il faut les réécrire il
+
+552
+00:11:00,170 --> 00:11:00,180
+de contenu et il faut les réécrire il
+ 
+
+553
+00:11:00,180 --> 00:11:02,269
+de contenu et il faut les réécrire il
+faut les combiner je vous en parler mais
+
+554
+00:11:02,269 --> 00:11:02,279
+faut les combiner je vous en parler mais
+ 
+
+555
+00:11:02,279 --> 00:11:04,670
+faut les combiner je vous en parler mais
+à part ça il y a absolument aucun aspect
+
+556
+00:11:04,670 --> 00:11:04,680
+à part ça il y a absolument aucun aspect
+ 
+
+557
+00:11:04,680 --> 00:11:07,370
+à part ça il y a absolument aucun aspect
+de la de l'éco-conception
+
+558
+00:11:07,370 --> 00:11:07,380
+de la de l'éco-conception
+ 
+
+559
+00:11:07,380 --> 00:11:09,230
+de la de l'éco-conception
+qui est une refonte c'est toujours un
+
+560
+00:11:09,230 --> 00:11:09,240
+qui est une refonte c'est toujours un
+ 
+
+561
+00:11:09,240 --> 00:11:10,610
+qui est une refonte c'est toujours un
+build
+
+562
+00:11:10,610 --> 00:11:10,620
+build
+ 
+
+563
+00:11:10,620 --> 00:11:12,350
+build
+on va essayer avec le sang il y a une
+
+564
+00:11:12,350 --> 00:11:12,360
+on va essayer avec le sang il y a une
+ 
+
+565
+00:11:12,360 --> 00:11:14,449
+on va essayer avec le sang il y a une
+petite vidéo qui vous met une mise en
+
+566
+00:11:14,449 --> 00:11:14,459
+petite vidéo qui vous met une mise en
+ 
+
+567
+00:11:14,459 --> 00:11:17,090
+petite vidéo qui vous met une mise en
+bouche visuelle
+
+568
+00:11:17,090 --> 00:11:17,100
+
+ 
+
+569
+00:11:17,100 --> 00:11:18,540
+
+YouTube
+
+570
+00:11:18,540 --> 00:11:18,550
+YouTube
+ 
+
+571
+00:11:18,550 --> 00:12:24,290
+YouTube
+[Musique]
+
+572
+00:12:24,290 --> 00:12:24,300
+
+ 
+
+573
+00:12:24,300 --> 00:13:29,340
+
+[Musique]
+
+574
+00:13:29,340 --> 00:13:29,350
+
+ 
+
+575
+00:13:29,350 --> 00:13:39,590
+
+[Musique]
+
+576
+00:13:39,590 --> 00:13:39,600
+
+ 
+
+577
+00:13:39,600 --> 00:13:41,930
+
+est-ce que vous parlez anglais ou est-ce
+
+578
+00:13:41,930 --> 00:13:41,940
+est-ce que vous parlez anglais ou est-ce
+ 
+
+579
+00:13:41,940 --> 00:13:43,310
+est-ce que vous parlez anglais ou est-ce
+que vous auriez aimé la version
+
+580
+00:13:43,310 --> 00:13:43,320
+que vous auriez aimé la version
+ 
+
+581
+00:13:43,320 --> 00:13:45,710
+que vous auriez aimé la version
+française
+
+582
+00:13:45,710 --> 00:13:45,720
+française
+ 
+
+583
+00:13:45,720 --> 00:13:47,509
+française
+d'accord parce que de toute façon la
+
+584
+00:13:47,509 --> 00:13:47,519
+d'accord parce que de toute façon la
+ 
+
+585
+00:13:47,519 --> 00:13:48,889
+d'accord parce que de toute façon la
+version française on peut pas la jouer
+
+586
+00:13:48,889 --> 00:13:48,899
+version française on peut pas la jouer
+ 
+
+587
+00:13:48,899 --> 00:13:50,930
+version française on peut pas la jouer
+vu qu'il fallait pas la faire deux fois
+
+588
+00:13:50,930 --> 00:13:50,940
+vu qu'il fallait pas la faire deux fois
+ 
+
+589
+00:13:50,940 --> 00:13:52,430
+vu qu'il fallait pas la faire deux fois
+j'éteins coup d'oeil si vous le
+
+590
+00:13:52,430 --> 00:13:52,440
+j'éteins coup d'oeil si vous le
+ 
+
+591
+00:13:52,440 --> 00:13:54,050
+j'éteins coup d'oeil si vous le
+connaissez pas le site d'alca.fr dans le
+
+592
+00:13:54,050 --> 00:13:54,060
+connaissez pas le site d'alca.fr dans le
+ 
+
+593
+00:13:54,060 --> 00:13:56,090
+connaissez pas le site d'alca.fr dans le
+cas.com normalement c'est ce scan de
+
+594
+00:13:56,090 --> 00:13:56,100
+cas.com normalement c'est ce scan de
+ 
+
+595
+00:13:56,100 --> 00:14:02,290
+cas.com normalement c'est ce scan de
+loin avec son téléphone
+
+596
+00:14:02,290 --> 00:14:02,300
+
+ 
+
+597
+00:14:02,300 --> 00:14:04,910
+
+pour tous les IOS LaSalle dans le
+
+598
+00:14:04,910 --> 00:14:04,920
+pour tous les IOS LaSalle dans le
+ 
+
+599
+00:14:04,920 --> 00:14:07,850
+pour tous les IOS LaSalle dans le
+cas.com mais mieux que d'alka.fr tel
+
+600
+00:14:07,850 --> 00:14:07,860
+cas.com mais mieux que d'alka.fr tel
+ 
+
+601
+00:14:07,860 --> 00:14:10,670
+cas.com mais mieux que d'alka.fr tel
+quel.com 3 entrées de navals.fr 4
+
+602
+00:14:10,670 --> 00:14:10,680
+quel.com 3 entrées de navals.fr 4
+ 
+
+603
+00:14:10,680 --> 00:14:13,129
+quel.com 3 entrées de navals.fr 4
+entrées pour le recrutement sur le sol
+
+604
+00:14:13,129 --> 00:14:13,139
+entrées pour le recrutement sur le sol
+ 
+
+605
+00:14:13,139 --> 00:14:15,949
+entrées pour le recrutement sur le sol
+français
+
+606
+00:14:15,949 --> 00:14:15,959
+
+ 
+
+607
+00:14:15,959 --> 00:14:17,509
+
+donc c'est un peu ce dont on vous
+
+608
+00:14:17,509 --> 00:14:17,519
+donc c'est un peu ce dont on vous
+ 
+
+609
+00:14:17,519 --> 00:14:20,629
+donc c'est un peu ce dont on vous
+parlait pour le coup il y a plusieurs
+
+610
+00:14:20,629 --> 00:14:20,639
+parlait pour le coup il y a plusieurs
+ 
+
+611
+00:14:20,639 --> 00:14:23,629
+parlait pour le coup il y a plusieurs
+éléments qui ont contribué à ce que
+
+612
+00:14:23,629 --> 00:14:23,639
+éléments qui ont contribué à ce que
+ 
+
+613
+00:14:23,639 --> 00:14:27,590
+éléments qui ont contribué à ce que
+Dalkia devienne le projet de Dalkia
+
+614
+00:14:27,590 --> 00:14:27,600
+Dalkia devienne le projet de Dalkia
+ 
+
+615
+00:14:27,600 --> 00:14:29,629
+Dalkia devienne le projet de Dalkia
+un peu la genèse en fait comment c'est
+
+616
+00:14:29,629 --> 00:14:29,639
+un peu la genèse en fait comment c'est
+ 
+
+617
+00:14:29,639 --> 00:14:32,449
+un peu la genèse en fait comment c'est
+né cette projet-là sur un acteur dalker
+
+618
+00:14:32,449 --> 00:14:32,459
+né cette projet-là sur un acteur dalker
+ 
+
+619
+00:14:32,459 --> 00:14:34,569
+né cette projet-là sur un acteur dalker
+pardon déjà
+
+620
+00:14:34,569 --> 00:14:34,579
+pardon déjà
+ 
+
+621
+00:14:34,579 --> 00:14:36,530
+pardon déjà
+on a travaillé plusieurs mois avec des
+
+622
+00:14:36,530 --> 00:14:36,540
+on a travaillé plusieurs mois avec des
+ 
+
+623
+00:14:36,540 --> 00:14:38,150
+on a travaillé plusieurs mois avec des
+cas on connaît bien Algar peut-être que
+
+624
+00:14:38,150 --> 00:14:38,160
+cas on connaît bien Algar peut-être que
+ 
+
+625
+00:14:38,160 --> 00:14:39,889
+cas on connaît bien Algar peut-être que
+tout le monde ne connaît pas Dalkia
+
+626
+00:14:39,889 --> 00:14:39,899
+tout le monde ne connaît pas Dalkia
+ 
+
+627
+00:14:39,899 --> 00:14:43,009
+tout le monde ne connaît pas Dalkia
+Dalkia filiale du groupe EDF spécialisé
+
+628
+00:14:43,009 --> 00:14:43,019
+Dalkia filiale du groupe EDF spécialisé
+ 
+
+629
+00:14:43,019 --> 00:14:44,870
+Dalkia filiale du groupe EDF spécialisé
+dans la climatologie c'est à dire tous
+
+630
+00:14:44,870 --> 00:14:44,880
+dans la climatologie c'est à dire tous
+ 
+
+631
+00:14:44,880 --> 00:14:46,790
+dans la climatologie c'est à dire tous
+les réseaux de chauffage et les réseaux
+
+632
+00:14:46,790 --> 00:14:46,800
+les réseaux de chauffage et les réseaux
+ 
+
+633
+00:14:46,800 --> 00:14:49,670
+les réseaux de chauffage et les réseaux
+de froid lorsque vous vous baignez dans
+
+634
+00:14:49,670 --> 00:14:49,680
+de froid lorsque vous vous baignez dans
+ 
+
+635
+00:14:49,680 --> 00:14:52,850
+de froid lorsque vous vous baignez dans
+une piscine municipale l'été
+
+636
+00:14:52,850 --> 00:14:52,860
+une piscine municipale l'été
+ 
+
+637
+00:14:52,860 --> 00:14:54,889
+une piscine municipale l'été
+fort à parier que c'est daltères qu'il a
+
+638
+00:14:54,889 --> 00:14:54,899
+fort à parier que c'est daltères qu'il a
+ 
+
+639
+00:14:54,899 --> 00:14:57,290
+fort à parier que c'est daltères qu'il a
+chauffé branche des quartiers de
+
+640
+00:14:57,290 --> 00:14:57,300
+chauffé branche des quartiers de
+ 
+
+641
+00:14:57,300 --> 00:14:59,870
+chauffé branche des quartiers de
+Marseille avec des énergies marémotrices
+
+642
+00:14:59,870 --> 00:14:59,880
+Marseille avec des énergies marémotrices
+ 
+
+643
+00:14:59,880 --> 00:15:01,970
+Marseille avec des énergies marémotrices
+réfrigérantes
+
+644
+00:15:01,970 --> 00:15:01,980
+réfrigérantes
+ 
+
+645
+00:15:01,980 --> 00:15:04,610
+réfrigérantes
+dans l'OPA plus bas ok donc c'est ce
+
+646
+00:15:04,610 --> 00:15:04,620
+dans l'OPA plus bas ok donc c'est ce
+ 
+
+647
+00:15:04,620 --> 00:15:07,670
+dans l'OPA plus bas ok donc c'est ce
+genre de truc là c'est très B2B comme
+
+648
+00:15:07,670 --> 00:15:07,680
+genre de truc là c'est très B2B comme
+ 
+
+649
+00:15:07,680 --> 00:15:08,829
+genre de truc là c'est très B2B comme
+une intercommune
+
+650
+00:15:08,829 --> 00:15:08,839
+une intercommune
+ 
+
+651
+00:15:08,839 --> 00:15:11,569
+une intercommune
+19000 personnes et donc on travaille
+
+652
+00:15:11,569 --> 00:15:11,579
+19000 personnes et donc on travaille
+ 
+
+653
+00:15:11,579 --> 00:15:13,069
+19000 personnes et donc on travaille
+avec la CIO vous vous souvenez je
+
+654
+00:15:13,069 --> 00:15:13,079
+avec la CIO vous vous souvenez je
+ 
+
+655
+00:15:13,079 --> 00:15:15,170
+avec la CIO vous vous souvenez je
+parlais de sponsor ship était dans la
+
+656
+00:15:15,170 --> 00:15:15,180
+parlais de sponsor ship était dans la
+ 
+
+657
+00:15:15,180 --> 00:15:17,569
+parlais de sponsor ship était dans la
+même salle que Sylvie Jeanneau que la si
+
+658
+00:15:17,569 --> 00:15:17,579
+même salle que Sylvie Jeanneau que la si
+ 
+
+659
+00:15:17,579 --> 00:15:20,870
+même salle que Sylvie Jeanneau que la si
+haute de 19000 personnes et combien de
+
+660
+00:15:20,870 --> 00:15:20,880
+haute de 19000 personnes et combien de
+ 
+
+661
+00:15:20,880 --> 00:15:23,389
+haute de 19000 personnes et combien de
+milliards
+
+662
+00:15:23,389 --> 00:15:23,399
+
+ 
+
+663
+00:15:23,399 --> 00:15:25,129
+
+donc à l'initiative de nidji ce qu'on
+
+664
+00:15:25,129 --> 00:15:25,139
+donc à l'initiative de nidji ce qu'on
+ 
+
+665
+00:15:25,139 --> 00:15:27,230
+donc à l'initiative de nidji ce qu'on
+est allé les voir ils ont accepté d'être
+
+666
+00:15:27,230 --> 00:15:27,240
+est allé les voir ils ont accepté d'être
+ 
+
+667
+00:15:27,240 --> 00:15:30,230
+est allé les voir ils ont accepté d'être
+les pionniers dans la refonte
+
+668
+00:15:30,230 --> 00:15:30,240
+les pionniers dans la refonte
+ 
+
+669
+00:15:30,240 --> 00:15:31,370
+les pionniers dans la refonte
+ce qui est un mot qui est bien là-dedans
+
+670
+00:15:31,370 --> 00:15:31,380
+ce qui est un mot qui est bien là-dedans
+ 
+
+671
+00:15:31,380 --> 00:15:33,710
+ce qui est un mot qui est bien là-dedans
+non refonte c'est pas bien dans le build
+
+672
+00:15:33,710 --> 00:15:33,720
+non refonte c'est pas bien dans le build
+ 
+
+673
+00:15:33,720 --> 00:15:37,910
+non refonte c'est pas bien dans le build
+de leur site et de son site amiral
+
+674
+00:15:37,910 --> 00:15:37,920
+de leur site et de son site amiral
+ 
+
+675
+00:15:37,920 --> 00:15:40,189
+de leur site et de son site amiral
+et ce site là en fait faisait sens pour
+
+676
+00:15:40,189 --> 00:15:40,199
+et ce site là en fait faisait sens pour
+ 
+
+677
+00:15:40,199 --> 00:15:41,689
+et ce site là en fait faisait sens pour
+dalker à particulièrement parce que
+
+678
+00:15:41,689 --> 00:15:41,699
+dalker à particulièrement parce que
+ 
+
+679
+00:15:41,699 --> 00:15:44,030
+dalker à particulièrement parce que
+c'est un alignement parfait des valeurs
+
+680
+00:15:44,030 --> 00:15:44,040
+c'est un alignement parfait des valeurs
+ 
+
+681
+00:15:44,040 --> 00:15:45,470
+c'est un alignement parfait des valeurs
+de marque
+
+682
+00:15:45,470 --> 00:15:45,480
+de marque
+ 
+
+683
+00:15:45,480 --> 00:15:46,970
+de marque
+donc c'est une prise de conscience de
+
+684
+00:15:46,970 --> 00:15:46,980
+donc c'est une prise de conscience de
+ 
+
+685
+00:15:46,980 --> 00:15:48,290
+donc c'est une prise de conscience de
+plus en plus forte c'est ce dont on
+
+686
+00:15:48,290 --> 00:15:48,300
+plus en plus forte c'est ce dont on
+ 
+
+687
+00:15:48,300 --> 00:15:49,790
+plus en plus forte c'est ce dont on
+parlait
+
+688
+00:15:49,790 --> 00:15:49,800
+parlait
+ 
+
+689
+00:15:49,800 --> 00:15:52,310
+parlait
+dalkercher Dalkia ils ont déjà la prise
+
+690
+00:15:52,310 --> 00:15:52,320
+dalkercher Dalkia ils ont déjà la prise
+ 
+
+691
+00:15:52,320 --> 00:15:54,829
+dalkercher Dalkia ils ont déjà la prise
+de conscience ils ont déjà mesuré ils
+
+692
+00:15:54,829 --> 00:15:54,839
+de conscience ils ont déjà mesuré ils
+ 
+
+693
+00:15:54,839 --> 00:15:55,970
+de conscience ils ont déjà mesuré ils
+avaient déjà mesuré leur impact
+
+694
+00:15:55,970 --> 00:15:55,980
+avaient déjà mesuré leur impact
+ 
+
+695
+00:15:55,980 --> 00:15:58,670
+avaient déjà mesuré leur impact
+environnemental ils ont déjà ils avaient
+
+696
+00:15:58,670 --> 00:15:58,680
+environnemental ils ont déjà ils avaient
+ 
+
+697
+00:15:58,680 --> 00:16:02,509
+environnemental ils ont déjà ils avaient
+déjà une politique RSE puissante
+
+698
+00:16:02,509 --> 00:16:02,519
+
+ 
+
+699
+00:16:02,519 --> 00:16:04,850
+
+ils avaient déjà une stratégie ce stade
+
+700
+00:16:04,850 --> 00:16:04,860
+ils avaient déjà une stratégie ce stade
+ 
+
+701
+00:16:04,860 --> 00:16:06,410
+ils avaient déjà une stratégie ce stade
+à Bull driven donc en fait l'ensemble
+
+702
+00:16:06,410 --> 00:16:06,420
+à Bull driven donc en fait l'ensemble
+ 
+
+703
+00:16:06,420 --> 00:16:08,150
+à Bull driven donc en fait l'ensemble
+des décisions Dalkia était prises sous
+
+704
+00:16:08,150 --> 00:16:08,160
+des décisions Dalkia était prises sous
+ 
+
+705
+00:16:08,160 --> 00:16:10,730
+des décisions Dalkia était prises sous
+le sous le prisme de l'éco-conception au
+
+706
+00:16:10,730 --> 00:16:10,740
+le sous le prisme de l'éco-conception au
+ 
+
+707
+00:16:10,740 --> 00:16:12,410
+le sous le prisme de l'éco-conception au
+sens large
+
+708
+00:16:12,410 --> 00:16:12,420
+sens large
+ 
+
+709
+00:16:12,420 --> 00:16:13,790
+sens large
+et donc tout ce qui était production
+
+710
+00:16:13,790 --> 00:16:13,800
+et donc tout ce qui était production
+ 
+
+711
+00:16:13,800 --> 00:16:15,470
+et donc tout ce qui était production
+éco-responsable donc notamment sur le
+
+712
+00:16:15,470 --> 00:16:15,480
+éco-responsable donc notamment sur le
+ 
+
+713
+00:16:15,480 --> 00:16:17,689
+éco-responsable donc notamment sur le
+site Dalkia on est arrivé dans ce niveau
+
+714
+00:16:17,689 --> 00:16:17,699
+site Dalkia on est arrivé dans ce niveau
+ 
+
+715
+00:16:17,699 --> 00:16:19,910
+site Dalkia on est arrivé dans ce niveau
+là
+
+716
+00:16:19,910 --> 00:16:19,920
+
+ 
+
+717
+00:16:19,920 --> 00:16:22,730
+
+consommez mieux consommer moins pardon
+
+718
+00:16:22,730 --> 00:16:22,740
+consommez mieux consommer moins pardon
+ 
+
+719
+00:16:22,740 --> 00:16:24,769
+consommez mieux consommer moins pardon
+mais consommer mieux et donc le contexte
+
+720
+00:16:24,769 --> 00:16:24,779
+mais consommer mieux et donc le contexte
+ 
+
+721
+00:16:24,779 --> 00:16:25,850
+mais consommer mieux et donc le contexte
+ensuite ce que je vous disais ben voilà
+
+722
+00:16:25,850 --> 00:16:25,860
+ensuite ce que je vous disais ben voilà
+ 
+
+723
+00:16:25,860 --> 00:16:30,050
+ensuite ce que je vous disais ben voilà
+je l'ai chef 5 milliards d'euros de CA
+
+724
+00:16:30,050 --> 00:16:30,060
+
+ 
+
+725
+00:16:30,060 --> 00:16:31,850
+
+et donc c'est le leader en fait
+
+726
+00:16:31,850 --> 00:16:31,860
+et donc c'est le leader en fait
+ 
+
+727
+00:16:31,860 --> 00:16:33,769
+et donc c'est le leader en fait
+dalkerque c'est le leader sur le marché
+
+728
+00:16:33,769 --> 00:16:33,779
+dalkerque c'est le leader sur le marché
+ 
+
+729
+00:16:33,779 --> 00:16:34,910
+dalkerque c'est le leader sur le marché
+français mais dans plusieurs pays
+
+730
+00:16:34,910 --> 00:16:34,920
+français mais dans plusieurs pays
+ 
+
+731
+00:16:34,920 --> 00:16:37,910
+français mais dans plusieurs pays
+européens ils vont jusqu'au Québec
+
+732
+00:16:37,910 --> 00:16:37,920
+européens ils vont jusqu'au Québec
+ 
+
+733
+00:16:37,920 --> 00:16:39,650
+européens ils vont jusqu'au Québec
+et donc ils ont cette ambition là non
+
+734
+00:16:39,650 --> 00:16:39,660
+et donc ils ont cette ambition là non
+ 
+
+735
+00:16:39,660 --> 00:16:41,110
+et donc ils ont cette ambition là non
+seulement d'avoir
+
+736
+00:16:41,110 --> 00:16:41,120
+seulement d'avoir
+ 
+
+737
+00:16:41,120 --> 00:16:43,430
+seulement d'avoir
+cette alignement mais c'est surtout
+
+738
+00:16:43,430 --> 00:16:43,440
+cette alignement mais c'est surtout
+ 
+
+739
+00:16:43,440 --> 00:16:45,350
+cette alignement mais c'est surtout
+d'être les PREMIERS et lorsque l'on est
+
+740
+00:16:45,350 --> 00:16:45,360
+d'être les PREMIERS et lorsque l'on est
+ 
+
+741
+00:16:45,360 --> 00:16:47,449
+d'être les PREMIERS et lorsque l'on est
+nous sommes allés les voir on aura bien
+
+742
+00:16:47,449 --> 00:16:47,459
+nous sommes allés les voir on aura bien
+ 
+
+743
+00:16:47,459 --> 00:16:49,670
+nous sommes allés les voir on aura bien
+dit non seulement ça fait sens mais en
+
+744
+00:16:49,670 --> 00:16:49,680
+dit non seulement ça fait sens mais en
+ 
+
+745
+00:16:49,680 --> 00:16:51,530
+dit non seulement ça fait sens mais en
+plus vous allez être les premières c'est
+
+746
+00:16:51,530 --> 00:16:51,540
+plus vous allez être les premières c'est
+ 
+
+747
+00:16:51,540 --> 00:16:52,730
+plus vous allez être les premières c'est
+une première mondiale en fait vous allez
+
+748
+00:16:52,730 --> 00:16:52,740
+une première mondiale en fait vous allez
+ 
+
+749
+00:16:52,740 --> 00:16:54,970
+une première mondiale en fait vous allez
+premiers acteurs du secteur de l'énergie
+
+750
+00:16:54,970 --> 00:16:54,980
+premiers acteurs du secteur de l'énergie
+ 
+
+751
+00:16:54,980 --> 00:16:59,269
+premiers acteurs du secteur de l'énergie
+à sortir un site éco-conçu
+
+752
+00:16:59,269 --> 00:16:59,279
+à sortir un site éco-conçu
+ 
+
+753
+00:16:59,279 --> 00:17:00,590
+à sortir un site éco-conçu
+pourquoi parce qu'en fait il y a
+
+754
+00:17:00,590 --> 00:17:00,600
+pourquoi parce qu'en fait il y a
+ 
+
+755
+00:17:00,600 --> 00:17:02,090
+pourquoi parce qu'en fait il y a
+plusieurs bénéfices métiers lorsqu'on
+
+756
+00:17:02,090 --> 00:17:02,100
+plusieurs bénéfices métiers lorsqu'on
+ 
+
+757
+00:17:02,100 --> 00:17:04,809
+plusieurs bénéfices métiers lorsqu'on
+parle de bénéfices métiers sont des KPI
+
+758
+00:17:04,809 --> 00:17:04,819
+parle de bénéfices métiers sont des KPI
+ 
+
+759
+00:17:04,819 --> 00:17:08,090
+parle de bénéfices métiers sont des KPI
+en euros en pied de page sur une sur une
+
+760
+00:17:08,090 --> 00:17:08,100
+en euros en pied de page sur une sur une
+ 
+
+761
+00:17:08,100 --> 00:17:11,210
+en euros en pied de page sur une sur une
+DSi vous avez des KPI de RH donc il y a
+
+762
+00:17:11,210 --> 00:17:11,220
+DSi vous avez des KPI de RH donc il y a
+ 
+
+763
+00:17:11,220 --> 00:17:12,890
+DSi vous avez des KPI de RH donc il y a
+plein de TPI business c'est ce qu'on
+
+764
+00:17:12,890 --> 00:17:12,900
+plein de TPI business c'est ce qu'on
+ 
+
+765
+00:17:12,900 --> 00:17:15,049
+plein de TPI business c'est ce qu'on
+veut dire par là un des c'est tout ce
+
+766
+00:17:15,049 --> 00:17:15,059
+veut dire par là un des c'est tout ce
+ 
+
+767
+00:17:15,059 --> 00:17:17,630
+veut dire par là un des c'est tout ce
+qui est branding communication
+
+768
+00:17:17,630 --> 00:17:17,640
+qui est branding communication
+ 
+
+769
+00:17:17,640 --> 00:17:19,429
+qui est branding communication
+et RP
+
+770
+00:17:19,429 --> 00:17:19,439
+et RP
+ 
+
+771
+00:17:19,439 --> 00:17:23,630
+et RP
+en fait vu que c'était les premiers
+
+772
+00:17:23,630 --> 00:17:23,640
+en fait vu que c'était les premiers
+ 
+
+773
+00:17:23,640 --> 00:17:25,669
+en fait vu que c'était les premiers
+c'est un sujet qui est extrêmement en
+
+774
+00:17:25,669 --> 00:17:25,679
+c'est un sujet qui est extrêmement en
+ 
+
+775
+00:17:25,679 --> 00:17:26,990
+c'est un sujet qui est extrêmement en
+vogue et c'est un alignement parfait
+
+776
+00:17:26,990 --> 00:17:27,000
+vogue et c'est un alignement parfait
+ 
+
+777
+00:17:27,000 --> 00:17:29,390
+vogue et c'est un alignement parfait
+donc on pouvait supposer un certain dans
+
+778
+00:17:29,390 --> 00:17:29,400
+donc on pouvait supposer un certain dans
+ 
+
+779
+00:17:29,400 --> 00:17:31,370
+donc on pouvait supposer un certain dans
+les objectifs qu'il est allé avoir un
+
+780
+00:17:31,370 --> 00:17:31,380
+les objectifs qu'il est allé avoir un
+ 
+
+781
+00:17:31,380 --> 00:17:34,010
+les objectifs qu'il est allé avoir un
+retentissement
+
+782
+00:17:34,010 --> 00:17:34,020
+
+ 
+
+783
+00:17:34,020 --> 00:17:35,510
+
+les RH sont ressources humaines
+
+784
+00:17:35,510 --> 00:17:35,520
+les RH sont ressources humaines
+ 
+
+785
+00:17:35,520 --> 00:17:36,529
+les RH sont ressources humaines
+aujourd'hui on a de plus en plus de
+
+786
+00:17:36,529 --> 00:17:36,539
+aujourd'hui on a de plus en plus de
+ 
+
+787
+00:17:36,539 --> 00:17:38,950
+aujourd'hui on a de plus en plus de
+sociétés
+
+788
+00:17:38,950 --> 00:17:38,960
+sociétés
+ 
+
+789
+00:17:38,960 --> 00:17:42,230
+sociétés
+avait plus de 2000 postes ouverts
+
+790
+00:17:42,230 --> 00:17:42,240
+avait plus de 2000 postes ouverts
+ 
+
+791
+00:17:42,240 --> 00:17:45,289
+avait plus de 2000 postes ouverts
+et en fait sur ce marché là du du de
+
+792
+00:17:45,289 --> 00:17:45,299
+et en fait sur ce marché là du du de
+ 
+
+793
+00:17:45,299 --> 00:17:47,990
+et en fait sur ce marché là du du de
+leur secteur il y a allez trois acteurs
+
+794
+00:17:47,990 --> 00:17:48,000
+leur secteur il y a allez trois acteurs
+ 
+
+795
+00:17:48,000 --> 00:17:49,970
+leur secteur il y a allez trois acteurs
+principaux et si on compte sur les
+
+796
+00:17:49,970 --> 00:17:49,980
+principaux et si on compte sur les
+ 
+
+797
+00:17:49,980 --> 00:17:51,950
+principaux et si on compte sur les
+comptes tous en avoir 6
+
+798
+00:17:51,950 --> 00:17:51,960
+comptes tous en avoir 6
+ 
+
+799
+00:17:51,960 --> 00:17:53,270
+comptes tous en avoir 6
+ce qui fait qu'ils ont tous à peu près
+
+800
+00:17:53,270 --> 00:17:53,280
+ce qui fait qu'ils ont tous à peu près
+ 
+
+801
+00:17:53,280 --> 00:17:56,210
+ce qui fait qu'ils ont tous à peu près
+2000 postes donc les candidats ça a
+
+802
+00:17:56,210 --> 00:17:56,220
+2000 postes donc les candidats ça a
+ 
+
+803
+00:17:56,220 --> 00:17:58,549
+2000 postes donc les candidats ça a
+marché très très tendu raréfaction des
+
+804
+00:17:58,549 --> 00:17:58,559
+marché très très tendu raréfaction des
+ 
+
+805
+00:17:58,559 --> 00:18:01,430
+marché très très tendu raréfaction des
+ressources les candidats candidates ont
+
+806
+00:18:01,430 --> 00:18:01,440
+ressources les candidats candidates ont
+ 
+
+807
+00:18:01,440 --> 00:18:05,270
+ressources les candidats candidates ont
+un endroit à choisir
+
+808
+00:18:05,270 --> 00:18:05,280
+
+ 
+
+809
+00:18:05,280 --> 00:18:07,430
+
+c'est donc un argument RH très très
+
+810
+00:18:07,430 --> 00:18:07,440
+c'est donc un argument RH très très
+ 
+
+811
+00:18:07,440 --> 00:18:09,230
+c'est donc un argument RH très très
+puissant et ça c'est par exemple si vous
+
+812
+00:18:09,230 --> 00:18:09,240
+puissant et ça c'est par exemple si vous
+ 
+
+813
+00:18:09,240 --> 00:18:10,430
+puissant et ça c'est par exemple si vous
+êtes amené à travailler sur ces sujets
+
+814
+00:18:10,430 --> 00:18:10,440
+êtes amené à travailler sur ces sujets
+ 
+
+815
+00:18:10,440 --> 00:18:14,029
+êtes amené à travailler sur ces sujets
+là il faut pas le négliger en fait
+
+816
+00:18:14,029 --> 00:18:14,039
+
+ 
+
+817
+00:18:14,039 --> 00:18:15,890
+
+pour vous donner un exemple on arrivera
+
+818
+00:18:15,890 --> 00:18:15,900
+pour vous donner un exemple on arrivera
+ 
+
+819
+00:18:15,900 --> 00:18:17,210
+pour vous donner un exemple on arrivera
+sur les résultats mais juste donner un
+
+820
+00:18:17,210 --> 00:18:17,220
+sur les résultats mais juste donner un
+ 
+
+821
+00:18:17,220 --> 00:18:19,070
+sur les résultats mais juste donner un
+teasing sur ces résultats là ils ont eu
+
+822
+00:18:19,070 --> 00:18:19,080
+teasing sur ces résultats là ils ont eu
+ 
+
+823
+00:18:19,080 --> 00:18:20,690
+teasing sur ces résultats là ils ont eu
+x 10 le nombre de candidatures
+
+824
+00:18:20,690 --> 00:18:20,700
+x 10 le nombre de candidatures
+ 
+
+825
+00:18:20,700 --> 00:18:24,529
+x 10 le nombre de candidatures
+spontanées les RH ce sont plein ils ont
+
+826
+00:18:24,529 --> 00:18:24,539
+spontanées les RH ce sont plein ils ont
+ 
+
+827
+00:18:24,539 --> 00:18:27,409
+spontanées les RH ce sont plein ils ont
+dû recruter des RH pour traiter non mais
+
+828
+00:18:27,409 --> 00:18:27,419
+dû recruter des RH pour traiter non mais
+ 
+
+829
+00:18:27,419 --> 00:18:29,570
+dû recruter des RH pour traiter non mais
+c'est pas une bonne blague et donc la
+
+830
+00:18:29,570 --> 00:18:29,580
+c'est pas une bonne blague et donc la
+ 
+
+831
+00:18:29,580 --> 00:18:31,490
+c'est pas une bonne blague et donc la
+résistance au changement durant tout le
+
+832
+00:18:31,490 --> 00:18:31,500
+résistance au changement durant tout le
+ 
+
+833
+00:18:31,500 --> 00:18:34,730
+résistance au changement durant tout le
+projet j'espère que personne n'arrache
+
+834
+00:18:34,730 --> 00:18:34,740
+projet j'espère que personne n'arrache
+ 
+
+835
+00:18:34,740 --> 00:18:36,470
+projet j'espère que personne n'arrache
+durant tout le projet il fallait
+
+836
+00:18:36,470 --> 00:18:36,480
+durant tout le projet il fallait
+ 
+
+837
+00:18:36,480 --> 00:18:38,450
+durant tout le projet il fallait
+accompagner au changement
+
+838
+00:18:38,450 --> 00:18:38,460
+accompagner au changement
+ 
+
+839
+00:18:38,460 --> 00:18:39,830
+accompagner au changement
+il y avait une nécessité de se démarquer
+
+840
+00:18:39,830 --> 00:18:39,840
+il y avait une nécessité de se démarquer
+ 
+
+841
+00:18:39,840 --> 00:18:41,150
+il y avait une nécessité de se démarquer
+parce que là c'est je vous en ai mis
+
+842
+00:18:41,150 --> 00:18:41,160
+parce que là c'est je vous en ai mis
+ 
+
+843
+00:18:41,160 --> 00:18:43,930
+parce que là c'est je vous en ai mis
+trois pour tout les
+
+844
+00:18:43,930 --> 00:18:43,940
+trois pour tout les
+ 
+
+845
+00:18:43,940 --> 00:18:47,750
+trois pour tout les
+designers de la salle
+
+846
+00:18:47,750 --> 00:18:47,760
+designers de la salle
+ 
+
+847
+00:18:47,760 --> 00:18:50,150
+designers de la salle
+c'est tous un peu pareil en fait presque
+
+848
+00:18:50,150 --> 00:18:50,160
+c'est tous un peu pareil en fait presque
+ 
+
+849
+00:18:50,160 --> 00:18:52,850
+c'est tous un peu pareil en fait presque
+les mêmes couleurs des lames tout ça se
+
+850
+00:18:52,850 --> 00:18:52,860
+les mêmes couleurs des lames tout ça se
+ 
+
+851
+00:18:52,860 --> 00:18:54,950
+les mêmes couleurs des lames tout ça se
+ressemble
+
+852
+00:18:54,950 --> 00:18:54,960
+ressemble
+ 
+
+853
+00:18:54,960 --> 00:18:56,029
+ressemble
+et on a appelé ça un peu mission
+
+854
+00:18:56,029 --> 00:18:56,039
+et on a appelé ça un peu mission
+ 
+
+855
+00:18:56,039 --> 00:18:57,409
+et on a appelé ça un peu mission
+accomplie émission accomplie pourquoi
+
+856
+00:18:57,409 --> 00:18:57,419
+accomplie émission accomplie pourquoi
+ 
+
+857
+00:18:57,419 --> 00:18:59,390
+accomplie émission accomplie pourquoi
+donc notre concept de frugalité des
+
+858
+00:18:59,390 --> 00:18:59,400
+donc notre concept de frugalité des
+ 
+
+859
+00:18:59,400 --> 00:19:04,190
+donc notre concept de frugalité des
+gétoufgary
+
+860
+00:19:04,190 --> 00:19:04,200
+
+ 
+
+861
+00:19:04,200 --> 00:19:06,230
+
+parmi de certains résultats donc on a
+
+862
+00:19:06,230 --> 00:19:06,240
+parmi de certains résultats donc on a
+ 
+
+863
+00:19:06,240 --> 00:19:08,450
+parmi de certains résultats donc on a
+divisé par 3,5 réduction du nombre de
+
+864
+00:19:08,450 --> 00:19:08,460
+divisé par 3,5 réduction du nombre de
+ 
+
+865
+00:19:08,460 --> 00:19:10,490
+divisé par 3,5 réduction du nombre de
+serveurs
+
+866
+00:19:10,490 --> 00:19:10,500
+serveurs
+ 
+
+867
+00:19:10,500 --> 00:19:12,289
+serveurs
+c'est un site statique mise à jour une
+
+868
+00:19:12,289 --> 00:19:12,299
+c'est un site statique mise à jour une
+ 
+
+869
+00:19:12,299 --> 00:19:14,270
+c'est un site statique mise à jour une
+fois par jour
+
+870
+00:19:14,270 --> 00:19:14,280
+fois par jour
+ 
+
+871
+00:19:14,280 --> 00:19:17,450
+fois par jour
+on a fermé les serveurs de contrib
+
+872
+00:19:17,450 --> 00:19:17,460
+on a fermé les serveurs de contrib
+ 
+
+873
+00:19:17,460 --> 00:19:20,150
+on a fermé les serveurs de contrib
+le soir et le week-end des contributeurs
+
+874
+00:19:20,150 --> 00:19:20,160
+le soir et le week-end des contributeurs
+ 
+
+875
+00:19:20,160 --> 00:19:22,310
+le soir et le week-end des contributeurs
+vont pas contribuer surtout pas dans une
+
+876
+00:19:22,310 --> 00:19:22,320
+vont pas contribuer surtout pas dans une
+ 
+
+877
+00:19:22,320 --> 00:19:23,810
+vont pas contribuer surtout pas dans une
+entreprise une filiale d'un groupe
+
+878
+00:19:23,810 --> 00:19:23,820
+entreprise une filiale d'un groupe
+ 
+
+879
+00:19:23,820 --> 00:19:25,430
+entreprise une filiale d'un groupe
+public ils vont pas la nuit à 4h du
+
+880
+00:19:25,430 --> 00:19:25,440
+public ils vont pas la nuit à 4h du
+ 
+
+881
+00:19:25,440 --> 00:19:29,210
+public ils vont pas la nuit à 4h du
+matin contribué
+
+882
+00:19:29,210 --> 00:19:29,220
+
+ 
+
+883
+00:19:29,220 --> 00:19:30,650
+
+et donc il y a plus de 50% de
+
+884
+00:19:30,650 --> 00:19:30,660
+et donc il y a plus de 50% de
+ 
+
+885
+00:19:30,660 --> 00:19:31,970
+et donc il y a plus de 50% de
+l'hébergement aussi qui est un
+
+886
+00:19:31,970 --> 00:19:31,980
+l'hébergement aussi qui est un
+ 
+
+887
+00:19:31,980 --> 00:19:33,310
+l'hébergement aussi qui est un
+hébergement vert
+
+888
+00:19:33,310 --> 00:19:33,320
+hébergement vert
+ 
+
+889
+00:19:33,320 --> 00:19:35,270
+hébergement vert
+l'hébergement vert dans le cadre Dalkia
+
+890
+00:19:35,270 --> 00:19:35,280
+l'hébergement vert dans le cadre Dalkia
+ 
+
+891
+00:19:35,280 --> 00:19:36,830
+l'hébergement vert dans le cadre Dalkia
+c'est un hébergement dont les serveurs
+
+892
+00:19:36,830 --> 00:19:36,840
+c'est un hébergement dont les serveurs
+ 
+
+893
+00:19:36,840 --> 00:19:38,930
+c'est un hébergement dont les serveurs
+et les fermes de serveur sont alimentés
+
+894
+00:19:38,930 --> 00:19:38,940
+et les fermes de serveur sont alimentés
+ 
+
+895
+00:19:38,940 --> 00:19:41,270
+et les fermes de serveur sont alimentés
+par des énergies vertes
+
+896
+00:19:41,270 --> 00:19:41,280
+par des énergies vertes
+ 
+
+897
+00:19:41,280 --> 00:19:42,830
+par des énergies vertes
+on a eu une majorité des pages qui ont
+
+898
+00:19:42,830 --> 00:19:42,840
+on a eu une majorité des pages qui ont
+ 
+
+899
+00:19:42,840 --> 00:19:44,890
+on a eu une majorité des pages qui ont
+été notées à donc
+
+900
+00:19:44,890 --> 00:19:44,900
+été notées à donc
+ 
+
+901
+00:19:44,900 --> 00:19:47,830
+été notées à donc
+c'est pas le meilleur
+
+902
+00:19:47,830 --> 00:19:47,840
+c'est pas le meilleur
+ 
+
+903
+00:19:47,840 --> 00:19:50,690
+c'est pas le meilleur
+outil de mesure au front
+
+904
+00:19:50,690 --> 00:19:50,700
+outil de mesure au front
+ 
+
+905
+00:19:50,700 --> 00:19:53,450
+outil de mesure au front
+en revanche c'est un des outils les plus
+
+906
+00:19:53,450 --> 00:19:53,460
+en revanche c'est un des outils les plus
+ 
+
+907
+00:19:53,460 --> 00:19:55,850
+en revanche c'est un des outils les plus
+populaires les plus connus il y en a
+
+908
+00:19:55,850 --> 00:19:55,860
+populaires les plus connus il y en a
+ 
+
+909
+00:19:55,860 --> 00:19:57,169
+populaires les plus connus il y en a
+plusieurs on va en voir quelques-uns
+
+910
+00:19:57,169 --> 00:19:57,179
+plusieurs on va en voir quelques-uns
+ 
+
+911
+00:19:57,179 --> 00:19:58,970
+plusieurs on va en voir quelques-uns
+après et quand index c'est quand même
+
+912
+00:19:58,970 --> 00:19:58,980
+après et quand index c'est quand même
+ 
+
+913
+00:19:58,980 --> 00:20:01,190
+après et quand index c'est quand même
+celui dont on parle le plus le site
+
+914
+00:20:01,190 --> 00:20:01,200
+celui dont on parle le plus le site
+ 
+
+915
+00:20:01,200 --> 00:20:04,510
+celui dont on parle le plus le site
+avant était eux partout
+
+916
+00:20:04,510 --> 00:20:04,520
+
+ 
+
+917
+00:20:04,520 --> 00:20:07,070
+
+index avait jamais mis de page en jeu on
+
+918
+00:20:07,070 --> 00:20:07,080
+index avait jamais mis de page en jeu on
+ 
+
+919
+00:20:07,080 --> 00:20:08,049
+index avait jamais mis de page en jeu on
+en avait
+
+920
+00:20:08,049 --> 00:20:08,059
+en avait
+ 
+
+921
+00:20:08,059 --> 00:20:11,210
+en avait
+et la majorité maintenant est en a
+
+922
+00:20:11,210 --> 00:20:11,220
+et la majorité maintenant est en a
+ 
+
+923
+00:20:11,220 --> 00:20:12,890
+et la majorité maintenant est en a
+beaucoup de pédagogie donc vous verrez
+
+924
+00:20:12,890 --> 00:20:12,900
+beaucoup de pédagogie donc vous verrez
+ 
+
+925
+00:20:12,900 --> 00:20:14,630
+beaucoup de pédagogie donc vous verrez
+sur le site il y a plusieurs pages qui
+
+926
+00:20:14,630 --> 00:20:14,640
+sur le site il y a plusieurs pages qui
+ 
+
+927
+00:20:14,640 --> 00:20:16,490
+sur le site il y a plusieurs pages qui
+expliquent la démarche c'est vraiment
+
+928
+00:20:16,490 --> 00:20:16,500
+expliquent la démarche c'est vraiment
+ 
+
+929
+00:20:16,500 --> 00:20:18,049
+expliquent la démarche c'est vraiment
+dans une démarche pédagogique et
+
+930
+00:20:18,049 --> 00:20:18,059
+dans une démarche pédagogique et
+ 
+
+931
+00:20:18,059 --> 00:20:19,909
+dans une démarche pédagogique et
+aujourd'hui au jour d'aujourd'hui dalker
+
+932
+00:20:19,909 --> 00:20:19,919
+aujourd'hui au jour d'aujourd'hui dalker
+ 
+
+933
+00:20:19,919 --> 00:20:22,970
+aujourd'hui au jour d'aujourd'hui dalker
+à consulté par des communes
+
+934
+00:20:22,970 --> 00:20:22,980
+à consulté par des communes
+ 
+
+935
+00:20:22,980 --> 00:20:25,850
+à consulté par des communes
+consultées par des mairies consultés par
+
+936
+00:20:25,850 --> 00:20:25,860
+consultées par des mairies consultés par
+ 
+
+937
+00:20:25,860 --> 00:20:29,090
+consultées par des mairies consultés par
+une quelques services du gouvernement
+
+938
+00:20:29,090 --> 00:20:29,100
+une quelques services du gouvernement
+ 
+
+939
+00:20:29,100 --> 00:20:30,529
+une quelques services du gouvernement
+qui veulent mieux comprendre leur
+
+940
+00:20:30,529 --> 00:20:30,539
+qui veulent mieux comprendre leur
+ 
+
+941
+00:20:30,539 --> 00:20:32,150
+qui veulent mieux comprendre leur
+démarche ce qu'ils ont fait ce qu'ils
+
+942
+00:20:32,150 --> 00:20:32,160
+démarche ce qu'ils ont fait ce qu'ils
+ 
+
+943
+00:20:32,160 --> 00:20:34,850
+démarche ce qu'ils ont fait ce qu'ils
+ont réalisé ce qu'ils ont sorti
+
+944
+00:20:34,850 --> 00:20:34,860
+ont réalisé ce qu'ils ont sorti
+ 
+
+945
+00:20:34,860 --> 00:20:36,350
+ont réalisé ce qu'ils ont sorti
+ils sont très très ouverts dans le cas
+
+946
+00:20:36,350 --> 00:20:36,360
+ils sont très très ouverts dans le cas
+ 
+
+947
+00:20:36,360 --> 00:20:37,850
+ils sont très très ouverts dans le cas
+en fait sont presque maintenant ils ont
+
+948
+00:20:37,850 --> 00:20:37,860
+en fait sont presque maintenant ils ont
+ 
+
+949
+00:20:37,860 --> 00:20:39,169
+en fait sont presque maintenant ils ont
+plus de personnes qui travaillent sur
+
+950
+00:20:39,169 --> 00:20:39,179
+plus de personnes qui travaillent sur
+ 
+
+951
+00:20:39,179 --> 00:20:41,090
+plus de personnes qui travaillent sur
+cet aspect là donc ils deviennent
+
+952
+00:20:41,090 --> 00:20:41,100
+cet aspect là donc ils deviennent
+ 
+
+953
+00:20:41,100 --> 00:20:42,529
+cet aspect là donc ils deviennent
+presque des consultants en
+
+954
+00:20:42,529 --> 00:20:42,539
+presque des consultants en
+ 
+
+955
+00:20:42,539 --> 00:20:44,210
+presque des consultants en
+éco-conception ce qui est assez ce qui
+
+956
+00:20:44,210 --> 00:20:44,220
+éco-conception ce qui est assez ce qui
+ 
+
+957
+00:20:44,220 --> 00:20:46,730
+éco-conception ce qui est assez ce qui
+est assez rigolo
+
+958
+00:20:46,730 --> 00:20:46,740
+
+ 
+
+959
+00:20:46,740 --> 00:20:51,610
+
+bon bientôt devenir nos concurrents
+
+960
+00:20:51,610 --> 00:20:51,620
+
+ 
+
+961
+00:20:51,620 --> 00:20:55,310
+
+Dalkia 20 minutes merci beaucoup quel
+
+962
+00:20:55,310 --> 00:20:55,320
+Dalkia 20 minutes merci beaucoup quel
+ 
+
+963
+00:20:55,320 --> 00:20:56,930
+Dalkia 20 minutes merci beaucoup quel
+est votre nom
+
+964
+00:20:56,930 --> 00:20:56,940
+est votre nom
+ 
+
+965
+00:20:56,940 --> 00:20:59,810
+est votre nom
+je l'aime
+
+966
+00:20:59,810 --> 00:20:59,820
+
+ 
+
+967
+00:20:59,820 --> 00:21:02,690
+
+Jolan ce que c'est un nom bordelais
+
+968
+00:21:02,690 --> 00:21:02,700
+Jolan ce que c'est un nom bordelais
+ 
+
+969
+00:21:02,700 --> 00:21:06,710
+Jolan ce que c'est un nom bordelais
+du tout Jolan donc aucune page classée
+
+970
+00:21:06,710 --> 00:21:06,720
+du tout Jolan donc aucune page classée
+ 
+
+971
+00:21:06,720 --> 00:21:09,409
+du tout Jolan donc aucune page classée
+au-delà de notre C
+
+972
+00:21:09,409 --> 00:21:09,419
+au-delà de notre C
+ 
+
+973
+00:21:09,419 --> 00:21:11,450
+au-delà de notre C
+on a une réduction du volume et du poids
+
+974
+00:21:11,450 --> 00:21:11,460
+on a une réduction du volume et du poids
+ 
+
+975
+00:21:11,460 --> 00:21:13,070
+on a une réduction du volume et du poids
+des pages donc des pages beaucoup plus
+
+976
+00:21:13,070 --> 00:21:13,080
+des pages donc des pages beaucoup plus
+ 
+
+977
+00:21:13,080 --> 00:21:14,570
+des pages donc des pages beaucoup plus
+légères
+
+978
+00:21:14,570 --> 00:21:14,580
+légères
+ 
+
+979
+00:21:14,580 --> 00:21:17,029
+légères
+pour tous les dev il y a pas si
+
+980
+00:21:17,029 --> 00:21:17,039
+pour tous les dev il y a pas si
+ 
+
+981
+00:21:17,039 --> 00:21:18,289
+pour tous les dev il y a pas si
+longtemps on avait une performance
+
+982
+00:21:18,289 --> 00:21:18,299
+longtemps on avait une performance
+ 
+
+983
+00:21:18,299 --> 00:21:20,510
+longtemps on avait une performance
+informatique c'est à dire que on
+
+984
+00:21:20,510 --> 00:21:20,520
+informatique c'est à dire que on
+ 
+
+985
+00:21:20,520 --> 00:21:22,549
+informatique c'est à dire que on
+arrivait les pages sur l'odeur se
+
+986
+00:21:22,549 --> 00:21:22,559
+arrivait les pages sur l'odeur se
+ 
+
+987
+00:21:22,559 --> 00:21:24,770
+arrivait les pages sur l'odeur se
+charger en une ou deux secondes depuis
+
+988
+00:21:24,770 --> 00:21:24,780
+charger en une ou deux secondes depuis
+ 
+
+989
+00:21:24,780 --> 00:21:26,390
+charger en une ou deux secondes depuis
+si on regarde la moyenne Google c'est
+
+990
+00:21:26,390 --> 00:21:26,400
+si on regarde la moyenne Google c'est
+ 
+
+991
+00:21:26,400 --> 00:21:29,690
+si on regarde la moyenne Google c'est
+1,6 méga chaque page moyenne des sites
+
+992
+00:21:29,690 --> 00:21:29,700
+1,6 méga chaque page moyenne des sites
+ 
+
+993
+00:21:29,700 --> 00:21:31,610
+1,6 méga chaque page moyenne des sites
+Web dans le monde lorsqu'on a plusieurs
+
+994
+00:21:31,610 --> 00:21:31,620
+Web dans le monde lorsqu'on a plusieurs
+ 
+
+995
+00:21:31,620 --> 00:21:33,350
+Web dans le monde lorsqu'on a plusieurs
+mégas sur des devises qui sont plus
+
+996
+00:21:33,350 --> 00:21:33,360
+mégas sur des devises qui sont plus
+ 
+
+997
+00:21:33,360 --> 00:21:35,690
+mégas sur des devises qui sont plus
+anciennes ça prend plusieurs secondes à
+
+998
+00:21:35,690 --> 00:21:35,700
+anciennes ça prend plusieurs secondes à
+ 
+
+999
+00:21:35,700 --> 00:21:38,750
+anciennes ça prend plusieurs secondes à
+l'ODD des fois on est pas tous fibré à
+
+1000
+00:21:38,750 --> 00:21:38,760
+l'ODD des fois on est pas tous fibré à
+ 
+
+1001
+00:21:38,760 --> 00:21:40,669
+l'ODD des fois on est pas tous fibré à
+un ou deux giga seconde donc pour tous
+
+1002
+00:21:40,669 --> 00:21:40,679
+un ou deux giga seconde donc pour tous
+ 
+
+1003
+00:21:40,679 --> 00:21:42,470
+un ou deux giga seconde donc pour tous
+ces pour toutes ces infos en fait c'est
+
+1004
+00:21:42,470 --> 00:21:42,480
+ces pour toutes ces infos en fait c'est
+ 
+
+1005
+00:21:42,480 --> 00:21:43,909
+ces pour toutes ces infos en fait c'est
+un autre aspect qui est hyper
+
+1006
+00:21:43,909 --> 00:21:43,919
+un autre aspect qui est hyper
+ 
+
+1007
+00:21:43,919 --> 00:21:44,870
+un autre aspect qui est hyper
+intéressant sur les cours conceptions
+
+1008
+00:21:44,870 --> 00:21:44,880
+intéressant sur les cours conceptions
+ 
+
+1009
+00:21:44,880 --> 00:21:46,490
+intéressant sur les cours conceptions
+c'est que lorsque l'on travaille en
+
+1010
+00:21:46,490 --> 00:21:46,500
+c'est que lorsque l'on travaille en
+ 
+
+1011
+00:21:46,500 --> 00:21:47,630
+c'est que lorsque l'on travaille en
+éco-conception les pages deviennent
+
+1012
+00:21:47,630 --> 00:21:47,640
+éco-conception les pages deviennent
+ 
+
+1013
+00:21:47,640 --> 00:21:49,610
+éco-conception les pages deviennent
+simples et très légères et donc ça
+
+1014
+00:21:49,610 --> 00:21:49,620
+simples et très légères et donc ça
+ 
+
+1015
+00:21:49,620 --> 00:21:52,370
+simples et très légères et donc ça
+contribue plus largement à la RSE parce
+
+1016
+00:21:52,370 --> 00:21:52,380
+contribue plus largement à la RSE parce
+ 
+
+1017
+00:21:52,380 --> 00:21:55,310
+contribue plus largement à la RSE parce
+que ça permet une augmentation de la
+
+1018
+00:21:55,310 --> 00:21:55,320
+que ça permet une augmentation de la
+ 
+
+1019
+00:21:55,320 --> 00:21:57,350
+que ça permet une augmentation de la
+durée de vie des The Voice
+
+1020
+00:21:57,350 --> 00:21:57,360
+durée de vie des The Voice
+ 
+
+1021
+00:21:57,360 --> 00:21:58,970
+durée de vie des The Voice
+plus c'est léger plus des vieilles
+
+1022
+00:21:58,970 --> 00:21:58,980
+plus c'est léger plus des vieilles
+ 
+
+1023
+00:21:58,980 --> 00:22:01,549
+plus c'est léger plus des vieilles
+machines peuvent faire tourner le site
+
+1024
+00:22:01,549 --> 00:22:01,559
+machines peuvent faire tourner le site
+ 
+
+1025
+00:22:01,559 --> 00:22:03,350
+machines peuvent faire tourner le site
+donc c'est plus accessible faut pas
+
+1026
+00:22:03,350 --> 00:22:03,360
+donc c'est plus accessible faut pas
+ 
+
+1027
+00:22:03,360 --> 00:22:04,810
+donc c'est plus accessible faut pas
+faire la en fait c'est pas synonyme
+
+1028
+00:22:04,810 --> 00:22:04,820
+faire la en fait c'est pas synonyme
+ 
+
+1029
+00:22:04,820 --> 00:22:06,830
+faire la en fait c'est pas synonyme
+éco-conception accessibilité en revanche
+
+1030
+00:22:06,830 --> 00:22:06,840
+éco-conception accessibilité en revanche
+ 
+
+1031
+00:22:06,840 --> 00:22:09,409
+éco-conception accessibilité en revanche
+ce n'est pas vraiment éco-conçu s'il n'y
+
+1032
+00:22:09,409 --> 00:22:09,419
+ce n'est pas vraiment éco-conçu s'il n'y
+ 
+
+1033
+00:22:09,419 --> 00:22:12,169
+ce n'est pas vraiment éco-conçu s'il n'y
+a pas une grande accessibilité résultat
+
+1034
+00:22:12,169 --> 00:22:12,179
+a pas une grande accessibilité résultat
+ 
+
+1035
+00:22:12,179 --> 00:22:16,310
+a pas une grande accessibilité résultat
+ultime 64 % de réduction de CO2
+
+1036
+00:22:16,310 --> 00:22:16,320
+ultime 64 % de réduction de CO2
+ 
+
+1037
+00:22:16,320 --> 00:22:18,289
+ultime 64 % de réduction de CO2
+d'émission en fait entre le l'ancien
+
+1038
+00:22:18,289 --> 00:22:18,299
+d'émission en fait entre le l'ancien
+ 
+
+1039
+00:22:18,299 --> 00:22:20,750
+d'émission en fait entre le l'ancien
+site et le nouveau site
+
+1040
+00:22:20,750 --> 00:22:20,760
+site et le nouveau site
+ 
+
+1041
+00:22:20,760 --> 00:22:22,510
+site et le nouveau site
+des gains financiers pieds de page DSI
+
+1042
+00:22:22,510 --> 00:22:22,520
+des gains financiers pieds de page DSI
+ 
+
+1043
+00:22:22,520 --> 00:22:25,130
+des gains financiers pieds de page DSI
+et donc c'est ce que je vous disais une
+
+1044
+00:22:25,130 --> 00:22:25,140
+et donc c'est ce que je vous disais une
+ 
+
+1045
+00:22:25,140 --> 00:22:27,169
+et donc c'est ce que je vous disais une
+première mondiale
+
+1046
+00:22:27,169 --> 00:22:27,179
+première mondiale
+ 
+
+1047
+00:22:27,179 --> 00:22:29,570
+première mondiale
+on a remporté plusieurs Awards un peu
+
+1048
+00:22:29,570 --> 00:22:29,580
+on a remporté plusieurs Awards un peu
+ 
+
+1049
+00:22:29,580 --> 00:22:31,789
+on a remporté plusieurs Awards un peu
+partout
+
+1050
+00:22:31,789 --> 00:22:31,799
+
+ 
+
+1051
+00:22:31,799 --> 00:22:33,890
+
+dans plusieurs erreurs du nationaux et
+
+1052
+00:22:33,890 --> 00:22:33,900
+dans plusieurs erreurs du nationaux et
+ 
+
+1053
+00:22:33,900 --> 00:22:37,610
+dans plusieurs erreurs du nationaux et
+plusieurs horreurs internationaux
+
+1054
+00:22:37,610 --> 00:22:37,620
+
+ 
+
+1055
+00:22:37,620 --> 00:22:39,649
+
+qui learnings bon je vous en ai parlé
+
+1056
+00:22:39,649 --> 00:22:39,659
+qui learnings bon je vous en ai parlé
+ 
+
+1057
+00:22:39,659 --> 00:22:41,570
+qui learnings bon je vous en ai parlé
+nécessité absolue d'avoir un pilotage
+
+1058
+00:22:41,570 --> 00:22:41,580
+nécessité absolue d'avoir un pilotage
+ 
+
+1059
+00:22:41,580 --> 00:22:42,830
+nécessité absolue d'avoir un pilotage
+renforcé j'ai mentionné le mot
+
+1060
+00:22:42,830 --> 00:22:42,840
+renforcé j'ai mentionné le mot
+ 
+
+1061
+00:22:42,840 --> 00:22:44,450
+renforcé j'ai mentionné le mot
+gouvernance il faut jamais sous-estimer
+
+1062
+00:22:44,450 --> 00:22:44,460
+gouvernance il faut jamais sous-estimer
+ 
+
+1063
+00:22:44,460 --> 00:22:46,010
+gouvernance il faut jamais sous-estimer
+le nombre de personnes qui doivent être
+
+1064
+00:22:46,010 --> 00:22:46,020
+le nombre de personnes qui doivent être
+ 
+
+1065
+00:22:46,020 --> 00:22:47,930
+le nombre de personnes qui doivent être
+impliquées dans de la gouvernance on a
+
+1066
+00:22:47,930 --> 00:22:47,940
+impliquées dans de la gouvernance on a
+ 
+
+1067
+00:22:47,940 --> 00:22:50,890
+impliquées dans de la gouvernance on a
+un cadrage donc expert pédagogique que
+
+1068
+00:22:50,890 --> 00:22:50,900
+un cadrage donc expert pédagogique que
+ 
+
+1069
+00:22:50,900 --> 00:22:52,909
+un cadrage donc expert pédagogique que
+collaboration du design et de la
+
+1070
+00:22:52,909 --> 00:22:52,919
+collaboration du design et de la
+ 
+
+1071
+00:22:52,919 --> 00:22:56,090
+collaboration du design et de la
+technique donc là c'est hyper important
+
+1072
+00:22:56,090 --> 00:22:56,100
+
+ 
+
+1073
+00:22:56,100 --> 00:22:57,950
+
+on savait et on connaît les développes
+
+1074
+00:22:57,950 --> 00:22:57,960
+on savait et on connaît les développes
+ 
+
+1075
+00:22:57,960 --> 00:23:01,490
+on savait et on connaît les développes
+et d'accès coops il y a des designs il y
+
+1076
+00:23:01,490 --> 00:23:01,500
+et d'accès coops il y a des designs il y
+ 
+
+1077
+00:23:01,500 --> 00:23:03,950
+et d'accès coops il y a des designs il y
+a des systèmes et designers pour
+
+1078
+00:23:03,950 --> 00:23:03,960
+a des systèmes et designers pour
+ 
+
+1079
+00:23:03,960 --> 00:23:05,149
+a des systèmes et designers pour
+s'assurer que sur toute la chaîne entre
+
+1080
+00:23:05,149 --> 00:23:05,159
+s'assurer que sur toute la chaîne entre
+ 
+
+1081
+00:23:05,159 --> 00:23:07,730
+s'assurer que sur toute la chaîne entre
+les design et les dev en soi en système
+
+1082
+00:23:07,730 --> 00:23:07,740
+les design et les dev en soi en système
+ 
+
+1083
+00:23:07,740 --> 00:23:09,230
+les design et les dev en soi en système
+je sais pas s'il y a des PO dans la
+
+1084
+00:23:09,230 --> 00:23:09,240
+je sais pas s'il y a des PO dans la
+ 
+
+1085
+00:23:09,240 --> 00:23:13,310
+je sais pas s'il y a des PO dans la
+salle aussi
+
+1086
+00:23:13,310 --> 00:23:13,320
+
+ 
+
+1087
+00:23:13,320 --> 00:23:15,049
+
+voilà et ben en fait il y a aujourd'hui
+
+1088
+00:23:15,049 --> 00:23:15,059
+voilà et ben en fait il y a aujourd'hui
+ 
+
+1089
+00:23:15,059 --> 00:23:16,909
+voilà et ben en fait il y a aujourd'hui
+certaines certifications formation pour
+
+1090
+00:23:16,909 --> 00:23:16,919
+certaines certifications formation pour
+ 
+
+1091
+00:23:16,919 --> 00:23:19,190
+certaines certifications formation pour
+avoir des PO ce stand-by on a plusieurs
+
+1092
+00:23:19,190 --> 00:23:19,200
+avoir des PO ce stand-by on a plusieurs
+ 
+
+1093
+00:23:19,200 --> 00:23:21,409
+avoir des PO ce stand-by on a plusieurs
+po chez nous et on doit en avoir
+
+1094
+00:23:21,409 --> 00:23:21,419
+po chez nous et on doit en avoir
+ 
+
+1095
+00:23:21,419 --> 00:23:22,549
+po chez nous et on doit en avoir
+peut-être une petite quinzaine qui sont
+
+1096
+00:23:22,549 --> 00:23:22,559
+peut-être une petite quinzaine qui sont
+ 
+
+1097
+00:23:22,559 --> 00:23:28,130
+peut-être une petite quinzaine qui sont
+po sur Stanley
+
+1098
+00:23:28,130 --> 00:23:28,140
+
+ 
+
+1099
+00:23:28,140 --> 00:23:29,390
+
+donc toujours l'accompagnement
+
+1100
+00:23:29,390 --> 00:23:29,400
+donc toujours l'accompagnement
+ 
+
+1101
+00:23:29,400 --> 00:23:30,710
+donc toujours l'accompagnement
+changement ça fait plusieurs fois que je
+
+1102
+00:23:30,710 --> 00:23:30,720
+changement ça fait plusieurs fois que je
+ 
+
+1103
+00:23:30,720 --> 00:23:31,850
+changement ça fait plusieurs fois que je
+vous le dis franchement ça c'est hyper
+
+1104
+00:23:31,850 --> 00:23:31,860
+vous le dis franchement ça c'est hyper
+ 
+
+1105
+00:23:31,860 --> 00:23:34,010
+vous le dis franchement ça c'est hyper
+important la gouvernance et le pilotage
+
+1106
+00:23:34,010 --> 00:23:34,020
+important la gouvernance et le pilotage
+ 
+
+1107
+00:23:34,020 --> 00:23:37,250
+important la gouvernance et le pilotage
+et le SCOP le scope au début n'est
+
+1108
+00:23:37,250 --> 00:23:37,260
+et le SCOP le scope au début n'est
+ 
+
+1109
+00:23:37,260 --> 00:23:39,169
+et le SCOP le scope au début n'est
+souvent pas le scope de la fin une des
+
+1110
+00:23:39,169 --> 00:23:39,179
+souvent pas le scope de la fin une des
+ 
+
+1111
+00:23:39,179 --> 00:23:40,430
+souvent pas le scope de la fin une des
+difficultés c'est lorsque vous avez le
+
+1112
+00:23:40,430 --> 00:23:40,440
+difficultés c'est lorsque vous avez le
+ 
+
+1113
+00:23:40,440 --> 00:23:42,470
+difficultés c'est lorsque vous avez le
+concept initial vous avez déterminé la
+
+1114
+00:23:42,470 --> 00:23:42,480
+concept initial vous avez déterminé la
+ 
+
+1115
+00:23:42,480 --> 00:23:43,850
+concept initial vous avez déterminé la
+radicalité avec laquelle vous aviez
+
+1116
+00:23:43,850 --> 00:23:43,860
+radicalité avec laquelle vous aviez
+ 
+
+1117
+00:23:43,860 --> 00:23:46,190
+radicalité avec laquelle vous aviez
+envie de travailler il faut maintenir ça
+
+1118
+00:23:46,190 --> 00:23:46,200
+envie de travailler il faut maintenir ça
+ 
+
+1119
+00:23:46,200 --> 00:23:50,750
+envie de travailler il faut maintenir ça
+dans le temps
+
+1120
+00:23:50,750 --> 00:23:50,760
+
+ 
+
+1121
+00:23:50,760 --> 00:23:52,730
+
+le discours tout ce qui est concision
+
+1122
+00:23:52,730 --> 00:23:52,740
+le discours tout ce qui est concision
+ 
+
+1123
+00:23:52,740 --> 00:23:54,289
+le discours tout ce qui est concision
+est de tout ce qui est de frugalité donc
+
+1124
+00:23:54,289 --> 00:23:54,299
+est de tout ce qui est de frugalité donc
+ 
+
+1125
+00:23:54,299 --> 00:23:55,970
+est de tout ce qui est de frugalité donc
+c'est important d'avoir aussi tous et
+
+1126
+00:23:55,970 --> 00:23:55,980
+c'est important d'avoir aussi tous et
+ 
+
+1127
+00:23:55,980 --> 00:23:58,070
+c'est important d'avoir aussi tous et
+toutes le même discours
+
+1128
+00:23:58,070 --> 00:23:58,080
+toutes le même discours
+ 
+
+1129
+00:23:58,080 --> 00:24:00,409
+toutes le même discours
+et c'est hyper important de d'adapter la
+
+1130
+00:24:00,409 --> 00:24:00,419
+et c'est hyper important de d'adapter la
+ 
+
+1131
+00:24:00,419 --> 00:24:02,750
+et c'est hyper important de d'adapter la
+stratégie content et dans tousser il y a
+
+1132
+00:24:02,750 --> 00:24:02,760
+stratégie content et dans tousser il y a
+ 
+
+1133
+00:24:02,760 --> 00:24:04,370
+stratégie content et dans tousser il y a
+du contenu
+
+1134
+00:24:04,370 --> 00:24:04,380
+du contenu
+ 
+
+1135
+00:24:04,380 --> 00:24:06,409
+du contenu
+nous sommes pas assez de 2400 pages à
+
+1136
+00:24:06,409 --> 00:24:06,419
+nous sommes pas assez de 2400 pages à
+ 
+
+1137
+00:24:06,419 --> 00:24:08,390
+nous sommes pas assez de 2400 pages à
+moins de 600
+
+1138
+00:24:08,390 --> 00:24:08,400
+moins de 600
+ 
+
+1139
+00:24:08,400 --> 00:24:11,029
+moins de 600
+la plupart n'a pas été juste que réécrit
+
+1140
+00:24:11,029 --> 00:24:11,039
+la plupart n'a pas été juste que réécrit
+ 
+
+1141
+00:24:11,039 --> 00:24:13,909
+la plupart n'a pas été juste que réécrit
+on a réécrit on a combiné et même les
+
+1142
+00:24:13,909 --> 00:24:13,919
+on a réécrit on a combiné et même les
+ 
+
+1143
+00:24:13,919 --> 00:24:15,590
+on a réécrit on a combiné et même les
+métiers du SEO il faut faire attention
+
+1144
+00:24:15,590 --> 00:24:15,600
+métiers du SEO il faut faire attention
+ 
+
+1145
+00:24:15,600 --> 00:24:17,570
+métiers du SEO il faut faire attention
+parce que si on coupe 2400 pages sur des
+
+1146
+00:24:17,570 --> 00:24:17,580
+parce que si on coupe 2400 pages sur des
+ 
+
+1147
+00:24:17,580 --> 00:24:19,010
+parce que si on coupe 2400 pages sur des
+gens qui depuis des années on leur dit
+
+1148
+00:24:19,010 --> 00:24:19,020
+gens qui depuis des années on leur dit
+ 
+
+1149
+00:24:19,020 --> 00:24:20,870
+gens qui depuis des années on leur dit
+d'écrire plus de contenu pour mieux être
+
+1150
+00:24:20,870 --> 00:24:20,880
+d'écrire plus de contenu pour mieux être
+ 
+
+1151
+00:24:20,880 --> 00:24:22,909
+d'écrire plus de contenu pour mieux être
+repéré sur Google bah faut pas faire
+
+1152
+00:24:22,909 --> 00:24:22,919
+repéré sur Google bah faut pas faire
+ 
+
+1153
+00:24:22,919 --> 00:24:24,350
+repéré sur Google bah faut pas faire
+n'importe quoi on peut pas juste hacher
+
+1154
+00:24:24,350 --> 00:24:24,360
+n'importe quoi on peut pas juste hacher
+ 
+
+1155
+00:24:24,360 --> 00:24:29,149
+n'importe quoi on peut pas juste hacher
+avec une tronçonneuse tout ce contenu là
+
+1156
+00:24:29,149 --> 00:24:29,159
+
+ 
+
+1157
+00:24:29,159 --> 00:24:31,310
+
+l'accessibilité on en a parlé le partage
+
+1158
+00:24:31,310 --> 00:24:31,320
+l'accessibilité on en a parlé le partage
+ 
+
+1159
+00:24:31,320 --> 00:24:33,470
+l'accessibilité on en a parlé le partage
+débrief et tous les tests techniques les
+
+1160
+00:24:33,470 --> 00:24:33,480
+débrief et tous les tests techniques les
+ 
+
+1161
+00:24:33,480 --> 00:24:34,970
+débrief et tous les tests techniques les
+tests techniques doivent avoir lieu en
+
+1162
+00:24:34,970 --> 00:24:34,980
+tests techniques doivent avoir lieu en
+ 
+
+1163
+00:24:34,980 --> 00:24:36,950
+tests techniques doivent avoir lieu en
+continu parce que lorsqu'on développe en
+
+1164
+00:24:36,950 --> 00:24:36,960
+continu parce que lorsqu'on développe en
+ 
+
+1165
+00:24:36,960 --> 00:24:38,630
+continu parce que lorsqu'on développe en
+fait on peut pas du tout être en cycle
+
+1166
+00:24:38,630 --> 00:24:38,640
+fait on peut pas du tout être en cycle
+ 
+
+1167
+00:24:38,640 --> 00:24:40,430
+fait on peut pas du tout être en cycle
+en V on doit s'assurer que de ce que
+
+1168
+00:24:40,430 --> 00:24:40,440
+en V on doit s'assurer que de ce que
+ 
+
+1169
+00:24:40,440 --> 00:24:42,049
+en V on doit s'assurer que de ce que
+l'on fait et donc c'est pour ça que je
+
+1170
+00:24:42,049 --> 00:24:42,059
+l'on fait et donc c'est pour ça que je
+ 
+
+1171
+00:24:42,059 --> 00:24:43,130
+l'on fait et donc c'est pour ça que je
+vous parlais de collaboration entre le
+
+1172
+00:24:43,130 --> 00:24:43,140
+vous parlais de collaboration entre le
+ 
+
+1173
+00:24:43,140 --> 00:24:44,870
+vous parlais de collaboration entre le
+design est attaque habituellement on
+
+1174
+00:24:44,870 --> 00:24:44,880
+design est attaque habituellement on
+ 
+
+1175
+00:24:44,880 --> 00:24:45,950
+design est attaque habituellement on
+fait des sets comme ça mais c'est encore
+
+1176
+00:24:45,950 --> 00:24:45,960
+fait des sets comme ça mais c'est encore
+ 
+
+1177
+00:24:45,960 --> 00:24:48,110
+fait des sets comme ça mais c'est encore
+beaucoup plus renforcé en fait chaque
+
+1178
+00:24:48,110 --> 00:24:48,120
+beaucoup plus renforcé en fait chaque
+ 
+
+1179
+00:24:48,120 --> 00:24:51,130
+beaucoup plus renforcé en fait chaque
+initiative design chaque bout de nave
+
+1180
+00:24:51,130 --> 00:24:51,140
+initiative design chaque bout de nave
+ 
+
+1181
+00:24:51,140 --> 00:24:55,789
+initiative design chaque bout de nave
+doit être forcément testé en fait
+
+1182
+00:24:55,789 --> 00:24:55,799
+
+ 
+
+1183
+00:24:55,799 --> 00:24:57,649
+
+donc tout ce qui est identité
+
+1184
+00:24:57,649 --> 00:24:57,659
+donc tout ce qui est identité
+ 
+
+1185
+00:24:57,659 --> 00:24:58,610
+donc tout ce qui est identité
+identité visuelle
+
+1186
+00:24:58,610 --> 00:24:58,620
+identité visuelle
+ 
+
+1187
+00:24:58,620 --> 00:25:00,169
+identité visuelle
+identité du content parce qu'il y a le
+
+1188
+00:25:00,169 --> 00:25:00,179
+identité du content parce qu'il y a le
+ 
+
+1189
+00:25:00,179 --> 00:25:02,990
+identité du content parce qu'il y a le
+temps de ton animal
+
+1190
+00:25:02,990 --> 00:25:03,000
+temps de ton animal
+ 
+
+1191
+00:25:03,000 --> 00:25:05,810
+temps de ton animal
+et on va arriver sur midi.fr jeter un
+
+1192
+00:25:05,810 --> 00:25:05,820
+et on va arriver sur midi.fr jeter un
+ 
+
+1193
+00:25:05,820 --> 00:25:08,149
+et on va arriver sur midi.fr jeter un
+coup d'oeil
+
+1194
+00:25:08,149 --> 00:25:08,159
+
+ 
+
+1195
+00:25:08,159 --> 00:25:10,549
+
+Jolan
+
+1196
+00:25:10,549 --> 00:25:10,559
+Jolan
+ 
+
+1197
+00:25:10,559 --> 00:25:14,990
+Jolan
+combien de temps
+
+1198
+00:25:14,990 --> 00:25:15,000
+
+ 
+
+1199
+00:25:15,000 --> 00:25:17,990
+
+14 minutes c'est précis
+
+1200
+00:25:17,990 --> 00:25:18,000
+14 minutes c'est précis
+ 
+
+1201
+00:25:18,000 --> 00:25:20,390
+14 minutes c'est précis
+et un peu de brutalisme sur ce site sans
+
+1202
+00:25:20,390 --> 00:25:20,400
+et un peu de brutalisme sur ce site sans
+ 
+
+1203
+00:25:20,400 --> 00:25:21,890
+et un peu de brutalisme sur ce site sans
+transition passe à un site beaucoup plus
+
+1204
+00:25:21,890 --> 00:25:21,900
+transition passe à un site beaucoup plus
+ 
+
+1205
+00:25:21,900 --> 00:25:24,049
+transition passe à un site beaucoup plus
+brutal le brutalisme c'est une école de
+
+1206
+00:25:24,049 --> 00:25:24,059
+brutal le brutalisme c'est une école de
+ 
+
+1207
+00:25:24,059 --> 00:25:27,769
+brutal le brutalisme c'est une école de
+design de Berlin
+
+1208
+00:25:27,769 --> 00:25:27,779
+
+ 
+
+1209
+00:25:27,779 --> 00:25:30,230
+
+radical ça interpelle ça étonne ça
+
+1210
+00:25:30,230 --> 00:25:30,240
+radical ça interpelle ça étonne ça
+ 
+
+1211
+00:25:30,240 --> 00:25:32,269
+radical ça interpelle ça étonne ça
+appelle à la conversation
+
+1212
+00:25:32,269 --> 00:25:32,279
+appelle à la conversation
+ 
+
+1213
+00:25:32,279 --> 00:25:34,549
+appelle à la conversation
+ce brutalisme et les tops mais chez
+
+1214
+00:25:34,549 --> 00:25:34,559
+ce brutalisme et les tops mais chez
+ 
+
+1215
+00:25:34,559 --> 00:25:35,930
+ce brutalisme et les tops mais chez
+ninji on est très humain donc elle
+
+1216
+00:25:35,930 --> 00:25:35,940
+ninji on est très humain donc elle
+ 
+
+1217
+00:25:35,940 --> 00:25:37,789
+ninji on est très humain donc elle
+nécessitait d'organes d'un aspect
+
+1218
+00:25:37,789 --> 00:25:37,799
+nécessitait d'organes d'un aspect
+ 
+
+1219
+00:25:37,799 --> 00:25:39,350
+nécessitait d'organes d'un aspect
+organique donc vous allez voir tout au
+
+1220
+00:25:39,350 --> 00:25:39,360
+organique donc vous allez voir tout au
+ 
+
+1221
+00:25:39,360 --> 00:25:41,330
+organique donc vous allez voir tout au
+long du site
+
+1222
+00:25:41,330 --> 00:25:41,340
+long du site
+ 
+
+1223
+00:25:41,340 --> 00:25:43,730
+long du site
+des courbes qui évoquent cet aspect
+
+1224
+00:25:43,730 --> 00:25:43,740
+des courbes qui évoquent cet aspect
+ 
+
+1225
+00:25:43,740 --> 00:25:45,230
+des courbes qui évoquent cet aspect
+humain
+
+1226
+00:25:45,230 --> 00:25:45,240
+humain
+ 
+
+1227
+00:25:45,240 --> 00:25:47,149
+humain
+on a une navigation qui est simplifié la
+
+1228
+00:25:47,149 --> 00:25:47,159
+on a une navigation qui est simplifié la
+ 
+
+1229
+00:25:47,159 --> 00:25:48,710
+on a une navigation qui est simplifié la
+navigation vous allez voir c'est wework
+
+1230
+00:25:48,710 --> 00:25:48,720
+navigation vous allez voir c'est wework
+ 
+
+1231
+00:25:48,720 --> 00:25:50,950
+navigation vous allez voir c'est wework
+with you en soit c'est une innovation
+
+1232
+00:25:50,950 --> 00:25:50,960
+with you en soit c'est une innovation
+ 
+
+1233
+00:25:50,960 --> 00:25:55,070
+with you en soit c'est une innovation
+c'est une phrase navigation ça permet de
+
+1234
+00:25:55,070 --> 00:25:55,080
+c'est une phrase navigation ça permet de
+ 
+
+1235
+00:25:55,080 --> 00:25:56,810
+c'est une phrase navigation ça permet de
+simplifier de ranger les trucs de façon
+
+1236
+00:25:56,810 --> 00:25:56,820
+simplifier de ranger les trucs de façon
+ 
+
+1237
+00:25:56,820 --> 00:25:59,810
+simplifier de ranger les trucs de façon
+très claire pour tout le monde incluant
+
+1238
+00:25:59,810 --> 00:25:59,820
+très claire pour tout le monde incluant
+ 
+
+1239
+00:25:59,820 --> 00:26:02,029
+très claire pour tout le monde incluant
+en interne pour celles et ceux qui
+
+1240
+00:26:02,029 --> 00:26:02,039
+en interne pour celles et ceux qui
+ 
+
+1241
+00:26:02,039 --> 00:26:04,490
+en interne pour celles et ceux qui
+travaillent dans une agence
+
+1242
+00:26:04,490 --> 00:26:04,500
+travaillent dans une agence
+ 
+
+1243
+00:26:04,500 --> 00:26:06,649
+travaillent dans une agence
+ou dans une entreprise de tech regardez
+
+1244
+00:26:06,649 --> 00:26:06,659
+ou dans une entreprise de tech regardez
+ 
+
+1245
+00:26:06,659 --> 00:26:08,870
+ou dans une entreprise de tech regardez
+votre site et normalement l'ancien site
+
+1246
+00:26:08,870 --> 00:26:08,880
+votre site et normalement l'ancien site
+ 
+
+1247
+00:26:08,880 --> 00:26:11,330
+votre site et normalement l'ancien site
+en tout cas nous on avait NAF de 22
+
+1248
+00:26:11,330 --> 00:26:11,340
+en tout cas nous on avait NAF de 22
+ 
+
+1249
+00:26:11,340 --> 00:26:14,149
+en tout cas nous on avait NAF de 22
+entrées avec une sunav de 44 personne
+
+1250
+00:26:14,149 --> 00:26:14,159
+entrées avec une sunav de 44 personne
+ 
+
+1251
+00:26:14,159 --> 00:26:16,130
+entrées avec une sunav de 44 personne
+comprenait incluant en interne tout le
+
+1252
+00:26:16,130 --> 00:26:16,140
+comprenait incluant en interne tout le
+ 
+
+1253
+00:26:16,140 --> 00:26:17,690
+comprenait incluant en interne tout le
+monde en avait honte
+
+1254
+00:26:17,690 --> 00:26:17,700
+monde en avait honte
+ 
+
+1255
+00:26:17,700 --> 00:26:19,970
+monde en avait honte
+et aujourd'hui on en a beaucoup moins on
+
+1256
+00:26:19,970 --> 00:26:19,980
+et aujourd'hui on en a beaucoup moins on
+ 
+
+1257
+00:26:19,980 --> 00:26:21,830
+et aujourd'hui on en a beaucoup moins on
+a fait moins x 10 je sais même pas si ça
+
+1258
+00:26:21,830 --> 00:26:21,840
+a fait moins x 10 je sais même pas si ça
+ 
+
+1259
+00:26:21,840 --> 00:26:23,029
+a fait moins x 10 je sais même pas si ça
+se dit comme ça en fait on a coupé par
+
+1260
+00:26:23,029 --> 00:26:23,039
+se dit comme ça en fait on a coupé par
+ 
+
+1261
+00:26:23,039 --> 00:26:24,470
+se dit comme ça en fait on a coupé par
+10
+
+1262
+00:26:24,470 --> 00:26:24,480
+10
+ 
+
+1263
+00:26:24,480 --> 00:26:26,810
+10
+1000 pages en reste moins de 100 vous
+
+1264
+00:26:26,810 --> 00:26:26,820
+1000 pages en reste moins de 100 vous
+ 
+
+1265
+00:26:26,820 --> 00:26:28,610
+1000 pages en reste moins de 100 vous
+imaginez c'est un truc de dingue je sais
+
+1266
+00:26:28,610 --> 00:26:28,620
+imaginez c'est un truc de dingue je sais
+ 
+
+1267
+00:26:28,620 --> 00:26:29,690
+imaginez c'est un truc de dingue je sais
+même pas qu'on peut écrire 1000 pages
+
+1268
+00:26:29,690 --> 00:26:29,700
+même pas qu'on peut écrire 1000 pages
+ 
+
+1269
+00:26:29,700 --> 00:26:31,190
+même pas qu'on peut écrire 1000 pages
+sur Eddy j'adore la boîte mais 1000
+
+1270
+00:26:31,190 --> 00:26:31,200
+sur Eddy j'adore la boîte mais 1000
+ 
+
+1271
+00:26:31,200 --> 00:26:33,350
+sur Eddy j'adore la boîte mais 1000
+pages
+
+1272
+00:26:33,350 --> 00:26:33,360
+
+ 
+
+1273
+00:26:33,360 --> 00:26:35,810
+
+un aspect très pédagogique pourquoi de
+
+1274
+00:26:35,810 --> 00:26:35,820
+un aspect très pédagogique pourquoi de
+ 
+
+1275
+00:26:35,820 --> 00:26:38,210
+un aspect très pédagogique pourquoi de
+la pédagogie en fait on a une page qui
+
+1276
+00:26:38,210 --> 00:26:38,220
+la pédagogie en fait on a une page qui
+ 
+
+1277
+00:26:38,220 --> 00:26:40,850
+la pédagogie en fait on a une page qui
+explique bien on a au-delà de cette page
+
+1278
+00:26:40,850 --> 00:26:40,860
+explique bien on a au-delà de cette page
+ 
+
+1279
+00:26:40,860 --> 00:26:42,409
+explique bien on a au-delà de cette page
+on est allé beaucoup plus loin il y a un
+
+1280
+00:26:42,409 --> 00:26:42,419
+on est allé beaucoup plus loin il y a un
+ 
+
+1281
+00:26:42,419 --> 00:26:44,510
+on est allé beaucoup plus loin il y a un
+bouton qui vous permet de consommer en
+
+1282
+00:26:44,510 --> 00:26:44,520
+bouton qui vous permet de consommer en
+ 
+
+1283
+00:26:44,520 --> 00:26:46,250
+bouton qui vous permet de consommer en
+mode découpe le plus plus ou en mode éco
+
+1284
+00:26:46,250 --> 00:26:46,260
+mode découpe le plus plus ou en mode éco
+ 
+
+1285
+00:26:46,260 --> 00:26:47,930
+mode découpe le plus plus ou en mode éco
+plus
+
+1286
+00:26:47,930 --> 00:26:47,940
+plus
+ 
+
+1287
+00:26:47,940 --> 00:26:50,090
+plus
+donc vous pouvez afficher des visuels
+
+1288
+00:26:50,090 --> 00:26:50,100
+donc vous pouvez afficher des visuels
+ 
+
+1289
+00:26:50,100 --> 00:27:00,529
+donc vous pouvez afficher des visuels
+vous pouvez activer des podcasts
+
+1290
+00:27:00,529 --> 00:27:00,539
+
+ 
+
+1291
+00:27:00,539 --> 00:27:02,930
+
+DRH si vous voulez travailler chez nous
+
+1292
+00:27:02,930 --> 00:27:02,940
+DRH si vous voulez travailler chez nous
+ 
+
+1293
+00:27:02,940 --> 00:27:07,490
+DRH si vous voulez travailler chez nous
+et la DAF elle lui parle pas
+
+1294
+00:27:07,490 --> 00:27:07,500
+
+ 
+
+1295
+00:27:07,500 --> 00:27:09,190
+
+vous avez des nids
+
+1296
+00:27:09,190 --> 00:27:09,200
+vous avez des nids
+ 
+
+1297
+00:27:09,200 --> 00:27:10,660
+vous avez des nids
+c'est ça
+
+1298
+00:27:10,660 --> 00:27:10,670
+c'est ça
+ 
+
+1299
+00:27:10,670 --> 00:27:15,130
+c'est ça
+[Musique]
+
+1300
+00:27:15,130 --> 00:27:15,140
+[Musique]
+ 
+
+1301
+00:27:15,140 --> 00:27:17,330
+[Musique]
+bonjour à tous Aujourd'hui on accueille
+
+1302
+00:27:17,330 --> 00:27:17,340
+bonjour à tous Aujourd'hui on accueille
+ 
+
+1303
+00:27:17,340 --> 00:27:18,890
+bonjour à tous Aujourd'hui on accueille
+Elsa directrice des ressources humaines
+
+1304
+00:27:18,890 --> 00:27:18,900
+Elsa directrice des ressources humaines
+ 
+
+1305
+00:27:18,900 --> 00:27:21,470
+Elsa directrice des ressources humaines
+chez nigi bonjour Elsa bonjour Alors
+
+1306
+00:27:21,470 --> 00:27:21,480
+chez nigi bonjour Elsa bonjour Alors
+ 
+
+1307
+00:27:21,480 --> 00:27:22,730
+chez nigi bonjour Elsa bonjour Alors
+première question comment
+
+1308
+00:27:22,730 --> 00:27:22,740
+première question comment
+ 
+
+1309
+00:27:22,740 --> 00:27:24,350
+première question comment
+qualifierais-tu l'état d'esprit et
+
+1310
+00:27:24,350 --> 00:27:24,360
+qualifierais-tu l'état d'esprit et
+ 
+
+1311
+00:27:24,360 --> 00:27:26,269
+qualifierais-tu l'état d'esprit et
+l'ambiance chez Niji je dirais d'abord
+
+1312
+00:27:26,269 --> 00:27:26,279
+l'ambiance chez Niji je dirais d'abord
+ 
+
+1313
+00:27:26,279 --> 00:27:30,230
+l'ambiance chez Niji je dirais d'abord
+la proximité et la simplicité on cultive
+
+1314
+00:27:30,230 --> 00:27:30,240
+la proximité et la simplicité on cultive
+ 
+
+1315
+00:27:30,240 --> 00:27:32,510
+la proximité et la simplicité on cultive
+vraiment ce savoir vivre ensemble bon
+
+1316
+00:27:32,510 --> 00:27:32,520
+vraiment ce savoir vivre ensemble bon
+ 
+
+1317
+00:27:32,520 --> 00:27:34,669
+vraiment ce savoir vivre ensemble bon
+sans oublier l'exigence et la fierté de
+
+1318
+00:27:34,669 --> 00:27:34,679
+sans oublier l'exigence et la fierté de
+ 
+
+1319
+00:27:34,679 --> 00:27:36,409
+sans oublier l'exigence et la fierté de
+nos savoir-faire expertise il y a
+
+1320
+00:27:36,409 --> 00:27:36,419
+nos savoir-faire expertise il y a
+ 
+
+1321
+00:27:36,419 --> 00:27:38,210
+nos savoir-faire expertise il y a
+d'ailleurs une pluralité de profil qui
+
+1322
+00:27:38,210 --> 00:27:38,220
+d'ailleurs une pluralité de profil qui
+ 
+
+1323
+00:27:38,220 --> 00:27:40,190
+d'ailleurs une pluralité de profil qui
+est très importante chez Niger donc là
+
+1324
+00:27:40,190 --> 00:27:40,200
+est très importante chez Niger donc là
+ 
+
+1325
+00:27:40,200 --> 00:27:41,750
+est très importante chez Niger donc là
+vous avez certainement entendu la
+
+1326
+00:27:41,750 --> 00:27:41,760
+vous avez certainement entendu la
+ 
+
+1327
+00:27:41,760 --> 00:27:43,269
+vous avez certainement entendu la
+qualité audio
+
+1328
+00:27:43,269 --> 00:27:43,279
+qualité audio
+ 
+
+1329
+00:27:43,279 --> 00:27:45,950
+qualité audio
+la qualité audio elle est vraiment pas
+
+1330
+00:27:45,950 --> 00:27:45,960
+la qualité audio elle est vraiment pas
+ 
+
+1331
+00:27:45,960 --> 00:27:47,690
+la qualité audio elle est vraiment pas
+top en fait c'est voulu c'est ça qui est
+
+1332
+00:27:47,690 --> 00:27:47,700
+top en fait c'est voulu c'est ça qui est
+ 
+
+1333
+00:27:47,700 --> 00:27:48,649
+top en fait c'est voulu c'est ça qui est
+magnifique c'est comme à l'époque
+
+1334
+00:27:48,649 --> 00:27:48,659
+magnifique c'est comme à l'époque
+ 
+
+1335
+00:27:48,659 --> 00:27:50,570
+magnifique c'est comme à l'époque
+lorsqu'on filmait avec des caméras 4K ou
+
+1336
+00:27:50,570 --> 00:27:50,580
+lorsqu'on filmait avec des caméras 4K ou
+ 
+
+1337
+00:27:50,580 --> 00:27:52,789
+lorsqu'on filmait avec des caméras 4K ou
+de les 8k on devait les dégrader pour
+
+1338
+00:27:52,789 --> 00:27:52,799
+de les 8k on devait les dégrader pour
+ 
+
+1339
+00:27:52,799 --> 00:27:55,010
+de les 8k on devait les dégrader pour
+que ça un peu de personnalité sur le
+
+1340
+00:27:55,010 --> 00:27:55,020
+que ça un peu de personnalité sur le
+ 
+
+1341
+00:27:55,020 --> 00:27:57,409
+que ça un peu de personnalité sur le
+Podcast qu'on a appelé ni Dukas c'est
+
+1342
+00:27:57,409 --> 00:27:57,419
+Podcast qu'on a appelé ni Dukas c'est
+ 
+
+1343
+00:27:57,419 --> 00:27:59,510
+Podcast qu'on a appelé ni Dukas c'est
+exactement on a enregistré dans un super
+
+1344
+00:27:59,510 --> 00:27:59,520
+exactement on a enregistré dans un super
+ 
+
+1345
+00:27:59,520 --> 00:28:01,370
+exactement on a enregistré dans un super
+studio parisien
+
+1346
+00:28:01,370 --> 00:28:01,380
+studio parisien
+ 
+
+1347
+00:28:01,380 --> 00:28:03,409
+studio parisien
+et bordelaise certainement prochaine
+
+1348
+00:28:03,409 --> 00:28:03,419
+et bordelaise certainement prochaine
+ 
+
+1349
+00:28:03,419 --> 00:28:05,390
+et bordelaise certainement prochaine
+étape en revanche ce studio était
+
+1350
+00:28:05,390 --> 00:28:05,400
+étape en revanche ce studio était
+ 
+
+1351
+00:28:05,400 --> 00:28:07,970
+étape en revanche ce studio était
+magnifique a fait du son parfait AIFF
+
+1352
+00:28:07,970 --> 00:28:07,980
+magnifique a fait du son parfait AIFF
+ 
+
+1353
+00:28:07,980 --> 00:28:09,230
+magnifique a fait du son parfait AIFF
+pour ceux et celles qui connaissent et
+
+1354
+00:28:09,230 --> 00:28:09,240
+pour ceux et celles qui connaissent et
+ 
+
+1355
+00:28:09,240 --> 00:28:11,390
+pour ceux et celles qui connaissent et
+on a tout dégradé on est passé en mono
+
+1356
+00:28:11,390 --> 00:28:11,400
+on a tout dégradé on est passé en mono
+ 
+
+1357
+00:28:11,400 --> 00:28:14,029
+on a tout dégradé on est passé en mono
+on a baissé le bitrite pour cette
+
+1358
+00:28:14,029 --> 00:28:14,039
+on a baissé le bitrite pour cette
+ 
+
+1359
+00:28:14,039 --> 00:28:17,390
+on a baissé le bitrite pour cette
+qualité qui est voilà mais ça permet
+
+1360
+00:28:17,390 --> 00:28:17,400
+qualité qui est voilà mais ça permet
+ 
+
+1361
+00:28:17,400 --> 00:28:19,070
+qualité qui est voilà mais ça permet
+d'avoir vous parler de ton de la marque
+
+1362
+00:28:19,070 --> 00:28:19,080
+d'avoir vous parler de ton de la marque
+ 
+
+1363
+00:28:19,080 --> 00:28:20,750
+d'avoir vous parler de ton de la marque
+en fait ça c'est une affirmation c'est
+
+1364
+00:28:20,750 --> 00:28:20,760
+en fait ça c'est une affirmation c'est
+ 
+
+1365
+00:28:20,760 --> 00:28:22,909
+en fait ça c'est une affirmation c'est
+un statement et au passage c'est
+
+1366
+00:28:22,909 --> 00:28:22,919
+un statement et au passage c'est
+ 
+
+1367
+00:28:22,919 --> 00:28:25,250
+un statement et au passage c'est
+beaucoup plus éco-conçu tous ces notions
+
+1368
+00:28:25,250 --> 00:28:25,260
+beaucoup plus éco-conçu tous ces notions
+ 
+
+1369
+00:28:25,260 --> 00:28:26,630
+beaucoup plus éco-conçu tous ces notions
+là vous avez vu dalker vous avez vu ni
+
+1370
+00:28:26,630 --> 00:28:26,640
+là vous avez vu dalker vous avez vu ni
+ 
+
+1371
+00:28:26,640 --> 00:28:27,710
+là vous avez vu dalker vous avez vu ni
+dit
+
+1372
+00:28:27,710 --> 00:28:27,720
+dit
+ 
+
+1373
+00:28:27,720 --> 00:28:29,570
+dit
+pour moi ce qui hyper important c'est de
+
+1374
+00:28:29,570 --> 00:28:29,580
+pour moi ce qui hyper important c'est de
+ 
+
+1375
+00:28:29,580 --> 00:28:31,549
+pour moi ce qui hyper important c'est de
+faire de l'éco-conception ce stynambule
+
+1376
+00:28:31,549 --> 00:28:31,559
+faire de l'éco-conception ce stynambule
+ 
+
+1377
+00:28:31,559 --> 00:28:32,930
+faire de l'éco-conception ce stynambule
+design
+
+1378
+00:28:32,930 --> 00:28:32,940
+design
+ 
+
+1379
+00:28:32,940 --> 00:28:35,630
+design
+propriétaire sinon on finit avec une
+
+1380
+00:28:35,630 --> 00:28:35,640
+propriétaire sinon on finit avec une
+ 
+
+1381
+00:28:35,640 --> 00:28:37,850
+propriétaire sinon on finit avec une
+méthodologie et des cases à cocher et du
+
+1382
+00:28:37,850 --> 00:28:37,860
+méthodologie et des cases à cocher et du
+ 
+
+1383
+00:28:37,860 --> 00:28:39,470
+méthodologie et des cases à cocher et du
+coup tout le monde tout le monde fait
+
+1384
+00:28:39,470 --> 00:28:39,480
+coup tout le monde tout le monde fait
+ 
+
+1385
+00:28:39,480 --> 00:28:40,789
+coup tout le monde tout le monde fait
+pareil
+
+1386
+00:28:40,789 --> 00:28:40,799
+pareil
+ 
+
+1387
+00:28:40,799 --> 00:28:43,010
+pareil
+donc là on va tomber sur l'aspect
+
+1388
+00:28:43,010 --> 00:28:43,020
+donc là on va tomber sur l'aspect
+ 
+
+1389
+00:28:43,020 --> 00:28:46,070
+donc là on va tomber sur l'aspect
+technique c'est un peu plus sérieux
+
+1390
+00:28:46,070 --> 00:28:46,080
+technique c'est un peu plus sérieux
+ 
+
+1391
+00:28:46,080 --> 00:28:48,649
+technique c'est un peu plus sérieux
+architecture et co-conçu donc vous avez
+
+1392
+00:28:48,649 --> 00:28:48,659
+architecture et co-conçu donc vous avez
+ 
+
+1393
+00:28:48,659 --> 00:28:51,470
+architecture et co-conçu donc vous avez
+un CMS donc c'est un peu backte de futur
+
+1394
+00:28:51,470 --> 00:28:51,480
+un CMS donc c'est un peu backte de futur
+ 
+
+1395
+00:28:51,480 --> 00:28:55,010
+un CMS donc c'est un peu backte de futur
+ici vous avez des éléments des assets
+
+1396
+00:28:55,010 --> 00:28:55,020
+ici vous avez des éléments des assets
+ 
+
+1397
+00:28:55,020 --> 00:28:56,870
+ici vous avez des éléments des assets
+des bootstack qui sont
+
+1398
+00:28:56,870 --> 00:28:56,880
+des bootstack qui sont
+ 
+
+1399
+00:28:56,880 --> 00:28:59,149
+des bootstack qui sont
+ultra avant garder pour faire du
+
+1400
+00:28:59,149 --> 00:28:59,159
+ultra avant garder pour faire du
+ 
+
+1401
+00:28:59,159 --> 00:29:00,649
+ultra avant garder pour faire du
+statique comme on faisait il y a 20 ans
+
+1402
+00:29:00,649 --> 00:29:00,659
+statique comme on faisait il y a 20 ans
+ 
+
+1403
+00:29:00,659 --> 00:29:03,590
+statique comme on faisait il y a 20 ans
+donc vous avez ce site statique qui est
+
+1404
+00:29:03,590 --> 00:29:03,600
+donc vous avez ce site statique qui est
+ 
+
+1405
+00:29:03,600 --> 00:29:05,630
+donc vous avez ce site statique qui est
+généré par astro
+
+1406
+00:29:05,630 --> 00:29:05,640
+généré par astro
+ 
+
+1407
+00:29:05,640 --> 00:29:07,909
+généré par astro
+qui est basé sur strappy que le CMS en
+
+1408
+00:29:07,909 --> 00:29:07,919
+qui est basé sur strappy que le CMS en
+ 
+
+1409
+00:29:07,919 --> 00:29:12,289
+qui est basé sur strappy que le CMS en
+fait
+
+1410
+00:29:12,289 --> 00:29:12,299
+
+ 
+
+1411
+00:29:12,299 --> 00:29:14,149
+
+vous avez une infrastructure qui somme
+
+1412
+00:29:14,149 --> 00:29:14,159
+vous avez une infrastructure qui somme
+ 
+
+1413
+00:29:14,159 --> 00:29:17,750
+vous avez une infrastructure qui somme
+toute assez légère la partie rose
+
+1414
+00:29:17,750 --> 00:29:17,760
+
+ 
+
+1415
+00:29:17,760 --> 00:29:19,850
+
+c'est la contrib donc le stack obstacle
+
+1416
+00:29:19,850 --> 00:29:19,860
+c'est la contrib donc le stack obstacle
+ 
+
+1417
+00:29:19,860 --> 00:29:21,350
+c'est la contrib donc le stack obstacle
+de contribution donc ce qu'on appelle le
+
+1418
+00:29:21,350 --> 00:29:21,360
+de contribution donc ce qu'on appelle le
+ 
+
+1419
+00:29:21,360 --> 00:29:23,870
+de contribution donc ce qu'on appelle le
+stageing aussi et donc ça s'allume à la
+
+1420
+00:29:23,870 --> 00:29:23,880
+stageing aussi et donc ça s'allume à la
+ 
+
+1421
+00:29:23,880 --> 00:29:26,510
+stageing aussi et donc ça s'allume à la
+demande c'est la nouveauté en fait
+
+1422
+00:29:26,510 --> 00:29:26,520
+demande c'est la nouveauté en fait
+ 
+
+1423
+00:29:26,520 --> 00:29:28,669
+demande c'est la nouveauté en fait
+tout le temps est un sauf qu'on a besoin
+
+1424
+00:29:28,669 --> 00:29:28,679
+tout le temps est un sauf qu'on a besoin
+ 
+
+1425
+00:29:28,679 --> 00:29:30,350
+tout le temps est un sauf qu'on a besoin
+de contribuer
+
+1426
+00:29:30,350 --> 00:29:30,360
+de contribuer
+ 
+
+1427
+00:29:30,360 --> 00:29:31,850
+de contribuer
+et lorsque c'est contribué mais pour le
+
+1428
+00:29:31,850 --> 00:29:31,860
+et lorsque c'est contribué mais pour le
+ 
+
+1429
+00:29:31,860 --> 00:29:34,789
+et lorsque c'est contribué mais pour le
+coup ça va pulser sur la partie verte
+
+1430
+00:29:34,789 --> 00:29:34,799
+coup ça va pulser sur la partie verte
+ 
+
+1431
+00:29:34,799 --> 00:29:40,010
+coup ça va pulser sur la partie verte
+la prod le bout de site statique
+
+1432
+00:29:40,010 --> 00:29:40,020
+
+ 
+
+1433
+00:29:40,020 --> 00:29:41,570
+
+pourquoi mesurer je vais parler de la
+
+1434
+00:29:41,570 --> 00:29:41,580
+pourquoi mesurer je vais parler de la
+ 
+
+1435
+00:29:41,580 --> 00:29:43,370
+pourquoi mesurer je vais parler de la
+mesure pourquoi mesurer il faut mesurer
+
+1436
+00:29:43,370 --> 00:29:43,380
+mesure pourquoi mesurer il faut mesurer
+ 
+
+1437
+00:29:43,380 --> 00:29:45,169
+mesure pourquoi mesurer il faut mesurer
+pour s'améliorer mesurer pour se
+
+1438
+00:29:45,169 --> 00:29:45,179
+pour s'améliorer mesurer pour se
+ 
+
+1439
+00:29:45,179 --> 00:29:47,750
+pour s'améliorer mesurer pour se
+comparer et mesurer pour prouver ça
+
+1440
+00:29:47,750 --> 00:29:47,760
+comparer et mesurer pour prouver ça
+ 
+
+1441
+00:29:47,760 --> 00:29:49,430
+comparer et mesurer pour prouver ça
+c'est un des avantages aussi des sites
+
+1442
+00:29:49,430 --> 00:29:49,440
+c'est un des avantages aussi des sites
+ 
+
+1443
+00:29:49,440 --> 00:29:51,409
+c'est un des avantages aussi des sites
+éco-conçus c'est que pour le coup chaque
+
+1444
+00:29:51,409 --> 00:29:51,419
+éco-conçus c'est que pour le coup chaque
+ 
+
+1445
+00:29:51,419 --> 00:29:53,330
+éco-conçus c'est que pour le coup chaque
+fois qu'on affirme quelque chose on est
+
+1446
+00:29:53,330 --> 00:29:53,340
+fois qu'on affirme quelque chose on est
+ 
+
+1447
+00:29:53,340 --> 00:29:55,130
+fois qu'on affirme quelque chose on est
+en mesure de le prouver de façon
+
+1448
+00:29:55,130 --> 00:29:55,140
+en mesure de le prouver de façon
+ 
+
+1449
+00:29:55,140 --> 00:29:56,690
+en mesure de le prouver de façon
+imparfaite parce que encore on a une
+
+1450
+00:29:56,690 --> 00:29:56,700
+imparfaite parce que encore on a une
+ 
+
+1451
+00:29:56,700 --> 00:29:58,010
+imparfaite parce que encore on a une
+fois on n'a pas la chaîne de mesure du
+
+1452
+00:29:58,010 --> 00:29:58,020
+fois on n'a pas la chaîne de mesure du
+ 
+
+1453
+00:29:58,020 --> 00:29:59,810
+fois on n'a pas la chaîne de mesure du
+début jusqu'à la fin
+
+1454
+00:29:59,810 --> 00:29:59,820
+début jusqu'à la fin
+ 
+
+1455
+00:29:59,820 --> 00:30:00,889
+début jusqu'à la fin
+mais en tout cas on est capable d'avoir
+
+1456
+00:30:00,889 --> 00:30:00,899
+mais en tout cas on est capable d'avoir
+ 
+
+1457
+00:30:00,899 --> 00:30:03,289
+mais en tout cas on est capable d'avoir
+des éléments qui nous permettent de
+
+1458
+00:30:03,289 --> 00:30:03,299
+des éléments qui nous permettent de
+ 
+
+1459
+00:30:03,299 --> 00:30:05,510
+des éléments qui nous permettent de
+prouver
+
+1460
+00:30:05,510 --> 00:30:05,520
+
+ 
+
+1461
+00:30:05,520 --> 00:30:09,470
+
+se comparer avant on avait 94% du site
+
+1462
+00:30:09,470 --> 00:30:09,480
+se comparer avant on avait 94% du site
+ 
+
+1463
+00:30:09,480 --> 00:30:15,610
+se comparer avant on avait 94% du site
+en fait pardon le site est à 94% plus
+
+1464
+00:30:15,610 --> 00:30:15,620
+
+ 
+
+1465
+00:30:15,620 --> 00:30:18,529
+
+plus d'impact parmi les pires élèves en
+
+1466
+00:30:18,529 --> 00:30:18,539
+plus d'impact parmi les pires élèves en
+ 
+
+1467
+00:30:18,539 --> 00:30:20,450
+plus d'impact parmi les pires élèves en
+fait de la planète en termes
+
+1468
+00:30:20,450 --> 00:30:20,460
+fait de la planète en termes
+ 
+
+1469
+00:30:20,460 --> 00:30:21,889
+fait de la planète en termes
+d'éco-conception ça c'est notre ancien
+
+1470
+00:30:21,889 --> 00:30:21,899
+d'éco-conception ça c'est notre ancien
+ 
+
+1471
+00:30:21,899 --> 00:30:22,909
+d'éco-conception ça c'est notre ancien
+site on en parle plus parce que
+
+1472
+00:30:22,909 --> 00:30:22,919
+site on en parle plus parce que
+ 
+
+1473
+00:30:22,919 --> 00:30:26,269
+site on en parle plus parce que
+aujourd'hui on est 98% en fait on est
+
+1474
+00:30:26,269 --> 00:30:26,279
+aujourd'hui on est 98% en fait on est
+ 
+
+1475
+00:30:26,279 --> 00:30:27,710
+aujourd'hui on est 98% en fait on est
+meilleurs en terme d'éco-conception
+
+1476
+00:30:27,710 --> 00:30:27,720
+meilleurs en terme d'éco-conception
+ 
+
+1477
+00:30:27,720 --> 00:30:30,049
+meilleurs en terme d'éco-conception
+d'ailleurs c'est un mot relatif meilleur
+
+1478
+00:30:30,049 --> 00:30:30,059
+d'ailleurs c'est un mot relatif meilleur
+ 
+
+1479
+00:30:30,059 --> 00:30:34,029
+d'ailleurs c'est un mot relatif meilleur
+en termes d'écoconception que 98% des
+
+1480
+00:30:34,029 --> 00:30:34,039
+en termes d'écoconception que 98% des
+ 
+
+1481
+00:30:34,039 --> 00:30:38,570
+en termes d'écoconception que 98% des
+sites Web de la planète
+
+1482
+00:30:38,570 --> 00:30:38,580
+
+ 
+
+1483
+00:30:38,580 --> 00:30:41,149
+
+mesurer pour prouver donc là on peut
+
+1484
+00:30:41,149 --> 00:30:41,159
+mesurer pour prouver donc là on peut
+ 
+
+1485
+00:30:41,159 --> 00:30:43,010
+mesurer pour prouver donc là on peut
+prouver parce que on a comparé en fait
+
+1486
+00:30:43,010 --> 00:30:43,020
+prouver parce que on a comparé en fait
+ 
+
+1487
+00:30:43,020 --> 00:30:45,529
+prouver parce que on a comparé en fait
+l'architecture tel que on l'a fait donc
+
+1488
+00:30:45,529 --> 00:30:45,539
+l'architecture tel que on l'a fait donc
+ 
+
+1489
+00:30:45,539 --> 00:30:47,870
+l'architecture tel que on l'a fait donc
+en génération statique versus une
+
+1490
+00:30:47,870 --> 00:30:47,880
+en génération statique versus une
+ 
+
+1491
+00:30:47,880 --> 00:30:50,269
+en génération statique versus une
+architecture qui est pour le coup ce
+
+1492
+00:30:50,269 --> 00:30:50,279
+architecture qui est pour le coup ce
+ 
+
+1493
+00:30:50,279 --> 00:30:51,889
+architecture qui est pour le coup ce
+qu'on fait habituellement donc c'est un
+
+1494
+00:30:51,889 --> 00:30:51,899
+qu'on fait habituellement donc c'est un
+ 
+
+1495
+00:30:51,899 --> 00:30:54,710
+qu'on fait habituellement donc c'est un
+vrai serveur avec des appels API ça pose
+
+1496
+00:30:54,710 --> 00:30:54,720
+vrai serveur avec des appels API ça pose
+ 
+
+1497
+00:30:54,720 --> 00:30:55,909
+vrai serveur avec des appels API ça pose
+standard du marché donc on a comparé les
+
+1498
+00:30:55,909 --> 00:30:55,919
+standard du marché donc on a comparé les
+ 
+
+1499
+00:30:55,919 --> 00:30:57,830
+standard du marché donc on a comparé les
+deux bah en fait il y a une base de 87%
+
+1500
+00:30:57,830 --> 00:30:57,840
+deux bah en fait il y a une base de 87%
+ 
+
+1501
+00:30:57,840 --> 00:30:59,630
+deux bah en fait il y a une base de 87%
+donc lorsqu'on le fait avec une archi
+
+1502
+00:30:59,630 --> 00:30:59,640
+donc lorsqu'on le fait avec une archi
+ 
+
+1503
+00:30:59,640 --> 00:31:02,090
+donc lorsqu'on le fait avec une archi
+comme on a travaillé avec les équipes de
+
+1504
+00:31:02,090 --> 00:31:02,100
+comme on a travaillé avec les équipes de
+ 
+
+1505
+00:31:02,100 --> 00:31:08,450
+comme on a travaillé avec les équipes de
+Vincent on a moins 87% d'impact CO2
+
+1506
+00:31:08,450 --> 00:31:08,460
+Vincent on a moins 87% d'impact CO2
+ 
+
+1507
+00:31:08,460 --> 00:31:11,810
+Vincent on a moins 87% d'impact CO2
+et on mesure pourquoi pour s'améliorer
+
+1508
+00:31:11,810 --> 00:31:11,820
+et on mesure pourquoi pour s'améliorer
+ 
+
+1509
+00:31:11,820 --> 00:31:14,570
+et on mesure pourquoi pour s'améliorer
+les débuts de graphe à gauche c'était
+
+1510
+00:31:14,570 --> 00:31:14,580
+les débuts de graphe à gauche c'était
+ 
+
+1511
+00:31:14,580 --> 00:31:15,769
+les débuts de graphe à gauche c'était
+certaines des pages qui pour le coup
+
+1512
+00:31:15,769 --> 00:31:15,779
+certaines des pages qui pour le coup
+ 
+
+1513
+00:31:15,779 --> 00:31:17,750
+certaines des pages qui pour le coup
+malgré le fait qu'on voulait faire du a
+
+1514
+00:31:17,750 --> 00:31:17,760
+malgré le fait qu'on voulait faire du a
+ 
+
+1515
+00:31:17,760 --> 00:31:19,850
+malgré le fait qu'on voulait faire du a
+en écho index malgré le fait qu'on
+
+1516
+00:31:19,850 --> 00:31:19,860
+en écho index malgré le fait qu'on
+ 
+
+1517
+00:31:19,860 --> 00:31:21,230
+en écho index malgré le fait qu'on
+voulait avoir un impact carbone le plus
+
+1518
+00:31:21,230 --> 00:31:21,240
+voulait avoir un impact carbone le plus
+ 
+
+1519
+00:31:21,240 --> 00:31:23,870
+voulait avoir un impact carbone le plus
+faible en fait jusqu'à quelques semaines
+
+1520
+00:31:23,870 --> 00:31:23,880
+faible en fait jusqu'à quelques semaines
+ 
+
+1521
+00:31:23,880 --> 00:31:26,210
+faible en fait jusqu'à quelques semaines
+avant de le sortir on était toujours on
+
+1522
+00:31:26,210 --> 00:31:26,220
+avant de le sortir on était toujours on
+ 
+
+1523
+00:31:26,220 --> 00:31:28,669
+avant de le sortir on était toujours on
+était pas en fait et donc c'est de
+
+1524
+00:31:28,669 --> 00:31:28,679
+était pas en fait et donc c'est de
+ 
+
+1525
+00:31:28,679 --> 00:31:30,110
+était pas en fait et donc c'est de
+l'amélioration continue mais on a
+
+1526
+00:31:30,110 --> 00:31:30,120
+l'amélioration continue mais on a
+ 
+
+1527
+00:31:30,120 --> 00:31:31,190
+l'amélioration continue mais on a
+vraiment aujourd'hui on parle de
+
+1528
+00:31:31,190 --> 00:31:31,200
+vraiment aujourd'hui on parle de
+ 
+
+1529
+00:31:31,200 --> 00:31:32,149
+vraiment aujourd'hui on parle de
+gouvernance on a une gouvernance
+
+1530
+00:31:32,149 --> 00:31:32,159
+gouvernance on a une gouvernance
+ 
+
+1531
+00:31:32,159 --> 00:31:33,649
+gouvernance on a une gouvernance
+éco-conçue sur le déco conception
+
+1532
+00:31:33,649 --> 00:31:33,659
+éco-conçue sur le déco conception
+ 
+
+1533
+00:31:33,659 --> 00:31:35,510
+éco-conçue sur le déco conception
+parlant sur le site
+
+1534
+00:31:35,510 --> 00:31:35,520
+parlant sur le site
+ 
+
+1535
+00:31:35,520 --> 00:31:36,889
+parlant sur le site
+et c'est là alors on a monté un petit
+
+1536
+00:31:36,889 --> 00:31:36,899
+et c'est là alors on a monté un petit
+ 
+
+1537
+00:31:36,899 --> 00:31:39,110
+et c'est là alors on a monté un petit
+truc vite avec grafana mais ça nous
+
+1538
+00:31:39,110 --> 00:31:39,120
+truc vite avec grafana mais ça nous
+ 
+
+1539
+00:31:39,120 --> 00:31:41,289
+truc vite avec grafana mais ça nous
+permet tout de même de pouvoir
+
+1540
+00:31:41,289 --> 00:31:41,299
+permet tout de même de pouvoir
+ 
+
+1541
+00:31:41,299 --> 00:31:44,330
+permet tout de même de pouvoir
+mesurer pour s'améliorer
+
+1542
+00:31:44,330 --> 00:31:44,340
+mesurer pour s'améliorer
+ 
+
+1543
+00:31:44,340 --> 00:31:46,430
+mesurer pour s'améliorer
+on a un hébergement donc Henri IV en
+
+1544
+00:31:46,430 --> 00:31:46,440
+on a un hébergement donc Henri IV en
+ 
+
+1545
+00:31:46,440 --> 00:31:47,810
+on a un hébergement donc Henri IV en
+hébergement respectueux de
+
+1546
+00:31:47,810 --> 00:31:47,820
+hébergement respectueux de
+ 
+
+1547
+00:31:47,820 --> 00:31:49,610
+hébergement respectueux de
+l'environnement
+
+1548
+00:31:49,610 --> 00:31:49,620
+l'environnement
+ 
+
+1549
+00:31:49,620 --> 00:31:51,190
+l'environnement
+des serveurs qui sont
+
+1550
+00:31:51,190 --> 00:31:51,200
+des serveurs qui sont
+ 
+
+1551
+00:31:51,200 --> 00:31:54,289
+des serveurs qui sont
+immergés dans un bain d'huile il y en a
+
+1552
+00:31:54,289 --> 00:31:54,299
+immergés dans un bain d'huile il y en a
+ 
+
+1553
+00:31:54,299 --> 00:31:56,570
+immergés dans un bain d'huile il y en a
+qui vont dans un jacuzzi avec un vélo
+
+1554
+00:31:56,570 --> 00:31:56,580
+qui vont dans un jacuzzi avec un vélo
+ 
+
+1555
+00:31:56,580 --> 00:31:58,610
+qui vont dans un jacuzzi avec un vélo
+pour le chauffer il y en a qui vont dans
+
+1556
+00:31:58,610 --> 00:31:58,620
+pour le chauffer il y en a qui vont dans
+ 
+
+1557
+00:31:58,620 --> 00:32:00,350
+pour le chauffer il y en a qui vont dans
+des bains d'huile et ce sont ce que on
+
+1558
+00:32:00,350 --> 00:32:00,360
+des bains d'huile et ce sont ce que on
+ 
+
+1559
+00:32:00,360 --> 00:32:03,769
+des bains d'huile et ce sont ce que on
+fait les serveurs il y a 1,03 donc ça
+
+1560
+00:32:03,769 --> 00:32:03,779
+fait les serveurs il y a 1,03 donc ça
+ 
+
+1561
+00:32:03,779 --> 00:32:06,830
+fait les serveurs il y a 1,03 donc ça
+c'est le pure
+
+1562
+00:32:06,830 --> 00:32:06,840
+
+ 
+
+1563
+00:32:06,840 --> 00:32:08,930
+
+dont j'ai oublié le la signification du
+
+1564
+00:32:08,930 --> 00:32:08,940
+dont j'ai oublié le la signification du
+ 
+
+1565
+00:32:08,940 --> 00:32:11,149
+dont j'ai oublié le la signification du
+PER on va avoir Vincent en ligne tout à
+
+1566
+00:32:11,149 --> 00:32:11,159
+PER on va avoir Vincent en ligne tout à
+ 
+
+1567
+00:32:11,159 --> 00:32:13,250
+PER on va avoir Vincent en ligne tout à
+l'heure et donc c'est le data center en
+
+1568
+00:32:13,250 --> 00:32:13,260
+l'heure et donc c'est le data center en
+ 
+
+1569
+00:32:13,260 --> 00:32:14,870
+l'heure et donc c'est le data center en
+fait ce que ça veut dire j'ai oublié les
+
+1570
+00:32:14,870 --> 00:32:14,880
+fait ce que ça veut dire j'ai oublié les
+ 
+
+1571
+00:32:14,880 --> 00:32:15,769
+fait ce que ça veut dire j'ai oublié les
+trois lettres là mais ce que ça veut
+
+1572
+00:32:15,769 --> 00:32:15,779
+trois lettres là mais ce que ça veut
+ 
+
+1573
+00:32:15,779 --> 00:32:17,870
+trois lettres là mais ce que ça veut
+dire en clair c'est l'énergie donc
+
+1574
+00:32:17,870 --> 00:32:17,880
+dire en clair c'est l'énergie donc
+ 
+
+1575
+00:32:17,880 --> 00:32:19,370
+dire en clair c'est l'énergie donc
+l'alimentation électrique qui entre dans
+
+1576
+00:32:19,370 --> 00:32:19,380
+l'alimentation électrique qui entre dans
+ 
+
+1577
+00:32:19,380 --> 00:32:22,250
+l'alimentation électrique qui entre dans
+la ferme de serva versus qui est dédié à
+
+1578
+00:32:22,250 --> 00:32:22,260
+la ferme de serva versus qui est dédié à
+ 
+
+1579
+00:32:22,260 --> 00:32:24,289
+la ferme de serva versus qui est dédié à
+la puissance du serveur plus on
+
+1580
+00:32:24,289 --> 00:32:24,299
+la puissance du serveur plus on
+ 
+
+1581
+00:32:24,299 --> 00:32:26,450
+la puissance du serveur plus on
+s'approche de 1 mieux c'est et là on est
+
+1582
+00:32:26,450 --> 00:32:26,460
+s'approche de 1 mieux c'est et là on est
+ 
+
+1583
+00:32:26,460 --> 00:32:30,110
+s'approche de 1 mieux c'est et là on est
+à 1,03 c'est comme ça qu'on a notamment
+
+1584
+00:32:30,110 --> 00:32:30,120
+à 1,03 c'est comme ça qu'on a notamment
+ 
+
+1585
+00:32:30,120 --> 00:32:35,990
+à 1,03 c'est comme ça qu'on a notamment
+choisi l'hébergeur et un seul serveur
+
+1586
+00:32:35,990 --> 00:32:36,000
+
+ 
+
+1587
+00:32:36,000 --> 00:32:39,950
+
+qui est positionné à un instant T et
+
+1588
+00:32:39,950 --> 00:32:39,960
+qui est positionné à un instant T et
+ 
+
+1589
+00:32:39,960 --> 00:32:40,970
+qui est positionné à un instant T et
+donc c'est ce que je vous disais le
+
+1590
+00:32:40,970 --> 00:32:40,980
+donc c'est ce que je vous disais le
+ 
+
+1591
+00:32:40,980 --> 00:32:43,669
+donc c'est ce que je vous disais le
+serveur de contribution n'est actif qu'à
+
+1592
+00:32:43,669 --> 00:32:43,679
+serveur de contribution n'est actif qu'à
+ 
+
+1593
+00:32:43,679 --> 00:32:45,590
+serveur de contribution n'est actif qu'à
+la demande
+
+1594
+00:32:45,590 --> 00:32:45,600
+la demande
+ 
+
+1595
+00:32:45,600 --> 00:32:48,169
+la demande
+des questions lourdes techniques et un
+
+1596
+00:32:48,169 --> 00:32:48,179
+des questions lourdes techniques et un
+ 
+
+1597
+00:32:48,179 --> 00:32:51,769
+des questions lourdes techniques et un
+LinkedIn qui envoie vers Vincent pelto
+
+1598
+00:32:51,769 --> 00:32:51,779
+LinkedIn qui envoie vers Vincent pelto
+ 
+
+1599
+00:32:51,779 --> 00:32:54,710
+LinkedIn qui envoie vers Vincent pelto
+les questions live à la volée
+
+1600
+00:32:54,710 --> 00:32:54,720
+les questions live à la volée
+ 
+
+1601
+00:32:54,720 --> 00:32:56,389
+les questions live à la volée
+je peux appeler un ami et il va vous
+
+1602
+00:32:56,389 --> 00:32:56,399
+je peux appeler un ami et il va vous
+ 
+
+1603
+00:32:56,399 --> 00:32:58,610
+je peux appeler un ami et il va vous
+répondre en live
+
+1604
+00:32:58,610 --> 00:32:58,620
+répondre en live
+ 
+
+1605
+00:32:58,620 --> 00:32:59,930
+répondre en live
+vous avez certainement des questions pas
+
+1606
+00:32:59,930 --> 00:32:59,940
+vous avez certainement des questions pas
+ 
+
+1607
+00:32:59,940 --> 00:33:01,570
+vous avez certainement des questions pas
+juste sur ni du point fr de questions
+
+1608
+00:33:01,570 --> 00:33:01,580
+juste sur ni du point fr de questions
+ 
+
+1609
+00:33:01,580 --> 00:33:05,570
+juste sur ni du point fr de questions
+habituellement il y a plein de questions
+
+1610
+00:33:05,570 --> 00:33:05,580
+
+ 
+
+1611
+00:33:05,580 --> 00:33:08,510
+
+qui en premier Joan
+
+1612
+00:33:08,510 --> 00:33:08,520
+qui en premier Joan
+ 
+
+1613
+00:33:08,520 --> 00:33:19,130
+qui en premier Joan
+juste derrière vous
+
+1614
+00:33:19,130 --> 00:33:19,140
+
+ 
+
+1615
+00:33:19,140 --> 00:33:27,590
+
+dites-moi
+
+1616
+00:33:27,590 --> 00:33:27,600
+
+ 
+
+1617
+00:33:27,600 --> 00:33:39,610
+
+oui
+
+1618
+00:33:39,610 --> 00:33:39,620
+
+ 
+
+1619
+00:33:39,620 --> 00:33:43,970
+
+je répète la question on a 87% de ce
+
+1620
+00:33:43,970 --> 00:33:43,980
+je répète la question on a 87% de ce
+ 
+
+1621
+00:33:43,980 --> 00:33:45,529
+je répète la question on a 87% de ce
+super question est-ce qu'on arrive avec
+
+1622
+00:33:45,529 --> 00:33:45,539
+super question est-ce qu'on arrive avec
+ 
+
+1623
+00:33:45,539 --> 00:33:48,409
+super question est-ce qu'on arrive avec
+le 87% de données de pourcentage de
+
+1624
+00:33:48,409 --> 00:33:48,419
+le 87% de données de pourcentage de
+ 
+
+1625
+00:33:48,419 --> 00:33:50,269
+le 87% de données de pourcentage de
+réduction qui est compilé est-ce qu'on
+
+1626
+00:33:50,269 --> 00:33:50,279
+réduction qui est compilé est-ce qu'on
+ 
+
+1627
+00:33:50,279 --> 00:33:52,310
+réduction qui est compilé est-ce qu'on
+arrive à identifier par exemple par
+
+1628
+00:33:52,310 --> 00:33:52,320
+arrive à identifier par exemple par
+ 
+
+1629
+00:33:52,320 --> 00:33:54,230
+arrive à identifier par exemple par
+rapport au serveur par rapport à la
+
+1630
+00:33:54,230 --> 00:33:54,240
+rapport au serveur par rapport à la
+ 
+
+1631
+00:33:54,240 --> 00:34:01,070
+rapport au serveur par rapport à la
+éteindre les serveurs la nuit non
+
+1632
+00:34:01,070 --> 00:34:01,080
+
+ 
+
+1633
+00:34:01,080 --> 00:34:03,110
+
+la question elle est plus pertinente et
+
+1634
+00:34:03,110 --> 00:34:03,120
+la question elle est plus pertinente et
+ 
+
+1635
+00:34:03,120 --> 00:34:04,130
+la question elle est plus pertinente et
+plus longue que la réponse la réponse
+
+1636
+00:34:04,130 --> 00:34:04,140
+plus longue que la réponse la réponse
+ 
+
+1637
+00:34:04,140 --> 00:34:05,529
+plus longue que la réponse la réponse
+c'est dommage parce que non en fait
+
+1638
+00:34:05,529 --> 00:34:05,539
+c'est dommage parce que non en fait
+ 
+
+1639
+00:34:05,539 --> 00:34:07,850
+c'est dommage parce que non en fait
+aujourd'hui vraiment l'art de la mesure
+
+1640
+00:34:07,850 --> 00:34:07,860
+aujourd'hui vraiment l'art de la mesure
+ 
+
+1641
+00:34:07,860 --> 00:34:09,950
+aujourd'hui vraiment l'art de la mesure
+il est hyper imparfait il faudra avoir
+
+1642
+00:34:09,950 --> 00:34:09,960
+il est hyper imparfait il faudra avoir
+ 
+
+1643
+00:34:09,960 --> 00:34:11,869
+il est hyper imparfait il faudra avoir
+des balises un peu partout que ça traîne
+
+1644
+00:34:11,869 --> 00:34:11,879
+des balises un peu partout que ça traîne
+ 
+
+1645
+00:34:11,879 --> 00:34:13,550
+des balises un peu partout que ça traîne
+et qu'on puisse relever les compteurs et
+
+1646
+00:34:13,550 --> 00:34:13,560
+et qu'on puisse relever les compteurs et
+ 
+
+1647
+00:34:13,560 --> 00:34:14,990
+et qu'on puisse relever les compteurs et
+puis on pourra affirmer sur un graphe
+
+1648
+00:34:14,990 --> 00:34:15,000
+puis on pourra affirmer sur un graphe
+ 
+
+1649
+00:34:15,000 --> 00:34:17,810
+puis on pourra affirmer sur un graphe
+beaucoup plus précis aujourd'hui non on
+
+1650
+00:34:17,810 --> 00:34:17,820
+beaucoup plus précis aujourd'hui non on
+ 
+
+1651
+00:34:17,820 --> 00:34:19,669
+beaucoup plus précis aujourd'hui non on
+a quelques éléments offrande on a
+
+1652
+00:34:19,669 --> 00:34:19,679
+a quelques éléments offrande on a
+ 
+
+1653
+00:34:19,679 --> 00:34:21,290
+a quelques éléments offrande on a
+quelques éléments sur le code on a
+
+1654
+00:34:21,290 --> 00:34:21,300
+quelques éléments sur le code on a
+ 
+
+1655
+00:34:21,300 --> 00:34:23,450
+quelques éléments sur le code on a
+quelques éléments les bergeurs et
+
+1656
+00:34:23,450 --> 00:34:23,460
+quelques éléments les bergeurs et
+ 
+
+1657
+00:34:23,460 --> 00:34:24,710
+quelques éléments les bergeurs et
+franchement c'est ce qui est un peu
+
+1658
+00:34:24,710 --> 00:34:24,720
+franchement c'est ce qui est un peu
+ 
+
+1659
+00:34:24,720 --> 00:34:25,510
+franchement c'est ce qui est un peu
+dommage
+
+1660
+00:34:25,510 --> 00:34:25,520
+dommage
+ 
+
+1661
+00:34:25,520 --> 00:34:29,389
+dommage
+ce serait pas mal qu'un acteur étatique
+
+1662
+00:34:29,389 --> 00:34:29,399
+ce serait pas mal qu'un acteur étatique
+ 
+
+1663
+00:34:29,399 --> 00:34:32,210
+ce serait pas mal qu'un acteur étatique
+puisse arriver avec des standards pour
+
+1664
+00:34:32,210 --> 00:34:32,220
+puisse arriver avec des standards pour
+ 
+
+1665
+00:34:32,220 --> 00:34:33,409
+puisse arriver avec des standards pour
+un peu tout le monde en fait on a une
+
+1666
+00:34:33,409 --> 00:34:33,419
+un peu tout le monde en fait on a une
+ 
+
+1667
+00:34:33,419 --> 00:34:34,970
+un peu tout le monde en fait on a une
+question juste derrière Jolan
+
+1668
+00:34:34,970 --> 00:34:34,980
+question juste derrière Jolan
+ 
+
+1669
+00:34:34,980 --> 00:34:37,129
+question juste derrière Jolan
+[Musique]
+
+1670
+00:34:37,129 --> 00:34:37,139
+[Musique]
+ 
+
+1671
+00:34:37,139 --> 00:34:38,270
+[Musique]
+en fait votre collègue s'appelle pas
+
+1672
+00:34:38,270 --> 00:34:38,280
+en fait votre collègue s'appelle pas
+ 
+
+1673
+00:34:38,280 --> 00:34:40,730
+en fait votre collègue s'appelle pas
+jeune vous appelez comment
+
+1674
+00:34:40,730 --> 00:34:40,740
+jeune vous appelez comment
+ 
+
+1675
+00:34:40,740 --> 00:34:45,710
+jeune vous appelez comment
+Cyriaque Cyriaque
+
+1676
+00:34:45,710 --> 00:34:45,720
+
+ 
+
+1677
+00:34:45,720 --> 00:34:47,810
+
+bonjour moi j'ai une petite question
+
+1678
+00:34:47,810 --> 00:34:47,820
+bonjour moi j'ai une petite question
+ 
+
+1679
+00:34:47,820 --> 00:34:50,270
+bonjour moi j'ai une petite question
+est-ce que votre pour vos CAPI vous
+
+1680
+00:34:50,270 --> 00:34:50,280
+est-ce que votre pour vos CAPI vous
+ 
+
+1681
+00:34:50,280 --> 00:34:52,010
+est-ce que votre pour vos CAPI vous
+utilisez que le Eko index vous utilisez
+
+1682
+00:34:52,010 --> 00:34:52,020
+utilisez que le Eko index vous utilisez
+ 
+
+1683
+00:34:52,020 --> 00:34:54,470
+utilisez que le Eko index vous utilisez
+d'autres d'autres et puis non on a
+
+1684
+00:34:54,470 --> 00:34:54,480
+d'autres d'autres et puis non on a
+ 
+
+1685
+00:34:54,480 --> 00:34:57,109
+d'autres d'autres et puis non on a
+utilisé d'autres KPI notamment et codex
+
+1686
+00:34:57,109 --> 00:34:57,119
+utilisé d'autres KPI notamment et codex
+ 
+
+1687
+00:34:57,119 --> 00:35:00,470
+utilisé d'autres KPI notamment et codex
+carbone website analyser et au bac on a
+
+1688
+00:35:00,470 --> 00:35:00,480
+carbone website analyser et au bac on a
+ 
+
+1689
+00:35:00,480 --> 00:35:02,570
+carbone website analyser et au bac on a
+utilisé d'autres choses Vincent va être
+
+1690
+00:35:02,570 --> 00:35:02,580
+utilisé d'autres choses Vincent va être
+ 
+
+1691
+00:35:02,580 --> 00:35:34,390
+utilisé d'autres choses Vincent va être
+en ligne
+
+1692
+00:35:34,390 --> 00:35:34,400
+
+ 
+
+1693
+00:35:34,400 --> 00:35:47,210
+
+[Musique]
+
+1694
+00:35:47,210 --> 00:35:47,220
+
+ 
+
+1695
+00:35:47,220 --> 00:35:49,250
+
+d'accord donc quels sont les outils
+
+1696
+00:35:49,250 --> 00:35:49,260
+d'accord donc quels sont les outils
+ 
+
+1697
+00:35:49,260 --> 00:35:55,370
+d'accord donc quels sont les outils
+qu'on a utilisé à Paris quoi index
+
+1698
+00:35:55,370 --> 00:35:55,380
+
+ 
+
+1699
+00:35:55,380 --> 00:36:13,569
+
+greenframe.io
+
+1700
+00:36:13,569 --> 00:36:13,579
+
+ 
+
+1701
+00:36:13,579 --> 00:36:16,730
+
+donc green.io c'est ce qui nous a permis
+
+1702
+00:36:16,730 --> 00:36:16,740
+donc green.io c'est ce qui nous a permis
+ 
+
+1703
+00:36:16,740 --> 00:36:18,710
+donc green.io c'est ce qui nous a permis
+durant l'entièreté du développement du
+
+1704
+00:36:18,710 --> 00:36:18,720
+durant l'entièreté du développement du
+ 
+
+1705
+00:36:18,720 --> 00:36:20,810
+durant l'entièreté du développement du
+site de suivre dont je vous parlais en
+
+1706
+00:36:20,810 --> 00:36:20,820
+site de suivre dont je vous parlais en
+ 
+
+1707
+00:36:20,820 --> 00:36:23,089
+site de suivre dont je vous parlais en
+arabe on a ramené sur grafana donc c'est
+
+1708
+00:36:23,089 --> 00:36:23,099
+arabe on a ramené sur grafana donc c'est
+ 
+
+1709
+00:36:23,099 --> 00:36:25,069
+arabe on a ramené sur grafana donc c'est
+hyper important on arrivait durant le
+
+1710
+00:36:25,069 --> 00:36:25,079
+hyper important on arrivait durant le
+ 
+
+1711
+00:36:25,079 --> 00:36:26,990
+hyper important on arrivait durant le
+développement en tout cas avoir une idée
+
+1712
+00:36:26,990 --> 00:36:27,000
+développement en tout cas avoir une idée
+ 
+
+1713
+00:36:27,000 --> 00:36:29,930
+développement en tout cas avoir une idée
+de où les éléments mesurés pouvaient
+
+1714
+00:36:29,930 --> 00:36:29,940
+de où les éléments mesurés pouvaient
+ 
+
+1715
+00:36:29,940 --> 00:36:32,329
+de où les éléments mesurés pouvaient
+pouvaient venir interférer chez ninji on
+
+1716
+00:36:32,329 --> 00:36:32,339
+pouvaient venir interférer chez ninji on
+ 
+
+1717
+00:36:32,339 --> 00:36:34,190
+pouvaient venir interférer chez ninji on
+a on a donné un coup de pouce à Green
+
+1718
+00:36:34,190 --> 00:36:34,200
+a on a donné un coup de pouce à Green
+ 
+
+1719
+00:36:34,200 --> 00:36:37,130
+a on a donné un coup de pouce à Green
+c'est une magnifique start-up startup à
+
+1720
+00:36:37,130 --> 00:36:37,140
+c'est une magnifique start-up startup à
+ 
+
+1721
+00:36:37,140 --> 00:36:38,329
+c'est une magnifique start-up startup à
+une dizaine de personnes on a en
+
+1722
+00:36:38,329 --> 00:36:38,339
+une dizaine de personnes on a en
+ 
+
+1723
+00:36:38,339 --> 00:36:42,310
+une dizaine de personnes on a en
+embarqué combien
+
+1724
+00:36:42,310 --> 00:36:42,320
+
+ 
+
+1725
+00:36:42,320 --> 00:36:45,410
+
+donc on a on leur a donné un petit coup
+
+1726
+00:36:45,410 --> 00:36:45,420
+donc on a on leur a donné un petit coup
+ 
+
+1727
+00:36:45,420 --> 00:36:49,730
+donc on a on leur a donné un petit coup
+de pouce sur les sur le dev
+
+1728
+00:36:49,730 --> 00:36:49,740
+
+ 
+
+1729
+00:36:49,740 --> 00:36:52,370
+
+yes il nous reste cinq questions donc
+
+1730
+00:36:52,370 --> 00:36:52,380
+yes il nous reste cinq questions donc
+ 
+
+1731
+00:36:52,380 --> 00:36:54,530
+yes il nous reste cinq questions donc
+quatre questions combien jeunes
+
+1732
+00:36:54,530 --> 00:36:54,540
+quatre questions combien jeunes
+ 
+
+1733
+00:36:54,540 --> 00:36:56,630
+quatre questions combien jeunes
+trois questions il y en a une là-bas par
+
+1734
+00:36:56,630 --> 00:36:56,640
+trois questions il y en a une là-bas par
+ 
+
+1735
+00:36:56,640 --> 00:37:00,829
+trois questions il y en a une là-bas par
+contre Cyriaque
+
+1736
+00:37:00,829 --> 00:37:00,839
+
+ 
+
+1737
+00:37:00,839 --> 00:37:06,470
+
+stand bye
+
+1738
+00:37:06,470 --> 00:37:06,480
+
+ 
+
+1739
+00:37:06,480 --> 00:37:07,730
+
+posez-moi une question je peux répondre
+
+1740
+00:37:07,730 --> 00:37:07,740
+posez-moi une question je peux répondre
+ 
+
+1741
+00:37:07,740 --> 00:37:10,069
+posez-moi une question je peux répondre
+tout seul normalement ça là ça devrait
+
+1742
+00:37:10,069 --> 00:37:10,079
+tout seul normalement ça là ça devrait
+ 
+
+1743
+00:37:10,079 --> 00:37:13,190
+tout seul normalement ça là ça devrait
+pouvoir aller j'espère en tout cas donc
+
+1744
+00:37:13,190 --> 00:37:13,200
+pouvoir aller j'espère en tout cas donc
+ 
+
+1745
+00:37:13,200 --> 00:37:16,069
+pouvoir aller j'espère en tout cas donc
+sur dakia.fr vous aviez dit que c'était
+
+1746
+00:37:16,069 --> 00:37:16,079
+sur dakia.fr vous aviez dit que c'était
+ 
+
+1747
+00:37:16,079 --> 00:37:18,170
+sur dakia.fr vous aviez dit que c'était
+une première mondiale c'est top mais
+
+1748
+00:37:18,170 --> 00:37:18,180
+une première mondiale c'est top mais
+ 
+
+1749
+00:37:18,180 --> 00:37:19,910
+une première mondiale c'est top mais
+comme c'est une première il y a
+
+1750
+00:37:19,910 --> 00:37:19,920
+comme c'est une première il y a
+ 
+
+1751
+00:37:19,920 --> 00:37:21,710
+comme c'est une première il y a
+probablement des choses que n'ont pas
+
+1752
+00:37:21,710 --> 00:37:21,720
+probablement des choses que n'ont pas
+ 
+
+1753
+00:37:21,720 --> 00:37:24,470
+probablement des choses que n'ont pas
+été faites parfaitement si vous deviez
+
+1754
+00:37:24,470 --> 00:37:24,480
+été faites parfaitement si vous deviez
+ 
+
+1755
+00:37:24,480 --> 00:37:26,450
+été faites parfaitement si vous deviez
+justement avoir à refaire certaines
+
+1756
+00:37:26,450 --> 00:37:26,460
+justement avoir à refaire certaines
+ 
+
+1757
+00:37:26,460 --> 00:37:28,430
+justement avoir à refaire certaines
+choses qu'est-ce que vous referiez pour
+
+1758
+00:37:28,430 --> 00:37:28,440
+choses qu'est-ce que vous referiez pour
+ 
+
+1759
+00:37:28,440 --> 00:37:30,589
+choses qu'est-ce que vous referiez pour
+être encore plus éco-responsable sur ce
+
+1760
+00:37:30,589 --> 00:37:30,599
+être encore plus éco-responsable sur ce
+ 
+
+1761
+00:37:30,599 --> 00:37:33,230
+être encore plus éco-responsable sur ce
+site par exemple ou sur niji.fr
+
+1762
+00:37:33,230 --> 00:37:33,240
+site par exemple ou sur niji.fr
+ 
+
+1763
+00:37:33,240 --> 00:37:35,329
+site par exemple ou sur niji.fr
+c'est une super question midi point fr
+
+1764
+00:37:35,329 --> 00:37:35,339
+c'est une super question midi point fr
+ 
+
+1765
+00:37:35,339 --> 00:37:37,790
+c'est une super question midi point fr
+j'ai la modestie de dire que là pour le
+
+1766
+00:37:37,790 --> 00:37:37,800
+j'ai la modestie de dire que là pour le
+ 
+
+1767
+00:37:37,800 --> 00:37:39,650
+j'ai la modestie de dire que là pour le
+coup ça a été fait parfaitement à l'état
+
+1768
+00:37:39,650 --> 00:37:39,660
+coup ça a été fait parfaitement à l'état
+ 
+
+1769
+00:37:39,660 --> 00:37:41,510
+coup ça a été fait parfaitement à l'état
+de l'art d'aujourd'hui parce que on a
+
+1770
+00:37:41,510 --> 00:37:41,520
+de l'art d'aujourd'hui parce que on a
+ 
+
+1771
+00:37:41,520 --> 00:37:43,190
+de l'art d'aujourd'hui parce que on a
+appris de plein de choses auparavant
+
+1772
+00:37:43,190 --> 00:37:43,200
+appris de plein de choses auparavant
+ 
+
+1773
+00:37:43,200 --> 00:37:44,990
+appris de plein de choses auparavant
+donc c'est bien parce que pour le coup
+
+1774
+00:37:44,990 --> 00:37:45,000
+donc c'est bien parce que pour le coup
+ 
+
+1775
+00:37:45,000 --> 00:37:46,450
+donc c'est bien parce que pour le coup
+on a été payé pour
+
+1776
+00:37:46,450 --> 00:37:46,460
+on a été payé pour
+ 
+
+1777
+00:37:46,460 --> 00:37:49,150
+on a été payé pour
+bail qu'on a non plus sérieusement
+
+1778
+00:37:49,150 --> 00:37:49,160
+bail qu'on a non plus sérieusement
+ 
+
+1779
+00:37:49,160 --> 00:37:52,910
+bail qu'on a non plus sérieusement
+niji.fr ça c'est à peu près nickel
+
+1780
+00:37:52,910 --> 00:37:52,920
+niji.fr ça c'est à peu près nickel
+ 
+
+1781
+00:37:52,920 --> 00:37:54,349
+niji.fr ça c'est à peu près nickel
+il faut faire très attention parce que
+
+1782
+00:37:54,349 --> 00:37:54,359
+il faut faire très attention parce que
+ 
+
+1783
+00:37:54,359 --> 00:37:56,150
+il faut faire très attention parce que
+au fil du temps l'objet était livré
+
+1784
+00:37:56,150 --> 00:37:56,160
+au fil du temps l'objet était livré
+ 
+
+1785
+00:37:56,160 --> 00:37:58,970
+au fil du temps l'objet était livré
+parfaitement éco-conçu en revanche au
+
+1786
+00:37:58,970 --> 00:37:58,980
+parfaitement éco-conçu en revanche au
+ 
+
+1787
+00:37:58,980 --> 00:38:00,470
+parfaitement éco-conçu en revanche au
+fil du temps il faut faire très très
+
+1788
+00:38:00,470 --> 00:38:00,480
+fil du temps il faut faire très très
+ 
+
+1789
+00:38:00,480 --> 00:38:03,170
+fil du temps il faut faire très très
+gaffe à ce qui ne réaugmente pas et que
+
+1790
+00:38:03,170 --> 00:38:03,180
+gaffe à ce qui ne réaugmente pas et que
+ 
+
+1791
+00:38:03,180 --> 00:38:05,150
+gaffe à ce qui ne réaugmente pas et que
+ça note bouge donc ça c'est pour midi
+
+1792
+00:38:05,150 --> 00:38:05,160
+ça note bouge donc ça c'est pour midi
+ 
+
+1793
+00:38:05,160 --> 00:38:06,530
+ça note bouge donc ça c'est pour midi
+points d'Alca il y a plein de choses
+
+1794
+00:38:06,530 --> 00:38:06,540
+points d'Alca il y a plein de choses
+ 
+
+1795
+00:38:06,540 --> 00:38:08,630
+points d'Alca il y a plein de choses
+qu'on aurait pu mieux faire en fait il y
+
+1796
+00:38:08,630 --> 00:38:08,640
+qu'on aurait pu mieux faire en fait il y
+ 
+
+1797
+00:38:08,640 --> 00:38:09,770
+qu'on aurait pu mieux faire en fait il y
+a des choses de gouvernance on aurait pu
+
+1798
+00:38:09,770 --> 00:38:09,780
+a des choses de gouvernance on aurait pu
+ 
+
+1799
+00:38:09,780 --> 00:38:11,270
+a des choses de gouvernance on aurait pu
+mieux appréhender l'aspect contenu parce
+
+1800
+00:38:11,270 --> 00:38:11,280
+mieux appréhender l'aspect contenu parce
+ 
+
+1801
+00:38:11,280 --> 00:38:12,790
+mieux appréhender l'aspect contenu parce
+qu'on a été retardé de plusieurs mois
+
+1802
+00:38:12,790 --> 00:38:12,800
+qu'on a été retardé de plusieurs mois
+ 
+
+1803
+00:38:12,800 --> 00:38:15,829
+qu'on a été retardé de plusieurs mois
+donc ça c'est un time to market
+
+1804
+00:38:15,829 --> 00:38:15,839
+donc ça c'est un time to market
+ 
+
+1805
+00:38:15,839 --> 00:38:18,650
+donc ça c'est un time to market
+il y a en fait on a pas 100%
+
+1806
+00:38:18,650 --> 00:38:18,660
+il y a en fait on a pas 100%
+ 
+
+1807
+00:38:18,660 --> 00:38:20,510
+il y a en fait on a pas 100%
+d'hébergement qui est vert au jour
+
+1808
+00:38:20,510 --> 00:38:20,520
+d'hébergement qui est vert au jour
+ 
+
+1809
+00:38:20,520 --> 00:38:21,710
+d'hébergement qui est vert au jour
+d'aujourd'hui quand la sortie il y avait
+
+1810
+00:38:21,710 --> 00:38:21,720
+d'aujourd'hui quand la sortie il y avait
+ 
+
+1811
+00:38:21,720 --> 00:38:22,849
+d'aujourd'hui quand la sortie il y avait
+50 je crois qu'on doit être à peu près
+
+1812
+00:38:22,849 --> 00:38:22,859
+50 je crois qu'on doit être à peu près
+ 
+
+1813
+00:38:22,859 --> 00:38:25,190
+50 je crois qu'on doit être à peu près
+72 donc il y a plein de petits éléments
+
+1814
+00:38:25,190 --> 00:38:25,200
+72 donc il y a plein de petits éléments
+ 
+
+1815
+00:38:25,200 --> 00:38:26,930
+72 donc il y a plein de petits éléments
+qui ont été corrigés qui sont en cours
+
+1816
+00:38:26,930 --> 00:38:26,940
+qui ont été corrigés qui sont en cours
+ 
+
+1817
+00:38:26,940 --> 00:38:30,170
+qui ont été corrigés qui sont en cours
+de correction à la sortie on a fait du
+
+1818
+00:38:30,170 --> 00:38:30,180
+de correction à la sortie on a fait du
+ 
+
+1819
+00:38:30,180 --> 00:38:32,569
+de correction à la sortie on a fait du
+mieux que l'on pouvait à l'état de l'art
+
+1820
+00:38:32,569 --> 00:38:32,579
+mieux que l'on pouvait à l'état de l'art
+ 
+
+1821
+00:38:32,579 --> 00:38:33,770
+mieux que l'on pouvait à l'état de l'art
+faut pas oublier il était sorti l'année
+
+1822
+00:38:33,770 --> 00:38:33,780
+faut pas oublier il était sorti l'année
+ 
+
+1823
+00:38:33,780 --> 00:38:35,270
+faut pas oublier il était sorti l'année
+dernière en mettant en terme
+
+1824
+00:38:35,270 --> 00:38:35,280
+dernière en mettant en terme
+ 
+
+1825
+00:38:35,280 --> 00:38:36,730
+dernière en mettant en terme
+d'écoconception ça avance très très vite
+
+1826
+00:38:36,730 --> 00:38:36,740
+d'écoconception ça avance très très vite
+ 
+
+1827
+00:38:36,740 --> 00:38:39,609
+d'écoconception ça avance très très vite
+on a le temps pour une dernière question
+
+1828
+00:38:39,609 --> 00:38:39,619
+on a le temps pour une dernière question
+ 
+
+1829
+00:38:39,619 --> 00:38:42,650
+on a le temps pour une dernière question
+deux dernières questions trois dernières
+
+1830
+00:38:42,650 --> 00:38:42,660
+deux dernières questions trois dernières
+ 
+
+1831
+00:38:42,660 --> 00:38:44,089
+deux dernières questions trois dernières
+questions vont me détester mais c'est
+
+1832
+00:38:44,089 --> 00:38:44,099
+questions vont me détester mais c'est
+ 
+
+1833
+00:38:44,099 --> 00:38:46,370
+questions vont me détester mais c'est
+pas grave
+
+1834
+00:38:46,370 --> 00:38:46,380
+
+ 
+
+1835
+00:38:46,380 --> 00:38:48,349
+
+ok juste là-bas ça fait deux fois qu'il
+
+1836
+00:38:48,349 --> 00:38:48,359
+ok juste là-bas ça fait deux fois qu'il
+ 
+
+1837
+00:38:48,359 --> 00:38:50,569
+ok juste là-bas ça fait deux fois qu'il
+lève la main il me reste juste là et
+
+1838
+00:38:50,569 --> 00:38:50,579
+lève la main il me reste juste là et
+ 
+
+1839
+00:38:50,579 --> 00:38:54,770
+lève la main il me reste juste là et
+vous oui
+
+1840
+00:38:54,770 --> 00:38:54,780
+
+ 
+
+1841
+00:38:54,780 --> 00:38:57,470
+
+j'ai regardé sur les deux sites il y a
+
+1842
+00:38:57,470 --> 00:38:57,480
+j'ai regardé sur les deux sites il y a
+ 
+
+1843
+00:38:57,480 --> 00:38:59,510
+j'ai regardé sur les deux sites il y a
+une baisse drastique de mots clés et
+
+1844
+00:38:59,510 --> 00:38:59,520
+une baisse drastique de mots clés et
+ 
+
+1845
+00:38:59,520 --> 00:39:02,089
+une baisse drastique de mots clés et
+quel impact sur le SIO vous avez eu par
+
+1846
+00:39:02,089 --> 00:39:02,099
+quel impact sur le SIO vous avez eu par
+ 
+
+1847
+00:39:02,099 --> 00:39:03,849
+quel impact sur le SIO vous avez eu par
+rapport à la refonte
+
+1848
+00:39:03,849 --> 00:39:03,859
+rapport à la refonte
+ 
+
+1849
+00:39:03,859 --> 00:39:06,109
+rapport à la refonte
+nudi.fr ça fait peu de temps qu'on l'a
+
+1850
+00:39:06,109 --> 00:39:06,119
+nudi.fr ça fait peu de temps qu'on l'a
+ 
+
+1851
+00:39:06,119 --> 00:39:08,030
+nudi.fr ça fait peu de temps qu'on l'a
+sorti donc norme après c'est pas non
+
+1852
+00:39:08,030 --> 00:39:08,040
+sorti donc norme après c'est pas non
+ 
+
+1853
+00:39:08,040 --> 00:39:09,829
+sorti donc norme après c'est pas non
+plus c'est le plus fréquenté mais ce
+
+1854
+00:39:09,829 --> 00:39:09,839
+plus c'est le plus fréquenté mais ce
+ 
+
+1855
+00:39:09,839 --> 00:39:11,089
+plus c'est le plus fréquenté mais ce
+matin il va avoir plein de visite mais
+
+1856
+00:39:11,089 --> 00:39:11,099
+matin il va avoir plein de visite mais
+ 
+
+1857
+00:39:11,099 --> 00:39:13,609
+matin il va avoir plein de visite mais
+globalement donc il y a un impact SEO
+
+1858
+00:39:13,609 --> 00:39:13,619
+globalement donc il y a un impact SEO
+ 
+
+1859
+00:39:13,619 --> 00:39:16,190
+globalement donc il y a un impact SEO
+qui est qui est moindre après
+
+1860
+00:39:16,190 --> 00:39:16,200
+qui est qui est moindre après
+ 
+
+1861
+00:39:16,200 --> 00:39:19,609
+qui est qui est moindre après
+normalement il y a pas d'impact sur
+
+1862
+00:39:19,609 --> 00:39:19,619
+normalement il y a pas d'impact sur
+ 
+
+1863
+00:39:19,619 --> 00:39:21,230
+normalement il y a pas d'impact sur
+niji.fr parce qu'on a quand même des
+
+1864
+00:39:21,230 --> 00:39:21,240
+niji.fr parce qu'on a quand même des
+ 
+
+1865
+00:39:21,240 --> 00:39:23,270
+niji.fr parce qu'on a quand même des
+équipes de de marketing digital de
+
+1866
+00:39:23,270 --> 00:39:23,280
+équipes de de marketing digital de
+ 
+
+1867
+00:39:23,280 --> 00:39:25,030
+équipes de de marketing digital de
+webberg qui sont
+
+1868
+00:39:25,030 --> 00:39:25,040
+webberg qui sont
+ 
+
+1869
+00:39:25,040 --> 00:39:27,290
+webberg qui sont
+qui travaillent normalement dans leur
+
+1870
+00:39:27,290 --> 00:39:27,300
+qui travaillent normalement dans leur
+ 
+
+1871
+00:39:27,300 --> 00:39:28,550
+qui travaillent normalement dans leur
+dans leur métier que ce soit avec ou
+
+1872
+00:39:28,550 --> 00:39:28,560
+dans leur métier que ce soit avec ou
+ 
+
+1873
+00:39:28,560 --> 00:39:31,910
+dans leur métier que ce soit avec ou
+conçu ou pas la plus le plan de de en
+
+1874
+00:39:31,910 --> 00:39:31,920
+conçu ou pas la plus le plan de de en
+ 
+
+1875
+00:39:31,920 --> 00:39:33,050
+conçu ou pas la plus le plan de de en
+fait non seulement le plan de marquage
+
+1876
+00:39:33,050 --> 00:39:33,060
+fait non seulement le plan de marquage
+ 
+
+1877
+00:39:33,060 --> 00:39:34,250
+fait non seulement le plan de marquage
+qui est différent parce que là pour le
+
+1878
+00:39:34,250 --> 00:39:34,260
+qui est différent parce que là pour le
+ 
+
+1879
+00:39:34,260 --> 00:39:35,810
+qui est différent parce que là pour le
+coup on a toute l'analytics mais c'est
+
+1880
+00:39:35,810 --> 00:39:35,820
+coup on a toute l'analytics mais c'est
+ 
+
+1881
+00:39:35,820 --> 00:39:37,609
+coup on a toute l'analytics mais c'est
+le plein de résurrection cela c'est faut
+
+1882
+00:39:37,609 --> 00:39:37,619
+le plein de résurrection cela c'est faut
+ 
+
+1883
+00:39:37,619 --> 00:39:39,410
+le plein de résurrection cela c'est faut
+faire très attention parce que c'est ce
+
+1884
+00:39:39,410 --> 00:39:39,420
+faire très attention parce que c'est ce
+ 
+
+1885
+00:39:39,420 --> 00:39:40,670
+faire très attention parce que c'est ce
+que je disais on a coupé beaucoup de
+
+1886
+00:39:40,670 --> 00:39:40,680
+que je disais on a coupé beaucoup de
+ 
+
+1887
+00:39:40,680 --> 00:39:42,770
+que je disais on a coupé beaucoup de
+pages c'est vrai sur Dalkia c'est vrai
+
+1888
+00:39:42,770 --> 00:39:42,780
+pages c'est vrai sur Dalkia c'est vrai
+ 
+
+1889
+00:39:42,780 --> 00:39:46,030
+pages c'est vrai sur Dalkia c'est vrai
+sur nous sur Dalkia peu ou proud
+
+1890
+00:39:46,030 --> 00:39:46,040
+sur nous sur Dalkia peu ou proud
+ 
+
+1891
+00:39:46,040 --> 00:39:48,349
+sur nous sur Dalkia peu ou proud
+d'impact oui beaucoup moins de mots clés
+
+1892
+00:39:48,349 --> 00:39:48,359
+d'impact oui beaucoup moins de mots clés
+ 
+
+1893
+00:39:48,359 --> 00:39:49,250
+d'impact oui beaucoup moins de mots clés
+parce qu'il y a beaucoup moins de
+
+1894
+00:39:49,250 --> 00:39:49,260
+parce qu'il y a beaucoup moins de
+ 
+
+1895
+00:39:49,260 --> 00:39:51,410
+parce qu'il y a beaucoup moins de
+contenu en revanche en termes de trafic
+
+1896
+00:39:51,410 --> 00:39:51,420
+contenu en revanche en termes de trafic
+ 
+
+1897
+00:39:51,420 --> 00:39:54,349
+contenu en revanche en termes de trafic
+il y a pas eu de de en fait il y a eu
+
+1898
+00:39:54,349 --> 00:39:54,359
+il y a pas eu de de en fait il y a eu
+ 
+
+1899
+00:39:54,359 --> 00:39:57,530
+il y a pas eu de de en fait il y a eu
+une de temps sur le site et ça on se dit
+
+1900
+00:39:57,530 --> 00:39:57,540
+une de temps sur le site et ça on se dit
+ 
+
+1901
+00:39:57,540 --> 00:39:58,730
+une de temps sur le site et ça on se dit
+par exemple parce que c'est bien ce que
+
+1902
+00:39:58,730 --> 00:39:58,740
+par exemple parce que c'est bien ce que
+ 
+
+1903
+00:39:58,740 --> 00:40:00,589
+par exemple parce que c'est bien ce que
+c'est pas bien en terme d'écoconsception
+
+1904
+00:40:00,589 --> 00:40:00,599
+c'est pas bien en terme d'écoconsception
+ 
+
+1905
+00:40:00,599 --> 00:40:02,150
+c'est pas bien en terme d'écoconsception
+c'est pas mal moi on passe de temps
+
+1906
+00:40:02,150 --> 00:40:02,160
+c'est pas mal moi on passe de temps
+ 
+
+1907
+00:40:02,160 --> 00:40:04,430
+c'est pas mal moi on passe de temps
+mieux c'est
+
+1908
+00:40:04,430 --> 00:40:04,440
+mieux c'est
+ 
+
+1909
+00:40:04,440 --> 00:40:05,690
+mieux c'est
+et en plus dire aussi que c'est une
+
+1910
+00:40:05,690 --> 00:40:05,700
+et en plus dire aussi que c'est une
+ 
+
+1911
+00:40:05,700 --> 00:40:07,609
+et en plus dire aussi que c'est une
+efficacité des designers dans la dans la
+
+1912
+00:40:07,609 --> 00:40:07,619
+efficacité des designers dans la dans la
+ 
+
+1913
+00:40:07,619 --> 00:40:08,810
+efficacité des designers dans la dans la
+salle on peut se dire que c'est une
+
+1914
+00:40:08,810 --> 00:40:08,820
+salle on peut se dire que c'est une
+ 
+
+1915
+00:40:08,820 --> 00:40:11,710
+salle on peut se dire que c'est une
+efficacité optimisée
+
+1916
+00:40:11,710 --> 00:40:11,720
+efficacité optimisée
+ 
+
+1917
+00:40:11,720 --> 00:40:13,849
+efficacité optimisée
+on arrive plus rapidement ce qu'on
+
+1918
+00:40:13,849 --> 00:40:13,859
+on arrive plus rapidement ce qu'on
+ 
+
+1919
+00:40:13,859 --> 00:40:16,609
+on arrive plus rapidement ce qu'on
+cherche sur le site
+
+1920
+00:40:16,609 --> 00:40:16,619
+
+ 
+
+1921
+00:40:16,619 --> 00:40:17,030
+
+deuxième
+
+1922
+00:40:17,030 --> 00:40:17,040
+deuxième
+ 
+
+1923
+00:40:17,040 --> 00:40:18,349
+deuxième
+[Musique]
+
+1924
+00:40:18,349 --> 00:40:18,359
+[Musique]
+ 
+
+1925
+00:40:18,359 --> 00:40:20,150
+[Musique]
+céréale
+
+1926
+00:40:20,150 --> 00:40:20,160
+céréale
+ 
+
+1927
+00:40:20,160 --> 00:40:22,250
+céréale
+juste là sur ta droite tout en bas
+
+1928
+00:40:22,250 --> 00:40:22,260
+juste là sur ta droite tout en bas
+ 
+
+1929
+00:40:22,260 --> 00:40:30,770
+juste là sur ta droite tout en bas
+deuxième rangée le siège du milieu
+
+1930
+00:40:30,770 --> 00:40:30,780
+
+ 
+
+1931
+00:40:30,780 --> 00:40:33,290
+
+oui bonjour c'était ma question elle
+
+1932
+00:40:33,290 --> 00:40:33,300
+oui bonjour c'était ma question elle
+ 
+
+1933
+00:40:33,300 --> 00:40:36,470
+oui bonjour c'était ma question elle
+porte sur sur le type de page les sites
+
+1934
+00:40:36,470 --> 00:40:36,480
+porte sur sur le type de page les sites
+ 
+
+1935
+00:40:36,480 --> 00:40:37,690
+porte sur sur le type de page les sites
+que vous avez
+
+1936
+00:40:37,690 --> 00:40:37,700
+que vous avez
+ 
+
+1937
+00:40:37,700 --> 00:40:40,430
+que vous avez
+éco conçus d'après ce que je comprends
+
+1938
+00:40:40,430 --> 00:40:40,440
+éco conçus d'après ce que je comprends
+ 
+
+1939
+00:40:40,440 --> 00:40:42,250
+éco conçus d'après ce que je comprends
+c'est beaucoup de statiques
+
+1940
+00:40:42,250 --> 00:40:42,260
+c'est beaucoup de statiques
+ 
+
+1941
+00:40:42,260 --> 00:40:46,310
+c'est beaucoup de statiques
+quid des parcours personnalisés ou qui
+
+1942
+00:40:46,310 --> 00:40:46,320
+quid des parcours personnalisés ou qui
+ 
+
+1943
+00:40:46,320 --> 00:40:50,810
+quid des parcours personnalisés ou qui
+nécessitent du dynamique voilà c'est une
+
+1944
+00:40:50,810 --> 00:40:50,820
+nécessitent du dynamique voilà c'est une
+ 
+
+1945
+00:40:50,820 --> 00:40:52,670
+nécessitent du dynamique voilà c'est une
+radicalité de décision vous avez tout à
+
+1946
+00:40:52,670 --> 00:40:52,680
+radicalité de décision vous avez tout à
+ 
+
+1947
+00:40:52,680 --> 00:40:55,210
+radicalité de décision vous avez tout à
+fait raison en fait l'éco-conception
+
+1948
+00:40:55,210 --> 00:40:55,220
+fait raison en fait l'éco-conception
+ 
+
+1949
+00:40:55,220 --> 00:40:57,050
+fait raison en fait l'éco-conception
+c'est un petit pas dans la bonne
+
+1950
+00:40:57,050 --> 00:40:57,060
+c'est un petit pas dans la bonne
+ 
+
+1951
+00:40:57,060 --> 00:41:01,010
+c'est un petit pas dans la bonne
+direction on fait on choisit en fait on
+
+1952
+00:41:01,010 --> 00:41:01,020
+direction on fait on choisit en fait on
+ 
+
+1953
+00:41:01,020 --> 00:41:03,470
+direction on fait on choisit en fait on
+choisit de non il y a pas d'appel il y a
+
+1954
+00:41:03,470 --> 00:41:03,480
+choisit de non il y a pas d'appel il y a
+ 
+
+1955
+00:41:03,480 --> 00:41:05,810
+choisit de non il y a pas d'appel il y a
+pas de dynamique on peut le faire et
+
+1956
+00:41:05,810 --> 00:41:05,820
+pas de dynamique on peut le faire et
+ 
+
+1957
+00:41:05,820 --> 00:41:06,890
+pas de dynamique on peut le faire et
+c'est une bonne démarche parce que par
+
+1958
+00:41:06,890 --> 00:41:06,900
+c'est une bonne démarche parce que par
+ 
+
+1959
+00:41:06,900 --> 00:41:08,390
+c'est une bonne démarche parce que par
+exemple on peut se dire que le site est
+
+1960
+00:41:08,390 --> 00:41:08,400
+exemple on peut se dire que le site est
+ 
+
+1961
+00:41:08,400 --> 00:41:11,450
+exemple on peut se dire que le site est
+à 80% éco-conçue et franchement ça va
+
+1962
+00:41:11,450 --> 00:41:11,460
+à 80% éco-conçue et franchement ça va
+ 
+
+1963
+00:41:11,460 --> 00:41:12,770
+à 80% éco-conçue et franchement ça va
+pas dans la bonne direction entre 0 et
+
+1964
+00:41:12,770 --> 00:41:12,780
+pas dans la bonne direction entre 0 et
+ 
+
+1965
+00:41:12,780 --> 00:41:14,690
+pas dans la bonne direction entre 0 et
+100 des fois le mieux et l'ennemi du
+
+1966
+00:41:14,690 --> 00:41:14,700
+100 des fois le mieux et l'ennemi du
+ 
+
+1967
+00:41:14,700 --> 00:41:16,550
+100 des fois le mieux et l'ennemi du
+bien nous on a choisi la radicalité
+
+1968
+00:41:16,550 --> 00:41:16,560
+bien nous on a choisi la radicalité
+ 
+
+1969
+00:41:16,560 --> 00:41:18,890
+bien nous on a choisi la radicalité
+extrême mais vous pourriez avoir
+
+1970
+00:41:18,890 --> 00:41:18,900
+extrême mais vous pourriez avoir
+ 
+
+1971
+00:41:18,900 --> 00:41:21,050
+extrême mais vous pourriez avoir
+certaines sections du site qui a du
+
+1972
+00:41:21,050 --> 00:41:21,060
+certaines sections du site qui a du
+ 
+
+1973
+00:41:21,060 --> 00:41:24,589
+certaines sections du site qui a du
+dynamique sans problème en fait
+
+1974
+00:41:24,589 --> 00:41:24,599
+dynamique sans problème en fait
+ 
+
+1975
+00:41:24,599 --> 00:41:26,510
+dynamique sans problème en fait
+on sera moins éco-conçu on sera de
+
+1976
+00:41:26,510 --> 00:41:26,520
+on sera moins éco-conçu on sera de
+ 
+
+1977
+00:41:26,520 --> 00:41:28,670
+on sera moins éco-conçu on sera de
+toutes les façons plus éco-conçues que
+
+1978
+00:41:28,670 --> 00:41:28,680
+toutes les façons plus éco-conçues que
+ 
+
+1979
+00:41:28,680 --> 00:41:29,990
+toutes les façons plus éco-conçues que
+s'il n'avait rien fait donc moi je crois
+
+1980
+00:41:29,990 --> 00:41:30,000
+s'il n'avait rien fait donc moi je crois
+ 
+
+1981
+00:41:30,000 --> 00:41:30,849
+s'il n'avait rien fait donc moi je crois
+beaucoup
+
+1982
+00:41:30,849 --> 00:41:30,859
+beaucoup
+ 
+
+1983
+00:41:30,859 --> 00:41:32,750
+beaucoup
+c'est déjà un pas dans la bonne
+
+1984
+00:41:32,750 --> 00:41:32,760
+c'est déjà un pas dans la bonne
+ 
+
+1985
+00:41:32,760 --> 00:41:34,670
+c'est déjà un pas dans la bonne
+direction ce qu'on vous a montré comme
+
+1986
+00:41:34,670 --> 00:41:34,680
+direction ce qu'on vous a montré comme
+ 
+
+1987
+00:41:34,680 --> 00:41:35,810
+direction ce qu'on vous a montré comme
+exemple ce sont surtout des
+
+1988
+00:41:35,810 --> 00:41:35,820
+exemple ce sont surtout des
+ 
+
+1989
+00:41:35,820 --> 00:41:37,849
+exemple ce sont surtout des
+éco-conception propriétaire tout le
+
+1990
+00:41:37,849 --> 00:41:37,859
+éco-conception propriétaire tout le
+ 
+
+1991
+00:41:37,859 --> 00:41:39,290
+éco-conception propriétaire tout le
+monde ne veut pas assez de Var avec des
+
+1992
+00:41:39,290 --> 00:41:39,300
+monde ne veut pas assez de Var avec des
+ 
+
+1993
+00:41:39,300 --> 00:41:40,849
+monde ne veut pas assez de Var avec des
+images tramées tout le monde ne veut pas
+
+1994
+00:41:40,849 --> 00:41:40,859
+images tramées tout le monde ne veut pas
+ 
+
+1995
+00:41:40,859 --> 00:41:42,829
+images tramées tout le monde ne veut pas
+un site sans visuel avec des avec un
+
+1996
+00:41:42,829 --> 00:41:42,839
+un site sans visuel avec des avec un
+ 
+
+1997
+00:41:42,839 --> 00:41:46,250
+un site sans visuel avec des avec un
+brutalisme visuel
+
+1998
+00:41:46,250 --> 00:41:46,260
+brutalisme visuel
+ 
+
+1999
+00:41:46,260 --> 00:41:47,810
+brutalisme visuel
+donc on peut faire beaucoup de choses on
+
+2000
+00:41:47,810 --> 00:41:47,820
+donc on peut faire beaucoup de choses on
+ 
+
+2001
+00:41:47,820 --> 00:41:49,310
+donc on peut faire beaucoup de choses on
+peut aussi juste coder en fait on peut
+
+2002
+00:41:49,310 --> 00:41:49,320
+peut aussi juste coder en fait on peut
+ 
+
+2003
+00:41:49,320 --> 00:41:51,589
+peut aussi juste coder en fait on peut
+juste faire de l'hébergement du bac on
+
+2004
+00:41:51,589 --> 00:41:51,599
+juste faire de l'hébergement du bac on
+ 
+
+2005
+00:41:51,599 --> 00:41:53,750
+juste faire de l'hébergement du bac on
+va toucher presque 70% de l'impact d'un
+
+2006
+00:41:53,750 --> 00:41:53,760
+va toucher presque 70% de l'impact d'un
+ 
+
+2007
+00:41:53,760 --> 00:41:54,710
+va toucher presque 70% de l'impact d'un
+site
+
+2008
+00:41:54,710 --> 00:41:54,720
+site
+ 
+
+2009
+00:41:54,720 --> 00:41:57,290
+site
+on n'a pas la pointe de l'iceberg mais
+
+2010
+00:41:57,290 --> 00:41:57,300
+on n'a pas la pointe de l'iceberg mais
+ 
+
+2011
+00:41:57,300 --> 00:41:58,609
+on n'a pas la pointe de l'iceberg mais
+on a le plus gros impact de l'empreinte
+
+2012
+00:41:58,609 --> 00:41:58,619
+on a le plus gros impact de l'empreinte
+ 
+
+2013
+00:41:58,619 --> 00:42:02,030
+on a le plus gros impact de l'empreinte
+carbone dernière question juste ici
+
+2014
+00:42:02,030 --> 00:42:02,040
+carbone dernière question juste ici
+ 
+
+2015
+00:42:02,040 --> 00:42:09,290
+carbone dernière question juste ici
+séreilhac
+
+2016
+00:42:09,290 --> 00:42:09,300
+
+ 
+
+2017
+00:42:09,300 --> 00:42:12,130
+
+en tant qu'agent
+
+2018
+00:42:12,130 --> 00:42:12,140
+en tant qu'agent
+ 
+
+2019
+00:42:12,140 --> 00:42:14,810
+en tant qu'agent
+on a envie de montrer ces produits donc
+
+2020
+00:42:14,810 --> 00:42:14,820
+on a envie de montrer ces produits donc
+ 
+
+2021
+00:42:14,820 --> 00:42:16,010
+on a envie de montrer ces produits donc
+on peut avoir tendance à faire un site
+
+2022
+00:42:16,010 --> 00:42:16,020
+on peut avoir tendance à faire un site
+ 
+
+2023
+00:42:16,020 --> 00:42:17,870
+on peut avoir tendance à faire un site
+avec des vidéos des images des
+
+2024
+00:42:17,870 --> 00:42:17,880
+avec des vidéos des images des
+ 
+
+2025
+00:42:17,880 --> 00:42:19,490
+avec des vidéos des images des
+animations des choses comme ça comment
+
+2026
+00:42:19,490 --> 00:42:19,500
+animations des choses comme ça comment
+ 
+
+2027
+00:42:19,500 --> 00:42:21,410
+animations des choses comme ça comment
+est-ce que vous en tant qu'agence vous a
+
+2028
+00:42:21,410 --> 00:42:21,420
+est-ce que vous en tant qu'agence vous a
+ 
+
+2029
+00:42:21,420 --> 00:42:23,829
+est-ce que vous en tant qu'agence vous a
+dit on va moins montrer ces choses-là
+
+2030
+00:42:23,829 --> 00:42:23,839
+dit on va moins montrer ces choses-là
+ 
+
+2031
+00:42:23,839 --> 00:42:26,569
+dit on va moins montrer ces choses-là
+quitte peut-être convaincre différemment
+
+2032
+00:42:26,569 --> 00:42:26,579
+quitte peut-être convaincre différemment
+ 
+
+2033
+00:42:26,579 --> 00:42:29,329
+quitte peut-être convaincre différemment
+c'est une vraie bonne question sur le
+
+2034
+00:42:29,329 --> 00:42:29,339
+c'est une vraie bonne question sur le
+ 
+
+2035
+00:42:29,339 --> 00:42:32,690
+c'est une vraie bonne question sur le
+site on a trois huskase du coup on a des
+
+2036
+00:42:32,690 --> 00:42:32,700
+site on a trois huskase du coup on a des
+ 
+
+2037
+00:42:32,700 --> 00:42:35,329
+site on a trois huskase du coup on a des
+huskace avec un peu de texte on a une
+
+2038
+00:42:35,329 --> 00:42:35,339
+huskace avec un peu de texte on a une
+ 
+
+2039
+00:42:35,339 --> 00:42:36,890
+huskace avec un peu de texte on a une
+image qui est optimisée donc on a aussi
+
+2040
+00:42:36,890 --> 00:42:36,900
+image qui est optimisée donc on a aussi
+ 
+
+2041
+00:42:36,900 --> 00:42:38,810
+image qui est optimisée donc on a aussi
+des visuels les visuels sont très très
+
+2042
+00:42:38,810 --> 00:42:38,820
+des visuels les visuels sont très très
+ 
+
+2043
+00:42:38,820 --> 00:42:40,730
+des visuels les visuels sont très très
+optimisés je répète juste entre les deux
+
+2044
+00:42:40,730 --> 00:42:40,740
+optimisés je répète juste entre les deux
+ 
+
+2045
+00:42:40,740 --> 00:42:43,130
+optimisés je répète juste entre les deux
+versions le brutal sans visuel et avec
+
+2046
+00:42:43,130 --> 00:42:43,140
+versions le brutal sans visuel et avec
+ 
+
+2047
+00:42:43,140 --> 00:42:46,190
+versions le brutal sans visuel et avec
+des visuels il y a 6 % de différence
+
+2048
+00:42:46,190 --> 00:42:46,200
+des visuels il y a 6 % de différence
+ 
+
+2049
+00:42:46,200 --> 00:42:48,470
+des visuels il y a 6 % de différence
+donc les deux sont éco-conçues on reste
+
+2050
+00:42:48,470 --> 00:42:48,480
+donc les deux sont éco-conçues on reste
+ 
+
+2051
+00:42:48,480 --> 00:42:50,270
+donc les deux sont éco-conçues on reste
+sur le a mais il y a 6% qu'on rentre
+
+2052
+00:42:50,270 --> 00:42:50,280
+sur le a mais il y a 6% qu'on rentre
+ 
+
+2053
+00:42:50,280 --> 00:42:52,250
+sur le a mais il y a 6% qu'on rentre
+dans le détail de la mesure donc ouais
+
+2054
+00:42:52,250 --> 00:42:52,260
+dans le détail de la mesure donc ouais
+ 
+
+2055
+00:42:52,260 --> 00:42:53,750
+dans le détail de la mesure donc ouais
+c'est aussi un choix en fait pas de
+
+2056
+00:42:53,750 --> 00:42:53,760
+c'est aussi un choix en fait pas de
+ 
+
+2057
+00:42:53,760 --> 00:42:56,750
+c'est aussi un choix en fait pas de
+superbes vidéo pas de voilà
+
+2058
+00:42:56,750 --> 00:42:56,760
+superbes vidéo pas de voilà
+ 
+
+2059
+00:42:56,760 --> 00:42:58,309
+superbes vidéo pas de voilà
+donc convaincre différemment ouais c'est
+
+2060
+00:42:58,309 --> 00:42:58,319
+donc convaincre différemment ouais c'est
+ 
+
+2061
+00:42:58,319 --> 00:43:01,460
+donc convaincre différemment ouais c'est
+à la tchatche c'est pas mal
+
