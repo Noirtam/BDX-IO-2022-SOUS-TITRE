@@ -1,0 +1,7515 @@
+1
+00:00:01,840 --> 00:00:13,669
+
+[Musique]
+
+2
+00:00:13,669 --> 00:00:13,679
+
+ 
+
+3
+00:00:13,679 --> 00:00:18,170
+
+bonjour à tous mon temps c'est bon
+
+4
+00:00:18,170 --> 00:00:18,180
+bonjour à tous mon temps c'est bon
+ 
+
+5
+00:00:18,180 --> 00:00:20,929
+bonjour à tous mon temps c'est bon
+bienvenue à ma conférence à mon débutant
+
+6
+00:00:20,929 --> 00:00:20,939
+bienvenue à ma conférence à mon débutant
+ 
+
+7
+00:00:20,939 --> 00:00:34,750
+bienvenue à ma conférence à mon débutant
+accessibilité numérique
+
+8
+00:00:34,750 --> 00:00:34,760
+
+ 
+
+9
+00:00:34,760 --> 00:00:38,389
+
+vous allez en savoir plus je vous
+
+10
+00:00:38,389 --> 00:00:38,399
+vous allez en savoir plus je vous
+ 
+
+11
+00:00:38,399 --> 00:00:39,770
+vous allez en savoir plus je vous
+préviens il y aura beaucoup
+
+12
+00:00:39,770 --> 00:00:39,780
+préviens il y aura beaucoup
+ 
+
+13
+00:00:39,780 --> 00:00:40,869
+préviens il y aura beaucoup
+d'informations
+
+14
+00:00:40,869 --> 00:00:40,879
+d'informations
+ 
+
+15
+00:00:40,879 --> 00:00:43,389
+d'informations
+mais question à l'enfant
+
+16
+00:00:43,389 --> 00:00:43,399
+mais question à l'enfant
+ 
+
+17
+00:00:43,399 --> 00:00:46,010
+mais question à l'enfant
+je vous demanderai de les écrire via
+
+18
+00:00:46,010 --> 00:00:46,020
+je vous demanderai de les écrire via
+ 
+
+19
+00:00:46,020 --> 00:00:49,490
+je vous demanderai de les écrire via
+cela et ça ça me fait ici travailler les
+
+20
+00:00:49,490 --> 00:00:49,500
+cela et ça ça me fait ici travailler les
+ 
+
+21
+00:00:49,500 --> 00:00:52,850
+cela et ça ça me fait ici travailler les
+échanges voilà bon c'est parti
+
+22
+00:00:52,850 --> 00:00:52,860
+échanges voilà bon c'est parti
+ 
+
+23
+00:00:52,860 --> 00:00:56,150
+échanges voilà bon c'est parti
+d'abord je vais vous expliquer aussi une
+
+24
+00:00:56,150 --> 00:00:56,160
+d'abord je vais vous expliquer aussi une
+ 
+
+25
+00:00:56,160 --> 00:00:59,330
+d'abord je vais vous expliquer aussi une
+accessibilité numérique sur internet en
+
+26
+00:00:59,330 --> 00:00:59,340
+accessibilité numérique sur internet en
+ 
+
+27
+00:00:59,340 --> 00:01:01,670
+accessibilité numérique sur internet en
+avis on va sur internet je me retrouve
+
+28
+00:01:01,670 --> 00:01:01,680
+avis on va sur internet je me retrouve
+ 
+
+29
+00:01:01,680 --> 00:01:03,349
+avis on va sur internet je me retrouve
+dans la possibilité de zoomer
+
+30
+00:01:03,349 --> 00:01:03,359
+dans la possibilité de zoomer
+ 
+
+31
+00:01:03,359 --> 00:01:06,170
+dans la possibilité de zoomer
+c'est-à-dire de grossir ou réduire sans
+
+32
+00:01:06,170 --> 00:01:06,180
+c'est-à-dire de grossir ou réduire sans
+ 
+
+33
+00:01:06,180 --> 00:01:08,690
+c'est-à-dire de grossir ou réduire sans
+modifier la structure du site je peux
+
+34
+00:01:08,690 --> 00:01:08,700
+modifier la structure du site je peux
+ 
+
+35
+00:01:08,700 --> 00:01:11,929
+modifier la structure du site je peux
+pas naviguer sur le site mes vidéos ne
+
+36
+00:01:11,929 --> 00:01:11,939
+pas naviguer sur le site mes vidéos ne
+ 
+
+37
+00:01:11,939 --> 00:01:14,450
+pas naviguer sur le site mes vidéos ne
+sont pas sous-titrées ni audiodées rites
+
+38
+00:01:14,450 --> 00:01:14,460
+sont pas sous-titrées ni audiodées rites
+ 
+
+39
+00:01:14,460 --> 00:01:17,990
+sont pas sous-titrées ni audiodées rites
+la police elle est trop petite les
+
+40
+00:01:17,990 --> 00:01:18,000
+la police elle est trop petite les
+ 
+
+41
+00:01:18,000 --> 00:01:19,969
+la police elle est trop petite les
+couleurs sont trop vives ou trop verts
+
+42
+00:01:19,969 --> 00:01:19,979
+couleurs sont trop vives ou trop verts
+ 
+
+43
+00:01:19,979 --> 00:01:22,969
+couleurs sont trop vives ou trop verts
+je peux pas remplir ou ben il est un
+
+44
+00:01:22,969 --> 00:01:22,979
+je peux pas remplir ou ben il est un
+ 
+
+45
+00:01:22,979 --> 00:01:25,190
+je peux pas remplir ou ben il est un
+formulaire ils images ils sont pas des
+
+46
+00:01:25,190 --> 00:01:25,200
+formulaire ils images ils sont pas des
+ 
+
+47
+00:01:25,200 --> 00:01:28,010
+formulaire ils images ils sont pas des
+prix moniteur d'écran il me parle on en
+
+48
+00:01:28,010 --> 00:01:28,020
+prix moniteur d'écran il me parle on en
+ 
+
+49
+00:01:28,020 --> 00:01:30,710
+prix moniteur d'écran il me parle on en
+est alors le site est en français je ne
+
+50
+00:01:30,710 --> 00:01:30,720
+est alors le site est en français je ne
+ 
+
+51
+00:01:30,720 --> 00:01:33,170
+est alors le site est en français je ne
+peux pas payer en ligne il y a plein de
+
+52
+00:01:33,170 --> 00:01:33,180
+peux pas payer en ligne il y a plein de
+ 
+
+53
+00:01:33,180 --> 00:01:35,929
+peux pas payer en ligne il y a plein de
+boutons ou lien identiques je sais pas
+
+54
+00:01:35,929 --> 00:01:35,939
+boutons ou lien identiques je sais pas
+ 
+
+55
+00:01:35,939 --> 00:01:40,670
+boutons ou lien identiques je sais pas
+où qui est des exemples parmi entre eux
+
+56
+00:01:40,670 --> 00:01:40,680
+où qui est des exemples parmi entre eux
+ 
+
+57
+00:01:40,680 --> 00:01:43,730
+où qui est des exemples parmi entre eux
+et aussi des années des utilisateurs ils
+
+58
+00:01:43,730 --> 00:01:43,740
+et aussi des années des utilisateurs ils
+ 
+
+59
+00:01:43,740 --> 00:01:46,609
+et aussi des années des utilisateurs ils
+utilisateurs tristes on dit des
+
+60
+00:01:46,609 --> 00:01:46,619
+utilisateurs tristes on dit des
+ 
+
+61
+00:01:46,619 --> 00:01:48,170
+utilisateurs tristes on dit des
+problèmes d'accessibilité sur les
+
+62
+00:01:48,170 --> 00:01:48,180
+problèmes d'accessibilité sur les
+ 
+
+63
+00:01:48,180 --> 00:01:50,569
+problèmes d'accessibilité sur les
+réseaux sociaux par exemple on a un
+
+64
+00:01:50,569 --> 00:01:50,579
+réseaux sociaux par exemple on a un
+ 
+
+65
+00:01:50,579 --> 00:01:54,469
+réseaux sociaux par exemple on a un
+Fernando qui va et bien sûr le site Air
+
+66
+00:01:54,469 --> 00:01:54,479
+Fernando qui va et bien sûr le site Air
+ 
+
+67
+00:01:54,479 --> 00:01:56,690
+Fernando qui va et bien sûr le site Air
+Fnac il peut pas parce que ils se
+
+68
+00:01:56,690 --> 00:01:56,700
+Fnac il peut pas parce que ils se
+ 
+
+69
+00:01:56,700 --> 00:01:59,330
+Fnac il peut pas parce que ils se
+retrouvent la possibilité de sur un
+
+70
+00:01:59,330 --> 00:01:59,340
+retrouvent la possibilité de sur un
+ 
+
+71
+00:01:59,340 --> 00:02:03,410
+retrouvent la possibilité de sur un
+bouton il sait pas au moment subi un
+
+72
+00:02:03,410 --> 00:02:03,420
+bouton il sait pas au moment subi un
+ 
+
+73
+00:02:03,420 --> 00:02:05,170
+bouton il sait pas au moment subi un
+finalisation
+
+74
+00:02:05,170 --> 00:02:05,180
+finalisation
+ 
+
+75
+00:02:05,180 --> 00:02:08,830
+finalisation
+sont
+
+76
+00:02:08,830 --> 00:02:08,840
+
+ 
+
+77
+00:02:08,840 --> 00:02:12,130
+
+pas non plus où il faut
+
+78
+00:02:12,130 --> 00:02:12,140
+pas non plus où il faut
+ 
+
+79
+00:02:12,140 --> 00:02:16,970
+pas non plus où il faut
+un suivi et retrouver sur un site son
+
+80
+00:02:16,970 --> 00:02:16,980
+un suivi et retrouver sur un site son
+ 
+
+81
+00:02:16,980 --> 00:02:22,430
+un suivi et retrouver sur un site son
+étant français
+
+82
+00:02:22,430 --> 00:02:22,440
+
+ 
+
+83
+00:02:22,440 --> 00:02:25,690
+
+Céline elle va sur les sites de resto
+
+84
+00:02:25,690 --> 00:02:25,700
+Céline elle va sur les sites de resto
+ 
+
+85
+00:02:25,700 --> 00:02:29,150
+Céline elle va sur les sites de resto
+elle peut pas réserver ces pièces dans
+
+86
+00:02:29,150 --> 00:02:29,160
+elle peut pas réserver ces pièces dans
+ 
+
+87
+00:02:29,160 --> 00:02:31,070
+elle peut pas réserver ces pièces dans
+les sites de restaurant parce que les
+
+88
+00:02:31,070 --> 00:02:31,080
+les sites de restaurant parce que les
+ 
+
+89
+00:02:31,080 --> 00:02:33,490
+les sites de restaurant parce que les
+sites sont inaccessibles et parmi
+
+90
+00:02:33,490 --> 00:02:33,500
+sites sont inaccessibles et parmi
+ 
+
+91
+00:02:33,500 --> 00:02:37,010
+sites sont inaccessibles et parmi
+recevoir 2% d'entre eux ont à chaque
+
+92
+00:02:37,010 --> 00:02:37,020
+recevoir 2% d'entre eux ont à chaque
+ 
+
+93
+00:02:37,020 --> 00:02:38,570
+recevoir 2% d'entre eux ont à chaque
+fois et va sur les sites restoriques
+
+94
+00:02:38,570 --> 00:02:38,580
+fois et va sur les sites restoriques
+ 
+
+95
+00:02:38,580 --> 00:02:40,970
+fois et va sur les sites restoriques
+sont pas ils sont seulement accessibles
+
+96
+00:02:40,970 --> 00:02:40,980
+sont pas ils sont seulement accessibles
+ 
+
+97
+00:02:40,980 --> 00:02:42,770
+sont pas ils sont seulement accessibles
+et 2%
+
+98
+00:02:42,770 --> 00:02:42,780
+et 2%
+ 
+
+99
+00:02:42,780 --> 00:02:44,869
+et 2%
+moi j'avais tweeté parce que j'ai
+
+100
+00:02:44,869 --> 00:02:44,879
+moi j'avais tweeté parce que j'ai
+ 
+
+101
+00:02:44,879 --> 00:02:48,410
+moi j'avais tweeté parce que j'ai
+problème de vue et de où il y a des
+
+102
+00:02:48,410 --> 00:02:48,420
+problème de vue et de où il y a des
+ 
+
+103
+00:02:48,420 --> 00:02:50,270
+problème de vue et de où il y a des
+problèmes de contraste je n'arrive pas à
+
+104
+00:02:50,270 --> 00:02:50,280
+problèmes de contraste je n'arrive pas à
+ 
+
+105
+00:02:50,280 --> 00:02:52,550
+problèmes de contraste je n'arrive pas à
+lire donc il y a un problème c'est
+
+106
+00:02:52,550 --> 00:02:52,560
+lire donc il y a un problème c'est
+ 
+
+107
+00:02:52,560 --> 00:02:54,610
+lire donc il y a un problème c'est
+peut-être joli
+
+108
+00:02:54,610 --> 00:02:54,620
+peut-être joli
+ 
+
+109
+00:02:54,620 --> 00:02:56,869
+peut-être joli
+sont complètement empathiques je peux
+
+110
+00:02:56,869 --> 00:02:56,879
+sont complètement empathiques je peux
+ 
+
+111
+00:02:56,879 --> 00:02:59,830
+sont complètement empathiques je peux
+pas lire et
+
+112
+00:02:59,830 --> 00:02:59,840
+pas lire et
+ 
+
+113
+00:02:59,840 --> 00:03:02,589
+pas lire et
+Céline
+
+114
+00:03:02,589 --> 00:03:02,599
+Céline
+ 
+
+115
+00:03:02,599 --> 00:03:06,589
+Céline
+sur des liens un habitant en lien et le
+
+116
+00:03:06,589 --> 00:03:06,599
+sur des liens un habitant en lien et le
+ 
+
+117
+00:03:06,599 --> 00:03:08,990
+sur des liens un habitant en lien et le
+lien lui dit adresse du lien adresse tu
+
+118
+00:03:08,990 --> 00:03:09,000
+lien lui dit adresse du lien adresse tu
+ 
+
+119
+00:03:09,000 --> 00:03:11,390
+lien lui dit adresse du lien adresse tu
+y a un drap du lien dont un i dessus et
+
+120
+00:03:11,390 --> 00:03:11,400
+y a un drap du lien dont un i dessus et
+ 
+
+121
+00:03:11,400 --> 00:03:13,910
+y a un drap du lien dont un i dessus et
+c'est pas et elle vient elle va ouvrir
+
+122
+00:03:13,910 --> 00:03:13,920
+c'est pas et elle vient elle va ouvrir
+ 
+
+123
+00:03:13,920 --> 00:03:27,970
+c'est pas et elle vient elle va ouvrir
+c'est un peu une pochette surprise pour
+
+124
+00:03:27,970 --> 00:03:27,980
+
+ 
+
+125
+00:03:27,980 --> 00:03:31,130
+
+des informations sur un formulaire et au
+
+126
+00:03:31,130 --> 00:03:31,140
+des informations sur un formulaire et au
+ 
+
+127
+00:03:31,140 --> 00:03:33,229
+des informations sur un formulaire et au
+moment de valider nous on voit ses
+
+128
+00:03:33,229 --> 00:03:33,239
+moment de valider nous on voit ses
+ 
+
+129
+00:03:33,239 --> 00:03:36,110
+moment de valider nous on voit ses
+rouges mais les champs on verra lui sont
+
+130
+00:03:36,110 --> 00:03:36,120
+rouges mais les champs on verra lui sont
+ 
+
+131
+00:03:36,120 --> 00:03:38,390
+rouges mais les champs on verra lui sont
+pas vocalisés donc c'est pas un
+
+132
+00:03:38,390 --> 00:03:38,400
+pas vocalisés donc c'est pas un
+ 
+
+133
+00:03:38,400 --> 00:03:40,149
+pas vocalisés donc c'est pas un
+erreur
+
+134
+00:03:40,149 --> 00:03:40,159
+erreur
+ 
+
+135
+00:03:40,159 --> 00:03:45,289
+erreur
+ensuite signe elle va sur la poste elle
+
+136
+00:03:45,289 --> 00:03:45,299
+ensuite signe elle va sur la poste elle
+ 
+
+137
+00:03:45,299 --> 00:03:47,350
+ensuite signe elle va sur la poste elle
+est pas là pour recevoir le Holly et
+
+138
+00:03:47,350 --> 00:03:47,360
+est pas là pour recevoir le Holly et
+ 
+
+139
+00:03:47,360 --> 00:03:49,149
+est pas là pour recevoir le Holly et
+reprogrammer
+
+140
+00:03:49,149 --> 00:03:49,159
+reprogrammer
+ 
+
+141
+00:03:49,159 --> 00:03:53,830
+reprogrammer
+au lit un peu pas le site de la Poste
+
+142
+00:03:53,830 --> 00:03:53,840
+au lit un peu pas le site de la Poste
+ 
+
+143
+00:03:53,840 --> 00:03:56,809
+au lit un peu pas le site de la Poste
+lui permet pas de le faire et pour les
+
+144
+00:03:56,809 --> 00:03:56,819
+lui permet pas de le faire et pour les
+ 
+
+145
+00:03:56,819 --> 00:03:59,210
+lui permet pas de le faire et pour les
+impôts elles sont trouvés dans la
+
+146
+00:03:59,210 --> 00:03:59,220
+impôts elles sont trouvés dans la
+ 
+
+147
+00:03:59,220 --> 00:04:01,330
+impôts elles sont trouvés dans la
+possibilité de faire
+
+148
+00:04:01,330 --> 00:04:01,340
+possibilité de faire
+ 
+
+149
+00:04:01,340 --> 00:04:04,789
+possibilité de faire
+mine de rien ce sont tous les jours on
+
+150
+00:04:04,789 --> 00:04:04,799
+mine de rien ce sont tous les jours on
+ 
+
+151
+00:04:04,799 --> 00:04:06,830
+mine de rien ce sont tous les jours on
+va sur ce site tous les jours pour nous
+
+152
+00:04:06,830 --> 00:04:06,840
+va sur ce site tous les jours pour nous
+ 
+
+153
+00:04:06,840 --> 00:04:08,390
+va sur ce site tous les jours pour nous
+c'est assez signe mais pour certains
+
+154
+00:04:08,390 --> 00:04:08,400
+c'est assez signe mais pour certains
+ 
+
+155
+00:04:08,400 --> 00:04:10,729
+c'est assez signe mais pour certains
+utilisateurs ne sont pas
+
+156
+00:04:10,729 --> 00:04:10,739
+utilisateurs ne sont pas
+ 
+
+157
+00:04:10,739 --> 00:04:13,390
+utilisateurs ne sont pas
+donc pourquoi
+
+158
+00:04:13,390 --> 00:04:13,400
+donc pourquoi
+ 
+
+159
+00:04:13,400 --> 00:04:21,310
+donc pourquoi
+une accessibilité numérique
+
+160
+00:04:21,310 --> 00:04:21,320
+
+ 
+
+161
+00:04:21,320 --> 00:04:24,230
+
+on prend donc pouvoir analyser on prend
+
+162
+00:04:24,230 --> 00:04:24,240
+on prend donc pouvoir analyser on prend
+ 
+
+163
+00:04:24,240 --> 00:04:27,189
+on prend donc pouvoir analyser on prend
+et aller on va tu utilises correctement
+
+164
+00:04:27,189 --> 00:04:27,199
+et aller on va tu utilises correctement
+ 
+
+165
+00:04:27,199 --> 00:04:32,230
+et aller on va tu utilises correctement
+pleinement
+
+166
+00:04:32,230 --> 00:04:32,240
+
+ 
+
+167
+00:04:32,240 --> 00:04:36,430
+
+on peut pouvoir
+
+168
+00:04:36,430 --> 00:04:36,440
+
+ 
+
+169
+00:04:36,440 --> 00:04:39,409
+
+être bleu et
+
+170
+00:04:39,409 --> 00:04:39,419
+être bleu et
+ 
+
+171
+00:04:39,419 --> 00:04:41,570
+être bleu et
+pour qui nous a moins plusieurs
+
+172
+00:04:41,570 --> 00:04:41,580
+pour qui nous a moins plusieurs
+ 
+
+173
+00:04:41,580 --> 00:04:43,510
+pour qui nous a moins plusieurs
+catégories on avait les personnes
+
+174
+00:04:43,510 --> 00:04:43,520
+catégories on avait les personnes
+ 
+
+175
+00:04:43,520 --> 00:04:45,850
+catégories on avait les personnes
+malvoyantes ils utilisent allez
+
+176
+00:04:45,850 --> 00:04:45,860
+malvoyantes ils utilisent allez
+ 
+
+177
+00:04:45,860 --> 00:04:49,249
+malvoyantes ils utilisent allez
+sur Internet ou une loupe arrondissante
+
+178
+00:04:49,249 --> 00:04:49,259
+sur Internet ou une loupe arrondissante
+ 
+
+179
+00:04:49,259 --> 00:04:52,670
+sur Internet ou une loupe arrondissante
+pour lire le contenu du site et personne
+
+180
+00:04:52,670 --> 00:04:52,680
+pour lire le contenu du site et personne
+ 
+
+181
+00:04:52,680 --> 00:04:54,469
+pour lire le contenu du site et personne
+sourde ou malentendantes tu ne peux pas
+
+182
+00:04:54,469 --> 00:04:54,479
+sourde ou malentendantes tu ne peux pas
+ 
+
+183
+00:04:54,479 --> 00:04:56,450
+sourde ou malentendantes tu ne peux pas
+on prend il dit sur les vidéos ou
+
+184
+00:04:56,450 --> 00:04:56,460
+on prend il dit sur les vidéos ou
+ 
+
+185
+00:04:56,460 --> 00:04:58,909
+on prend il dit sur les vidéos ou
+podcast tout la nécessité de sous-titrer
+
+186
+00:04:58,909 --> 00:04:58,919
+podcast tout la nécessité de sous-titrer
+ 
+
+187
+00:04:58,919 --> 00:05:01,969
+podcast tout la nécessité de sous-titrer
+les vidéos ou de transférer
+
+188
+00:05:01,969 --> 00:05:01,979
+les vidéos ou de transférer
+ 
+
+189
+00:05:01,979 --> 00:05:04,249
+les vidéos ou de transférer
+pour les personnes qui ont des problèmes
+
+190
+00:05:04,249 --> 00:05:04,259
+pour les personnes qui ont des problèmes
+ 
+
+191
+00:05:04,259 --> 00:05:07,930
+pour les personnes qui ont des problèmes
+motrices
+
+192
+00:05:07,930 --> 00:05:07,940
+
+ 
+
+193
+00:05:07,940 --> 00:05:12,249
+
+imcène etc on a des problèmes
+
+194
+00:05:12,249 --> 00:05:12,259
+imcène etc on a des problèmes
+ 
+
+195
+00:05:12,259 --> 00:05:15,830
+imcène etc on a des problèmes
+on a des tremblements et on peut pas
+
+196
+00:05:15,830 --> 00:05:15,840
+on a des tremblements et on peut pas
+ 
+
+197
+00:05:15,840 --> 00:05:17,689
+on a des tremblements et on peut pas
+utiliser un sourire tellement on tremble
+
+198
+00:05:17,689 --> 00:05:17,699
+utiliser un sourire tellement on tremble
+ 
+
+199
+00:05:17,699 --> 00:05:19,730
+utiliser un sourire tellement on tremble
+et on n'arrive pas à naviguer et pour se
+
+200
+00:05:19,730 --> 00:05:19,740
+et on n'arrive pas à naviguer et pour se
+ 
+
+201
+00:05:19,740 --> 00:05:21,590
+et on n'arrive pas à naviguer et pour se
+stabiliser on utilise le clavier pour
+
+202
+00:05:21,590 --> 00:05:21,600
+stabiliser on utilise le clavier pour
+ 
+
+203
+00:05:21,600 --> 00:05:24,650
+stabiliser on utilise le clavier pour
+naviguer sur le site
+
+204
+00:05:24,650 --> 00:05:24,660
+naviguer sur le site
+ 
+
+205
+00:05:24,660 --> 00:05:27,909
+naviguer sur le site
+pour les filles
+
+206
+00:05:27,909 --> 00:05:27,919
+pour les filles
+ 
+
+207
+00:05:27,919 --> 00:05:30,070
+pour les filles
+photosensibilité
+
+208
+00:05:30,070 --> 00:05:30,080
+photosensibilité
+ 
+
+209
+00:05:30,080 --> 00:05:33,230
+photosensibilité
+on a des problèmes de contraste on se
+
+210
+00:05:33,230 --> 00:05:33,240
+on a des problèmes de contraste on se
+ 
+
+211
+00:05:33,240 --> 00:05:36,110
+on a des problèmes de contraste on se
+retrouve impossible de lire un texte
+
+212
+00:05:36,110 --> 00:05:36,120
+retrouve impossible de lire un texte
+ 
+
+213
+00:05:36,120 --> 00:05:37,730
+retrouve impossible de lire un texte
+attention on avait un arrière-plan rouge
+
+214
+00:05:37,730 --> 00:05:37,740
+attention on avait un arrière-plan rouge
+ 
+
+215
+00:05:37,740 --> 00:05:39,010
+attention on avait un arrière-plan rouge
+c'est impossible
+
+216
+00:05:39,010 --> 00:05:39,020
+c'est impossible
+ 
+
+217
+00:05:39,020 --> 00:05:43,730
+c'est impossible
+en la police sont pas adaptés les
+
+218
+00:05:43,730 --> 00:05:43,740
+en la police sont pas adaptés les
+ 
+
+219
+00:05:43,740 --> 00:05:46,129
+en la police sont pas adaptés les
+polices fantaisies qui nous empêchent de
+
+220
+00:05:46,129 --> 00:05:46,139
+polices fantaisies qui nous empêchent de
+ 
+
+221
+00:05:46,139 --> 00:05:47,590
+polices fantaisies qui nous empêchent de
+lire correctement
+
+222
+00:05:47,590 --> 00:05:47,600
+lire correctement
+ 
+
+223
+00:05:47,600 --> 00:05:50,170
+lire correctement
+les sitôt il faudrait une police
+
+224
+00:05:50,170 --> 00:05:50,180
+les sitôt il faudrait une police
+ 
+
+225
+00:05:50,180 --> 00:05:53,390
+les sitôt il faudrait une police
+empatement arrière sont chéris et
+
+226
+00:05:53,390 --> 00:05:53,400
+empatement arrière sont chéris et
+ 
+
+227
+00:05:53,400 --> 00:05:56,170
+empatement arrière sont chéris et
+n'oublions pas mais personne âgées
+
+228
+00:05:56,170 --> 00:05:56,180
+n'oublions pas mais personne âgées
+ 
+
+229
+00:05:56,180 --> 00:05:59,029
+n'oublions pas mais personne âgées
+dans avoir des problèmes d'handicap et
+
+230
+00:05:59,029 --> 00:05:59,039
+dans avoir des problèmes d'handicap et
+ 
+
+231
+00:05:59,039 --> 00:06:02,409
+dans avoir des problèmes d'handicap et
+on a aussi tous un petit entier
+
+232
+00:06:02,409 --> 00:06:02,419
+on a aussi tous un petit entier
+ 
+
+233
+00:06:02,419 --> 00:06:06,590
+on a aussi tous un petit entier
+ou définitif tout ça ça représente quand
+
+234
+00:06:06,590 --> 00:06:06,600
+ou définitif tout ça ça représente quand
+ 
+
+235
+00:06:06,600 --> 00:06:08,230
+ou définitif tout ça ça représente quand
+même sans compter les personnes âgées
+
+236
+00:06:08,230 --> 00:06:08,240
+même sans compter les personnes âgées
+ 
+
+237
+00:06:08,240 --> 00:06:10,790
+même sans compter les personnes âgées
+tous millions de personnes handicapées
+
+238
+00:06:10,790 --> 00:06:10,800
+tous millions de personnes handicapées
+ 
+
+239
+00:06:10,800 --> 00:06:12,830
+tous millions de personnes handicapées
+en France
+
+240
+00:06:12,830 --> 00:06:12,840
+en France
+ 
+
+241
+00:06:12,840 --> 00:06:14,330
+en France
+c'est difficile de dire un chiffre
+
+242
+00:06:14,330 --> 00:06:14,340
+c'est difficile de dire un chiffre
+ 
+
+243
+00:06:14,340 --> 00:06:16,430
+c'est difficile de dire un chiffre
+officiel parce que le recensement ne met
+
+244
+00:06:16,430 --> 00:06:16,440
+officiel parce que le recensement ne met
+ 
+
+245
+00:06:16,440 --> 00:06:18,409
+officiel parce que le recensement ne met
+pas pas mais on estime en même tous
+
+246
+00:06:18,409 --> 00:06:18,419
+pas pas mais on estime en même tous
+ 
+
+247
+00:06:18,419 --> 00:06:20,029
+pas pas mais on estime en même tous
+millions de personnes handicapées en
+
+248
+00:06:20,029 --> 00:06:20,039
+millions de personnes handicapées en
+ 
+
+249
+00:06:20,039 --> 00:06:21,529
+millions de personnes handicapées en
+France
+
+250
+00:06:21,529 --> 00:06:21,539
+France
+ 
+
+251
+00:06:21,539 --> 00:06:23,629
+France
+donc la sensibilité c'est une affaire de
+
+252
+00:06:23,629 --> 00:06:23,639
+donc la sensibilité c'est une affaire de
+ 
+
+253
+00:06:23,639 --> 00:06:26,210
+donc la sensibilité c'est une affaire de
+tous et de toutes on recherche afin de
+
+254
+00:06:26,210 --> 00:06:26,220
+tous et de toutes on recherche afin de
+ 
+
+255
+00:06:26,220 --> 00:06:27,890
+tous et de toutes on recherche afin de
+citer la vie aux utilisateurs et aux
+
+256
+00:06:27,890 --> 00:06:27,900
+citer la vie aux utilisateurs et aux
+ 
+
+257
+00:06:27,900 --> 00:06:32,469
+citer la vie aux utilisateurs et aux
+utilisatrices ayant une déficience avec
+
+258
+00:06:32,469 --> 00:06:32,479
+utilisatrices ayant une déficience avec
+ 
+
+259
+00:06:32,479 --> 00:06:36,409
+utilisatrices ayant une déficience avec
+une surdité etc on en revient tous en
+
+260
+00:06:36,409 --> 00:06:36,419
+une surdité etc on en revient tous en
+ 
+
+261
+00:06:36,419 --> 00:06:38,930
+une surdité etc on en revient tous en
+fait afin de citer avec vie de tous les
+
+262
+00:06:38,930 --> 00:06:38,940
+fait afin de citer avec vie de tous les
+ 
+
+263
+00:06:38,940 --> 00:06:41,110
+fait afin de citer avec vie de tous les
+utilisateurs on a tous un petit problème
+
+264
+00:06:41,110 --> 00:06:41,120
+utilisateurs on a tous un petit problème
+ 
+
+265
+00:06:41,120 --> 00:06:44,710
+utilisateurs on a tous un petit problème
+ils sont temporaire ou définitif
+
+266
+00:06:44,710 --> 00:06:44,720
+ils sont temporaire ou définitif
+ 
+
+267
+00:06:44,720 --> 00:06:47,809
+ils sont temporaire ou définitif
+c'est temporaire abus ça peut être
+
+268
+00:06:47,809 --> 00:06:47,819
+c'est temporaire abus ça peut être
+ 
+
+269
+00:06:47,819 --> 00:06:50,210
+c'est temporaire abus ça peut être
+définitive c'est vraiment on a tous un
+
+270
+00:06:50,210 --> 00:06:50,220
+définitive c'est vraiment on a tous un
+ 
+
+271
+00:06:50,220 --> 00:06:51,890
+définitive c'est vraiment on a tous un
+problème
+
+272
+00:06:51,890 --> 00:06:51,900
+problème
+ 
+
+273
+00:06:51,900 --> 00:06:54,290
+problème
+pour pouvoir tester des sites
+
+274
+00:06:54,290 --> 00:06:54,300
+pour pouvoir tester des sites
+ 
+
+275
+00:06:54,300 --> 00:06:58,129
+pour pouvoir tester des sites
+accessibles et faut-il un billet en
+
+276
+00:06:58,129 --> 00:06:58,139
+accessibles et faut-il un billet en
+ 
+
+277
+00:06:58,139 --> 00:07:00,830
+accessibles et faut-il un billet en
+étant c'est tout faut pas utiliser la
+
+278
+00:07:00,830 --> 00:07:00,840
+étant c'est tout faut pas utiliser la
+ 
+
+279
+00:07:00,840 --> 00:07:02,029
+étant c'est tout faut pas utiliser la
+souris sinon c'est une solution de
+
+280
+00:07:02,029 --> 00:07:02,039
+souris sinon c'est une solution de
+ 
+
+281
+00:07:02,039 --> 00:07:04,370
+souris sinon c'est une solution de
+facilité
+
+282
+00:07:04,370 --> 00:07:04,380
+facilité
+ 
+
+283
+00:07:04,380 --> 00:07:06,110
+facilité
+si vous voulez tester vous pouvez
+
+284
+00:07:06,110 --> 00:07:06,120
+si vous voulez tester vous pouvez
+ 
+
+285
+00:07:06,120 --> 00:07:18,110
+si vous voulez tester vous pouvez
+utiliser des rangs existants
+
+286
+00:07:18,110 --> 00:07:18,120
+
+ 
+
+287
+00:07:18,120 --> 00:07:19,790
+
+donc je vais vous faire une démo avec
+
+288
+00:07:19,790 --> 00:07:19,800
+donc je vais vous faire une démo avec
+ 
+
+289
+00:07:19,800 --> 00:07:22,570
+donc je vais vous faire une démo avec
+des sites non et accessible
+
+290
+00:07:22,570 --> 00:07:22,580
+des sites non et accessible
+ 
+
+291
+00:07:22,580 --> 00:07:26,749
+des sites non et accessible
+je suis sur le site de BIOP pour
+
+292
+00:07:26,749 --> 00:07:26,759
+je suis sur le site de BIOP pour
+ 
+
+293
+00:07:26,759 --> 00:07:30,290
+je suis sur le site de BIOP pour
+réserver acheter des mes produits je
+
+294
+00:07:30,290 --> 00:07:30,300
+réserver acheter des mes produits je
+ 
+
+295
+00:07:30,300 --> 00:07:32,390
+réserver acheter des mes produits je
+navigue avec mon clavier la touche TAB
+
+296
+00:07:32,390 --> 00:07:32,400
+navigue avec mon clavier la touche TAB
+ 
+
+297
+00:07:32,400 --> 00:07:34,510
+navigue avec mon clavier la touche TAB
+vous voyez là où time qui
+
+298
+00:07:34,510 --> 00:07:34,520
+vous voyez là où time qui
+ 
+
+299
+00:07:34,520 --> 00:07:39,710
+vous voyez là où time qui
+bouge et je continue et je continue à
+
+300
+00:07:39,710 --> 00:07:39,720
+bouge et je continue et je continue à
+ 
+
+301
+00:07:39,720 --> 00:07:41,809
+bouge et je continue et je continue à
+tabuler mais il se passe rien je sais
+
+302
+00:07:41,809 --> 00:07:41,819
+tabuler mais il se passe rien je sais
+ 
+
+303
+00:07:41,819 --> 00:07:43,370
+tabuler mais il se passe rien je sais
+pas ce qui se passe pourtant on avait
+
+304
+00:07:43,370 --> 00:07:43,380
+pas ce qui se passe pourtant on avait
+ 
+
+305
+00:07:43,380 --> 00:07:45,830
+pas ce qui se passe pourtant on avait
+bien démerder
+
+306
+00:07:45,830 --> 00:07:45,840
+bien démerder
+ 
+
+307
+00:07:45,840 --> 00:07:51,650
+bien démerder
+ensuite utiliser les lecteurs d'écran
+
+308
+00:07:51,650 --> 00:07:51,660
+
+ 
+
+309
+00:07:51,660 --> 00:07:55,070
+
+on a les visionneuse de parole c'est
+
+310
+00:07:55,070 --> 00:07:55,080
+on a les visionneuse de parole c'est
+ 
+
+311
+00:07:55,080 --> 00:07:57,529
+on a les visionneuse de parole c'est
+bien pour moi parce que j'ai des
+
+312
+00:07:57,529 --> 00:07:57,539
+bien pour moi parce que j'ai des
+ 
+
+313
+00:07:57,539 --> 00:07:59,990
+bien pour moi parce que j'ai des
+problèmes de d'audition donc avec
+
+314
+00:07:59,990 --> 00:08:00,000
+problèmes de d'audition donc avec
+ 
+
+315
+00:08:00,000 --> 00:08:01,870
+problèmes de d'audition donc avec
+Mathieu d'été je peux pas en France
+
+316
+00:08:01,870 --> 00:08:01,880
+Mathieu d'été je peux pas en France
+ 
+
+317
+00:08:01,880 --> 00:08:05,450
+Mathieu d'été je peux pas en France
+de parole me permet de voir ce qui est
+
+318
+00:08:05,450 --> 00:08:05,460
+de parole me permet de voir ce qui est
+ 
+
+319
+00:08:05,460 --> 00:08:08,270
+de parole me permet de voir ce qui est
+transcrit donc là j'ai recherché une
+
+320
+00:08:08,270 --> 00:08:08,280
+transcrit donc là j'ai recherché une
+ 
+
+321
+00:08:08,280 --> 00:08:10,010
+transcrit donc là j'ai recherché une
+information un produit liste déroulant
+
+322
+00:08:10,010 --> 00:08:10,020
+information un produit liste déroulant
+ 
+
+323
+00:08:10,020 --> 00:08:11,469
+information un produit liste déroulant
+très bien
+
+324
+00:08:11,469 --> 00:08:11,479
+très bien
+ 
+
+325
+00:08:11,479 --> 00:08:15,070
+très bien
+bouton choisir son magasin mon honte
+
+326
+00:08:15,070 --> 00:08:15,080
+bouton choisir son magasin mon honte
+ 
+
+327
+00:08:15,080 --> 00:08:19,790
+bouton choisir son magasin mon honte
+panier je continue mes informations mes
+
+328
+00:08:19,790 --> 00:08:19,800
+panier je continue mes informations mes
+ 
+
+329
+00:08:19,800 --> 00:08:22,129
+panier je continue mes informations mes
+adresses et à un moment je me retrouve
+
+330
+00:08:22,129 --> 00:08:22,139
+adresses et à un moment je me retrouve
+ 
+
+331
+00:08:22,139 --> 00:08:24,890
+adresses et à un moment je me retrouve
+bleu et un article je continue à taper
+
+332
+00:08:24,890 --> 00:08:24,900
+bleu et un article je continue à taper
+ 
+
+333
+00:08:24,900 --> 00:08:27,650
+bleu et un article je continue à taper
+même la personne qui va utiliser les
+
+334
+00:08:27,650 --> 00:08:27,660
+même la personne qui va utiliser les
+ 
+
+335
+00:08:27,660 --> 00:08:29,570
+même la personne qui va utiliser les
+lecteurs d'écran elle se retrouve dans
+
+336
+00:08:29,570 --> 00:08:29,580
+lecteurs d'écran elle se retrouve dans
+ 
+
+337
+00:08:29,580 --> 00:08:31,909
+lecteurs d'écran elle se retrouve dans
+la possibilité de continuer
+
+338
+00:08:31,909 --> 00:08:31,919
+la possibilité de continuer
+ 
+
+339
+00:08:31,919 --> 00:08:33,190
+la possibilité de continuer
+ensuite
+
+340
+00:08:33,190 --> 00:08:33,200
+ensuite
+ 
+
+341
+00:08:33,200 --> 00:08:37,670
+ensuite
+je vais sur la page de la poste
+
+342
+00:08:37,670 --> 00:08:37,680
+je vais sur la page de la poste
+ 
+
+343
+00:08:37,680 --> 00:08:40,070
+je vais sur la page de la poste
+dans la page de la poste
+
+344
+00:08:40,070 --> 00:08:40,080
+dans la page de la poste
+ 
+
+345
+00:08:40,080 --> 00:08:42,889
+dans la page de la poste
+on a un formulaire tout simple
+
+346
+00:08:42,889 --> 00:08:42,899
+on a un formulaire tout simple
+ 
+
+347
+00:08:42,899 --> 00:08:44,470
+on a un formulaire tout simple
+je vais sur
+
+348
+00:08:44,470 --> 00:08:44,480
+je vais sur
+ 
+
+349
+00:08:44,480 --> 00:08:49,130
+je vais sur
+le champ INTRAIT email dont il me dit
+
+350
+00:08:49,130 --> 00:08:49,140
+le champ INTRAIT email dont il me dit
+ 
+
+351
+00:08:49,140 --> 00:08:50,530
+le champ INTRAIT email dont il me dit
+éditions
+
+352
+00:08:50,530 --> 00:08:50,540
+éditions
+ 
+
+353
+00:08:50,540 --> 00:08:55,130
+éditions
+vide OK Mot de Passe édition protégée et
+
+354
+00:08:55,130 --> 00:08:55,140
+vide OK Mot de Passe édition protégée et
+ 
+
+355
+00:08:55,140 --> 00:08:57,290
+vide OK Mot de Passe édition protégée et
+toi envie je me retrouve dans la
+
+356
+00:08:57,290 --> 00:08:57,300
+toi envie je me retrouve dans la
+ 
+
+357
+00:08:57,300 --> 00:08:59,449
+toi envie je me retrouve dans la
+possibilité de savoir ce qui se passe en
+
+358
+00:08:59,449 --> 00:08:59,459
+possibilité de savoir ce qui se passe en
+ 
+
+359
+00:08:59,459 --> 00:09:01,449
+possibilité de savoir ce qui se passe en
+tout cas on a révélé le mot de passe oui
+
+360
+00:09:01,449 --> 00:09:01,459
+tout cas on a révélé le mot de passe oui
+ 
+
+361
+00:09:01,459 --> 00:09:04,430
+tout cas on a révélé le mot de passe oui
+un mot de passe oublié restez honnêteté
+
+362
+00:09:04,430 --> 00:09:04,440
+un mot de passe oublié restez honnêteté
+ 
+
+363
+00:09:04,440 --> 00:09:07,790
+un mot de passe oublié restez honnêteté
+un été mon la suite ça va mais les deux
+
+364
+00:09:07,790 --> 00:09:07,800
+un été mon la suite ça va mais les deux
+ 
+
+365
+00:09:07,800 --> 00:09:09,530
+un été mon la suite ça va mais les deux
+premiers champs Adresse Email mot de
+
+366
+00:09:09,530 --> 00:09:09,540
+premiers champs Adresse Email mot de
+ 
+
+367
+00:09:09,540 --> 00:09:14,930
+premiers champs Adresse Email mot de
+passe
+
+368
+00:09:14,930 --> 00:09:14,940
+
+ 
+
+369
+00:09:14,940 --> 00:09:18,530
+
+ensuite on nous avons le site de la
+
+370
+00:09:18,530 --> 00:09:18,540
+ensuite on nous avons le site de la
+ 
+
+371
+00:09:18,540 --> 00:09:21,949
+ensuite on nous avons le site de la
+poste en je vais naviguer toujours un
+
+372
+00:09:21,949 --> 00:09:21,959
+poste en je vais naviguer toujours un
+ 
+
+373
+00:09:21,959 --> 00:09:24,130
+poste en je vais naviguer toujours un
+bilan le site inaccessible mais
+
+374
+00:09:24,130 --> 00:09:24,140
+bilan le site inaccessible mais
+ 
+
+375
+00:09:24,140 --> 00:09:27,530
+bilan le site inaccessible mais
+j'ai un repère visuel me permet tant et
+
+376
+00:09:27,530 --> 00:09:27,540
+j'ai un repère visuel me permet tant et
+ 
+
+377
+00:09:27,540 --> 00:09:30,710
+j'ai un repère visuel me permet tant et
+bien je vais donc là aussi on a un
+
+378
+00:09:30,710 --> 00:09:30,720
+bien je vais donc là aussi on a un
+ 
+
+379
+00:09:30,720 --> 00:09:36,790
+bien je vais donc là aussi on a un
+problème de sensibilité
+
+380
+00:09:36,790 --> 00:09:36,800
+
+ 
+
+381
+00:09:36,800 --> 00:09:40,389
+
+au maximum
+
+382
+00:09:40,389 --> 00:09:40,399
+
+ 
+
+383
+00:09:40,399 --> 00:09:45,250
+
+et je veux je veux descendre
+
+384
+00:09:45,250 --> 00:09:45,260
+et je veux je veux descendre
+ 
+
+385
+00:09:45,260 --> 00:09:47,570
+et je veux je veux descendre
+j'espère que vous voyez les ressorties
+
+386
+00:09:47,570 --> 00:09:47,580
+j'espère que vous voyez les ressorties
+ 
+
+387
+00:09:47,580 --> 00:09:50,210
+j'espère que vous voyez les ressorties
+descend mais je peux pas voir le contenu
+
+388
+00:09:50,210 --> 00:09:50,220
+descend mais je peux pas voir le contenu
+ 
+
+389
+00:09:50,220 --> 00:09:51,949
+descend mais je peux pas voir le contenu
+du site
+
+390
+00:09:51,949 --> 00:09:51,959
+du site
+ 
+
+391
+00:09:51,959 --> 00:09:54,490
+du site
+donc voilà c'est ça c'est des problèmes
+
+392
+00:09:54,490 --> 00:09:54,500
+donc voilà c'est ça c'est des problèmes
+ 
+
+393
+00:09:54,500 --> 00:09:58,430
+donc voilà c'est ça c'est des problèmes
+d'accessibilité on peut rentrer
+
+394
+00:09:58,430 --> 00:09:58,440
+d'accessibilité on peut rentrer
+ 
+
+395
+00:09:58,440 --> 00:10:03,889
+d'accessibilité on peut rentrer
+et zoom un peu là je suis à 250% et là
+
+396
+00:10:03,889 --> 00:10:03,899
+et zoom un peu là je suis à 250% et là
+ 
+
+397
+00:10:03,899 --> 00:10:06,470
+et zoom un peu là je suis à 250% et là
+on voit bien une grosse partie du menu
+
+398
+00:10:06,470 --> 00:10:06,480
+on voit bien une grosse partie du menu
+ 
+
+399
+00:10:06,480 --> 00:10:09,889
+on voit bien une grosse partie du menu
+tu me prends la moitié
+
+400
+00:10:09,889 --> 00:10:09,899
+
+ 
+
+401
+00:10:09,899 --> 00:10:14,990
+
+notre moitié c'est pas très accessible
+
+402
+00:10:14,990 --> 00:10:15,000
+notre moitié c'est pas très accessible
+ 
+
+403
+00:10:15,000 --> 00:10:18,470
+notre moitié c'est pas très accessible
+donc voilà c'est le petit démon avait un
+
+404
+00:10:18,470 --> 00:10:18,480
+donc voilà c'est le petit démon avait un
+ 
+
+405
+00:10:18,480 --> 00:10:20,389
+donc voilà c'est le petit démon avait un
+sinon accessible donc on en pensez
+
+406
+00:10:20,389 --> 00:10:20,399
+sinon accessible donc on en pensez
+ 
+
+407
+00:10:20,399 --> 00:10:22,329
+sinon accessible donc on en pensez
+accessible avec
+
+408
+00:10:22,329 --> 00:10:22,339
+accessible avec
+ 
+
+409
+00:10:22,339 --> 00:10:26,509
+accessible avec
+évidemment utiliser en html il y a un
+
+410
+00:10:26,509 --> 00:10:26,519
+évidemment utiliser en html il y a un
+ 
+
+411
+00:10:26,519 --> 00:10:28,190
+évidemment utiliser en html il y a un
+formulaire il faut le rendre accessible
+
+412
+00:10:28,190 --> 00:10:28,200
+formulaire il faut le rendre accessible
+ 
+
+413
+00:10:28,200 --> 00:10:31,269
+formulaire il faut le rendre accessible
+de manière simple nous avons un
+
+414
+00:10:31,269 --> 00:10:31,279
+de manière simple nous avons un
+ 
+
+415
+00:10:31,279 --> 00:10:34,070
+de manière simple nous avons un
+formulaire en htmètre tout simple nous
+
+416
+00:10:34,070 --> 00:10:34,080
+formulaire en htmètre tout simple nous
+ 
+
+417
+00:10:34,080 --> 00:10:38,269
+formulaire en htmètre tout simple nous
+avons le label normal en html avec une
+
+418
+00:10:38,269 --> 00:10:38,279
+avons le label normal en html avec une
+ 
+
+419
+00:10:38,279 --> 00:10:41,269
+avons le label normal en html avec une
+poutre
+
+420
+00:10:41,269 --> 00:10:41,279
+
+ 
+
+421
+00:10:41,279 --> 00:10:45,009
+
+identifiant un label mot de passe et
+
+422
+00:10:45,009 --> 00:10:45,019
+identifiant un label mot de passe et
+ 
+
+423
+00:10:45,019 --> 00:10:48,590
+identifiant un label mot de passe et
+se souvenir de moi avec un bouton en
+
+424
+00:10:48,590 --> 00:10:48,600
+se souvenir de moi avec un bouton en
+ 
+
+425
+00:10:48,600 --> 00:10:49,690
+se souvenir de moi avec un bouton en
+érection
+
+426
+00:10:49,690 --> 00:10:49,700
+érection
+ 
+
+427
+00:10:49,700 --> 00:10:52,970
+érection
+le visuel on voit bien on a bien les
+
+428
+00:10:52,970 --> 00:10:52,980
+le visuel on voit bien on a bien les
+ 
+
+429
+00:10:52,980 --> 00:10:54,590
+le visuel on voit bien on a bien les
+champs identifiants le changement de mot
+
+430
+00:10:54,590 --> 00:10:54,600
+champs identifiants le changement de mot
+ 
+
+431
+00:10:54,600 --> 00:10:57,430
+champs identifiants le changement de mot
+de passe
+
+432
+00:10:57,430 --> 00:10:57,440
+
+ 
+
+433
+00:10:57,440 --> 00:10:59,990
+
+Se souvenir moi le bouton mais par
+
+434
+00:10:59,990 --> 00:11:00,000
+Se souvenir moi le bouton mais par
+ 
+
+435
+00:11:00,000 --> 00:11:01,569
+Se souvenir moi le bouton mais par
+contre les temps
+
+436
+00:11:01,569 --> 00:11:01,579
+contre les temps
+ 
+
+437
+00:11:01,579 --> 00:11:05,090
+contre les temps
+on a formulé la région on est Éditions
+
+438
+00:11:05,090 --> 00:11:05,100
+on a formulé la région on est Éditions
+ 
+
+439
+00:11:05,100 --> 00:11:19,430
+on a formulé la région on est Éditions
+Protégez-Vous
+
+440
+00:11:19,430 --> 00:11:19,440
+
+ 
+
+441
+00:11:19,440 --> 00:11:20,569
+
+identifiant un mot de passe mais il y a
+
+442
+00:11:20,569 --> 00:11:20,579
+identifiant un mot de passe mais il y a
+ 
+
+443
+00:11:20,579 --> 00:11:22,009
+identifiant un mot de passe mais il y a
+personne qui utilise des temps d'écran
+
+444
+00:11:22,009 --> 00:11:22,019
+personne qui utilise des temps d'écran
+ 
+
+445
+00:11:22,019 --> 00:11:25,630
+personne qui utilise des temps d'écran
+elle va pas savoir ça c'est ta formation
+
+446
+00:11:25,630 --> 00:11:25,640
+elle va pas savoir ça c'est ta formation
+ 
+
+447
+00:11:25,640 --> 00:11:30,190
+elle va pas savoir ça c'est ta formation
+comment rendre cette chambre accessible
+
+448
+00:11:30,190 --> 00:11:30,200
+comment rendre cette chambre accessible
+ 
+
+449
+00:11:30,200 --> 00:11:33,130
+comment rendre cette chambre accessible
+grâce à la tribu fort
+
+450
+00:11:33,130 --> 00:11:33,140
+grâce à la tribu fort
+ 
+
+451
+00:11:33,140 --> 00:11:34,870
+grâce à la tribu fort
+attribut fort
+
+452
+00:11:34,870 --> 00:11:34,880
+attribut fort
+ 
+
+453
+00:11:34,880 --> 00:11:39,470
+attribut fort
+qui est associé à mon epoute donc il
+
+454
+00:11:39,470 --> 00:11:39,480
+qui est associé à mon epoute donc il
+ 
+
+455
+00:11:39,480 --> 00:11:42,550
+qui est associé à mon epoute donc il
+faut avoir le même nom et en attribuant
+
+456
+00:11:42,550 --> 00:11:42,560
+faut avoir le même nom et en attribuant
+ 
+
+457
+00:11:42,560 --> 00:11:45,650
+faut avoir le même nom et en attribuant
+Lady de mon epoute dans la tribu fort je
+
+458
+00:11:45,650 --> 00:11:45,660
+Lady de mon epoute dans la tribu fort je
+ 
+
+459
+00:11:45,660 --> 00:11:47,389
+Lady de mon epoute dans la tribu fort je
+vais rendre accessible mon formulaire
+
+460
+00:11:47,389 --> 00:11:47,399
+vais rendre accessible mon formulaire
+ 
+
+461
+00:11:47,399 --> 00:11:50,090
+vais rendre accessible mon formulaire
+donc on voit il est présent pour chaque
+
+462
+00:11:50,090 --> 00:11:50,100
+donc on voit il est présent pour chaque
+ 
+
+463
+00:11:50,100 --> 00:11:53,090
+donc on voit il est présent pour chaque
+chant
+
+464
+00:11:53,090 --> 00:11:53,100
+chant
+ 
+
+465
+00:11:53,100 --> 00:11:56,449
+chant
+mot de passe sous souvenir de moi et
+
+466
+00:11:56,449 --> 00:11:56,459
+mot de passe sous souvenir de moi et
+ 
+
+467
+00:11:56,459 --> 00:11:59,210
+mot de passe sous souvenir de moi et
+visuel il change pas par contre il fait
+
+468
+00:11:59,210 --> 00:11:59,220
+visuel il change pas par contre il fait
+ 
+
+469
+00:11:59,220 --> 00:12:05,030
+visuel il change pas par contre il fait
+tout est différent
+
+470
+00:12:05,030 --> 00:12:05,040
+
+ 
+
+471
+00:12:05,040 --> 00:12:07,009
+
+identifiant édition mot de passe édition
+
+472
+00:12:07,009 --> 00:12:07,019
+identifiant édition mot de passe édition
+ 
+
+473
+00:12:07,019 --> 00:12:08,889
+identifiant édition mot de passe édition
+protégée
+
+474
+00:12:08,889 --> 00:12:08,899
+protégée
+ 
+
+475
+00:12:08,899 --> 00:12:13,190
+protégée
+là on voit bien édition
+
+476
+00:12:13,190 --> 00:12:13,200
+
+ 
+
+477
+00:12:13,200 --> 00:12:15,530
+
+identifiant édition et mon passe édition
+
+478
+00:12:15,530 --> 00:12:15,540
+identifiant édition et mon passe édition
+ 
+
+479
+00:12:15,540 --> 00:12:18,050
+identifiant édition et mon passe édition
+donc là on a ces deux informations qui
+
+480
+00:12:18,050 --> 00:12:18,060
+donc là on a ces deux informations qui
+ 
+
+481
+00:12:18,060 --> 00:12:27,230
+donc là on a ces deux informations qui
+sont bien mobilisés formulaire
+
+482
+00:12:27,230 --> 00:12:27,240
+
+ 
+
+483
+00:12:27,240 --> 00:12:32,750
+
+accessible les boutons méchants
+
+484
+00:12:32,750 --> 00:12:32,760
+
+ 
+
+485
+00:12:32,760 --> 00:12:35,870
+
+si on doit dire il y a un des chambres
+
+486
+00:12:35,870 --> 00:12:35,880
+si on doit dire il y a un des chambres
+ 
+
+487
+00:12:35,880 --> 00:12:38,509
+si on doit dire il y a un des chambres
+et toi on a les astéristiques une
+
+488
+00:12:38,509 --> 00:12:38,519
+et toi on a les astéristiques une
+ 
+
+489
+00:12:38,519 --> 00:12:41,269
+et toi on a les astéristiques une
+information visuelle et toi mais ça
+
+490
+00:12:41,269 --> 00:12:41,279
+information visuelle et toi mais ça
+ 
+
+491
+00:12:41,279 --> 00:12:43,569
+information visuelle et toi mais ça
+suffit pas et il faut dire que c'est
+
+492
+00:12:43,569 --> 00:12:43,579
+suffit pas et il faut dire que c'est
+ 
+
+493
+00:12:43,579 --> 00:12:45,730
+suffit pas et il faut dire que c'est
+obligatoire
+
+494
+00:12:45,730 --> 00:12:45,740
+obligatoire
+ 
+
+495
+00:12:45,740 --> 00:12:48,590
+obligatoire
+n'oubliez pas de mettre un attribut et
+
+496
+00:12:48,590 --> 00:12:48,600
+n'oubliez pas de mettre un attribut et
+ 
+
+497
+00:12:48,600 --> 00:12:50,449
+n'oubliez pas de mettre un attribut et
+rides pour signifier le champ
+
+498
+00:12:50,449 --> 00:12:50,459
+rides pour signifier le champ
+ 
+
+499
+00:12:50,459 --> 00:12:54,910
+rides pour signifier le champ
+inoubliatoire parce que
+
+500
+00:12:54,910 --> 00:12:54,920
+
+ 
+
+501
+00:12:54,920 --> 00:12:56,889
+
+édition
+
+502
+00:12:56,889 --> 00:12:56,899
+édition
+ 
+
+503
+00:12:56,899 --> 00:13:00,350
+édition
+obligatoire entrer invalide mot de passe
+
+504
+00:13:00,350 --> 00:13:00,360
+obligatoire entrer invalide mot de passe
+ 
+
+505
+00:13:00,360 --> 00:13:03,009
+obligatoire entrer invalide mot de passe
+édition protégée et toi entrée à l'aide
+
+506
+00:13:03,009 --> 00:13:03,019
+édition protégée et toi entrée à l'aide
+ 
+
+507
+00:13:03,019 --> 00:13:05,810
+édition protégée et toi entrée à l'aide
+et chez nous on cherche souvenir de moi
+
+508
+00:13:05,810 --> 00:13:05,820
+et chez nous on cherche souvenir de moi
+ 
+
+509
+00:13:05,820 --> 00:13:10,790
+et chez nous on cherche souvenir de moi
+c'est pas un champagne
+
+510
+00:13:10,790 --> 00:13:10,800
+
+ 
+
+511
+00:13:10,800 --> 00:13:12,610
+
+identifiant et le mot de passe sont
+
+512
+00:13:12,610 --> 00:13:12,620
+identifiant et le mot de passe sont
+ 
+
+513
+00:13:12,620 --> 00:13:15,050
+identifiant et le mot de passe sont
+obligatoires donc je peux aller plus
+
+514
+00:13:15,050 --> 00:13:15,060
+obligatoires donc je peux aller plus
+ 
+
+515
+00:13:15,060 --> 00:13:20,150
+obligatoires donc je peux aller plus
+loin s'il y a une erreur ce sera Élisée
+
+516
+00:13:20,150 --> 00:13:20,160
+loin s'il y a une erreur ce sera Élisée
+ 
+
+517
+00:13:20,160 --> 00:13:22,370
+loin s'il y a une erreur ce sera Élisée
+pas entrer il ne faut pas vivre la
+
+518
+00:13:22,370 --> 00:13:22,380
+pas entrer il ne faut pas vivre la
+ 
+
+519
+00:13:22,380 --> 00:13:24,170
+pas entrer il ne faut pas vivre la
+formation uniquement par la couleur
+
+520
+00:13:24,170 --> 00:13:24,180
+formation uniquement par la couleur
+ 
+
+521
+00:13:24,180 --> 00:13:26,090
+formation uniquement par la couleur
+parce que il y a les personnes
+
+522
+00:13:26,090 --> 00:13:26,100
+parce que il y a les personnes
+ 
+
+523
+00:13:26,100 --> 00:13:27,829
+parce que il y a les personnes
+daltoniennes qui sont impables de faire
+
+524
+00:13:27,829 --> 00:13:27,839
+daltoniennes qui sont impables de faire
+ 
+
+525
+00:13:27,839 --> 00:13:29,590
+daltoniennes qui sont impables de faire
+la différence entre le rouge et le vert
+
+526
+00:13:29,590 --> 00:13:29,600
+la différence entre le rouge et le vert
+ 
+
+527
+00:13:29,600 --> 00:13:34,509
+la différence entre le rouge et le vert
+donc il faut expliciter un échange
+
+528
+00:13:34,509 --> 00:13:34,519
+donc il faut expliciter un échange
+ 
+
+529
+00:13:34,519 --> 00:13:41,530
+donc il faut expliciter un échange
+avec une phrase ou et avec des
+
+530
+00:13:41,530 --> 00:13:41,540
+
+ 
+
+531
+00:13:41,540 --> 00:13:49,329
+
+rois c'est important
+
+532
+00:13:49,329 --> 00:13:49,339
+
+ 
+
+533
+00:13:49,339 --> 00:13:52,310
+
+je sais on a l'habitude on sait pas où
+
+534
+00:13:52,310 --> 00:13:52,320
+je sais on a l'habitude on sait pas où
+ 
+
+535
+00:13:52,320 --> 00:13:54,889
+je sais on a l'habitude on sait pas où
+mettre dans la tribuète on a tendance à
+
+536
+00:13:54,889 --> 00:13:54,899
+mettre dans la tribuète on a tendance à
+ 
+
+537
+00:13:54,899 --> 00:13:57,710
+mettre dans la tribuète on a tendance à
+mettre des noms de fichiers dans la
+
+538
+00:13:57,710 --> 00:13:57,720
+mettre des noms de fichiers dans la
+ 
+
+539
+00:13:57,720 --> 00:14:01,449
+mettre des noms de fichiers dans la
+tribuette
+
+540
+00:14:01,449 --> 00:14:01,459
+
+ 
+
+541
+00:14:01,459 --> 00:14:06,170
+
+visuel en douceur à un ami endos or 2e
+
+542
+00:14:06,170 --> 00:14:06,180
+visuel en douceur à un ami endos or 2e
+ 
+
+543
+00:14:06,180 --> 00:14:11,710
+visuel en douceur à un ami endos or 2e
+Paris
+
+544
+00:14:11,710 --> 00:14:11,720
+
+ 
+
+545
+00:14:11,720 --> 00:14:14,810
+
+c'est une information explicite
+
+546
+00:14:14,810 --> 00:14:14,820
+c'est une information explicite
+ 
+
+547
+00:14:14,820 --> 00:14:18,470
+c'est une information explicite
+pas du tout donc il faut tenir une
+
+548
+00:14:18,470 --> 00:14:18,480
+pas du tout donc il faut tenir une
+ 
+
+549
+00:14:18,480 --> 00:14:20,509
+pas du tout donc il faut tenir une
+information sur en tenue là je vous ai
+
+550
+00:14:20,509 --> 00:14:20,519
+information sur en tenue là je vous ai
+ 
+
+551
+00:14:20,519 --> 00:14:22,610
+information sur en tenue là je vous ai
+pas affiché et spray l'image mais
+
+552
+00:14:22,610 --> 00:14:22,620
+pas affiché et spray l'image mais
+ 
+
+553
+00:14:22,620 --> 00:14:24,769
+pas affiché et spray l'image mais
+imaginez si vous avez une image noire
+
+554
+00:14:24,769 --> 00:14:24,779
+imaginez si vous avez une image noire
+ 
+
+555
+00:14:24,779 --> 00:14:27,970
+imaginez si vous avez une image noire
+sensible vous savez pas
+
+556
+00:14:27,970 --> 00:14:27,980
+
+ 
+
+557
+00:14:27,980 --> 00:14:30,009
+
+ça vous parle pas
+
+558
+00:14:30,009 --> 00:14:30,019
+ça vous parle pas
+ 
+
+559
+00:14:30,019 --> 00:14:33,230
+ça vous parle pas
+aussi il y a du test sur l'image il faut
+
+560
+00:14:33,230 --> 00:14:33,240
+aussi il y a du test sur l'image il faut
+ 
+
+561
+00:14:33,240 --> 00:14:36,170
+aussi il y a du test sur l'image il faut
+écrire donc là j'ai pris messages venant
+
+562
+00:14:36,170 --> 00:14:36,180
+écrire donc là j'ai pris messages venant
+ 
+
+563
+00:14:36,180 --> 00:14:38,810
+écrire donc là j'ai pris messages venant
+ennemi de Paris émises de samedi est en
+
+564
+00:14:38,810 --> 00:14:38,820
+ennemi de Paris émises de samedi est en
+ 
+
+565
+00:14:38,820 --> 00:14:41,210
+ennemi de Paris émises de samedi est en
+ce moment un point de situation sur
+
+566
+00:14:41,210 --> 00:14:41,220
+ce moment un point de situation sur
+ 
+
+567
+00:14:41,220 --> 00:14:42,769
+ce moment un point de situation sur
+l'ouverture des établissements scolaires
+
+568
+00:14:42,769 --> 00:14:42,779
+l'ouverture des établissements scolaires
+ 
+
+569
+00:14:42,779 --> 00:14:45,350
+l'ouverture des établissements scolaires
+et universitaire lundi on est de France
+
+570
+00:14:45,350 --> 00:14:45,360
+et universitaire lundi on est de France
+ 
+
+571
+00:14:45,360 --> 00:14:49,730
+et universitaire lundi on est de France
+sera mis en fin de journée et on a une
+
+572
+00:14:49,730 --> 00:14:49,740
+sera mis en fin de journée et on a une
+ 
+
+573
+00:14:49,740 --> 00:14:50,750
+sera mis en fin de journée et on a une
+information qui est correctement
+
+574
+00:14:50,750 --> 00:14:50,760
+information qui est correctement
+ 
+
+575
+00:14:50,760 --> 00:14:54,710
+information qui est correctement
+restituée grâce en disant Raffi on va
+
+576
+00:14:54,710 --> 00:14:54,720
+restituée grâce en disant Raffi on va
+ 
+
+577
+00:14:54,720 --> 00:14:58,850
+restituée grâce en disant Raffi on va
+chez une image et on a la formation
+
+578
+00:14:58,850 --> 00:14:58,860
+chez une image et on a la formation
+ 
+
+579
+00:14:58,860 --> 00:15:01,250
+chez une image et on a la formation
+voilà l'image en question
+
+580
+00:15:01,250 --> 00:15:01,260
+voilà l'image en question
+ 
+
+581
+00:15:01,260 --> 00:15:03,470
+voilà l'image en question
+dont vous voyez ça fait toute la
+
+582
+00:15:03,470 --> 00:15:03,480
+dont vous voyez ça fait toute la
+ 
+
+583
+00:15:03,480 --> 00:15:05,329
+dont vous voyez ça fait toute la
+différence et on dit souvent sur les
+
+584
+00:15:05,329 --> 00:15:05,339
+différence et on dit souvent sur les
+ 
+
+585
+00:15:05,339 --> 00:15:06,710
+différence et on dit souvent sur les
+réseaux sociaux il faut déclarer vos
+
+586
+00:15:06,710 --> 00:15:06,720
+réseaux sociaux il faut déclarer vos
+ 
+
+587
+00:15:06,720 --> 00:15:08,170
+réseaux sociaux il faut déclarer vos
+images on voit souvent les étiquettes
+
+588
+00:15:08,170 --> 00:15:08,180
+images on voit souvent les étiquettes
+ 
+
+589
+00:15:08,180 --> 00:15:11,090
+images on voit souvent les étiquettes
+c'est ça tu vas permettre d'informer les
+
+590
+00:15:11,090 --> 00:15:11,100
+c'est ça tu vas permettre d'informer les
+ 
+
+591
+00:15:11,100 --> 00:15:12,910
+c'est ça tu vas permettre d'informer les
+utilisateurs et les utilisatrices
+
+592
+00:15:12,910 --> 00:15:12,920
+utilisateurs et les utilisatrices
+ 
+
+593
+00:15:12,920 --> 00:15:15,970
+utilisateurs et les utilisatrices
+utilisant l'Internet
+
+594
+00:15:15,970 --> 00:15:15,980
+utilisant l'Internet
+ 
+
+595
+00:15:15,980 --> 00:15:18,710
+utilisant l'Internet
+il y a sur les photos les images et
+
+596
+00:15:18,710 --> 00:15:18,720
+il y a sur les photos les images et
+ 
+
+597
+00:15:18,720 --> 00:15:25,069
+il y a sur les photos les images et
+s'affiche n'hésitez pas à écrire
+
+598
+00:15:25,069 --> 00:15:25,079
+
+ 
+
+599
+00:15:25,079 --> 00:15:25,990
+
+donc
+
+600
+00:15:25,990 --> 00:15:26,000
+donc
+ 
+
+601
+00:15:26,000 --> 00:15:28,490
+donc
+il faut pas l'utiliser n'importe comment
+
+602
+00:15:28,490 --> 00:15:28,500
+il faut pas l'utiliser n'importe comment
+ 
+
+603
+00:15:28,500 --> 00:15:31,009
+il faut pas l'utiliser n'importe comment
+donc si une image est en pleinement
+
+604
+00:15:31,009 --> 00:15:31,019
+donc si une image est en pleinement
+ 
+
+605
+00:15:31,019 --> 00:15:34,329
+donc si une image est en pleinement
+purement orative c'est-à-dire un lot
+
+606
+00:15:34,329 --> 00:15:34,339
+purement orative c'est-à-dire un lot
+ 
+
+607
+00:15:34,339 --> 00:15:37,310
+purement orative c'est-à-dire un lot
+vous vous avez pas besoin de d'écrire le
+
+608
+00:15:37,310 --> 00:15:37,320
+vous vous avez pas besoin de d'écrire le
+ 
+
+609
+00:15:37,320 --> 00:15:39,710
+vous vous avez pas besoin de d'écrire le
+haut donc là vous mettez un attribut à
+
+610
+00:15:39,710 --> 00:15:39,720
+haut donc là vous mettez un attribut à
+ 
+
+611
+00:15:39,720 --> 00:15:41,629
+haut donc là vous mettez un attribut à
+te dis vite mais si c'est vraiment une
+
+612
+00:15:41,629 --> 00:15:41,639
+te dis vite mais si c'est vraiment une
+ 
+
+613
+00:15:41,639 --> 00:15:43,509
+te dis vite mais si c'est vraiment une
+information importante il faut
+
+614
+00:15:43,509 --> 00:15:43,519
+information importante il faut
+ 
+
+615
+00:15:43,519 --> 00:15:47,050
+information importante il faut
+la décrire je vous ai mis des liens
+
+616
+00:15:47,050 --> 00:15:47,060
+la décrire je vous ai mis des liens
+ 
+
+617
+00:15:47,060 --> 00:15:49,069
+la décrire je vous ai mis des liens
+comment faire
+
+618
+00:15:49,069 --> 00:15:49,079
+comment faire
+ 
+
+619
+00:15:49,079 --> 00:15:52,370
+comment faire
+alors on appuie sur le site avez clavier
+
+620
+00:15:52,370 --> 00:15:52,380
+alors on appuie sur le site avez clavier
+ 
+
+621
+00:15:52,380 --> 00:15:56,210
+alors on appuie sur le site avez clavier
+il faut penser à mettre les éléments en
+
+622
+00:15:56,210 --> 00:15:56,220
+il faut penser à mettre les éléments en
+ 
+
+623
+00:15:56,220 --> 00:15:58,310
+il faut penser à mettre les éléments en
+valeur et à vérifier ils ont le foüs
+
+624
+00:15:58,310 --> 00:15:58,320
+valeur et à vérifier ils ont le foüs
+ 
+
+625
+00:15:58,320 --> 00:16:00,290
+valeur et à vérifier ils ont le foüs
+avec la touche TAB si on utilise souvent
+
+626
+00:16:00,290 --> 00:16:00,300
+avec la touche TAB si on utilise souvent
+ 
+
+627
+00:16:00,300 --> 00:16:04,269
+avec la touche TAB si on utilise souvent
+pour naviguer en éléments sur internet
+
+628
+00:16:04,269 --> 00:16:04,279
+pour naviguer en éléments sur internet
+ 
+
+629
+00:16:04,279 --> 00:16:08,389
+pour naviguer en éléments sur internet
+donc là
+
+630
+00:16:08,389 --> 00:16:08,399
+
+ 
+
+631
+00:16:08,399 --> 00:16:10,389
+
+il faut pas supprimer
+
+632
+00:16:10,389 --> 00:16:10,399
+il faut pas supprimer
+ 
+
+633
+00:16:10,399 --> 00:16:13,009
+il faut pas supprimer
+par défaut
+
+634
+00:16:13,009 --> 00:16:13,019
+par défaut
+ 
+
+635
+00:16:13,019 --> 00:16:14,110
+par défaut
+donc
+
+636
+00:16:14,110 --> 00:16:14,120
+donc
+ 
+
+637
+00:16:14,120 --> 00:16:17,810
+donc
+en général on met un time non ou on
+
+638
+00:16:17,810 --> 00:16:17,820
+en général on met un time non ou on
+ 
+
+639
+00:16:17,820 --> 00:16:21,410
+en général on met un time non ou on
+supprime en peinement à Auteuil et là on
+
+640
+00:16:21,410 --> 00:16:21,420
+supprime en peinement à Auteuil et là on
+ 
+
+641
+00:16:21,420 --> 00:16:25,069
+supprime en peinement à Auteuil et là on
+a pu le bordure sur sur les liens je
+
+642
+00:16:25,069 --> 00:16:25,079
+a pu le bordure sur sur les liens je
+ 
+
+643
+00:16:25,079 --> 00:16:28,449
+a pu le bordure sur sur les liens je
+vous ai montré un peu au début
+
+644
+00:16:28,449 --> 00:16:28,459
+
+ 
+
+645
+00:16:28,459 --> 00:16:31,269
+
+tu utilisais par une étape par défaut
+
+646
+00:16:31,269 --> 00:16:31,279
+tu utilisais par une étape par défaut
+ 
+
+647
+00:16:31,279 --> 00:16:35,090
+tu utilisais par une étape par défaut
+sinon il vaut mieux laisser avec zéro
+
+648
+00:16:35,090 --> 00:16:35,100
+sinon il vaut mieux laisser avec zéro
+ 
+
+649
+00:16:35,100 --> 00:16:37,189
+sinon il vaut mieux laisser avec zéro
+par contre si vous le supprimez il faut
+
+650
+00:16:37,189 --> 00:16:37,199
+par contre si vous le supprimez il faut
+ 
+
+651
+00:16:37,199 --> 00:16:38,350
+par contre si vous le supprimez il faut
+proposer un
+
+652
+00:16:38,350 --> 00:16:38,360
+proposer un
+ 
+
+653
+00:16:38,360 --> 00:16:42,430
+proposer un
+alternative
+
+654
+00:16:42,430 --> 00:16:42,440
+
+ 
+
+655
+00:16:42,440 --> 00:16:45,230
+
+en mettant en valeur le lien et les
+
+656
+00:16:45,230 --> 00:16:45,240
+en mettant en valeur le lien et les
+ 
+
+657
+00:16:45,240 --> 00:16:48,790
+en mettant en valeur le lien et les
+boutons en CSS avec
+
+658
+00:16:48,790 --> 00:16:48,800
+boutons en CSS avec
+ 
+
+659
+00:16:48,800 --> 00:16:52,610
+boutons en CSS avec
+les races faut juste ou ouvert donc là
+
+660
+00:16:52,610 --> 00:16:52,620
+les races faut juste ou ouvert donc là
+ 
+
+661
+00:16:52,620 --> 00:16:55,509
+les races faut juste ou ouvert donc là
+on a par exemple le link
+
+662
+00:16:55,509 --> 00:16:55,519
+on a par exemple le link
+ 
+
+663
+00:16:55,519 --> 00:16:58,730
+on a par exemple le link
+vous voyez ici c'est un style un
+
+664
+00:16:58,730 --> 00:16:58,740
+vous voyez ici c'est un style un
+ 
+
+665
+00:16:58,740 --> 00:17:00,550
+vous voyez ici c'est un style un
+standard par défaut
+
+666
+00:17:00,550 --> 00:17:00,560
+standard par défaut
+ 
+
+667
+00:17:00,560 --> 00:17:05,630
+standard par défaut
+si on le style il m'a le plus là on voit
+
+668
+00:17:05,630 --> 00:17:05,640
+si on le style il m'a le plus là on voit
+ 
+
+669
+00:17:05,640 --> 00:17:08,770
+si on le style il m'a le plus là on voit
+oui
+
+670
+00:17:08,770 --> 00:17:08,780
+
+ 
+
+671
+00:17:08,780 --> 00:17:13,329
+
+en violet dans le bouton on a un
+
+672
+00:17:13,329 --> 00:17:13,339
+en violet dans le bouton on a un
+ 
+
+673
+00:17:13,339 --> 00:17:16,789
+en violet dans le bouton on a un
+violet et puis pour les champs aussi
+
+674
+00:17:16,789 --> 00:17:16,799
+violet et puis pour les champs aussi
+ 
+
+675
+00:17:16,799 --> 00:17:18,350
+violet et puis pour les champs aussi
+c'est vraiment important c'est une
+
+676
+00:17:18,350 --> 00:17:18,360
+c'est vraiment important c'est une
+ 
+
+677
+00:17:18,360 --> 00:17:20,449
+c'est vraiment important c'est une
+information qui me permet de savoir où
+
+678
+00:17:20,449 --> 00:17:20,459
+information qui me permet de savoir où
+ 
+
+679
+00:17:20,459 --> 00:17:23,350
+information qui me permet de savoir où
+on est
+
+680
+00:17:23,350 --> 00:17:23,360
+
+ 
+
+681
+00:17:23,360 --> 00:17:26,630
+
+après on se retrouve avoir des liens non
+
+682
+00:17:26,630 --> 00:17:26,640
+après on se retrouve avoir des liens non
+ 
+
+683
+00:17:26,640 --> 00:17:28,450
+après on se retrouve avoir des liens non
+accessibles
+
+684
+00:17:28,450 --> 00:17:28,460
+accessibles
+ 
+
+685
+00:17:28,460 --> 00:17:31,490
+accessibles
+on met souvent des liens on sait pas on
+
+686
+00:17:31,490 --> 00:17:31,500
+on met souvent des liens on sait pas on
+ 
+
+687
+00:17:31,500 --> 00:17:34,610
+on met souvent des liens on sait pas on
+va dire mais il y a la suite et ici voir
+
+688
+00:17:34,610 --> 00:17:34,620
+va dire mais il y a la suite et ici voir
+ 
+
+689
+00:17:34,620 --> 00:17:38,090
+va dire mais il y a la suite et ici voir
+ce lien ici par là donc visuellement on
+
+690
+00:17:38,090 --> 00:17:38,100
+ce lien ici par là donc visuellement on
+ 
+
+691
+00:17:38,100 --> 00:17:39,789
+ce lien ici par là donc visuellement on
+voit c'est
+
+692
+00:17:39,789 --> 00:17:39,799
+voit c'est
+ 
+
+693
+00:17:39,799 --> 00:17:43,070
+voit c'est
+il y a ensuite il est associé à tel
+
+694
+00:17:43,070 --> 00:17:43,080
+il y a ensuite il est associé à tel
+ 
+
+695
+00:17:43,080 --> 00:17:46,610
+il y a ensuite il est associé à tel
+article mais on va naviguer avec la
+
+696
+00:17:46,610 --> 00:17:46,620
+article mais on va naviguer avec la
+ 
+
+697
+00:17:46,620 --> 00:17:48,909
+article mais on va naviguer avec la
+touche tape de liens en lien
+
+698
+00:17:48,909 --> 00:17:48,919
+touche tape de liens en lien
+ 
+
+699
+00:17:48,919 --> 00:17:55,210
+touche tape de liens en lien
+vers la suite lire la suite
+
+700
+00:17:55,210 --> 00:17:55,220
+
+ 
+
+701
+00:17:55,220 --> 00:17:59,529
+
+c'était une pochette surprise c'est pas
+
+702
+00:17:59,529 --> 00:17:59,539
+c'était une pochette surprise c'est pas
+ 
+
+703
+00:17:59,539 --> 00:18:02,570
+c'était une pochette surprise c'est pas
+forcément on a ces informations là qui
+
+704
+00:18:02,570 --> 00:18:02,580
+forcément on a ces informations là qui
+ 
+
+705
+00:18:02,580 --> 00:18:04,310
+forcément on a ces informations là qui
+sont restituées on ne sait pas ayant
+
+706
+00:18:04,310 --> 00:18:04,320
+sont restituées on ne sait pas ayant
+ 
+
+707
+00:18:04,320 --> 00:18:05,890
+sont restituées on ne sait pas ayant
+sont attribués
+
+708
+00:18:05,890 --> 00:18:05,900
+sont attribués
+ 
+
+709
+00:18:05,900 --> 00:18:08,750
+sont attribués
+c'est un problème il faut mettre une
+
+710
+00:18:08,750 --> 00:18:08,760
+c'est un problème il faut mettre une
+ 
+
+711
+00:18:08,760 --> 00:18:11,750
+c'est un problème il faut mettre une
+information pertinente et explicite en
+
+712
+00:18:11,750 --> 00:18:11,760
+information pertinente et explicite en
+ 
+
+713
+00:18:11,760 --> 00:18:12,850
+information pertinente et explicite en
+enfer
+
+714
+00:18:12,850 --> 00:18:12,860
+enfer
+ 
+
+715
+00:18:12,860 --> 00:18:14,710
+enfer
+on a
+
+716
+00:18:14,710 --> 00:18:14,720
+on a
+ 
+
+717
+00:18:14,720 --> 00:18:17,330
+on a
+un attribut de titane qui va nous dire
+
+718
+00:18:17,330 --> 00:18:17,340
+un attribut de titane qui va nous dire
+ 
+
+719
+00:18:17,340 --> 00:18:19,570
+un attribut de titane qui va nous dire
+que c'est
+
+720
+00:18:19,570 --> 00:18:19,580
+que c'est
+ 
+
+721
+00:18:19,580 --> 00:18:22,970
+que c'est
+une information supplémentaire va nous
+
+722
+00:18:22,970 --> 00:18:22,980
+une information supplémentaire va nous
+ 
+
+723
+00:18:22,980 --> 00:18:26,270
+une information supplémentaire va nous
+informer voilà lire la suite c'est bien
+
+724
+00:18:26,270 --> 00:18:26,280
+informer voilà lire la suite c'est bien
+ 
+
+725
+00:18:26,280 --> 00:18:27,770
+informer voilà lire la suite c'est bien
+l'Institut du passage de Lorraine
+
+726
+00:18:27,770 --> 00:18:27,780
+l'Institut du passage de Lorraine
+ 
+
+727
+00:18:27,780 --> 00:18:30,830
+l'Institut du passage de Lorraine
+standard avec une nouvelle fenêtre il
+
+728
+00:18:30,830 --> 00:18:30,840
+standard avec une nouvelle fenêtre il
+ 
+
+729
+00:18:30,840 --> 00:18:34,549
+standard avec une nouvelle fenêtre il
+faut préciser que le lien sous une
+
+730
+00:18:34,549 --> 00:18:34,559
+faut préciser que le lien sous une
+ 
+
+731
+00:18:34,559 --> 00:18:37,010
+faut préciser que le lien sous une
+nouvelle fenêtre parce que sinon si on
+
+732
+00:18:37,010 --> 00:18:37,020
+nouvelle fenêtre parce que sinon si on
+ 
+
+733
+00:18:37,020 --> 00:18:39,130
+nouvelle fenêtre parce que sinon si on
+précise pas
+
+734
+00:18:39,130 --> 00:18:39,140
+précise pas
+ 
+
+735
+00:18:39,140 --> 00:18:41,810
+précise pas
+l'utilisateur ou l'utilisateur privé va
+
+736
+00:18:41,810 --> 00:18:41,820
+l'utilisateur ou l'utilisateur privé va
+ 
+
+737
+00:18:41,820 --> 00:18:45,669
+l'utilisateur ou l'utilisateur privé va
+chercher sa pêche
+
+738
+00:18:45,669 --> 00:18:45,679
+
+ 
+
+739
+00:18:45,679 --> 00:18:49,130
+
+il n'est pas alors si on lui dit si il
+
+740
+00:18:49,130 --> 00:18:49,140
+il n'est pas alors si on lui dit si il
+ 
+
+741
+00:18:49,140 --> 00:18:51,169
+il n'est pas alors si on lui dit si il
+n'a pas ses nouvelles fenêtre elle va
+
+742
+00:18:51,169 --> 00:18:51,179
+n'a pas ses nouvelles fenêtre elle va
+ 
+
+743
+00:18:51,179 --> 00:18:53,930
+n'a pas ses nouvelles fenêtre elle va
+savoir il faut changer c'est important
+
+744
+00:18:53,930 --> 00:18:53,940
+savoir il faut changer c'est important
+ 
+
+745
+00:18:53,940 --> 00:18:56,870
+savoir il faut changer c'est important
+donc là on voit le besoin il change pas
+
+746
+00:18:56,870 --> 00:18:56,880
+donc là on voit le besoin il change pas
+ 
+
+747
+00:18:56,880 --> 00:18:59,570
+donc là on voit le besoin il change pas
+l'attribut de chez toi et sur les temps
+
+748
+00:18:59,570 --> 00:18:59,580
+l'attribut de chez toi et sur les temps
+ 
+
+749
+00:18:59,580 --> 00:19:03,650
+l'attribut de chez toi et sur les temps
+on a bien être le lien différents et tu
+
+750
+00:19:03,650 --> 00:19:03,660
+on a bien être le lien différents et tu
+ 
+
+751
+00:19:03,660 --> 00:19:05,570
+on a bien être le lien différents et tu
+vois bien c'est la formation totalement
+
+752
+00:19:05,570 --> 00:19:05,580
+vois bien c'est la formation totalement
+ 
+
+753
+00:19:05,580 --> 00:19:08,990
+vois bien c'est la formation totalement
+explicite en disant lire la suite du
+
+754
+00:19:08,990 --> 00:19:09,000
+explicite en disant lire la suite du
+ 
+
+755
+00:19:09,000 --> 00:19:11,990
+explicite en disant lire la suite du
+passage de standard en latin vers la
+
+756
+00:19:11,990 --> 00:19:12,000
+passage de standard en latin vers la
+ 
+
+757
+00:19:12,000 --> 00:19:13,669
+passage de standard en latin vers la
+suite d'un autre passage vers la suite
+
+758
+00:19:13,669 --> 00:19:13,679
+suite d'un autre passage vers la suite
+ 
+
+759
+00:19:13,679 --> 00:19:16,669
+suite d'un autre passage vers la suite
+l'article sur l'accessibilité numérique
+
+760
+00:19:16,669 --> 00:19:16,679
+l'article sur l'accessibilité numérique
+ 
+
+761
+00:19:16,679 --> 00:19:21,110
+l'article sur l'accessibilité numérique
+bien sûr de sur les archives dedans par
+
+762
+00:19:21,110 --> 00:19:21,120
+bien sûr de sur les archives dedans par
+ 
+
+763
+00:19:21,120 --> 00:19:24,830
+bien sûr de sur les archives dedans par
+contre si dans votre lien en bouton vous
+
+764
+00:19:24,830 --> 00:19:24,840
+contre si dans votre lien en bouton vous
+ 
+
+765
+00:19:24,840 --> 00:19:26,350
+contre si dans votre lien en bouton vous
+avez déjà l'information
+
+766
+00:19:26,350 --> 00:19:26,360
+avez déjà l'information
+ 
+
+767
+00:19:26,360 --> 00:19:28,669
+avez déjà l'information
+explicite et pas nécessaire d'utiliser
+
+768
+00:19:28,669 --> 00:19:28,679
+explicite et pas nécessaire d'utiliser
+ 
+
+769
+00:19:28,679 --> 00:19:31,310
+explicite et pas nécessaire d'utiliser
+l'attributeur
+
+770
+00:19:31,310 --> 00:19:31,320
+l'attributeur
+ 
+
+771
+00:19:31,320 --> 00:19:33,770
+l'attributeur
+ensuite on se retrouve à avoir des
+
+772
+00:19:33,770 --> 00:19:33,780
+ensuite on se retrouve à avoir des
+ 
+
+773
+00:19:33,780 --> 00:19:36,409
+ensuite on se retrouve à avoir des
+boutons non accessibles souvenez-vous au
+
+774
+00:19:36,409 --> 00:19:36,419
+boutons non accessibles souvenez-vous au
+ 
+
+775
+00:19:36,419 --> 00:19:39,650
+boutons non accessibles souvenez-vous au
+début on vous a dit fermer Android on
+
+776
+00:19:39,650 --> 00:19:39,660
+début on vous a dit fermer Android on
+ 
+
+777
+00:19:39,660 --> 00:19:45,070
+début on vous a dit fermer Android on
+dit bouton bouton bouton
+
+778
+00:19:45,070 --> 00:19:45,080
+
+ 
+
+779
+00:19:45,080 --> 00:19:57,130
+
+images visa
+
+780
+00:19:57,130 --> 00:19:57,140
+
+ 
+
+781
+00:19:57,140 --> 00:19:59,870
+
+nous voir trois boutons en paiement
+
+782
+00:19:59,870 --> 00:19:59,880
+nous voir trois boutons en paiement
+ 
+
+783
+00:19:59,880 --> 00:20:01,390
+nous voir trois boutons en paiement
+différents mais
+
+784
+00:20:01,390 --> 00:20:01,400
+différents mais
+ 
+
+785
+00:20:01,400 --> 00:20:05,210
+différents mais
+la personne qui utilise pas comment
+
+786
+00:20:05,210 --> 00:20:05,220
+la personne qui utilise pas comment
+ 
+
+787
+00:20:05,220 --> 00:20:07,789
+la personne qui utilise pas comment
+faire deux façons de faire la première
+
+788
+00:20:07,789 --> 00:20:07,799
+faire deux façons de faire la première
+ 
+
+789
+00:20:07,799 --> 00:20:10,010
+faire deux façons de faire la première
+c'est de mettre la tribu tutoie sur le
+
+790
+00:20:10,010 --> 00:20:10,020
+c'est de mettre la tribu tutoie sur le
+ 
+
+791
+00:20:10,020 --> 00:20:13,610
+c'est de mettre la tribu tutoie sur le
+bouton en disant payer avec bizarre et
+
+792
+00:20:13,610 --> 00:20:13,620
+bouton en disant payer avec bizarre et
+ 
+
+793
+00:20:13,620 --> 00:20:15,590
+bouton en disant payer avec bizarre et
+en laissant une attribut un to vide
+
+794
+00:20:15,590 --> 00:20:15,600
+en laissant une attribut un to vide
+ 
+
+795
+00:20:15,600 --> 00:20:16,850
+en laissant une attribut un to vide
+parce que on peut pas avoir une
+
+796
+00:20:16,850 --> 00:20:16,860
+parce que on peut pas avoir une
+ 
+
+797
+00:20:16,860 --> 00:20:19,310
+parce que on peut pas avoir une
+information redondante
+
+798
+00:20:19,310 --> 00:20:19,320
+information redondante
+ 
+
+799
+00:20:19,320 --> 00:20:21,190
+information redondante
+ou alors je dis
+
+800
+00:20:21,190 --> 00:20:21,200
+ou alors je dis
+ 
+
+801
+00:20:21,200 --> 00:20:23,930
+ou alors je dis
+chez spicite la libellé dans mon
+
+802
+00:20:23,930 --> 00:20:23,940
+chez spicite la libellé dans mon
+ 
+
+803
+00:20:23,940 --> 00:20:25,549
+chez spicite la libellé dans mon
+attribut hâte et j'ai pas besoin de
+
+804
+00:20:25,549 --> 00:20:25,559
+attribut hâte et j'ai pas besoin de
+ 
+
+805
+00:20:25,559 --> 00:20:28,270
+attribut hâte et j'ai pas besoin de
+mettre title dans mon bouton
+
+806
+00:20:28,270 --> 00:20:28,280
+mettre title dans mon bouton
+ 
+
+807
+00:20:28,280 --> 00:20:31,870
+mettre title dans mon bouton
+il change pas entre les
+
+808
+00:20:31,870 --> 00:20:31,880
+il change pas entre les
+ 
+
+809
+00:20:31,880 --> 00:20:35,630
+il change pas entre les
+titres niveau 1 choisir votre moyen de
+
+810
+00:20:35,630 --> 00:20:35,640
+titres niveau 1 choisir votre moyen de
+ 
+
+811
+00:20:35,640 --> 00:20:47,870
+titres niveau 1 choisir votre moyen de
+paiement payer avec Visa
+
+812
+00:20:47,870 --> 00:20:47,880
+
+ 
+
+813
+00:20:47,880 --> 00:20:51,049
+
+je vous rappelle un bouton n'est pas un
+
+814
+00:20:51,049 --> 00:20:51,059
+je vous rappelle un bouton n'est pas un
+ 
+
+815
+00:20:51,059 --> 00:20:54,169
+je vous rappelle un bouton n'est pas un
+lien un lien n'est pas un bouton je sais
+
+816
+00:20:54,169 --> 00:20:54,179
+lien un lien n'est pas un bouton je sais
+ 
+
+817
+00:20:54,179 --> 00:20:56,950
+lien un lien n'est pas un bouton je sais
+il y en a qui aime bien dire mais oui
+
+818
+00:20:56,950 --> 00:20:56,960
+il y en a qui aime bien dire mais oui
+ 
+
+819
+00:20:56,960 --> 00:20:59,990
+il y en a qui aime bien dire mais oui
+mon bouton ressemble à un lien et je
+
+820
+00:20:59,990 --> 00:21:00,000
+mon bouton ressemble à un lien et je
+ 
+
+821
+00:21:00,000 --> 00:21:03,430
+mon bouton ressemble à un lien et je
+sais pas les stylés je transforme mon
+
+822
+00:21:03,430 --> 00:21:03,440
+sais pas les stylés je transforme mon
+ 
+
+823
+00:21:03,440 --> 00:21:05,529
+sais pas les stylés je transforme mon
+mon bouton en lien
+
+824
+00:21:05,529 --> 00:21:05,539
+mon bouton en lien
+ 
+
+825
+00:21:05,539 --> 00:21:10,070
+mon bouton en lien
+l'inverse non il y a une spécifique
+
+826
+00:21:10,070 --> 00:21:10,080
+l'inverse non il y a une spécifique
+ 
+
+827
+00:21:10,080 --> 00:21:12,890
+l'inverse non il y a une spécifique
+c'est aussi ça doit aller par mettez un
+
+828
+00:21:12,890 --> 00:21:12,900
+c'est aussi ça doit aller par mettez un
+ 
+
+829
+00:21:12,900 --> 00:21:15,770
+c'est aussi ça doit aller par mettez un
+lien si ça doit faire une chose mettez
+
+830
+00:21:15,770 --> 00:21:15,780
+lien si ça doit faire une chose mettez
+ 
+
+831
+00:21:15,780 --> 00:21:22,570
+lien si ça doit faire une chose mettez
+un bouton parce que il va dire
+
+832
+00:21:22,570 --> 00:21:22,580
+
+ 
+
+833
+00:21:22,580 --> 00:21:26,289
+
+la suite bouton
+
+834
+00:21:26,289 --> 00:21:26,299
+la suite bouton
+ 
+
+835
+00:21:26,299 --> 00:21:31,190
+la suite bouton
+là on a des actions bien défini on va à
+
+836
+00:21:31,190 --> 00:21:31,200
+là on a des actions bien défini on va à
+ 
+
+837
+00:21:31,200 --> 00:21:32,950
+là on a des actions bien défini on va à
+part on sait on va
+
+838
+00:21:32,950 --> 00:21:32,960
+part on sait on va
+ 
+
+839
+00:21:32,960 --> 00:21:36,409
+part on sait on va
+faire une chose c'est une script tu vas
+
+840
+00:21:36,409 --> 00:21:36,419
+faire une chose c'est une script tu vas
+ 
+
+841
+00:21:36,419 --> 00:21:38,029
+faire une chose c'est une script tu vas
+m'afficher un peu pas tu vas faire une
+
+842
+00:21:38,029 --> 00:21:38,039
+m'afficher un peu pas tu vas faire une
+ 
+
+843
+00:21:38,039 --> 00:21:40,549
+m'afficher un peu pas tu vas faire une
+action donc c'est important
+
+844
+00:21:40,549 --> 00:21:40,559
+action donc c'est important
+ 
+
+845
+00:21:40,559 --> 00:21:42,649
+action donc c'est important
+si vous voulez stylé si vous voulez
+
+846
+00:21:42,649 --> 00:21:42,659
+si vous voulez stylé si vous voulez
+ 
+
+847
+00:21:42,659 --> 00:21:45,289
+si vous voulez stylé si vous voulez
+votre bouton ressemble à un lien et
+
+848
+00:21:45,289 --> 00:21:45,299
+votre bouton ressemble à un lien et
+ 
+
+849
+00:21:45,299 --> 00:21:47,149
+votre bouton ressemble à un lien et
+votre lien ressemble à un bouton il faut
+
+850
+00:21:47,149 --> 00:21:47,159
+votre lien ressemble à un bouton il faut
+ 
+
+851
+00:21:47,159 --> 00:21:49,490
+votre lien ressemble à un bouton il faut
+styler avec le CSS vous n'avez pas trop
+
+852
+00:21:49,490 --> 00:21:49,500
+styler avec le CSS vous n'avez pas trop
+ 
+
+853
+00:21:49,500 --> 00:21:52,090
+styler avec le CSS vous n'avez pas trop
+le choix
+
+854
+00:21:52,090 --> 00:21:52,100
+
+ 
+
+855
+00:21:52,100 --> 00:21:54,669
+
+aussi dans l'utilisation de ta Mallet
+
+856
+00:21:54,669 --> 00:21:54,679
+aussi dans l'utilisation de ta Mallet
+ 
+
+857
+00:21:54,679 --> 00:21:57,169
+aussi dans l'utilisation de ta Mallet
+souvent il y a des naissances sur sa
+
+858
+00:21:57,169 --> 00:21:57,179
+souvent il y a des naissances sur sa
+ 
+
+859
+00:21:57,179 --> 00:22:01,070
+souvent il y a des naissances sur sa
+tête là il y a assez vite et sur le
+
+860
+00:22:01,070 --> 00:22:01,080
+tête là il y a assez vite et sur le
+ 
+
+861
+00:22:01,080 --> 00:22:03,350
+tête là il y a assez vite et sur le
+formulaire de ces îles et elle n'arrive
+
+862
+00:22:03,350 --> 00:22:03,360
+formulaire de ces îles et elle n'arrive
+ 
+
+863
+00:22:03,360 --> 00:22:06,110
+formulaire de ces îles et elle n'arrive
+pas il n'est pas accessible auvier sur
+
+864
+00:22:06,110 --> 00:22:06,120
+pas il n'est pas accessible auvier sur
+ 
+
+865
+00:22:06,120 --> 00:22:09,190
+pas il n'est pas accessible auvier sur
+tous les champs il y a la tribuent
+
+866
+00:22:09,190 --> 00:22:09,200
+tous les champs il y a la tribuent
+ 
+
+867
+00:22:09,200 --> 00:22:11,470
+tous les champs il y a la tribuent
+c'est un Moisan
+
+868
+00:22:11,470 --> 00:22:11,480
+c'est un Moisan
+ 
+
+869
+00:22:11,480 --> 00:22:15,169
+c'est un Moisan
+c'est vous enlevez le feu
+
+870
+00:22:15,169 --> 00:22:15,179
+c'est vous enlevez le feu
+ 
+
+871
+00:22:15,179 --> 00:22:18,190
+c'est vous enlevez le feu
+de l'élément ça veut dire si vous vous
+
+872
+00:22:18,190 --> 00:22:18,200
+de l'élément ça veut dire si vous vous
+ 
+
+873
+00:22:18,200 --> 00:22:22,490
+de l'élément ça veut dire si vous vous
+empêcher à l'utilisateur d'aller sur le
+
+874
+00:22:22,490 --> 00:22:22,500
+empêcher à l'utilisateur d'aller sur le
+ 
+
+875
+00:22:22,500 --> 00:22:25,450
+empêcher à l'utilisateur d'aller sur le
+chant
+
+876
+00:22:25,450 --> 00:22:25,460
+
+ 
+
+877
+00:22:25,460 --> 00:22:28,970
+
+ne jouez pas si vous savez pas vous en
+
+878
+00:22:28,970 --> 00:22:28,980
+ne jouez pas si vous savez pas vous en
+ 
+
+879
+00:22:28,980 --> 00:22:31,610
+ne jouez pas si vous savez pas vous en
+servir et n'en mettez pas non plus sur
+
+880
+00:22:31,610 --> 00:22:31,620
+servir et n'en mettez pas non plus sur
+ 
+
+881
+00:22:31,620 --> 00:22:33,370
+servir et n'en mettez pas non plus sur
+les
+
+882
+00:22:33,370 --> 00:22:33,380
+les
+ 
+
+883
+00:22:33,380 --> 00:22:35,330
+les
+méchants parce qu'ils ont le feu US
+
+884
+00:22:35,330 --> 00:22:35,340
+méchants parce qu'ils ont le feu US
+ 
+
+885
+00:22:35,340 --> 00:22:36,250
+méchants parce qu'ils ont le feu US
+naturel
+
+886
+00:22:36,250 --> 00:22:36,260
+naturel
+ 
+
+887
+00:22:36,260 --> 00:22:41,270
+naturel
+par contre si vous avez par exemple un
+
+888
+00:22:41,270 --> 00:22:41,280
+par contre si vous avez par exemple un
+ 
+
+889
+00:22:41,280 --> 00:22:43,029
+par contre si vous avez par exemple un
+div qui
+
+890
+00:22:43,029 --> 00:22:43,039
+div qui
+ 
+
+891
+00:22:43,039 --> 00:22:45,430
+div qui
+intime
+
+892
+00:22:45,430 --> 00:22:45,440
+intime
+ 
+
+893
+00:22:45,440 --> 00:22:48,850
+intime
+là vous pouvez mettre un terme index 0
+
+894
+00:22:48,850 --> 00:22:48,860
+là vous pouvez mettre un terme index 0
+ 
+
+895
+00:22:48,860 --> 00:22:54,130
+là vous pouvez mettre un terme index 0
+voilà on puisse aider à se dire
+
+896
+00:22:54,130 --> 00:22:54,140
+
+ 
+
+897
+00:22:54,140 --> 00:22:57,470
+
+c'est important de bien savoir cette
+
+898
+00:22:57,470 --> 00:22:57,480
+c'est important de bien savoir cette
+ 
+
+899
+00:22:57,480 --> 00:23:02,029
+c'est important de bien savoir cette
+différence ne mettez pas l'état 1 2 3 et
+
+900
+00:23:02,029 --> 00:23:02,039
+différence ne mettez pas l'état 1 2 3 et
+ 
+
+901
+00:23:02,039 --> 00:23:03,770
+différence ne mettez pas l'état 1 2 3 et
+4
+
+902
+00:23:03,770 --> 00:23:03,780
+4
+ 
+
+903
+00:23:03,780 --> 00:23:05,990
+4
+ça sert à rien
+
+904
+00:23:05,990 --> 00:23:06,000
+ça sert à rien
+ 
+
+905
+00:23:06,000 --> 00:23:07,510
+ça sert à rien
+c'est
+
+906
+00:23:07,510 --> 00:23:07,520
+c'est
+ 
+
+907
+00:23:07,520 --> 00:23:11,510
+c'est
+sa nuit à l'ordre naturel de la
+
+908
+00:23:11,510 --> 00:23:11,520
+sa nuit à l'ordre naturel de la
+ 
+
+909
+00:23:11,520 --> 00:23:13,669
+sa nuit à l'ordre naturel de la
+navigation du navire
+
+910
+00:23:13,669 --> 00:23:13,679
+navigation du navire
+ 
+
+911
+00:23:13,679 --> 00:23:16,130
+navigation du navire
+et il ne faut pas mettre d'éteindre sur
+
+912
+00:23:16,130 --> 00:23:16,140
+et il ne faut pas mettre d'éteindre sur
+ 
+
+913
+00:23:16,140 --> 00:23:18,289
+et il ne faut pas mettre d'éteindre sur
+les titres si on n'est pas grave ça sert
+
+914
+00:23:18,289 --> 00:23:18,299
+les titres si on n'est pas grave ça sert
+ 
+
+915
+00:23:18,299 --> 00:23:21,490
+les titres si on n'est pas grave ça sert
+à rien parce que on va naviguer
+
+916
+00:23:21,490 --> 00:23:21,500
+à rien parce que on va naviguer
+ 
+
+917
+00:23:21,500 --> 00:23:25,010
+à rien parce que on va naviguer
+les flèches pour dire le contenu des
+
+918
+00:23:25,010 --> 00:23:25,020
+les flèches pour dire le contenu des
+ 
+
+919
+00:23:25,020 --> 00:23:28,450
+les flèches pour dire le contenu des
+textes
+
+920
+00:23:28,450 --> 00:23:28,460
+
+ 
+
+921
+00:23:28,460 --> 00:23:31,130
+
+la structure du site
+
+922
+00:23:31,130 --> 00:23:31,140
+la structure du site
+ 
+
+923
+00:23:31,140 --> 00:23:33,529
+la structure du site
+il faut définir la lampe de votre site
+
+924
+00:23:33,529 --> 00:23:33,539
+il faut définir la lampe de votre site
+ 
+
+925
+00:23:33,539 --> 00:23:35,029
+il faut définir la lampe de votre site
+c'est super important souvenez-vous
+
+926
+00:23:35,029 --> 00:23:35,039
+c'est super important souvenez-vous
+ 
+
+927
+00:23:35,039 --> 00:23:40,430
+c'est super important souvenez-vous
+Sylvie si tu étais en anglais on crée
+
+928
+00:23:40,430 --> 00:23:40,440
+Sylvie si tu étais en anglais on crée
+ 
+
+929
+00:23:40,440 --> 00:23:43,630
+Sylvie si tu étais en anglais on crée
+des projets par défaut sur
+
+930
+00:23:43,630 --> 00:23:43,640
+des projets par défaut sur
+ 
+
+931
+00:23:43,640 --> 00:23:48,850
+des projets par défaut sur
+Vichy ou rien
+
+932
+00:23:48,850 --> 00:23:48,860
+
+ 
+
+933
+00:23:48,860 --> 00:23:50,950
+
+ils font des pages
+
+934
+00:23:50,950 --> 00:23:50,960
+ils font des pages
+ 
+
+935
+00:23:50,960 --> 00:23:54,789
+ils font des pages
+HTML automatiquement et ils mettent
+
+936
+00:23:54,789 --> 00:23:54,799
+HTML automatiquement et ils mettent
+ 
+
+937
+00:23:54,799 --> 00:23:58,070
+HTML automatiquement et ils mettent
+par défaut n'oubliez pas de changer la
+
+938
+00:23:58,070 --> 00:23:58,080
+par défaut n'oubliez pas de changer la
+ 
+
+939
+00:23:58,080 --> 00:24:00,909
+par défaut n'oubliez pas de changer la
+langue
+
+940
+00:24:00,909 --> 00:24:00,919
+
+ 
+
+941
+00:24:00,919 --> 00:24:04,610
+
+en mettant la bonne langue de votre page
+
+942
+00:24:04,610 --> 00:24:04,620
+en mettant la bonne langue de votre page
+ 
+
+943
+00:24:04,620 --> 00:24:08,870
+en mettant la bonne langue de votre page
+html la formation sera vocabilisée en
+
+944
+00:24:08,870 --> 00:24:08,880
+html la formation sera vocabilisée en
+ 
+
+945
+00:24:08,880 --> 00:24:11,029
+html la formation sera vocabilisée en
+français pas entre si dans votre page
+
+946
+00:24:11,029 --> 00:24:11,039
+français pas entre si dans votre page
+ 
+
+947
+00:24:11,039 --> 00:24:13,310
+français pas entre si dans votre page
+vous avez des mots d'une autre en
+
+948
+00:24:13,310 --> 00:24:13,320
+vous avez des mots d'une autre en
+ 
+
+949
+00:24:13,320 --> 00:24:16,730
+vous avez des mots d'une autre en
+anglais on l'entend en espagnol sur ces
+
+950
+00:24:16,730 --> 00:24:16,740
+anglais on l'entend en espagnol sur ces
+ 
+
+951
+00:24:16,740 --> 00:24:18,830
+anglais on l'entend en espagnol sur ces
+mots-là il faut le préciser en mettant
+
+952
+00:24:18,830 --> 00:24:18,840
+mots-là il faut le préciser en mettant
+ 
+
+953
+00:24:18,840 --> 00:24:24,160
+mots-là il faut le préciser en mettant
+des spams
+
+954
+00:24:24,160 --> 00:24:24,170
+
+ 
+
+955
+00:24:24,170 --> 00:24:27,549
+
+[Musique]
+
+956
+00:24:27,549 --> 00:24:27,559
+
+ 
+
+957
+00:24:27,559 --> 00:24:39,649
+
+en français
+
+958
+00:24:39,649 --> 00:24:39,659
+
+ 
+
+959
+00:24:39,659 --> 00:24:41,570
+
+c'est important de respecter une
+
+960
+00:24:41,570 --> 00:24:41,580
+c'est important de respecter une
+ 
+
+961
+00:24:41,580 --> 00:24:44,690
+c'est important de respecter une
+hiérarchie des titres pensez à archi des
+
+962
+00:24:44,690 --> 00:24:44,700
+hiérarchie des titres pensez à archi des
+ 
+
+963
+00:24:44,700 --> 00:24:47,210
+hiérarchie des titres pensez à archi des
+titres à ma thème des matières sommaire
+
+964
+00:24:47,210 --> 00:24:47,220
+titres à ma thème des matières sommaire
+ 
+
+965
+00:24:47,220 --> 00:24:50,570
+titres à ma thème des matières sommaire
+il faut pas y avoir le trou ça a
+
+966
+00:24:50,570 --> 00:24:50,580
+il faut pas y avoir le trou ça a
+ 
+
+967
+00:24:50,580 --> 00:24:54,490
+il faut pas y avoir le trou ça a
+faillite navigation donc
+
+968
+00:24:54,490 --> 00:24:54,500
+
+ 
+
+969
+00:24:54,500 --> 00:24:59,390
+
+les titres de la page ton des trous
+
+970
+00:24:59,390 --> 00:24:59,400
+les titres de la page ton des trous
+ 
+
+971
+00:24:59,400 --> 00:25:04,070
+les titres de la page ton des trous
+entre H1 et H3 ça va poser problème
+
+972
+00:25:04,070 --> 00:25:04,080
+entre H1 et H3 ça va poser problème
+ 
+
+973
+00:25:04,080 --> 00:25:07,190
+entre H1 et H3 ça va poser problème
+donc il faut respecter la sémantique des
+
+974
+00:25:07,190 --> 00:25:07,200
+donc il faut respecter la sémantique des
+ 
+
+975
+00:25:07,200 --> 00:25:10,730
+donc il faut respecter la sémantique des
+titres pour assimiler une hiérarchie
+
+976
+00:25:10,730 --> 00:25:10,740
+titres pour assimiler une hiérarchie
+ 
+
+977
+00:25:10,740 --> 00:25:12,950
+titres pour assimiler une hiérarchie
+l'information et c'est important aussi
+
+978
+00:25:12,950 --> 00:25:12,960
+l'information et c'est important aussi
+ 
+
+979
+00:25:12,960 --> 00:25:15,529
+l'information et c'est important aussi
+pour SSO on peut pas se servir des
+
+980
+00:25:15,529 --> 00:25:15,539
+pour SSO on peut pas se servir des
+ 
+
+981
+00:25:15,539 --> 00:25:16,900
+pour SSO on peut pas se servir des
+titres pour
+
+982
+00:25:16,900 --> 00:25:16,910
+titres pour
+ 
+
+983
+00:25:16,910 --> 00:25:18,010
+titres pour
+[Musique]
+
+984
+00:25:18,010 --> 00:25:18,020
+[Musique]
+ 
+
+985
+00:25:18,020 --> 00:25:20,870
+[Musique]
+juste pour aussi ou réduire la taille du
+
+986
+00:25:20,870 --> 00:25:20,880
+juste pour aussi ou réduire la taille du
+ 
+
+987
+00:25:20,880 --> 00:25:24,529
+juste pour aussi ou réduire la taille du
+texte Jean bah oui mon il est trop donc
+
+988
+00:25:24,529 --> 00:25:24,539
+texte Jean bah oui mon il est trop donc
+ 
+
+989
+00:25:24,539 --> 00:25:27,409
+texte Jean bah oui mon il est trop donc
+je vais mettre un H3 non c'est important
+
+990
+00:25:27,409 --> 00:25:27,419
+je vais mettre un H3 non c'est important
+ 
+
+991
+00:25:27,419 --> 00:25:31,130
+je vais mettre un H3 non c'est important
+de styler si vous voulez vraiment dire
+
+992
+00:25:31,130 --> 00:25:31,140
+de styler si vous voulez vraiment dire
+ 
+
+993
+00:25:31,140 --> 00:25:32,230
+de styler si vous voulez vraiment dire
+voilà
+
+994
+00:25:32,230 --> 00:25:32,240
+voilà
+ 
+
+995
+00:25:32,240 --> 00:25:34,690
+voilà
+mon H1 je veux
+
+996
+00:25:34,690 --> 00:25:34,700
+mon H1 je veux
+ 
+
+997
+00:25:34,700 --> 00:25:37,669
+mon H1 je veux
+H3 précisé dans votre fiche de style
+
+998
+00:25:37,669 --> 00:25:37,679
+H3 précisé dans votre fiche de style
+ 
+
+999
+00:25:37,679 --> 00:25:40,630
+H3 précisé dans votre fiche de style
+avec le H3
+
+1000
+00:25:40,630 --> 00:25:40,640
+avec le H3
+ 
+
+1001
+00:25:40,640 --> 00:25:44,870
+avec le H3
+H3 et là vous aurez toutes les bons
+
+1002
+00:25:44,870 --> 00:25:44,880
+H3 et là vous aurez toutes les bons
+ 
+
+1003
+00:25:44,880 --> 00:25:47,690
+H3 et là vous aurez toutes les bons
+style
+
+1004
+00:25:47,690 --> 00:25:47,700
+
+ 
+
+1005
+00:25:47,700 --> 00:25:49,850
+
+il faut également respecter la structure
+
+1006
+00:25:49,850 --> 00:25:49,860
+il faut également respecter la structure
+ 
+
+1007
+00:25:49,860 --> 00:25:58,510
+il faut également respecter la structure
+du documentaire
+
+1008
+00:25:58,510 --> 00:25:58,520
+
+ 
+
+1009
+00:25:58,520 --> 00:26:02,330
+
+de navigation pourquoi
+
+1010
+00:26:02,330 --> 00:26:02,340
+de navigation pourquoi
+ 
+
+1011
+00:26:02,340 --> 00:26:04,210
+de navigation pourquoi
+parce que
+
+1012
+00:26:04,210 --> 00:26:04,220
+parce que
+ 
+
+1013
+00:26:04,220 --> 00:26:09,590
+parce que
+chaque zone va avec un attribut rôle va
+
+1014
+00:26:09,590 --> 00:26:09,600
+chaque zone va avec un attribut rôle va
+ 
+
+1015
+00:26:09,600 --> 00:26:12,110
+chaque zone va avec un attribut rôle va
+permettre d'assimuler la formation aux
+
+1016
+00:26:12,110 --> 00:26:12,120
+permettre d'assimuler la formation aux
+ 
+
+1017
+00:26:12,120 --> 00:26:15,350
+permettre d'assimuler la formation aux
+utilisateurs de savoir au moins une
+
+1018
+00:26:15,350 --> 00:26:15,360
+utilisateurs de savoir au moins une
+ 
+
+1019
+00:26:15,360 --> 00:26:17,990
+utilisateurs de savoir au moins une
+structurer le site si je veux aller à la
+
+1020
+00:26:17,990 --> 00:26:18,000
+structurer le site si je veux aller à la
+ 
+
+1021
+00:26:18,000 --> 00:26:19,850
+structurer le site si je veux aller à la
+page principale je veux dire ben voilà
+
+1022
+00:26:19,850 --> 00:26:19,860
+page principale je veux dire ben voilà
+ 
+
+1023
+00:26:19,860 --> 00:26:21,470
+page principale je veux dire ben voilà
+je vais aller sur la page principale si
+
+1024
+00:26:21,470 --> 00:26:21,480
+je vais aller sur la page principale si
+ 
+
+1025
+00:26:21,480 --> 00:26:25,370
+je vais aller sur la page principale si
+je peux aller directement sur sur la
+
+1026
+00:26:25,370 --> 00:26:25,380
+je peux aller directement sur sur la
+ 
+
+1027
+00:26:25,380 --> 00:26:29,269
+je peux aller directement sur sur la
+zone de recherche ou sur le footer c'est
+
+1028
+00:26:29,269 --> 00:26:29,279
+zone de recherche ou sur le footer c'est
+ 
+
+1029
+00:26:29,279 --> 00:26:32,710
+zone de recherche ou sur le footer c'est
+important de mépriser donc on a attribué
+
+1030
+00:26:32,710 --> 00:26:32,720
+important de mépriser donc on a attribué
+ 
+
+1031
+00:26:32,720 --> 00:26:41,950
+important de mépriser donc on a attribué
+associé aux tâches leaders
+
+1032
+00:26:41,950 --> 00:26:41,960
+
+ 
+
+1033
+00:26:41,960 --> 00:26:45,110
+
+search pour dans une dîme pour dire
+
+1034
+00:26:45,110 --> 00:26:45,120
+search pour dans une dîme pour dire
+ 
+
+1035
+00:26:45,120 --> 00:26:47,269
+search pour dans une dîme pour dire
+voilà je suis dans ma zone de recherche
+
+1036
+00:26:47,269 --> 00:26:47,279
+voilà je suis dans ma zone de recherche
+ 
+
+1037
+00:26:47,279 --> 00:26:50,149
+voilà je suis dans ma zone de recherche
+et on a le rôle navigation qui est placé
+
+1038
+00:26:50,149 --> 00:26:50,159
+et on a le rôle navigation qui est placé
+ 
+
+1039
+00:26:50,159 --> 00:26:53,590
+et on a le rôle navigation qui est placé
+dans tous les dates et on a aussi
+
+1040
+00:26:53,590 --> 00:26:53,600
+dans tous les dates et on a aussi
+ 
+
+1041
+00:26:53,600 --> 00:26:56,450
+dans tous les dates et on a aussi
+entendu parler de on peut utiliser le
+
+1042
+00:26:56,450 --> 00:26:56,460
+entendu parler de on peut utiliser le
+ 
+
+1043
+00:26:56,460 --> 00:26:59,810
+entendu parler de on peut utiliser le
+rôle pour un rôle un bouton un rôle
+
+1044
+00:26:59,810 --> 00:26:59,820
+rôle pour un rôle un bouton un rôle
+ 
+
+1045
+00:26:59,820 --> 00:27:04,570
+rôle pour un rôle un bouton un rôle
+option un rôle dialogue
+
+1046
+00:27:04,570 --> 00:27:04,580
+
+ 
+
+1047
+00:27:04,580 --> 00:27:08,350
+
+à vous de définir les rôles nécessaires
+
+1048
+00:27:08,350 --> 00:27:08,360
+à vous de définir les rôles nécessaires
+ 
+
+1049
+00:27:08,360 --> 00:27:12,529
+à vous de définir les rôles nécessaires
+en vous utilisez des livres
+
+1050
+00:27:12,529 --> 00:27:12,539
+en vous utilisez des livres
+ 
+
+1051
+00:27:12,539 --> 00:27:15,169
+en vous utilisez des livres
+il faut intention penser aux hommes elle
+
+1052
+00:27:15,169 --> 00:27:15,179
+il faut intention penser aux hommes elle
+ 
+
+1053
+00:27:15,179 --> 00:27:18,010
+il faut intention penser aux hommes elle
+y avait pas beaucoup de responsive et
+
+1054
+00:27:18,010 --> 00:27:18,020
+y avait pas beaucoup de responsive et
+ 
+
+1055
+00:27:18,020 --> 00:27:22,070
+y avait pas beaucoup de responsive et
+les uns et les autres et on a vu la démo
+
+1056
+00:27:22,070 --> 00:27:22,080
+les uns et les autres et on a vu la démo
+ 
+
+1057
+00:27:22,080 --> 00:27:24,529
+les uns et les autres et on a vu la démo
+de bio-up il y a eu un problème de zoom
+
+1058
+00:27:24,529 --> 00:27:24,539
+de bio-up il y a eu un problème de zoom
+ 
+
+1059
+00:27:24,539 --> 00:27:27,169
+de bio-up il y a eu un problème de zoom
+il faut penser à arrondir le site
+
+1060
+00:27:27,169 --> 00:27:27,179
+il faut penser à arrondir le site
+ 
+
+1061
+00:27:27,179 --> 00:27:30,850
+il faut penser à arrondir le site
+jusqu'à 200 % voire plus je suis une
+
+1062
+00:27:30,850 --> 00:27:30,860
+jusqu'à 200 % voire plus je suis une
+ 
+
+1063
+00:27:30,860 --> 00:27:33,950
+jusqu'à 200 % voire plus je suis une
+chanson ça peut arriver
+
+1064
+00:27:33,950 --> 00:27:33,960
+chanson ça peut arriver
+ 
+
+1065
+00:27:33,960 --> 00:27:36,710
+chanson ça peut arriver
+et pour ça il faut mettre les valeurs en
+
+1066
+00:27:36,710 --> 00:27:36,720
+et pour ça il faut mettre les valeurs en
+ 
+
+1067
+00:27:36,720 --> 00:27:40,210
+et pour ça il faut mettre les valeurs en
+valeur les tailles on va la relative
+
+1068
+00:27:40,210 --> 00:27:40,220
+valeur les tailles on va la relative
+ 
+
+1069
+00:27:40,220 --> 00:27:46,930
+valeur les tailles on va la relative
+parce que les valeurs fixes
+
+1070
+00:27:46,930 --> 00:27:46,940
+
+ 
+
+1071
+00:27:46,940 --> 00:27:50,149
+
+et on revient pas la taille sera
+
+1072
+00:27:50,149 --> 00:27:50,159
+et on revient pas la taille sera
+ 
+
+1073
+00:27:50,159 --> 00:27:51,890
+et on revient pas la taille sera
+toujours aussi petite c'est un poste
+
+1074
+00:27:51,890 --> 00:27:51,900
+toujours aussi petite c'est un poste
+ 
+
+1075
+00:27:51,900 --> 00:27:54,110
+toujours aussi petite c'est un poste
+c'est un poste c'est important d'avoir
+
+1076
+00:27:54,110 --> 00:27:54,120
+c'est un poste c'est important d'avoir
+ 
+
+1077
+00:27:54,120 --> 00:27:57,769
+c'est un poste c'est important d'avoir
+une valeur relative pour en la taille
+
+1078
+00:27:57,769 --> 00:27:57,779
+une valeur relative pour en la taille
+ 
+
+1079
+00:27:57,779 --> 00:28:01,549
+une valeur relative pour en la taille
+aussi
+
+1080
+00:28:01,549 --> 00:28:01,559
+
+ 
+
+1081
+00:28:01,559 --> 00:28:05,390
+
+il faut également penser contraste donc
+
+1082
+00:28:05,390 --> 00:28:05,400
+il faut également penser contraste donc
+ 
+
+1083
+00:28:05,400 --> 00:28:08,210
+il faut également penser contraste donc
+on trace entre le texte et son
+
+1084
+00:28:08,210 --> 00:28:08,220
+on trace entre le texte et son
+ 
+
+1085
+00:28:08,220 --> 00:28:12,380
+on trace entre le texte et son
+arrière-plan c'est à dire avoir ratio
+
+1086
+00:28:12,380 --> 00:28:12,390
+
+ 
+
+1087
+00:28:12,390 --> 00:28:13,930
+
+[Musique]
+
+1088
+00:28:13,930 --> 00:28:13,940
+[Musique]
+ 
+
+1089
+00:28:13,940 --> 00:28:19,430
+[Musique]
+un minimum un ratio de 3,1 minimum et un
+
+1090
+00:28:19,430 --> 00:28:19,440
+un minimum un ratio de 3,1 minimum et un
+ 
+
+1091
+00:28:19,440 --> 00:28:23,390
+un minimum un ratio de 3,1 minimum et un
+zoom à partir de 120% ou sans sa 1%, et
+
+1092
+00:28:23,390 --> 00:28:23,400
+zoom à partir de 120% ou sans sa 1%, et
+ 
+
+1093
+00:28:23,400 --> 00:28:25,760
+zoom à partir de 120% ou sans sa 1%, et
+vous pouvez définir
+
+1094
+00:28:25,760 --> 00:28:25,770
+vous pouvez définir
+ 
+
+1095
+00:28:25,770 --> 00:28:29,169
+vous pouvez définir
+[Musique]
+
+1096
+00:28:29,169 --> 00:28:29,179
+
+ 
+
+1097
+00:28:29,179 --> 00:28:31,630
+
+des palettes qui vous proposent des
+
+1098
+00:28:31,630 --> 00:28:31,640
+des palettes qui vous proposent des
+ 
+
+1099
+00:28:31,640 --> 00:28:35,149
+des palettes qui vous proposent des
+couleurs accessibles par exemple Olivier
+
+1100
+00:28:35,149 --> 00:28:35,159
+couleurs accessibles par exemple Olivier
+ 
+
+1101
+00:28:35,159 --> 00:28:38,149
+couleurs accessibles par exemple Olivier
+et lui a dit bah voilà chez je voulais
+
+1102
+00:28:38,149 --> 00:28:38,159
+et lui a dit bah voilà chez je voulais
+ 
+
+1103
+00:28:38,159 --> 00:28:41,210
+et lui a dit bah voilà chez je voulais
+renseigner un champ sur mon pince sur
+
+1104
+00:28:41,210 --> 00:28:41,220
+renseigner un champ sur mon pince sur
+ 
+
+1105
+00:28:41,220 --> 00:28:43,370
+renseigner un champ sur mon pince sur
+mon champ mais j'appelait son dernier et
+
+1106
+00:28:43,370 --> 00:28:43,380
+mon champ mais j'appelait son dernier et
+ 
+
+1107
+00:28:43,380 --> 00:28:45,490
+mon champ mais j'appelait son dernier et
+j'arrive pas à lire
+
+1108
+00:28:45,490 --> 00:28:45,500
+j'arrive pas à lire
+ 
+
+1109
+00:28:45,500 --> 00:28:49,669
+j'arrive pas à lire
+on trace et vraiment trop à l'air
+
+1110
+00:28:49,669 --> 00:28:49,679
+on trace et vraiment trop à l'air
+ 
+
+1111
+00:28:49,679 --> 00:28:53,210
+on trace et vraiment trop à l'air
+et moi j'ai reçu un email en html oui
+
+1112
+00:28:53,210 --> 00:28:53,220
+et moi j'ai reçu un email en html oui
+ 
+
+1113
+00:28:53,220 --> 00:28:55,970
+et moi j'ai reçu un email en html oui
+c'est peut-être joli mais moi je
+
+1114
+00:28:55,970 --> 00:28:55,980
+c'est peut-être joli mais moi je
+ 
+
+1115
+00:28:55,980 --> 00:28:57,350
+c'est peut-être joli mais moi je
+n'arrive pas à lire le texte il y a
+
+1116
+00:28:57,350 --> 00:28:57,360
+n'arrive pas à lire le texte il y a
+ 
+
+1117
+00:28:57,360 --> 00:29:00,289
+n'arrive pas à lire le texte il y a
+dessus et enfin librement je suis à fond
+
+1118
+00:29:00,289 --> 00:29:00,299
+dessus et enfin librement je suis à fond
+ 
+
+1119
+00:29:00,299 --> 00:29:04,510
+dessus et enfin librement je suis à fond
+ou je m'approche le nez sur les crampes
+
+1120
+00:29:04,510 --> 00:29:04,520
+ou je m'approche le nez sur les crampes
+ 
+
+1121
+00:29:04,520 --> 00:29:07,310
+ou je m'approche le nez sur les crampes
+c'est très limite
+
+1122
+00:29:07,310 --> 00:29:07,320
+c'est très limite
+ 
+
+1123
+00:29:07,320 --> 00:29:10,810
+c'est très limite
+et c'est vraiment important de respecter
+
+1124
+00:29:10,810 --> 00:29:10,820
+et c'est vraiment important de respecter
+ 
+
+1125
+00:29:10,820 --> 00:29:30,380
+et c'est vraiment important de respecter
+la structure du site
+
+1126
+00:29:30,380 --> 00:29:30,390
+
+ 
+
+1127
+00:29:30,390 --> 00:29:37,010
+
+[Musique]
+
+1128
+00:29:37,010 --> 00:29:37,020
+
+ 
+
+1129
+00:29:37,020 --> 00:30:03,170
+
+[Musique]
+
+1130
+00:30:03,170 --> 00:30:03,180
+
+ 
+
+1131
+00:30:03,180 --> 00:30:13,250
+
+[Musique]
+
+1132
+00:30:13,250 --> 00:30:13,260
+
+ 
+
+1133
+00:30:13,260 --> 00:30:15,830
+
+c'est à dire un nouvel message qui
+
+1134
+00:30:15,830 --> 00:30:15,840
+c'est à dire un nouvel message qui
+ 
+
+1135
+00:30:15,840 --> 00:30:18,169
+c'est à dire un nouvel message qui
+apparaît sur un même page Aria est
+
+1136
+00:30:18,169 --> 00:30:18,179
+apparaît sur un même page Aria est
+ 
+
+1137
+00:30:18,179 --> 00:30:19,970
+apparaît sur un même page Aria est
+splendide tu dis l'élément était pierre
+
+1138
+00:30:19,970 --> 00:30:19,980
+splendide tu dis l'élément était pierre
+ 
+
+1139
+00:30:19,980 --> 00:30:25,190
+splendide tu dis l'élément était pierre
+replié on a des onglets à replier et des
+
+1140
+00:30:25,190 --> 00:30:25,200
+replié on a des onglets à replier et des
+ 
+
+1141
+00:30:25,200 --> 00:30:28,630
+replié on a des onglets à replier et des
+listes Aria
+
+1142
+00:30:28,630 --> 00:30:28,640
+
+ 
+
+1143
+00:30:28,640 --> 00:30:31,250
+
+tous les plus entendre entendu parler
+
+1144
+00:30:31,250 --> 00:30:31,260
+tous les plus entendre entendu parler
+ 
+
+1145
+00:30:31,260 --> 00:30:35,649
+tous les plus entendre entendu parler
+pardon c'est par exemple dans
+
+1146
+00:30:35,649 --> 00:30:35,659
+pardon c'est par exemple dans
+ 
+
+1147
+00:30:35,659 --> 00:30:37,450
+pardon c'est par exemple dans
+les
+
+1148
+00:30:37,450 --> 00:30:37,460
+les
+ 
+
+1149
+00:30:37,460 --> 00:30:40,850
+les
+mais j'ai Aude on met Aria il donne trop
+
+1150
+00:30:40,850 --> 00:30:40,860
+mais j'ai Aude on met Aria il donne trop
+ 
+
+1151
+00:30:40,860 --> 00:30:42,669
+mais j'ai Aude on met Aria il donne trop
+parce que c'est pas une information
+
+1152
+00:30:42,669 --> 00:30:42,679
+parce que c'est pas une information
+ 
+
+1153
+00:30:42,679 --> 00:30:46,610
+parce que c'est pas une information
+explicite importante à restituer ton on
+
+1154
+00:30:46,610 --> 00:30:46,620
+explicite importante à restituer ton on
+ 
+
+1155
+00:30:46,620 --> 00:30:48,529
+explicite importante à restituer ton on
+va le hacher
+
+1156
+00:30:48,529 --> 00:30:48,539
+va le hacher
+ 
+
+1157
+00:30:48,539 --> 00:30:52,430
+va le hacher
+si vous savez pas utiliser Aria union
+
+1158
+00:30:52,430 --> 00:30:52,440
+si vous savez pas utiliser Aria union
+ 
+
+1159
+00:30:52,440 --> 00:30:54,289
+si vous savez pas utiliser Aria union
+utilisez pas par contre si vous reprenez
+
+1160
+00:30:54,289 --> 00:30:54,299
+utilisez pas par contre si vous reprenez
+ 
+
+1161
+00:30:54,299 --> 00:30:57,649
+utilisez pas par contre si vous reprenez
+des projets on tu as des attributs à
+
+1162
+00:30:57,649 --> 00:30:57,659
+des projets on tu as des attributs à
+ 
+
+1163
+00:30:57,659 --> 00:31:00,950
+des projets on tu as des attributs à
+réaliser ils ont une utilisation
+
+1164
+00:31:00,950 --> 00:31:00,960
+réaliser ils ont une utilisation
+ 
+
+1165
+00:31:00,960 --> 00:31:03,350
+réaliser ils ont une utilisation
+donc voilà avec les attributs HTML on
+
+1166
+00:31:03,350 --> 00:31:03,360
+donc voilà avec les attributs HTML on
+ 
+
+1167
+00:31:03,360 --> 00:31:05,930
+donc voilà avec les attributs HTML on
+rend facilement
+
+1168
+00:31:05,930 --> 00:31:05,940
+
+ 
+
+1169
+00:31:05,940 --> 00:31:07,990
+
+le site et
+
+1170
+00:31:07,990 --> 00:31:08,000
+le site et
+ 
+
+1171
+00:31:08,000 --> 00:31:11,389
+le site et
+un moment on va on se barre
+
+1172
+00:31:11,389 --> 00:31:11,399
+un moment on va on se barre
+ 
+
+1173
+00:31:11,399 --> 00:31:14,330
+un moment on va on se barre
+l'accessibilité numérique plein de début
+
+1174
+00:31:14,330 --> 00:31:14,340
+l'accessibilité numérique plein de début
+ 
+
+1175
+00:31:14,340 --> 00:31:17,330
+l'accessibilité numérique plein de début
+du projet c'est important
+
+1176
+00:31:17,330 --> 00:31:17,340
+du projet c'est important
+ 
+
+1177
+00:31:17,340 --> 00:31:19,669
+du projet c'est important
+parce que si vous faites à la fin du
+
+1178
+00:31:19,669 --> 00:31:19,679
+parce que si vous faites à la fin du
+ 
+
+1179
+00:31:19,679 --> 00:31:24,070
+parce que si vous faites à la fin du
+projet et maintenant
+
+1180
+00:31:24,070 --> 00:31:24,080
+
+ 
+
+1181
+00:31:24,080 --> 00:31:27,590
+
+il faudrait corriger alors on va devoir
+
+1182
+00:31:27,590 --> 00:31:27,600
+il faudrait corriger alors on va devoir
+ 
+
+1183
+00:31:27,600 --> 00:31:30,950
+il faudrait corriger alors on va devoir
+passer page par page et de détruire des
+
+1184
+00:31:30,950 --> 00:31:30,960
+passer page par page et de détruire des
+ 
+
+1185
+00:31:30,960 --> 00:31:32,649
+passer page par page et de détruire des
+trucs qui fonctionnent pas
+
+1186
+00:31:32,649 --> 00:31:32,659
+trucs qui fonctionnent pas
+ 
+
+1187
+00:31:32,659 --> 00:31:35,510
+trucs qui fonctionnent pas
+c'est du temps en plus c'est d'argent en
+
+1188
+00:31:35,510 --> 00:31:35,520
+c'est du temps en plus c'est d'argent en
+ 
+
+1189
+00:31:35,520 --> 00:31:39,230
+c'est du temps en plus c'est d'argent en
+plus et on doit revoir des pages et au
+
+1190
+00:31:39,230 --> 00:31:39,240
+plus et on doit revoir des pages et au
+ 
+
+1191
+00:31:39,240 --> 00:31:42,470
+plus et on doit revoir des pages et au
+final ça va plus cher
+
+1192
+00:31:42,470 --> 00:31:42,480
+final ça va plus cher
+ 
+
+1193
+00:31:42,480 --> 00:31:44,590
+final ça va plus cher
+si vous vous
+
+1194
+00:31:44,590 --> 00:31:44,600
+si vous vous
+ 
+
+1195
+00:31:44,600 --> 00:31:49,210
+si vous vous
+réversibilité de A à Z de prototype
+
+1196
+00:31:49,210 --> 00:31:49,220
+réversibilité de A à Z de prototype
+ 
+
+1197
+00:31:49,220 --> 00:31:57,190
+réversibilité de A à Z de prototype
+à la conception
+
+1198
+00:31:57,190 --> 00:31:57,200
+
+ 
+
+1199
+00:31:57,200 --> 00:32:00,490
+
+moins cher
+
+1200
+00:32:00,490 --> 00:32:00,500
+
+ 
+
+1201
+00:32:00,500 --> 00:32:01,810
+
+[Musique]
+
+1202
+00:32:01,810 --> 00:32:01,820
+[Musique]
+ 
+
+1203
+00:32:01,820 --> 00:32:04,130
+[Musique]
+internet parce qu'il y a aussi les sites
+
+1204
+00:32:04,130 --> 00:32:04,140
+internet parce qu'il y a aussi les sites
+ 
+
+1205
+00:32:04,140 --> 00:32:07,490
+internet parce qu'il y a aussi les sites
+internet et extranet et salariés
+
+1206
+00:32:07,490 --> 00:32:07,500
+internet et extranet et salariés
+ 
+
+1207
+00:32:07,500 --> 00:32:10,730
+internet et extranet et salariés
+on dit un peu travail et allemand donc
+
+1208
+00:32:10,730 --> 00:32:10,740
+on dit un peu travail et allemand donc
+ 
+
+1209
+00:32:10,740 --> 00:32:13,250
+on dit un peu travail et allemand donc
+si ils sont dans des entreprises ils se
+
+1210
+00:32:13,250 --> 00:32:13,260
+si ils sont dans des entreprises ils se
+ 
+
+1211
+00:32:13,260 --> 00:32:15,350
+si ils sont dans des entreprises ils se
+retrouvent à utiliser des logiciels qui
+
+1212
+00:32:15,350 --> 00:32:15,360
+retrouvent à utiliser des logiciels qui
+ 
+
+1213
+00:32:15,360 --> 00:32:17,269
+retrouvent à utiliser des logiciels qui
+ne sont pas accessibles ils peuvent pas
+
+1214
+00:32:17,269 --> 00:32:17,279
+ne sont pas accessibles ils peuvent pas
+ 
+
+1215
+00:32:17,279 --> 00:32:19,130
+ne sont pas accessibles ils peuvent pas
+faire le travail donc c'est important
+
+1216
+00:32:19,130 --> 00:32:19,140
+faire le travail donc c'est important
+ 
+
+1217
+00:32:19,140 --> 00:32:21,950
+faire le travail donc c'est important
+aussi de les rendre accessible
+
+1218
+00:32:21,950 --> 00:32:21,960
+aussi de les rendre accessible
+ 
+
+1219
+00:32:21,960 --> 00:32:25,850
+aussi de les rendre accessible
+il n'y a pas de solution magique je sais
+
+1220
+00:32:25,850 --> 00:32:25,860
+il n'y a pas de solution magique je sais
+ 
+
+1221
+00:32:25,860 --> 00:32:28,370
+il n'y a pas de solution magique je sais
+il est entendu utiliser des outils de
+
+1222
+00:32:28,370 --> 00:32:28,380
+il est entendu utiliser des outils de
+ 
+
+1223
+00:32:28,380 --> 00:32:30,529
+il est entendu utiliser des outils de
+surcouche pour faire une citer le
+
+1224
+00:32:30,529 --> 00:32:30,539
+surcouche pour faire une citer le
+ 
+
+1225
+00:32:30,539 --> 00:32:33,529
+surcouche pour faire une citer le
+travail mais des fois ils sont en
+
+1226
+00:32:33,529 --> 00:32:33,539
+travail mais des fois ils sont en
+ 
+
+1227
+00:32:33,539 --> 00:32:36,289
+travail mais des fois ils sont en
+tradition avec nos propres outils on
+
+1228
+00:32:36,289 --> 00:32:36,299
+tradition avec nos propres outils on
+ 
+
+1229
+00:32:36,299 --> 00:32:38,710
+tradition avec nos propres outils on
+utilise
+
+1230
+00:32:38,710 --> 00:32:38,720
+
+ 
+
+1231
+00:32:38,720 --> 00:32:41,930
+
+ou des outils propres qui nous
+
+1232
+00:32:41,930 --> 00:32:41,940
+ou des outils propres qui nous
+ 
+
+1233
+00:32:41,940 --> 00:32:46,269
+ou des outils propres qui nous
+permettent de faire citer un avis et ben
+
+1234
+00:32:46,269 --> 00:32:46,279
+permettent de faire citer un avis et ben
+ 
+
+1235
+00:32:46,279 --> 00:32:48,889
+permettent de faire citer un avis et ben
+entrant sur les solutions de ce ouch on
+
+1236
+00:32:48,889 --> 00:32:48,899
+entrant sur les solutions de ce ouch on
+ 
+
+1237
+00:32:48,899 --> 00:32:50,750
+entrant sur les solutions de ce ouch on
+n'arrive plus à naviguer ça rentre en
+
+1238
+00:32:50,750 --> 00:32:50,760
+n'arrive plus à naviguer ça rentre en
+ 
+
+1239
+00:32:50,760 --> 00:32:53,630
+n'arrive plus à naviguer ça rentre en
+Islande ça rend totalement le site
+
+1240
+00:32:53,630 --> 00:32:53,640
+Islande ça rend totalement le site
+ 
+
+1241
+00:32:53,640 --> 00:32:56,769
+Islande ça rend totalement le site
+inutilisable donc c'est important de
+
+1242
+00:32:56,769 --> 00:32:56,779
+inutilisable donc c'est important de
+ 
+
+1243
+00:32:56,779 --> 00:32:57,960
+inutilisable donc c'est important de
+Redé
+
+1244
+00:32:57,960 --> 00:32:57,970
+Redé
+ 
+
+1245
+00:32:57,970 --> 00:32:59,350
+Redé
+[Musique]
+
+1246
+00:32:59,350 --> 00:32:59,360
+[Musique]
+ 
+
+1247
+00:32:59,360 --> 00:33:02,810
+[Musique]
+de vraiment on se voir le site dès le
+
+1248
+00:33:02,810 --> 00:33:02,820
+de vraiment on se voir le site dès le
+ 
+
+1249
+00:33:02,820 --> 00:33:05,049
+de vraiment on se voir le site dès le
+début
+
+1250
+00:33:05,049 --> 00:33:05,059
+
+ 
+
+1251
+00:33:05,059 --> 00:33:07,850
+
+il faut mettre les mains dans le bruit
+
+1252
+00:33:07,850 --> 00:33:07,860
+il faut mettre les mains dans le bruit
+ 
+
+1253
+00:33:07,860 --> 00:33:10,730
+il faut mettre les mains dans le bruit
+et donc
+
+1254
+00:33:10,730 --> 00:33:10,740
+et donc
+ 
+
+1255
+00:33:10,740 --> 00:33:12,710
+et donc
+je fais faire une démo avec un site
+
+1256
+00:33:12,710 --> 00:33:12,720
+je fais faire une démo avec un site
+ 
+
+1257
+00:33:12,720 --> 00:33:14,990
+je fais faire une démo avec un site
+incessible par exemple le site du
+
+1258
+00:33:14,990 --> 00:33:15,000
+incessible par exemple le site du
+ 
+
+1259
+00:33:15,000 --> 00:33:27,669
+incessible par exemple le site du
+gouvernement
+
+1260
+00:33:27,669 --> 00:33:27,679
+
+ 
+
+1261
+00:33:27,679 --> 00:33:30,409
+
+le son
+
+1262
+00:33:30,409 --> 00:33:30,419
+le son
+ 
+
+1263
+00:33:30,419 --> 00:33:35,210
+le son
+et puis le son
+
+1264
+00:33:35,210 --> 00:33:35,220
+
+ 
+
+1265
+00:33:35,220 --> 00:33:42,350
+
+c'est bon on attend
+
+1266
+00:33:42,350 --> 00:33:42,360
+
+ 
+
+1267
+00:33:42,360 --> 00:33:44,230
+
+ça c'est moi
+
+1268
+00:33:44,230 --> 00:33:44,240
+ça c'est moi
+ 
+
+1269
+00:33:44,240 --> 00:33:47,649
+ça c'est moi
+ah oui
+
+1270
+00:33:47,649 --> 00:33:47,659
+
+ 
+
+1271
+00:33:47,659 --> 00:33:51,950
+
+c'est bon alors j'arrive sur un site de
+
+1272
+00:33:51,950 --> 00:33:51,960
+c'est bon alors j'arrive sur un site de
+ 
+
+1273
+00:33:51,960 --> 00:33:54,350
+c'est bon alors j'arrive sur un site de
+gouvernement il me dit bienvenue sur
+
+1274
+00:33:54,350 --> 00:33:54,360
+gouvernement il me dit bienvenue sur
+ 
+
+1275
+00:33:54,360 --> 00:33:56,630
+gouvernement il me dit bienvenue sur
+gouvernement visite il y a au
+
+1276
+00:33:56,630 --> 00:33:56,640
+gouvernement visite il y a au
+ 
+
+1277
+00:33:56,640 --> 00:33:58,070
+gouvernement visite il y a au
+gouvernement
+
+1278
+00:33:58,070 --> 00:33:58,080
+gouvernement
+ 
+
+1279
+00:33:58,080 --> 00:34:00,789
+gouvernement
+rechercher édition recherchez vite
+
+1280
+00:34:00,789 --> 00:34:00,799
+rechercher édition recherchez vite
+ 
+
+1281
+00:34:00,799 --> 00:35:01,329
+rechercher édition recherchez vite
+rechercher bouton éditions
+
+1282
+00:35:01,329 --> 00:35:01,339
+
+ 
+
+1283
+00:35:01,339 --> 00:35:04,250
+
+et les informations sont bien restituées
+
+1284
+00:35:04,250 --> 00:35:04,260
+et les informations sont bien restituées
+ 
+
+1285
+00:35:04,260 --> 00:35:06,490
+et les informations sont bien restituées
+correctement sur l'électeurs d'écran
+
+1286
+00:35:06,490 --> 00:35:06,500
+correctement sur l'électeurs d'écran
+ 
+
+1287
+00:35:06,500 --> 00:35:11,450
+correctement sur l'électeurs d'écran
+donc c'est vraiment voilà c'est tout
+
+1288
+00:35:11,450 --> 00:35:11,460
+donc c'est vraiment voilà c'est tout
+ 
+
+1289
+00:35:11,460 --> 00:35:13,370
+donc c'est vraiment voilà c'est tout
+en termes de législation et
+
+1290
+00:35:13,370 --> 00:35:13,380
+en termes de législation et
+ 
+
+1291
+00:35:13,380 --> 00:35:16,190
+en termes de législation et
+documentation dont l'article 45 de la
+
+1292
+00:35:16,190 --> 00:35:16,200
+documentation dont l'article 45 de la
+ 
+
+1293
+00:35:16,200 --> 00:35:18,890
+documentation dont l'article 45 de la
+loi 2005 les sites publiques ils doivent
+
+1294
+00:35:18,890 --> 00:35:18,900
+loi 2005 les sites publiques ils doivent
+ 
+
+1295
+00:35:18,900 --> 00:35:22,910
+loi 2005 les sites publiques ils doivent
+être accessibles et policier privé la
+
+1296
+00:35:22,910 --> 00:35:22,920
+être accessibles et policier privé la
+ 
+
+1297
+00:35:22,920 --> 00:35:26,170
+être accessibles et policier privé la
+loi de 2016 sous conditions
+
+1298
+00:35:26,170 --> 00:35:26,180
+loi de 2016 sous conditions
+ 
+
+1299
+00:35:26,180 --> 00:35:29,089
+loi de 2016 sous conditions
+de chiffre d'affaires il doit être
+
+1300
+00:35:29,089 --> 00:35:29,099
+de chiffre d'affaires il doit être
+ 
+
+1301
+00:35:29,099 --> 00:35:33,370
+de chiffre d'affaires il doit être
+accessible
+
+1302
+00:35:33,370 --> 00:35:33,380
+
+ 
+
+1303
+00:35:33,380 --> 00:35:52,470
+
+[Musique]
+
+1304
+00:35:52,470 --> 00:35:52,480
+
+ 
+
+1305
+00:35:52,480 --> 00:36:05,950
+
+[Musique]
+
+1306
+00:36:05,950 --> 00:36:05,960
+
+ 
+
+1307
+00:36:05,960 --> 00:36:11,089
+
+depuis 2020 2021 ils doivent leur site
+
+1308
+00:36:11,089 --> 00:36:11,099
+depuis 2020 2021 ils doivent leur site
+ 
+
+1309
+00:36:11,099 --> 00:36:15,849
+depuis 2020 2021 ils doivent leur site
+internet doit être accessible donc
+
+1310
+00:36:15,849 --> 00:36:15,859
+internet doit être accessible donc
+ 
+
+1311
+00:36:15,859 --> 00:36:20,270
+internet doit être accessible donc
+vous êtes bien sûr de respecter
+
+1312
+00:36:20,270 --> 00:36:20,280
+vous êtes bien sûr de respecter
+ 
+
+1313
+00:36:20,280 --> 00:36:23,150
+vous êtes bien sûr de respecter
+on a aussi deux ans ce sont les
+
+1314
+00:36:23,150 --> 00:36:23,160
+on a aussi deux ans ce sont les
+ 
+
+1315
+00:36:23,160 --> 00:36:24,370
+on a aussi deux ans ce sont les
+référentiels générales d'imption
+
+1316
+00:36:24,370 --> 00:36:24,380
+référentiels générales d'imption
+ 
+
+1317
+00:36:24,380 --> 00:36:27,170
+référentiels générales d'imption
+d'amélioration de l'accessibilité mise
+
+1318
+00:36:27,170 --> 00:36:27,180
+d'amélioration de l'accessibilité mise
+ 
+
+1319
+00:36:27,180 --> 00:36:29,030
+d'amélioration de l'accessibilité mise
+en place au gouvernement basé sur les
+
+1320
+00:36:29,030 --> 00:36:29,040
+en place au gouvernement basé sur les
+ 
+
+1321
+00:36:29,040 --> 00:36:32,810
+en place au gouvernement basé sur les
+normes internationales le moins c'est
+
+1322
+00:36:32,810 --> 00:36:32,820
+normes internationales le moins c'est
+ 
+
+1323
+00:36:32,820 --> 00:36:36,670
+normes internationales le moins c'est
+tout bébé HG qui est donc
+
+1324
+00:36:36,670 --> 00:36:36,680
+tout bébé HG qui est donc
+ 
+
+1325
+00:36:36,680 --> 00:36:38,750
+tout bébé HG qui est donc
+réunit une liste de critères il y en a
+
+1326
+00:36:38,750 --> 00:36:38,760
+réunit une liste de critères il y en a
+ 
+
+1327
+00:36:38,760 --> 00:36:41,930
+réunit une liste de critères il y en a
+environ une centaine et donc vous dire
+
+1328
+00:36:41,930 --> 00:36:41,940
+environ une centaine et donc vous dire
+ 
+
+1329
+00:36:41,940 --> 00:36:44,150
+environ une centaine et donc vous dire
+comment rendre un site accessible donc
+
+1330
+00:36:44,150 --> 00:36:44,160
+comment rendre un site accessible donc
+ 
+
+1331
+00:36:44,160 --> 00:36:46,190
+comment rendre un site accessible donc
+ces listes de critères vous baisez
+
+1332
+00:36:46,190 --> 00:36:46,200
+ces listes de critères vous baisez
+ 
+
+1333
+00:36:46,200 --> 00:36:48,650
+ces listes de critères vous baisez
+là-dessus et en fonction de ça vous
+
+1334
+00:36:48,650 --> 00:36:48,660
+là-dessus et en fonction de ça vous
+ 
+
+1335
+00:36:48,660 --> 00:36:51,050
+là-dessus et en fonction de ça vous
+rendez votre site accessible je vous ai
+
+1336
+00:36:51,050 --> 00:36:51,060
+rendez votre site accessible je vous ai
+ 
+
+1337
+00:36:51,060 --> 00:36:53,089
+rendez votre site accessible je vous ai
+mis un disposition tout un tanilien pour
+
+1338
+00:36:53,089 --> 00:36:53,099
+mis un disposition tout un tanilien pour
+ 
+
+1339
+00:36:53,099 --> 00:36:56,589
+mis un disposition tout un tanilien pour
+vous sensibiliser mais oui mais
+
+1340
+00:36:56,589 --> 00:36:56,599
+vous sensibiliser mais oui mais
+ 
+
+1341
+00:36:56,599 --> 00:36:58,849
+vous sensibiliser mais oui mais
+vous avez des critères chez deux ans
+
+1342
+00:36:58,849 --> 00:36:58,859
+vous avez des critères chez deux ans
+ 
+
+1343
+00:36:58,859 --> 00:37:01,190
+vous avez des critères chez deux ans
+vous avez des exemples de mise en place
+
+1344
+00:37:01,190 --> 00:37:01,200
+vous avez des exemples de mise en place
+ 
+
+1345
+00:37:01,200 --> 00:37:02,770
+vous avez des exemples de mise en place
+par
+
+1346
+00:37:02,770 --> 00:37:02,780
+par
+ 
+
+1347
+00:37:02,780 --> 00:37:07,670
+par
+W3C vous avez les notices également et
+
+1348
+00:37:07,670 --> 00:37:07,680
+W3C vous avez les notices également et
+ 
+
+1349
+00:37:07,680 --> 00:37:09,470
+W3C vous avez les notices également et
+en plus de ça vous avez si vous voulez
+
+1350
+00:37:09,470 --> 00:37:09,480
+en plus de ça vous avez si vous voulez
+ 
+
+1351
+00:37:09,480 --> 00:37:12,230
+en plus de ça vous avez si vous voulez
+respecter aller plus loin respecter du
+
+1352
+00:37:12,230 --> 00:37:12,240
+respecter aller plus loin respecter du
+ 
+
+1353
+00:37:12,240 --> 00:37:13,490
+respecter aller plus loin respecter du
+web
+
+1354
+00:37:13,490 --> 00:37:13,500
+web
+ 
+
+1355
+00:37:13,500 --> 00:37:16,390
+web
+et avec des outils de tests pour tester
+
+1356
+00:37:16,390 --> 00:37:16,400
+et avec des outils de tests pour tester
+ 
+
+1357
+00:37:16,400 --> 00:37:19,329
+et avec des outils de tests pour tester
+si vous avez envie d'aller plus loin
+
+1358
+00:37:19,329 --> 00:37:19,339
+si vous avez envie d'aller plus loin
+ 
+
+1359
+00:37:19,339 --> 00:37:22,130
+si vous avez envie d'aller plus loin
+n'hésitez pas à vous former parce que je
+
+1360
+00:37:22,130 --> 00:37:22,140
+n'hésitez pas à vous former parce que je
+ 
+
+1361
+00:37:22,140 --> 00:37:24,710
+n'hésitez pas à vous former parce que je
+vous ai montré là c'est le début donc
+
+1362
+00:37:24,710 --> 00:37:24,720
+vous ai montré là c'est le début donc
+ 
+
+1363
+00:37:24,720 --> 00:37:26,210
+vous ai montré là c'est le début donc
+n'hésitez pas à vous former auprès des
+
+1364
+00:37:26,210 --> 00:37:26,220
+n'hésitez pas à vous former auprès des
+ 
+
+1365
+00:37:26,220 --> 00:37:28,730
+n'hésitez pas à vous former auprès des
+agences tu donnes des formations autour
+
+1366
+00:37:28,730 --> 00:37:28,740
+agences tu donnes des formations autour
+ 
+
+1367
+00:37:28,740 --> 00:37:31,609
+agences tu donnes des formations autour
+d'accessibilité numérique et aussi si
+
+1368
+00:37:31,609 --> 00:37:31,619
+d'accessibilité numérique et aussi si
+ 
+
+1369
+00:37:31,619 --> 00:37:33,849
+d'accessibilité numérique et aussi si
+vous voulez auditer votre site internet
+
+1370
+00:37:33,849 --> 00:37:33,859
+vous voulez auditer votre site internet
+ 
+
+1371
+00:37:33,859 --> 00:37:37,250
+vous voulez auditer votre site internet
+ils sont en forme n'hésitez pas à vous
+
+1372
+00:37:37,250 --> 00:37:37,260
+ils sont en forme n'hésitez pas à vous
+ 
+
+1373
+00:37:37,260 --> 00:37:39,050
+ils sont en forme n'hésitez pas à vous
+faire accompagner par les mêmes agences
+
+1374
+00:37:39,050 --> 00:37:39,060
+faire accompagner par les mêmes agences
+ 
+
+1375
+00:37:39,060 --> 00:37:44,210
+faire accompagner par les mêmes agences
+c'est important de vous former de c'est
+
+1376
+00:37:44,210 --> 00:37:44,220
+c'est important de vous former de c'est
+ 
+
+1377
+00:37:44,220 --> 00:37:46,069
+c'est important de vous former de c'est
+pour tous les profils pas les
+
+1378
+00:37:46,069 --> 00:37:46,079
+pour tous les profils pas les
+ 
+
+1379
+00:37:46,079 --> 00:37:48,609
+pour tous les profils pas les
+développeurs c'est aussi les
+
+1380
+00:37:48,609 --> 00:37:48,619
+développeurs c'est aussi les
+ 
+
+1381
+00:37:48,619 --> 00:37:51,650
+développeurs c'est aussi les
+designers les châteaux projets tout le
+
+1382
+00:37:51,650 --> 00:37:51,660
+designers les châteaux projets tout le
+ 
+
+1383
+00:37:51,660 --> 00:37:54,230
+designers les châteaux projets tout le
+monde est concerné
+
+1384
+00:37:54,230 --> 00:37:54,240
+monde est concerné
+ 
+
+1385
+00:37:54,240 --> 00:37:57,490
+monde est concerné
+donc voilà et je vous remercie
+
+1386
+00:37:57,490 --> 00:37:57,500
+donc voilà et je vous remercie
+ 
+
+1387
+00:37:57,500 --> 00:38:01,450
+donc voilà et je vous remercie
+on voulait retrouver ma présentation
+
+1388
+00:38:01,450 --> 00:38:01,460
+on voulait retrouver ma présentation
+ 
+
+1389
+00:38:01,460 --> 00:38:03,589
+on voulait retrouver ma présentation
+je vais vous demander de vous poser
+
+1390
+00:38:03,589 --> 00:38:03,599
+je vais vous demander de vous poser
+ 
+
+1391
+00:38:03,599 --> 00:38:06,230
+je vais vous demander de vous poser
+question sur le premier handbar donc
+
+1392
+00:38:06,230 --> 00:38:06,240
+question sur le premier handbar donc
+ 
+
+1393
+00:38:06,240 --> 00:38:08,750
+question sur le premier handbar donc
+n'hésitez pas à flasher et à donner
+
+1394
+00:38:08,750 --> 00:38:08,760
+n'hésitez pas à flasher et à donner
+ 
+
+1395
+00:38:08,760 --> 00:38:11,860
+n'hésitez pas à flasher et à donner
+votre chaîne merci beaucoup
+
+1396
+00:38:11,860 --> 00:38:11,870
+votre chaîne merci beaucoup
+ 
+
+1397
+00:38:11,870 --> 00:38:20,930
+votre chaîne merci beaucoup
+[Applaudissements]
+
+1398
+00:38:20,930 --> 00:38:20,940
+
+ 
+
+1399
+00:38:20,940 --> 00:38:24,710
+
+je vous laisse une minute pour une
+
+1400
+00:38:24,710 --> 00:38:24,720
+je vous laisse une minute pour une
+ 
+
+1401
+00:38:24,720 --> 00:39:46,150
+je vous laisse une minute pour une
+tendeur
+
+1402
+00:39:46,150 --> 00:39:46,160
+
+ 
+
+1403
+00:39:46,160 --> 00:39:48,829
+
+n'est pas accessible mais vous êtes dans
+
+1404
+00:39:48,829 --> 00:39:48,839
+n'est pas accessible mais vous êtes dans
+ 
+
+1405
+00:39:48,839 --> 00:39:52,250
+n'est pas accessible mais vous êtes dans
+l'obligation de utiliser
+
+1406
+00:39:52,250 --> 00:39:52,260
+
+ 
+
+1407
+00:39:52,260 --> 00:39:56,710
+
+et ben on passe notre chemin
+
+1408
+00:39:56,710 --> 00:39:56,720
+
+ 
+
+1409
+00:39:56,720 --> 00:39:59,829
+
+un site n'est pas accessible
+
+1410
+00:39:59,829 --> 00:39:59,839
+un site n'est pas accessible
+ 
+
+1411
+00:39:59,839 --> 00:40:02,510
+un site n'est pas accessible
+en défense on trouve à faire des efforts
+
+1412
+00:40:02,510 --> 00:40:02,520
+en défense on trouve à faire des efforts
+ 
+
+1413
+00:40:02,520 --> 00:40:05,690
+en défense on trouve à faire des efforts
+policiers de faire ça marche mais ça
+
+1414
+00:40:05,690 --> 00:40:05,700
+policiers de faire ça marche mais ça
+ 
+
+1415
+00:40:05,700 --> 00:40:08,170
+policiers de faire ça marche mais ça
+demande ou de
+
+1416
+00:40:08,170 --> 00:40:08,180
+demande ou de
+ 
+
+1417
+00:40:08,180 --> 00:40:10,730
+demande ou de
+d'efforts pour essayer de d'avance over
+
+1418
+00:40:10,730 --> 00:40:10,740
+d'efforts pour essayer de d'avance over
+ 
+
+1419
+00:40:10,740 --> 00:40:13,250
+d'efforts pour essayer de d'avance over
+mais en général on voit un site n'est
+
+1420
+00:40:13,250 --> 00:40:13,260
+mais en général on voit un site n'est
+ 
+
+1421
+00:40:13,260 --> 00:40:15,109
+mais en général on voit un site n'est
+pas accessible on passe son chemin il
+
+1422
+00:40:15,109 --> 00:40:15,119
+pas accessible on passe son chemin il
+ 
+
+1423
+00:40:15,119 --> 00:40:16,870
+pas accessible on passe son chemin il
+fait vous perdez
+
+1424
+00:40:16,870 --> 00:40:16,880
+fait vous perdez
+ 
+
+1425
+00:40:16,880 --> 00:40:20,630
+fait vous perdez
+si on retrouvait dans la possibilité de
+
+1426
+00:40:20,630 --> 00:40:20,640
+si on retrouvait dans la possibilité de
+ 
+
+1427
+00:40:20,640 --> 00:40:22,390
+si on retrouvait dans la possibilité de
+emmender
+
+1428
+00:40:22,390 --> 00:40:22,400
+emmender
+ 
+
+1429
+00:40:22,400 --> 00:40:25,310
+emmender
+des produits qui sont par exemple on va
+
+1430
+00:40:25,310 --> 00:40:25,320
+des produits qui sont par exemple on va
+ 
+
+1431
+00:40:25,320 --> 00:40:27,950
+des produits qui sont par exemple on va
+trouver un autre site il va le problème
+
+1432
+00:40:27,950 --> 00:40:27,960
+trouver un autre site il va le problème
+ 
+
+1433
+00:40:27,960 --> 00:40:31,329
+trouver un autre site il va le problème
+est très peu de sites tu sois accessible
+
+1434
+00:40:31,329 --> 00:40:31,339
+est très peu de sites tu sois accessible
+ 
+
+1435
+00:40:31,339 --> 00:40:35,089
+est très peu de sites tu sois accessible
+c'est on se retrouve des fois de
+
+1436
+00:40:35,089 --> 00:40:35,099
+c'est on se retrouve des fois de
+ 
+
+1437
+00:40:35,099 --> 00:40:39,190
+c'est on se retrouve des fois de
+vraiment de forcer de tester et
+
+1438
+00:40:39,190 --> 00:40:39,200
+vraiment de forcer de tester et
+ 
+
+1439
+00:40:39,200 --> 00:40:42,589
+vraiment de forcer de tester et
+j'ai une amie qui m'a dit mais je me
+
+1440
+00:40:42,589 --> 00:40:42,599
+j'ai une amie qui m'a dit mais je me
+ 
+
+1441
+00:40:42,599 --> 00:40:46,130
+j'ai une amie qui m'a dit mais je me
+suis retrouvé à me forcer à utiliser un
+
+1442
+00:40:46,130 --> 00:40:46,140
+suis retrouvé à me forcer à utiliser un
+ 
+
+1443
+00:40:46,140 --> 00:40:48,410
+suis retrouvé à me forcer à utiliser un
+site là où je devais mettre normalement
+
+1444
+00:40:48,410 --> 00:40:48,420
+site là où je devais mettre normalement
+ 
+
+1445
+00:40:48,420 --> 00:40:51,650
+site là où je devais mettre normalement
+20 minutes pas en utilisant lambda j'ai
+
+1446
+00:40:51,650 --> 00:40:51,660
+20 minutes pas en utilisant lambda j'ai
+ 
+
+1447
+00:40:51,660 --> 00:40:53,329
+20 minutes pas en utilisant lambda j'ai
+mis trois heures
+
+1448
+00:40:53,329 --> 00:40:53,339
+mis trois heures
+ 
+
+1449
+00:40:53,339 --> 00:40:54,490
+mis trois heures
+donc
+
+1450
+00:40:54,490 --> 00:40:54,500
+donc
+ 
+
+1451
+00:40:54,500 --> 00:40:56,690
+donc
+heureusement de perdre trois heures
+
+1452
+00:40:56,690 --> 00:40:56,700
+heureusement de perdre trois heures
+ 
+
+1453
+00:40:56,700 --> 00:40:57,910
+heureusement de perdre trois heures
+juste pour
+
+1454
+00:40:57,910 --> 00:40:57,920
+juste pour
+ 
+
+1455
+00:40:57,920 --> 00:41:02,390
+juste pour
+demander un produit ou de commander
+
+1456
+00:41:02,390 --> 00:41:02,400
+demander un produit ou de commander
+ 
+
+1457
+00:41:02,400 --> 00:41:04,670
+demander un produit ou de commander
+c'est ça il faut un peu mal
+
+1458
+00:41:04,670 --> 00:41:04,680
+c'est ça il faut un peu mal
+ 
+
+1459
+00:41:04,680 --> 00:41:06,130
+c'est ça il faut un peu mal
+donc vraiment
+
+1460
+00:41:06,130 --> 00:41:06,140
+donc vraiment
+ 
+
+1461
+00:41:06,140 --> 00:41:08,210
+donc vraiment
+c'est important de rendre des sites
+
+1462
+00:41:08,210 --> 00:41:08,220
+c'est important de rendre des sites
+ 
+
+1463
+00:41:08,220 --> 00:41:11,089
+c'est important de rendre des sites
+accessible c'est pour faciliter la vie
+
+1464
+00:41:11,089 --> 00:41:11,099
+accessible c'est pour faciliter la vie
+ 
+
+1465
+00:41:11,099 --> 00:41:14,150
+accessible c'est pour faciliter la vie
+des utilisateurs et n'oubliez pas même
+
+1466
+00:41:14,150 --> 00:41:14,160
+des utilisateurs et n'oubliez pas même
+ 
+
+1467
+00:41:14,160 --> 00:41:17,150
+des utilisateurs et n'oubliez pas même
+tous millions de personnes en France ça
+
+1468
+00:41:17,150 --> 00:41:17,160
+tous millions de personnes en France ça
+ 
+
+1469
+00:41:17,160 --> 00:41:21,349
+tous millions de personnes en France ça
+représente de l'audience en plus
+
+1470
+00:41:21,349 --> 00:41:21,359
+
+ 
+
+1471
+00:41:21,359 --> 00:41:23,630
+
+votre question
+
+1472
+00:41:23,630 --> 00:41:23,640
+votre question
+ 
+
+1473
+00:41:23,640 --> 00:41:26,870
+votre question
+as-tu une ressource pour apprendre à se
+
+1474
+00:41:26,870 --> 00:41:26,880
+as-tu une ressource pour apprendre à se
+ 
+
+1475
+00:41:26,880 --> 00:41:28,930
+as-tu une ressource pour apprendre à se
+servir
+
+1476
+00:41:28,930 --> 00:41:28,940
+servir
+ 
+
+1477
+00:41:28,940 --> 00:41:33,130
+servir
+oui il y a une formation
+
+1478
+00:41:33,130 --> 00:41:33,140
+oui il y a une formation
+ 
+
+1479
+00:41:33,140 --> 00:41:36,530
+oui il y a une formation
+indispensée par deux qui dispensé par
+
+1480
+00:41:36,530 --> 00:41:36,540
+indispensée par deux qui dispensé par
+ 
+
+1481
+00:41:36,540 --> 00:41:37,690
+indispensée par deux qui dispensé par
+une
+
+1482
+00:41:37,690 --> 00:41:37,700
+une
+ 
+
+1483
+00:41:37,700 --> 00:41:41,089
+une
+qui vous explique à mon utilisé un état
+
+1484
+00:41:41,089 --> 00:41:41,099
+qui vous explique à mon utilisé un état
+ 
+
+1485
+00:41:41,099 --> 00:41:43,910
+qui vous explique à mon utilisé un état
+d'écran c'est bien aussi de suivre cette
+
+1486
+00:41:43,910 --> 00:41:43,920
+d'écran c'est bien aussi de suivre cette
+ 
+
+1487
+00:41:43,920 --> 00:41:46,670
+d'écran c'est bien aussi de suivre cette
+formation là oui et sinon si je te dis
+
+1488
+00:41:46,670 --> 00:41:46,680
+formation là oui et sinon si je te dis
+ 
+
+1489
+00:41:46,680 --> 00:41:47,890
+formation là oui et sinon si je te dis
+documentations
+
+1490
+00:41:47,890 --> 00:41:47,900
+documentations
+ 
+
+1491
+00:41:47,900 --> 00:41:50,210
+documentations
+je vous mettrai chez Pamiers
+
+1492
+00:41:50,210 --> 00:41:50,220
+je vous mettrai chez Pamiers
+ 
+
+1493
+00:41:50,220 --> 00:41:52,370
+je vous mettrai chez Pamiers
+effectivement sur messenger je vous le
+
+1494
+00:41:52,370 --> 00:41:52,380
+effectivement sur messenger je vous le
+ 
+
+1495
+00:41:52,380 --> 00:41:57,650
+effectivement sur messenger je vous le
+donnerai
+
+1496
+00:41:57,650 --> 00:41:57,660
+
+ 
+
+1497
+00:41:57,660 --> 00:41:59,390
+
+il vous reste un une minute de question
+
+1498
+00:41:59,390 --> 00:41:59,400
+il vous reste un une minute de question
+ 
+
+1499
+00:41:59,400 --> 00:42:06,609
+il vous reste un une minute de question
+si vous voulez
+
+1500
+00:42:06,609 --> 00:42:06,619
+
+ 
+
+1501
+00:42:06,619 --> 00:42:09,890
+
+très bien merci beaucoup
+
+1502
+00:42:09,890 --> 00:42:09,900
+très bien merci beaucoup
+ 
+
+1503
+00:42:09,900 --> 00:42:16,519
+très bien merci beaucoup
+[Applaudissements]
+

@@ -1,0 +1,9215 @@
+1
+00:00:01,840 --> 00:00:13,730
+
+[Musique]
+
+2
+00:00:13,730 --> 00:00:13,740
+
+ 
+
+3
+00:00:13,740 --> 00:00:16,570
+
+bonjour On m'entends bien
+
+4
+00:00:16,570 --> 00:00:16,580
+bonjour On m'entends bien
+ 
+
+5
+00:00:16,580 --> 00:00:20,810
+bonjour On m'entends bien
+bonjour à tous
+
+6
+00:00:20,810 --> 00:00:20,820
+
+ 
+
+7
+00:00:20,820 --> 00:00:22,510
+
+à l'écran je vous mets un bout de code
+
+8
+00:00:22,510 --> 00:00:22,520
+à l'écran je vous mets un bout de code
+ 
+
+9
+00:00:22,520 --> 00:00:24,710
+à l'écran je vous mets un bout de code
+assez simple qu'on a déjà vu des
+
+10
+00:00:24,710 --> 00:00:24,720
+assez simple qu'on a déjà vu des
+ 
+
+11
+00:00:24,720 --> 00:00:25,910
+assez simple qu'on a déjà vu des
+milliards de fois sur le web dans les
+
+12
+00:00:25,910 --> 00:00:25,920
+milliards de fois sur le web dans les
+ 
+
+13
+00:00:25,920 --> 00:00:27,890
+milliards de fois sur le web dans les
+docks etc
+
+14
+00:00:27,890 --> 00:00:27,900
+docks etc
+ 
+
+15
+00:00:27,900 --> 00:00:30,349
+docks etc
+c'est du JS ça mord pas c'est pas très
+
+16
+00:00:30,349 --> 00:00:30,359
+c'est du JS ça mord pas c'est pas très
+ 
+
+17
+00:00:30,359 --> 00:00:32,630
+c'est du JS ça mord pas c'est pas très
+méchant on a du script tout en haut du
+
+18
+00:00:32,630 --> 00:00:32,640
+méchant on a du script tout en haut du
+ 
+
+19
+00:00:32,640 --> 00:00:33,770
+méchant on a du script tout en haut du
+Javascript si vous m'entendez pas
+
+20
+00:00:33,770 --> 00:00:33,780
+Javascript si vous m'entendez pas
+ 
+
+21
+00:00:33,780 --> 00:00:35,990
+Javascript si vous m'entendez pas
+n'hésitez pas à le dire on a un bout de
+
+22
+00:00:35,990 --> 00:00:36,000
+n'hésitez pas à le dire on a un bout de
+ 
+
+23
+00:00:36,000 --> 00:00:37,670
+n'hésitez pas à le dire on a un bout de
+JavaScript tout en haut qui utilise une
+
+24
+00:00:37,670 --> 00:00:37,680
+JavaScript tout en haut qui utilise une
+ 
+
+25
+00:00:37,680 --> 00:00:40,790
+JavaScript tout en haut qui utilise une
+librairie fake de fech de données une
+
+26
+00:00:40,790 --> 00:00:40,800
+librairie fake de fech de données une
+ 
+
+27
+00:00:40,800 --> 00:00:41,930
+librairie fake de fech de données une
+API quelconque c'est pas vraiment le
+
+28
+00:00:41,930 --> 00:00:41,940
+API quelconque c'est pas vraiment le
+ 
+
+29
+00:00:41,940 --> 00:00:43,610
+API quelconque c'est pas vraiment le
+problème aujourd'hui
+
+30
+00:00:43,610 --> 00:00:43,620
+problème aujourd'hui
+ 
+
+31
+00:00:43,620 --> 00:00:45,170
+problème aujourd'hui
+on retrouve le genre de partening qu'on
+
+32
+00:00:45,170 --> 00:00:45,180
+on retrouve le genre de partening qu'on
+ 
+
+33
+00:00:45,180 --> 00:00:46,910
+on retrouve le genre de partening qu'on
+a déjà vu des milliards de fois on a une
+
+34
+00:00:46,910 --> 00:00:46,920
+a déjà vu des milliards de fois on a une
+ 
+
+35
+00:00:46,920 --> 00:00:48,709
+a déjà vu des milliards de fois on a une
+variable data qui retourne le pélode de
+
+36
+00:00:48,709 --> 00:00:48,719
+variable data qui retourne le pélode de
+ 
+
+37
+00:00:48,719 --> 00:00:50,990
+variable data qui retourne le pélode de
+l'API une fois que c'est successful on a
+
+38
+00:00:50,990 --> 00:00:51,000
+l'API une fois que c'est successful on a
+ 
+
+39
+00:00:51,000 --> 00:00:52,010
+l'API une fois que c'est successful on a
+une erreur potentielle qui pourrait
+
+40
+00:00:52,010 --> 00:00:52,020
+une erreur potentielle qui pourrait
+ 
+
+41
+00:00:52,020 --> 00:00:53,690
+une erreur potentielle qui pourrait
+arriver donc avec un message pour par
+
+42
+00:00:53,690 --> 00:00:53,700
+arriver donc avec un message pour par
+ 
+
+43
+00:00:53,700 --> 00:00:55,910
+arriver donc avec un message pour par
+exemple une méthode de faitsch et un
+
+44
+00:00:55,910 --> 00:00:55,920
+exemple une méthode de faitsch et un
+ 
+
+45
+00:00:55,920 --> 00:00:56,990
+exemple une méthode de faitsch et un
+boulet qui nous dit si on est en train
+
+46
+00:00:56,990 --> 00:00:57,000
+boulet qui nous dit si on est en train
+ 
+
+47
+00:00:57,000 --> 00:01:00,410
+boulet qui nous dit si on est en train
+de récupérer le la donnée ou pas en
+
+48
+00:01:00,410 --> 00:01:00,420
+de récupérer le la donnée ou pas en
+ 
+
+49
+00:01:00,420 --> 00:01:02,869
+de récupérer le la donnée ou pas en
+dessous on a la partie template donc le
+
+50
+00:01:02,869 --> 00:01:02,879
+dessous on a la partie template donc le
+ 
+
+51
+00:01:02,879 --> 00:01:04,750
+dessous on a la partie template donc le
+JSX de rectangle finalement
+
+52
+00:01:04,750 --> 00:01:04,760
+JSX de rectangle finalement
+ 
+
+53
+00:01:04,760 --> 00:01:06,590
+JSX de rectangle finalement
+où on a les trois sections qui
+
+54
+00:01:06,590 --> 00:01:06,600
+où on a les trois sections qui
+ 
+
+55
+00:01:06,600 --> 00:01:07,969
+où on a les trois sections qui
+s'affichent en fonction de l'état
+
+56
+00:01:07,969 --> 00:01:07,979
+s'affichent en fonction de l'état
+ 
+
+57
+00:01:07,979 --> 00:01:10,730
+s'affichent en fonction de l'état
+d'avancer de la chronologie donc on a
+
+58
+00:01:10,730 --> 00:01:10,740
+d'avancer de la chronologie donc on a
+ 
+
+59
+00:01:10,740 --> 00:01:12,410
+d'avancer de la chronologie donc on a
+une première section qui s'affiche si
+
+60
+00:01:12,410 --> 00:01:12,420
+une première section qui s'affiche si
+ 
+
+61
+00:01:12,420 --> 00:01:13,609
+une première section qui s'affiche si
+jamais on est en train d'aller chercher
+
+62
+00:01:13,609 --> 00:01:13,619
+jamais on est en train d'aller chercher
+ 
+
+63
+00:01:13,619 --> 00:01:15,050
+jamais on est en train d'aller chercher
+la donnée donc le login est à trou
+
+64
+00:01:15,050 --> 00:01:15,060
+la donnée donc le login est à trou
+ 
+
+65
+00:01:15,060 --> 00:01:17,870
+la donnée donc le login est à trou
+finalement on a l'erreur qui s'affiche
+
+66
+00:01:17,870 --> 00:01:17,880
+finalement on a l'erreur qui s'affiche
+ 
+
+67
+00:01:17,880 --> 00:01:20,450
+finalement on a l'erreur qui s'affiche
+si enfin un écran un feedback d'ailleurs
+
+68
+00:01:20,450 --> 00:01:20,460
+si enfin un écran un feedback d'ailleurs
+ 
+
+69
+00:01:20,460 --> 00:01:21,649
+si enfin un écran un feedback d'ailleurs
+qui s'affiche un utilisateur si jamais
+
+70
+00:01:21,649 --> 00:01:21,659
+qui s'affiche un utilisateur si jamais
+ 
+
+71
+00:01:21,659 --> 00:01:23,630
+qui s'affiche un utilisateur si jamais
+il y a un souci sur la sur la requête et
+
+72
+00:01:23,630 --> 00:01:23,640
+il y a un souci sur la sur la requête et
+ 
+
+73
+00:01:23,640 --> 00:01:25,490
+il y a un souci sur la sur la requête et
+ensuite si on a si jamais on arrive à
+
+74
+00:01:25,490 --> 00:01:25,500
+ensuite si on a si jamais on arrive à
+ 
+
+75
+00:01:25,500 --> 00:01:27,830
+ensuite si on a si jamais on arrive à
+récupérer un pélo de data on itère sur
+
+76
+00:01:27,830 --> 00:01:27,840
+récupérer un pélo de data on itère sur
+ 
+
+77
+00:01:27,840 --> 00:01:29,690
+récupérer un pélo de data on itère sur
+la donnée là aussi c'est juste du fake
+
+78
+00:01:29,690 --> 00:01:29,700
+la donnée là aussi c'est juste du fake
+ 
+
+79
+00:01:29,700 --> 00:01:31,310
+la donnée là aussi c'est juste du fake
+c'est juste pour l'exemple c'est pas
+
+80
+00:01:31,310 --> 00:01:31,320
+c'est juste pour l'exemple c'est pas
+ 
+
+81
+00:01:31,320 --> 00:01:32,510
+c'est juste pour l'exemple c'est pas
+très important
+
+82
+00:01:32,510 --> 00:01:32,520
+très important
+ 
+
+83
+00:01:32,520 --> 00:01:33,649
+très important
+ce que j'aimerais que vous regardiez
+
+84
+00:01:33,649 --> 00:01:33,659
+ce que j'aimerais que vous regardiez
+ 
+
+85
+00:01:33,659 --> 00:01:35,990
+ce que j'aimerais que vous regardiez
+c'est ce composant là il a un problème
+
+86
+00:01:35,990 --> 00:01:36,000
+c'est ce composant là il a un problème
+ 
+
+87
+00:01:36,000 --> 00:01:38,450
+c'est ce composant là il a un problème
+fondamental d'implémentation
+
+88
+00:01:38,450 --> 00:01:38,460
+fondamental d'implémentation
+ 
+
+89
+00:01:38,460 --> 00:01:39,649
+fondamental d'implémentation
+prenez quelques secondes pour y
+
+90
+00:01:39,649 --> 00:01:39,659
+prenez quelques secondes pour y
+ 
+
+91
+00:01:39,659 --> 00:01:54,109
+prenez quelques secondes pour y
+réfléchir et j'ai rien juste après
+
+92
+00:01:54,109 --> 00:01:54,119
+
+ 
+
+93
+00:01:54,119 --> 00:01:56,870
+
+je sais pas si certains ont trouvé
+
+94
+00:01:56,870 --> 00:01:56,880
+je sais pas si certains ont trouvé
+ 
+
+95
+00:01:56,880 --> 00:01:58,670
+je sais pas si certains ont trouvé
+le problème que ça c'est que les trois
+
+96
+00:01:58,670 --> 00:01:58,680
+le problème que ça c'est que les trois
+ 
+
+97
+00:01:58,680 --> 00:02:01,190
+le problème que ça c'est que les trois
+sections qui sont affichées sont ne sont
+
+98
+00:02:01,190 --> 00:02:01,200
+sections qui sont affichées sont ne sont
+ 
+
+99
+00:02:01,200 --> 00:02:03,530
+sections qui sont affichées sont ne sont
+pas mutuellement exclusives il pourrait
+
+100
+00:02:03,530 --> 00:02:03,540
+pas mutuellement exclusives il pourrait
+ 
+
+101
+00:02:03,540 --> 00:02:06,350
+pas mutuellement exclusives il pourrait
+se passer à un moment le fait que on
+
+102
+00:02:06,350 --> 00:02:06,360
+se passer à un moment le fait que on
+ 
+
+103
+00:02:06,360 --> 00:02:07,310
+se passer à un moment le fait que on
+n'affiche plusieurs États en même temps
+
+104
+00:02:07,310 --> 00:02:07,320
+n'affiche plusieurs États en même temps
+ 
+
+105
+00:02:07,320 --> 00:02:08,930
+n'affiche plusieurs États en même temps
+sauf que l'application est pas faite
+
+106
+00:02:08,930 --> 00:02:08,940
+sauf que l'application est pas faite
+ 
+
+107
+00:02:08,940 --> 00:02:11,029
+sauf que l'application est pas faite
+pour ça le design c'est j'ai un écran de
+
+108
+00:02:11,029 --> 00:02:11,039
+pour ça le design c'est j'ai un écran de
+ 
+
+109
+00:02:11,039 --> 00:02:12,589
+pour ça le design c'est j'ai un écran de
+chargement j'ai un écran d'erreur j'ai
+
+110
+00:02:12,589 --> 00:02:12,599
+chargement j'ai un écran d'erreur j'ai
+ 
+
+111
+00:02:12,599 --> 00:02:14,030
+chargement j'ai un écran d'erreur j'ai
+un écran qui affiche la donnée mais pas
+
+112
+00:02:14,030 --> 00:02:14,040
+un écran qui affiche la donnée mais pas
+ 
+
+113
+00:02:14,040 --> 00:02:43,610
+un écran qui affiche la donnée mais pas
+deux ou trois en même temps
+
+114
+00:02:43,610 --> 00:02:43,620
+
+ 
+
+115
+00:02:43,620 --> 00:02:45,350
+
+même chose
+
+116
+00:02:45,350 --> 00:02:45,360
+même chose
+ 
+
+117
+00:02:45,360 --> 00:02:46,550
+même chose
+on affiche de la donnée au premier
+
+118
+00:02:46,550 --> 00:02:46,560
+on affiche de la donnée au premier
+ 
+
+119
+00:02:46,560 --> 00:02:49,369
+on affiche de la donnée au premier
+chargement super on reclique sur le City
+
+120
+00:02:49,369 --> 00:02:49,379
+chargement super on reclique sur le City
+ 
+
+121
+00:02:49,379 --> 00:02:50,390
+chargement super on reclique sur le City
+et pour aller chercher de la donnée sauf
+
+122
+00:02:50,390 --> 00:02:50,400
+et pour aller chercher de la donnée sauf
+ 
+
+123
+00:02:50,400 --> 00:02:51,229
+et pour aller chercher de la donnée sauf
+on passe sous un tunnel à ce moment-là
+
+124
+00:02:51,229 --> 00:02:51,239
+on passe sous un tunnel à ce moment-là
+ 
+
+125
+00:02:51,239 --> 00:02:52,970
+on passe sous un tunnel à ce moment-là
+la donnée n'arrive pas on a une erreur
+
+126
+00:02:52,970 --> 00:02:52,980
+la donnée n'arrive pas on a une erreur
+ 
+
+127
+00:02:52,980 --> 00:02:54,530
+la donnée n'arrive pas on a une erreur
+et on a deux écrans qui s'affichent en
+
+128
+00:02:54,530 --> 00:02:54,540
+et on a deux écrans qui s'affichent en
+ 
+
+129
+00:02:54,540 --> 00:02:56,990
+et on a deux écrans qui s'affichent en
+même temps
+
+130
+00:02:56,990 --> 00:02:57,000
+
+ 
+
+131
+00:02:57,000 --> 00:02:59,690
+
+comment on peut régler ce souci là par
+
+132
+00:02:59,690 --> 00:02:59,700
+comment on peut régler ce souci là par
+ 
+
+133
+00:02:59,700 --> 00:03:01,009
+comment on peut régler ce souci là par
+un pattern qu'on voit là aussi des
+
+134
+00:03:01,009 --> 00:03:01,019
+un pattern qu'on voit là aussi des
+ 
+
+135
+00:03:01,019 --> 00:03:03,470
+un pattern qu'on voit là aussi des
+milliards de fois sur Internet
+
+136
+00:03:03,470 --> 00:03:03,480
+milliards de fois sur Internet
+ 
+
+137
+00:03:03,480 --> 00:03:06,790
+milliards de fois sur Internet
+en rajoutant une cascade de de
+
+138
+00:03:06,790 --> 00:03:06,800
+en rajoutant une cascade de de
+ 
+
+139
+00:03:06,800 --> 00:03:09,710
+en rajoutant une cascade de de
+conditions à chaque section donc le
+
+140
+00:03:09,710 --> 00:03:09,720
+conditions à chaque section donc le
+ 
+
+141
+00:03:09,720 --> 00:03:12,350
+conditions à chaque section donc le
+premier condition reste à même le digne
+
+142
+00:03:12,350 --> 00:03:12,360
+premier condition reste à même le digne
+ 
+
+143
+00:03:12,360 --> 00:03:13,610
+premier condition reste à même le digne
+est à trous en affiche le chargement le
+
+144
+00:03:13,610 --> 00:03:13,620
+est à trous en affiche le chargement le
+ 
+
+145
+00:03:13,620 --> 00:03:16,190
+est à trous en affiche le chargement le
+son n'affiche rien la suivante du coup
+
+146
+00:03:16,190 --> 00:03:16,200
+son n'affiche rien la suivante du coup
+ 
+
+147
+00:03:16,200 --> 00:03:17,690
+son n'affiche rien la suivante du coup
+doit se baser aussi sur le logding donc
+
+148
+00:03:17,690 --> 00:03:17,700
+doit se baser aussi sur le logding donc
+ 
+
+149
+00:03:17,700 --> 00:03:19,790
+doit se baser aussi sur le logding donc
+si jamais on a une erreur au fait de la
+
+150
+00:03:19,790 --> 00:03:19,800
+si jamais on a une erreur au fait de la
+ 
+
+151
+00:03:19,800 --> 00:03:21,710
+si jamais on a une erreur au fait de la
+donnée et que on n'est pas en train de
+
+152
+00:03:21,710 --> 00:03:21,720
+donnée et que on n'est pas en train de
+ 
+
+153
+00:03:21,720 --> 00:03:23,270
+donnée et que on n'est pas en train de
+charger quelque chose à ce moment-là on
+
+154
+00:03:23,270 --> 00:03:23,280
+charger quelque chose à ce moment-là on
+ 
+
+155
+00:03:23,280 --> 00:03:25,190
+charger quelque chose à ce moment-là on
+affiche l'écran d'erreur donc pas de
+
+156
+00:03:25,190 --> 00:03:25,200
+affiche l'écran d'erreur donc pas de
+ 
+
+157
+00:03:25,200 --> 00:03:26,930
+affiche l'écran d'erreur donc pas de
+superposition et rebelote pour le
+
+158
+00:03:26,930 --> 00:03:26,940
+superposition et rebelote pour le
+ 
+
+159
+00:03:26,940 --> 00:03:29,270
+superposition et rebelote pour le
+troisième une nouvelle cascade si on
+
+160
+00:03:29,270 --> 00:03:29,280
+troisième une nouvelle cascade si on
+ 
+
+161
+00:03:29,280 --> 00:03:30,470
+troisième une nouvelle cascade si on
+n'est pas en train de charger si on n'a
+
+162
+00:03:30,470 --> 00:03:30,480
+n'est pas en train de charger si on n'a
+ 
+
+163
+00:03:30,480 --> 00:03:32,030
+n'est pas en train de charger si on n'a
+pas d'erreur mais qu'on a de la data on
+
+164
+00:03:32,030 --> 00:03:32,040
+pas d'erreur mais qu'on a de la data on
+ 
+
+165
+00:03:32,040 --> 00:03:33,890
+pas d'erreur mais qu'on a de la data on
+affiche le listing
+
+166
+00:03:33,890 --> 00:03:33,900
+affiche le listing
+ 
+
+167
+00:03:33,900 --> 00:03:35,869
+affiche le listing
+ça marche mais c'est pas fou parce que
+
+168
+00:03:35,869 --> 00:03:35,879
+ça marche mais c'est pas fou parce que
+ 
+
+169
+00:03:35,879 --> 00:03:39,110
+ça marche mais c'est pas fou parce que
+ça rajoute encore des problématiques
+
+170
+00:03:39,110 --> 00:03:39,120
+ça rajoute encore des problématiques
+ 
+
+171
+00:03:39,120 --> 00:03:40,729
+ça rajoute encore des problématiques
+la première c'est la lisibilité du code
+
+172
+00:03:40,729 --> 00:03:40,739
+la première c'est la lisibilité du code
+ 
+
+173
+00:03:40,739 --> 00:03:43,250
+la première c'est la lisibilité du code
+là on a un composant qui est simple il a
+
+174
+00:03:43,250 --> 00:03:43,260
+là on a un composant qui est simple il a
+ 
+
+175
+00:03:43,260 --> 00:03:45,589
+là on a un composant qui est simple il a
+26 lignes c'est pas fou on arrive à
+
+176
+00:03:45,589 --> 00:03:45,599
+26 lignes c'est pas fou on arrive à
+ 
+
+177
+00:03:45,599 --> 00:03:47,570
+26 lignes c'est pas fou on arrive à
+relativement facilement se s'imprégner
+
+178
+00:03:47,570 --> 00:03:47,580
+relativement facilement se s'imprégner
+ 
+
+179
+00:03:47,580 --> 00:03:49,670
+relativement facilement se s'imprégner
+de ça mais un newcomer qui arrive dans
+
+180
+00:03:49,670 --> 00:03:49,680
+de ça mais un newcomer qui arrive dans
+ 
+
+181
+00:03:49,680 --> 00:03:51,770
+de ça mais un newcomer qui arrive dans
+l'équipe où nous-même deux ans après si
+
+182
+00:03:51,770 --> 00:03:51,780
+l'équipe où nous-même deux ans après si
+ 
+
+183
+00:03:51,780 --> 00:03:52,670
+l'équipe où nous-même deux ans après si
+on a un composant qui est un peu plus
+
+184
+00:03:52,670 --> 00:03:52,680
+on a un composant qui est un peu plus
+ 
+
+185
+00:03:52,680 --> 00:03:53,690
+on a un composant qui est un peu plus
+grand on avait des conditions un peu
+
+186
+00:03:53,690 --> 00:03:53,700
+grand on avait des conditions un peu
+ 
+
+187
+00:03:53,700 --> 00:03:55,610
+grand on avait des conditions un peu
+plus compliquées il y a des chances
+
+188
+00:03:55,610 --> 00:03:55,620
+plus compliquées il y a des chances
+ 
+
+189
+00:03:55,620 --> 00:03:56,630
+plus compliquées il y a des chances
+qu'on passe à côté de quelque chose et
+
+190
+00:03:56,630 --> 00:03:56,640
+qu'on passe à côté de quelque chose et
+ 
+
+191
+00:03:56,640 --> 00:03:58,009
+qu'on passe à côté de quelque chose et
+qu'on fasse un bug dans l'implémentation
+
+192
+00:03:58,009 --> 00:03:58,019
+qu'on fasse un bug dans l'implémentation
+ 
+
+193
+00:03:58,019 --> 00:04:00,350
+qu'on fasse un bug dans l'implémentation
+les doubles négations des ou des
+
+194
+00:04:00,350 --> 00:04:00,360
+les doubles négations des ou des
+ 
+
+195
+00:04:00,360 --> 00:04:02,809
+les doubles négations des ou des
+logiques dans un pays c'est pas c'est
+
+196
+00:04:02,809 --> 00:04:02,819
+logiques dans un pays c'est pas c'est
+ 
+
+197
+00:04:02,819 --> 00:04:04,610
+logiques dans un pays c'est pas c'est
+pas génial ça se calme pas
+
+198
+00:04:04,610 --> 00:04:04,620
+pas génial ça se calme pas
+ 
+
+199
+00:04:04,620 --> 00:04:07,490
+pas génial ça se calme pas
+le deuxième souci c'est que on contourne
+
+200
+00:04:07,490 --> 00:04:07,500
+le deuxième souci c'est que on contourne
+ 
+
+201
+00:04:07,500 --> 00:04:10,309
+le deuxième souci c'est que on contourne
+la librairie de fetch elle nous offre
+
+202
+00:04:10,309 --> 00:04:10,319
+la librairie de fetch elle nous offre
+ 
+
+203
+00:04:10,319 --> 00:04:11,690
+la librairie de fetch elle nous offre
+pas suffisamment d'informations pour
+
+204
+00:04:11,690 --> 00:04:11,700
+pas suffisamment d'informations pour
+ 
+
+205
+00:04:11,700 --> 00:04:13,070
+pas suffisamment d'informations pour
+être capable de gérer ce genre de cas là
+
+206
+00:04:13,070 --> 00:04:13,080
+être capable de gérer ce genre de cas là
+ 
+
+207
+00:04:13,080 --> 00:04:14,750
+être capable de gérer ce genre de cas là
+un flèche de données et un fait de
+
+208
+00:04:14,750 --> 00:04:14,760
+un flèche de données et un fait de
+ 
+
+209
+00:04:14,760 --> 00:04:16,490
+un flèche de données et un fait de
+successifs pour continuer à rajouter la
+
+210
+00:04:16,490 --> 00:04:16,500
+successifs pour continuer à rajouter la
+ 
+
+211
+00:04:16,500 --> 00:04:19,069
+successifs pour continuer à rajouter la
+donnée au dessus de ça donc on se met à
+
+212
+00:04:19,069 --> 00:04:19,079
+donnée au dessus de ça donc on se met à
+ 
+
+213
+00:04:19,079 --> 00:04:20,390
+donnée au dessus de ça donc on se met à
+rajouter des conditions un peu un peu
+
+214
+00:04:20,390 --> 00:04:20,400
+rajouter des conditions un peu un peu
+ 
+
+215
+00:04:20,400 --> 00:04:22,250
+rajouter des conditions un peu un peu
+comme ça pour pour essayer de gérer la
+
+216
+00:04:22,250 --> 00:04:22,260
+comme ça pour pour essayer de gérer la
+ 
+
+217
+00:04:22,260 --> 00:04:23,810
+comme ça pour pour essayer de gérer la
+chose
+
+218
+00:04:23,810 --> 00:04:23,820
+chose
+ 
+
+219
+00:04:23,820 --> 00:04:26,270
+chose
+troisième problème on a un lic de
+
+220
+00:04:26,270 --> 00:04:26,280
+troisième problème on a un lic de
+ 
+
+221
+00:04:26,280 --> 00:04:28,790
+troisième problème on a un lic de
+l'implémentation bas niveau dans le
+
+222
+00:04:28,790 --> 00:04:28,800
+l'implémentation bas niveau dans le
+ 
+
+223
+00:04:28,800 --> 00:04:31,909
+l'implémentation bas niveau dans le
+template un template une vue c'est
+
+224
+00:04:31,909 --> 00:04:31,919
+template un template une vue c'est
+ 
+
+225
+00:04:31,919 --> 00:04:33,350
+template un template une vue c'est
+quelque chose qui est censé représenter
+
+226
+00:04:33,350 --> 00:04:33,360
+quelque chose qui est censé représenter
+ 
+
+227
+00:04:33,360 --> 00:04:35,510
+quelque chose qui est censé représenter
+une donnée mais on n'est pas censé voir
+
+228
+00:04:35,510 --> 00:04:35,520
+une donnée mais on n'est pas censé voir
+ 
+
+229
+00:04:35,520 --> 00:04:36,409
+une donnée mais on n'est pas censé voir
+des détails d'implémentation à
+
+230
+00:04:36,409 --> 00:04:36,419
+des détails d'implémentation à
+ 
+
+231
+00:04:36,419 --> 00:04:37,730
+des détails d'implémentation à
+l'intérieur comment on fait la donnée
+
+232
+00:04:37,730 --> 00:04:37,740
+l'intérieur comment on fait la donnée
+ 
+
+233
+00:04:37,740 --> 00:04:39,050
+l'intérieur comment on fait la donnée
+comment on gère des erreurs comment on
+
+234
+00:04:39,050 --> 00:04:39,060
+comment on gère des erreurs comment on
+ 
+
+235
+00:04:39,060 --> 00:04:42,290
+comment on gère des erreurs comment on
+gère le cash on s'en fout clairement la
+
+236
+00:04:42,290 --> 00:04:42,300
+gère le cash on s'en fout clairement la
+ 
+
+237
+00:04:42,300 --> 00:04:43,310
+gère le cash on s'en fout clairement la
+vue elle est juste là pour afficher la
+
+238
+00:04:43,310 --> 00:04:43,320
+vue elle est juste là pour afficher la
+ 
+
+239
+00:04:43,320 --> 00:04:45,170
+vue elle est juste là pour afficher la
+donnée donc là on a un couplage fort
+
+240
+00:04:45,170 --> 00:04:45,180
+donnée donc là on a un couplage fort
+ 
+
+241
+00:04:45,180 --> 00:04:47,930
+donnée donc là on a un couplage fort
+entre l'implémentation et la vue à
+
+242
+00:04:47,930 --> 00:04:47,940
+entre l'implémentation et la vue à
+ 
+
+243
+00:04:47,940 --> 00:04:50,270
+entre l'implémentation et la vue à
+l'utilisateur final ça se calme pas là
+
+244
+00:04:50,270 --> 00:04:50,280
+l'utilisateur final ça se calme pas là
+ 
+
+245
+00:04:50,280 --> 00:04:51,110
+l'utilisateur final ça se calme pas là
+maintenant ça va être assez
+
+246
+00:04:51,110 --> 00:04:51,120
+maintenant ça va être assez
+ 
+
+247
+00:04:51,120 --> 00:04:53,629
+maintenant ça va être assez
+problématique dans le temps c'est pas
+
+248
+00:04:53,629 --> 00:04:53,639
+problématique dans le temps c'est pas
+ 
+
+249
+00:04:53,639 --> 00:04:57,350
+problématique dans le temps c'est pas
+fou et enfin là on a un cas très naïf
+
+250
+00:04:57,350 --> 00:04:57,360
+fou et enfin là on a un cas très naïf
+ 
+
+251
+00:04:57,360 --> 00:04:59,090
+fou et enfin là on a un cas très naïf
+si je charge une première fois mes
+
+252
+00:04:59,090 --> 00:04:59,100
+si je charge une première fois mes
+ 
+
+253
+00:04:59,100 --> 00:05:00,830
+si je charge une première fois mes
+données que je clique sur le site pour
+
+254
+00:05:00,830 --> 00:05:00,840
+données que je clique sur le site pour
+ 
+
+255
+00:05:00,840 --> 00:05:01,909
+données que je clique sur le site pour
+aller faire chier les données
+
+256
+00:05:01,909 --> 00:05:01,919
+aller faire chier les données
+ 
+
+257
+00:05:01,919 --> 00:05:04,310
+aller faire chier les données
+successives je repasse dans le
+
+258
+00:05:04,310 --> 00:05:04,320
+successives je repasse dans le
+ 
+
+259
+00:05:04,320 --> 00:05:06,590
+successives je repasse dans le
+chargement la liste disparaît
+
+260
+00:05:06,590 --> 00:05:06,600
+chargement la liste disparaît
+ 
+
+261
+00:05:06,600 --> 00:05:08,030
+chargement la liste disparaît
+complètement j'affiche un écran de
+
+262
+00:05:08,030 --> 00:05:08,040
+complètement j'affiche un écran de
+ 
+
+263
+00:05:08,040 --> 00:05:09,770
+complètement j'affiche un écran de
+chargement à la place et ça revient j'ai
+
+264
+00:05:09,770 --> 00:05:09,780
+chargement à la place et ça revient j'ai
+ 
+
+265
+00:05:09,780 --> 00:05:11,510
+chargement à la place et ça revient j'ai
+un flash comme ça de d'écran qui est pas
+
+266
+00:05:11,510 --> 00:05:11,520
+un flash comme ça de d'écran qui est pas
+ 
+
+267
+00:05:11,520 --> 00:05:13,490
+un flash comme ça de d'écran qui est pas
+idéal en terme de X
+
+268
+00:05:13,490 --> 00:05:13,500
+idéal en terme de X
+ 
+
+269
+00:05:13,500 --> 00:05:15,110
+idéal en terme de X
+donc plus on va essayer de complexifier
+
+270
+00:05:15,110 --> 00:05:15,120
+donc plus on va essayer de complexifier
+ 
+
+271
+00:05:15,120 --> 00:05:17,090
+donc plus on va essayer de complexifier
+le X pour avoir un
+
+272
+00:05:17,090 --> 00:05:17,100
+le X pour avoir un
+ 
+
+273
+00:05:17,100 --> 00:05:18,830
+le X pour avoir un
+une expérience smooth on va dire plus
+
+274
+00:05:18,830 --> 00:05:18,840
+une expérience smooth on va dire plus
+ 
+
+275
+00:05:18,840 --> 00:05:20,510
+une expérience smooth on va dire plus
+les conditions vont être compliquées
+
+276
+00:05:20,510 --> 00:05:20,520
+les conditions vont être compliquées
+ 
+
+277
+00:05:20,520 --> 00:05:22,189
+les conditions vont être compliquées
+parce qu'on va devoir dans la troisième
+
+278
+00:05:22,189 --> 00:05:22,199
+parce qu'on va devoir dans la troisième
+ 
+
+279
+00:05:22,199 --> 00:05:23,689
+parce qu'on va devoir dans la troisième
+section gérer encore d'autres conditions
+
+280
+00:05:23,689 --> 00:05:23,699
+section gérer encore d'autres conditions
+ 
+
+281
+00:05:23,699 --> 00:05:24,770
+section gérer encore d'autres conditions
+qui vont faire qu'on va afficher un
+
+282
+00:05:24,770 --> 00:05:24,780
+qui vont faire qu'on va afficher un
+ 
+
+283
+00:05:24,780 --> 00:05:28,610
+qui vont faire qu'on va afficher un
+autre spinner à Skoda ou peu importe
+
+284
+00:05:28,610 --> 00:05:28,620
+
+ 
+
+285
+00:05:28,620 --> 00:05:30,290
+
+donc en étant très naïf encore une fois
+
+286
+00:05:30,290 --> 00:05:30,300
+donc en étant très naïf encore une fois
+ 
+
+287
+00:05:30,300 --> 00:05:31,969
+donc en étant très naïf encore une fois
+là je fais exprès de faire du code un
+
+288
+00:05:31,969 --> 00:05:31,979
+là je fais exprès de faire du code un
+ 
+
+289
+00:05:31,979 --> 00:05:34,010
+là je fais exprès de faire du code un
+peu crappy mais on se dit bah ok il faut
+
+290
+00:05:34,010 --> 00:05:34,020
+peu crappy mais on se dit bah ok il faut
+ 
+
+291
+00:05:34,020 --> 00:05:35,150
+peu crappy mais on se dit bah ok il faut
+qu'on gère finalement le premier
+
+292
+00:05:35,150 --> 00:05:35,160
+qu'on gère finalement le premier
+ 
+
+293
+00:05:35,160 --> 00:05:36,170
+qu'on gère finalement le premier
+chargement c'est lui qui est important
+
+294
+00:05:36,170 --> 00:05:36,180
+chargement c'est lui qui est important
+ 
+
+295
+00:05:36,180 --> 00:05:37,310
+chargement c'est lui qui est important
+pour afficher le premier écran de
+
+296
+00:05:37,310 --> 00:05:37,320
+pour afficher le premier écran de
+ 
+
+297
+00:05:37,320 --> 00:05:39,050
+pour afficher le premier écran de
+chargement les chargements successifs on
+
+298
+00:05:39,050 --> 00:05:39,060
+chargement les chargements successifs on
+ 
+
+299
+00:05:39,060 --> 00:05:40,670
+chargement les chargements successifs on
+va vouloir garder la liste affichée à
+
+300
+00:05:40,670 --> 00:05:40,680
+va vouloir garder la liste affichée à
+ 
+
+301
+00:05:40,680 --> 00:05:44,510
+va vouloir garder la liste affichée à
+l'écran et populer la liste juste en
+
+302
+00:05:44,510 --> 00:05:44,520
+l'écran et populer la liste juste en
+ 
+
+303
+00:05:44,520 --> 00:05:46,249
+l'écran et populer la liste juste en
+dessous donc on rajoute un boulet pour
+
+304
+00:05:46,249 --> 00:05:46,259
+dessous donc on rajoute un boulet pour
+ 
+
+305
+00:05:46,259 --> 00:05:48,890
+dessous donc on rajoute un boulet pour
+savoir si c'est le premier fait ou pas
+
+306
+00:05:48,890 --> 00:05:48,900
+savoir si c'est le premier fait ou pas
+ 
+
+307
+00:05:48,900 --> 00:05:50,270
+savoir si c'est le premier fait ou pas
+on l'utilise dans la première section
+
+308
+00:05:50,270 --> 00:05:50,280
+on l'utilise dans la première section
+ 
+
+309
+00:05:50,280 --> 00:05:52,550
+on l'utilise dans la première section
+encore une cascade
+
+310
+00:05:52,550 --> 00:05:52,560
+encore une cascade
+ 
+
+311
+00:05:52,560 --> 00:05:53,870
+encore une cascade
+on utilise une nouvelle méthode de
+
+312
+00:05:53,870 --> 00:05:53,880
+on utilise une nouvelle méthode de
+ 
+
+313
+00:05:53,880 --> 00:05:55,490
+on utilise une nouvelle méthode de
+faitsch qui va appeler la première et
+
+314
+00:05:55,490 --> 00:05:55,500
+faitsch qui va appeler la première et
+ 
+
+315
+00:05:55,500 --> 00:05:57,110
+faitsch qui va appeler la première et
+qui va passer le premier boulet à Falls
+
+316
+00:05:57,110 --> 00:05:57,120
+qui va passer le premier boulet à Falls
+ 
+
+317
+00:05:57,120 --> 00:06:00,170
+qui va passer le premier boulet à Falls
+bref pas idéal c'est sale ça se
+
+318
+00:06:00,170 --> 00:06:00,180
+bref pas idéal c'est sale ça se
+ 
+
+319
+00:06:00,180 --> 00:06:01,430
+bref pas idéal c'est sale ça se
+maintient pas bien dans le temps et
+
+320
+00:06:01,430 --> 00:06:01,440
+maintient pas bien dans le temps et
+ 
+
+321
+00:06:01,440 --> 00:06:02,870
+maintient pas bien dans le temps et
+encore une fois on lique encore plus de
+
+322
+00:06:02,870 --> 00:06:02,880
+encore une fois on lique encore plus de
+ 
+
+323
+00:06:02,880 --> 00:06:04,189
+encore une fois on lique encore plus de
+l'implémentation parce qu'on doit gérer
+
+324
+00:06:04,189 --> 00:06:04,199
+l'implémentation parce qu'on doit gérer
+ 
+
+325
+00:06:04,199 --> 00:06:09,890
+l'implémentation parce qu'on doit gérer
+des cas spécifiques dans le template
+
+326
+00:06:09,890 --> 00:06:09,900
+
+ 
+
+327
+00:06:09,900 --> 00:06:12,830
+
+comment on règle ça c'est relativement
+
+328
+00:06:12,830 --> 00:06:12,840
+comment on règle ça c'est relativement
+ 
+
+329
+00:06:12,840 --> 00:06:15,230
+comment on règle ça c'est relativement
+simple à expliquer si la problématique
+
+330
+00:06:15,230 --> 00:06:15,240
+simple à expliquer si la problématique
+ 
+
+331
+00:06:15,240 --> 00:06:17,390
+simple à expliquer si la problématique
+c'est leak de l'implémentation pour
+
+332
+00:06:17,390 --> 00:06:17,400
+c'est leak de l'implémentation pour
+ 
+
+333
+00:06:17,400 --> 00:06:19,189
+c'est leak de l'implémentation pour
+simplifier la lisibilité la maintenance
+
+334
+00:06:19,189 --> 00:06:19,199
+simplifier la lisibilité la maintenance
+ 
+
+335
+00:06:19,199 --> 00:06:21,050
+simplifier la lisibilité la maintenance
+etc bah il y a juste à pas mettre
+
+336
+00:06:21,050 --> 00:06:21,060
+etc bah il y a juste à pas mettre
+ 
+
+337
+00:06:21,060 --> 00:06:22,430
+etc bah il y a juste à pas mettre
+l'implémentation donc tempête mais c'est
+
+338
+00:06:22,430 --> 00:06:22,440
+l'implémentation donc tempête mais c'est
+ 
+
+339
+00:06:22,440 --> 00:06:25,370
+l'implémentation donc tempête mais c'est
+réglé donc on revient au fondamentaux un
+
+340
+00:06:25,370 --> 00:06:25,380
+réglé donc on revient au fondamentaux un
+ 
+
+341
+00:06:25,380 --> 00:06:27,050
+réglé donc on revient au fondamentaux un
+peu de quand les libraires de composants
+
+342
+00:06:27,050 --> 00:06:27,060
+peu de quand les libraires de composants
+ 
+
+343
+00:06:27,060 --> 00:06:29,570
+peu de quand les libraires de composants
+sont arrivés sur le sur le marché le mot
+
+344
+00:06:29,570 --> 00:06:29,580
+sont arrivés sur le sur le marché le mot
+ 
+
+345
+00:06:29,580 --> 00:06:31,090
+sont arrivés sur le sur le marché le mot
+clé c'était déclaratif
+
+346
+00:06:31,090 --> 00:06:31,100
+clé c'était déclaratif
+ 
+
+347
+00:06:31,100 --> 00:06:34,189
+clé c'était déclaratif
+donc on veut déclarer une intention et
+
+348
+00:06:34,189 --> 00:06:34,199
+donc on veut déclarer une intention et
+ 
+
+349
+00:06:34,199 --> 00:06:36,050
+donc on veut déclarer une intention et
+surtout pas ce qu'on fait sous le capot
+
+350
+00:06:36,050 --> 00:06:36,060
+surtout pas ce qu'on fait sous le capot
+ 
+
+351
+00:06:36,060 --> 00:06:37,790
+surtout pas ce qu'on fait sous le capot
+donc typiquement on pourrait passer de
+
+352
+00:06:37,790 --> 00:06:37,800
+donc typiquement on pourrait passer de
+ 
+
+353
+00:06:37,800 --> 00:06:38,930
+donc typiquement on pourrait passer de
+du template qu'on a au dessus qu'on
+
+354
+00:06:38,930 --> 00:06:38,940
+du template qu'on a au dessus qu'on
+ 
+
+355
+00:06:38,940 --> 00:06:40,670
+du template qu'on a au dessus qu'on
+avait tout à l'heure celui qui est juste
+
+356
+00:06:40,670 --> 00:06:40,680
+avait tout à l'heure celui qui est juste
+ 
+
+357
+00:06:40,680 --> 00:06:42,950
+avait tout à l'heure celui qui est juste
+en dessous où on ne fait que dire ok moi
+
+358
+00:06:42,950 --> 00:06:42,960
+en dessous où on ne fait que dire ok moi
+ 
+
+359
+00:06:42,960 --> 00:06:44,270
+en dessous où on ne fait que dire ok moi
+je veux afficher une section si je suis
+
+360
+00:06:44,270 --> 00:06:44,280
+je veux afficher une section si je suis
+ 
+
+361
+00:06:44,280 --> 00:06:45,830
+je veux afficher une section si je suis
+dans le premier chargement je me fiche
+
+362
+00:06:45,830 --> 00:06:45,840
+dans le premier chargement je me fiche
+ 
+
+363
+00:06:45,840 --> 00:06:47,210
+dans le premier chargement je me fiche
+complètement de l'implémentation vers
+
+364
+00:06:47,210 --> 00:06:47,220
+complètement de l'implémentation vers
+ 
+
+365
+00:06:47,220 --> 00:06:49,249
+complètement de l'implémentation vers
+l'arrière tu me renvoies un boulet si
+
+366
+00:06:49,249 --> 00:06:49,259
+l'arrière tu me renvoies un boulet si
+ 
+
+367
+00:06:49,259 --> 00:06:50,450
+l'arrière tu me renvoies un boulet si
+c'est le cas
+
+368
+00:06:50,450 --> 00:06:50,460
+c'est le cas
+ 
+
+369
+00:06:50,460 --> 00:06:51,890
+c'est le cas
+pareil pour le deuxième si jamais j'ai
+
+370
+00:06:51,890 --> 00:06:51,900
+pareil pour le deuxième si jamais j'ai
+ 
+
+371
+00:06:51,900 --> 00:06:53,210
+pareil pour le deuxième si jamais j'ai
+une erreur je vais m'afficher si jamais
+
+372
+00:06:53,210 --> 00:06:53,220
+une erreur je vais m'afficher si jamais
+ 
+
+373
+00:06:53,220 --> 00:06:54,409
+une erreur je vais m'afficher si jamais
+j'ai de la donnée à fichier je l'affiche
+
+374
+00:06:54,409 --> 00:06:54,419
+j'ai de la donnée à fichier je l'affiche
+ 
+
+375
+00:06:54,419 --> 00:06:56,150
+j'ai de la donnée à fichier je l'affiche
+aussi et le City là aussi c'est
+
+376
+00:06:56,150 --> 00:06:56,160
+aussi et le City là aussi c'est
+ 
+
+377
+00:06:56,160 --> 00:06:57,290
+aussi et le City là aussi c'est
+important j'ai mis plus à la fin parce
+
+378
+00:06:57,290 --> 00:06:57,300
+important j'ai mis plus à la fin parce
+ 
+
+379
+00:06:57,300 --> 00:06:59,629
+important j'ai mis plus à la fin parce
+que c'est c'est un détail qui qui est
+
+380
+00:06:59,629 --> 00:06:59,639
+que c'est c'est un détail qui qui est
+ 
+
+381
+00:06:59,639 --> 00:07:02,270
+que c'est c'est un détail qui qui est
+pas anodin on va demander à quelqu'un
+
+382
+00:07:02,270 --> 00:07:02,280
+pas anodin on va demander à quelqu'un
+ 
+
+383
+00:07:02,280 --> 00:07:03,710
+pas anodin on va demander à quelqu'un
+quelque part de chez la donnée mais
+
+384
+00:07:03,710 --> 00:07:03,720
+quelque part de chez la donnée mais
+ 
+
+385
+00:07:03,720 --> 00:07:04,610
+quelque part de chez la donnée mais
+c'est pas nous qui allons faire c'est
+
+386
+00:07:04,610 --> 00:07:04,620
+c'est pas nous qui allons faire c'est
+ 
+
+387
+00:07:04,620 --> 00:07:05,870
+c'est pas nous qui allons faire c'est
+pas la vue qui va qui va avoir la main
+
+388
+00:07:05,870 --> 00:07:05,880
+pas la vue qui va qui va avoir la main
+ 
+
+389
+00:07:05,880 --> 00:07:09,290
+pas la vue qui va qui va avoir la main
+dessus
+
+390
+00:07:09,290 --> 00:07:09,300
+
+ 
+
+391
+00:07:09,300 --> 00:07:11,270
+
+pour faire ça
+
+392
+00:07:11,270 --> 00:07:11,280
+pour faire ça
+ 
+
+393
+00:07:11,280 --> 00:07:13,850
+pour faire ça
+il suffit avec des gros guillemets de se
+
+394
+00:07:13,850 --> 00:07:13,860
+il suffit avec des gros guillemets de se
+ 
+
+395
+00:07:13,860 --> 00:07:16,249
+il suffit avec des gros guillemets de se
+baser sur le comportement il faut
+
+396
+00:07:16,249 --> 00:07:16,259
+baser sur le comportement il faut
+ 
+
+397
+00:07:16,259 --> 00:07:17,450
+baser sur le comportement il faut
+surtout pas commencer quand on
+
+398
+00:07:17,450 --> 00:07:17,460
+surtout pas commencer quand on
+ 
+
+399
+00:07:17,460 --> 00:07:19,309
+surtout pas commencer quand on
+implémente une future un produit ou peu
+
+400
+00:07:19,309 --> 00:07:19,319
+implémente une future un produit ou peu
+ 
+
+401
+00:07:19,319 --> 00:07:20,570
+implémente une future un produit ou peu
+importe il faut surtout pas commencer à
+
+402
+00:07:20,570 --> 00:07:20,580
+importe il faut surtout pas commencer à
+ 
+
+403
+00:07:20,580 --> 00:07:22,809
+importe il faut surtout pas commencer à
+implémenter le code direct
+
+404
+00:07:22,809 --> 00:07:22,819
+implémenter le code direct
+ 
+
+405
+00:07:22,819 --> 00:07:24,650
+implémenter le code direct
+ce qui est important c'est le
+
+406
+00:07:24,650 --> 00:07:24,660
+ce qui est important c'est le
+ 
+
+407
+00:07:24,660 --> 00:07:26,330
+ce qui est important c'est le
+comportement de l'application c'est le
+
+408
+00:07:26,330 --> 00:07:26,340
+comportement de l'application c'est le
+ 
+
+409
+00:07:26,340 --> 00:07:30,050
+comportement de l'application c'est le
+design x produit et du coup par la même
+
+410
+00:07:30,050 --> 00:07:30,060
+design x produit et du coup par la même
+ 
+
+411
+00:07:30,060 --> 00:07:32,210
+design x produit et du coup par la même
+occasion éviter de l'implémentation le
+
+412
+00:07:32,210 --> 00:07:32,220
+occasion éviter de l'implémentation le
+ 
+
+413
+00:07:32,220 --> 00:07:33,290
+occasion éviter de l'implémentation le
+livre de l'implémentation dans le
+
+414
+00:07:33,290 --> 00:07:33,300
+livre de l'implémentation dans le
+ 
+
+415
+00:07:33,300 --> 00:07:36,770
+livre de l'implémentation dans le
+template
+
+416
+00:07:36,770 --> 00:07:36,780
+
+ 
+
+417
+00:07:36,780 --> 00:07:37,790
+
+pour faire ça il y a un outil qui est
+
+418
+00:07:37,790 --> 00:07:37,800
+pour faire ça il y a un outil qui est
+ 
+
+419
+00:07:37,800 --> 00:07:38,629
+pour faire ça il y a un outil qui est
+simple il y a plein de façons de faire
+
+420
+00:07:38,629 --> 00:07:38,639
+simple il y a plein de façons de faire
+ 
+
+421
+00:07:38,639 --> 00:07:39,950
+simple il y a plein de façons de faire
+mais moi j'utilise un outil qui
+
+422
+00:07:39,950 --> 00:07:39,960
+mais moi j'utilise un outil qui
+ 
+
+423
+00:07:39,960 --> 00:07:41,510
+mais moi j'utilise un outil qui
+s'appelle les 7 machines c'est pour ça
+
+424
+00:07:41,510 --> 00:07:41,520
+s'appelle les 7 machines c'est pour ça
+ 
+
+425
+00:07:41,520 --> 00:07:43,510
+s'appelle les 7 machines c'est pour ça
+que vous allez aujourd'hui
+
+426
+00:07:43,510 --> 00:07:43,520
+que vous allez aujourd'hui
+ 
+
+427
+00:07:43,520 --> 00:07:46,010
+que vous allez aujourd'hui
+une cette machine ça ressemble à ça on a
+
+428
+00:07:46,010 --> 00:07:46,020
+une cette machine ça ressemble à ça on a
+ 
+
+429
+00:07:46,020 --> 00:07:48,409
+une cette machine ça ressemble à ça on a
+une machine qui a un nom de base ça
+
+430
+00:07:48,409 --> 00:07:48,419
+une machine qui a un nom de base ça
+ 
+
+431
+00:07:48,419 --> 00:07:50,270
+une machine qui a un nom de base ça
+c'est pas très important on va lui
+
+432
+00:07:50,270 --> 00:07:50,280
+c'est pas très important on va lui
+ 
+
+433
+00:07:50,280 --> 00:07:51,589
+c'est pas très important on va lui
+rajouter ce qu'on appelle des états donc
+
+434
+00:07:51,589 --> 00:07:51,599
+rajouter ce qu'on appelle des états donc
+ 
+
+435
+00:07:51,599 --> 00:07:53,450
+rajouter ce qu'on appelle des états donc
+les états c'est toutes les formes
+
+436
+00:07:53,450 --> 00:07:53,460
+les états c'est toutes les formes
+ 
+
+437
+00:07:53,460 --> 00:07:55,370
+les états c'est toutes les formes
+possibles de l'application
+
+438
+00:07:55,370 --> 00:07:55,380
+possibles de l'application
+ 
+
+439
+00:07:55,380 --> 00:08:02,150
+possibles de l'application
+donc première étape simple
+
+440
+00:08:02,150 --> 00:08:02,160
+
+ 
+
+441
+00:08:02,160 --> 00:08:04,430
+
+le chargement initial si je tape bien ce
+
+442
+00:08:04,430 --> 00:08:04,440
+le chargement initial si je tape bien ce
+ 
+
+443
+00:08:04,440 --> 00:08:06,409
+le chargement initial si je tape bien ce
+sera mieux
+
+444
+00:08:06,409 --> 00:08:06,419
+sera mieux
+ 
+
+445
+00:08:06,419 --> 00:08:08,570
+sera mieux
+donc cet écran là c'est le premier qu'on
+
+446
+00:08:08,570 --> 00:08:08,580
+donc cet écran là c'est le premier qu'on
+ 
+
+447
+00:08:08,580 --> 00:08:10,010
+donc cet écran là c'est le premier qu'on
+voit quand on charge application c'est
+
+448
+00:08:10,010 --> 00:08:10,020
+voit quand on charge application c'est
+ 
+
+449
+00:08:10,020 --> 00:08:12,290
+voit quand on charge application c'est
+le spinner le sablier peu importe c'est
+
+450
+00:08:12,290 --> 00:08:12,300
+le spinner le sablier peu importe c'est
+ 
+
+451
+00:08:12,300 --> 00:08:15,589
+le spinner le sablier peu importe c'est
+le premier écran logique cet écran là il
+
+452
+00:08:15,589 --> 00:08:15,599
+le premier écran logique cet écran là il
+ 
+
+453
+00:08:15,599 --> 00:08:16,610
+le premier écran logique cet écran là il
+va avoir une responsabilité c'est
+
+454
+00:08:16,610 --> 00:08:16,620
+va avoir une responsabilité c'est
+ 
+
+455
+00:08:16,620 --> 00:08:18,350
+va avoir une responsabilité c'est
+d'appeler la méthode de Faith en tout
+
+456
+00:08:18,350 --> 00:08:18,360
+d'appeler la méthode de Faith en tout
+ 
+
+457
+00:08:18,360 --> 00:08:20,270
+d'appeler la méthode de Faith en tout
+cas appeler la personne qui va faire
+
+458
+00:08:20,270 --> 00:08:20,280
+cas appeler la personne qui va faire
+ 
+
+459
+00:08:20,280 --> 00:08:22,490
+cas appeler la personne qui va faire
+chier à un endroit encore une fois on se
+
+460
+00:08:22,490 --> 00:08:22,500
+chier à un endroit encore une fois on se
+ 
+
+461
+00:08:22,500 --> 00:08:24,589
+chier à un endroit encore une fois on se
+fout de l'implémentation ici on va juste
+
+462
+00:08:24,589 --> 00:08:24,599
+fout de l'implémentation ici on va juste
+ 
+
+463
+00:08:24,599 --> 00:08:31,490
+fout de l'implémentation ici on va juste
+vouloir envoyer un événement
+
+464
+00:08:31,490 --> 00:08:31,500
+
+ 
+
+465
+00:08:31,500 --> 00:08:33,290
+
+une fois que ce fait c'est fini on a un
+
+466
+00:08:33,290 --> 00:08:33,300
+une fois que ce fait c'est fini on a un
+ 
+
+467
+00:08:33,300 --> 00:08:34,790
+une fois que ce fait c'est fini on a un
+retour on a une promesse qui se résout
+
+468
+00:08:34,790 --> 00:08:34,800
+retour on a une promesse qui se résout
+ 
+
+469
+00:08:34,800 --> 00:08:36,170
+retour on a une promesse qui se résout
+comme on en a vu déjà des milliers de
+
+470
+00:08:36,170 --> 00:08:36,180
+comme on en a vu déjà des milliers de
+ 
+
+471
+00:08:36,180 --> 00:08:38,089
+comme on en a vu déjà des milliers de
+fois aussi
+
+472
+00:08:38,089 --> 00:08:38,099
+fois aussi
+ 
+
+473
+00:08:38,099 --> 00:08:39,529
+fois aussi
+ce qui fait qu'on va arriver dans un
+
+474
+00:08:39,529 --> 00:08:39,539
+ce qui fait qu'on va arriver dans un
+ 
+
+475
+00:08:39,539 --> 00:08:44,269
+ce qui fait qu'on va arriver dans un
+deuxième état le deuxième état étant
+
+476
+00:08:44,269 --> 00:08:44,279
+
+ 
+
+477
+00:08:44,279 --> 00:08:47,810
+
+l'affichage de la donnée
+
+478
+00:08:47,810 --> 00:08:47,820
+
+ 
+
+479
+00:08:47,820 --> 00:08:50,269
+
+jusque là rien de fou c'est logique
+
+480
+00:08:50,269 --> 00:08:50,279
+jusque là rien de fou c'est logique
+ 
+
+481
+00:08:50,279 --> 00:08:53,269
+jusque là rien de fou c'est logique
+assez lisible sauf que le fait je peux
+
+482
+00:08:53,269 --> 00:08:53,279
+assez lisible sauf que le fait je peux
+ 
+
+483
+00:08:53,279 --> 00:08:55,310
+assez lisible sauf que le fait je peux
+échouer donc on a encore un autre État
+
+484
+00:08:55,310 --> 00:08:55,320
+échouer donc on a encore un autre État
+ 
+
+485
+00:08:55,320 --> 00:08:59,990
+échouer donc on a encore un autre État
+qui va arriver
+
+486
+00:08:59,990 --> 00:09:00,000
+
+ 
+
+487
+00:09:00,000 --> 00:09:02,090
+
+l'état où le chargement est échoué c'est
+
+488
+00:09:02,090 --> 00:09:02,100
+l'état où le chargement est échoué c'est
+ 
+
+489
+00:09:02,100 --> 00:09:04,850
+l'état où le chargement est échoué c'est
+simple et si vous pouvez voir que là
+
+490
+00:09:04,850 --> 00:09:04,860
+simple et si vous pouvez voir que là
+ 
+
+491
+00:09:04,860 --> 00:09:06,530
+simple et si vous pouvez voir que là
+cette machine elle sait elle est
+
+492
+00:09:06,530 --> 00:09:06,540
+cette machine elle sait elle est
+ 
+
+493
+00:09:06,540 --> 00:09:07,370
+cette machine elle sait elle est
+suffisamment intelligente pour savoir
+
+494
+00:09:07,370 --> 00:09:07,380
+suffisamment intelligente pour savoir
+ 
+
+495
+00:09:07,380 --> 00:09:08,810
+suffisamment intelligente pour savoir
+qu'on a invoqué quelque chose on invoqué
+
+496
+00:09:08,810 --> 00:09:08,820
+qu'on a invoqué quelque chose on invoqué
+ 
+
+497
+00:09:08,820 --> 00:09:10,730
+qu'on a invoqué quelque chose on invoqué
+une promesse quelque part
+
+498
+00:09:10,730 --> 00:09:10,740
+une promesse quelque part
+ 
+
+499
+00:09:10,740 --> 00:09:12,590
+une promesse quelque part
+cette chose là peut soit réussir soit
+
+500
+00:09:12,590 --> 00:09:12,600
+cette chose là peut soit réussir soit
+ 
+
+501
+00:09:12,600 --> 00:09:14,150
+cette chose là peut soit réussir soit
+échouée et donc du coup on a
+
+502
+00:09:14,150 --> 00:09:14,160
+échouée et donc du coup on a
+ 
+
+503
+00:09:14,160 --> 00:09:15,650
+échouée et donc du coup on a
+automatiquement les événements qui sont
+
+504
+00:09:15,650 --> 00:09:15,660
+automatiquement les événements qui sont
+ 
+
+505
+00:09:15,660 --> 00:09:17,810
+automatiquement les événements qui sont
+qui sont attribués
+
+506
+00:09:17,810 --> 00:09:17,820
+qui sont attribués
+ 
+
+507
+00:09:17,820 --> 00:09:18,949
+qui sont attribués
+si on continue un petit peu la logique
+
+508
+00:09:18,949 --> 00:09:18,959
+si on continue un petit peu la logique
+ 
+
+509
+00:09:18,959 --> 00:09:20,690
+si on continue un petit peu la logique
+si on reprend encore le template qu'on
+
+510
+00:09:20,690 --> 00:09:20,700
+si on reprend encore le template qu'on
+ 
+
+511
+00:09:20,700 --> 00:09:22,250
+si on reprend encore le template qu'on
+avait tout à l'heure devant les yeux une
+
+512
+00:09:22,250 --> 00:09:22,260
+avait tout à l'heure devant les yeux une
+ 
+
+513
+00:09:22,260 --> 00:09:23,170
+avait tout à l'heure devant les yeux une
+fois qu'on est dans cet écran de
+
+514
+00:09:23,170 --> 00:09:23,180
+fois qu'on est dans cet écran de
+ 
+
+515
+00:09:23,180 --> 00:09:25,970
+fois qu'on est dans cet écran de
+d'affichage on doit pouvoir envoyer un
+
+516
+00:09:25,970 --> 00:09:25,980
+d'affichage on doit pouvoir envoyer un
+ 
+
+517
+00:09:25,980 --> 00:09:27,110
+d'affichage on doit pouvoir envoyer un
+événement pour charger un peu plus de
+
+518
+00:09:27,110 --> 00:09:27,120
+événement pour charger un peu plus de
+ 
+
+519
+00:09:27,120 --> 00:09:29,150
+événement pour charger un peu plus de
+données donc là encore une fois c'est
+
+520
+00:09:29,150 --> 00:09:29,160
+données donc là encore une fois c'est
+ 
+
+521
+00:09:29,160 --> 00:09:32,630
+données donc là encore une fois c'est
+simple on va déclarer un nouvel état
+
+522
+00:09:32,630 --> 00:09:32,640
+simple on va déclarer un nouvel état
+ 
+
+523
+00:09:32,640 --> 00:09:34,130
+simple on va déclarer un nouvel état
+cet état il va être appelé via un
+
+524
+00:09:34,130 --> 00:09:34,140
+cet état il va être appelé via un
+ 
+
+525
+00:09:34,140 --> 00:09:39,410
+cet état il va être appelé via un
+événement et l'événement on va l'appeler
+
+526
+00:09:39,410 --> 00:09:39,420
+
+ 
+
+527
+00:09:39,420 --> 00:09:42,110
+
+si jamais dans cet écran là on affiche
+
+528
+00:09:42,110 --> 00:09:42,120
+si jamais dans cet écran là on affiche
+ 
+
+529
+00:09:42,120 --> 00:09:43,190
+si jamais dans cet écran là on affiche
+la sélection là on appelle cet événement
+
+530
+00:09:43,190 --> 00:09:43,200
+la sélection là on appelle cet événement
+ 
+
+531
+00:09:43,200 --> 00:09:46,009
+la sélection là on appelle cet événement
+là on arrivera dans un autre écran
+
+532
+00:09:46,009 --> 00:09:46,019
+là on arrivera dans un autre écran
+ 
+
+533
+00:09:46,019 --> 00:09:50,150
+là on arrivera dans un autre écran
+successif qui est le dimmer par exemple
+
+534
+00:09:50,150 --> 00:09:50,160
+successif qui est le dimmer par exemple
+ 
+
+535
+00:09:50,160 --> 00:09:51,829
+successif qui est le dimmer par exemple
+encore une fois cet écran là il va avoir
+
+536
+00:09:51,829 --> 00:09:51,839
+encore une fois cet écran là il va avoir
+ 
+
+537
+00:09:51,839 --> 00:09:53,150
+encore une fois cet écran là il va avoir
+la même instant responsabilité que le
+
+538
+00:09:53,150 --> 00:09:53,160
+la même instant responsabilité que le
+ 
+
+539
+00:09:53,160 --> 00:09:54,710
+la même instant responsabilité que le
+premier il va vouloir appeler quelqu'un
+
+540
+00:09:54,710 --> 00:09:54,720
+premier il va vouloir appeler quelqu'un
+ 
+
+541
+00:09:54,720 --> 00:09:57,050
+premier il va vouloir appeler quelqu'un
+qui va faire chez la donnée
+
+542
+00:09:57,050 --> 00:09:57,060
+qui va faire chez la donnée
+ 
+
+543
+00:09:57,060 --> 00:09:59,870
+qui va faire chez la donnée
+donc même chose je vais lui dire qu'il
+
+544
+00:09:59,870 --> 00:09:59,880
+donc même chose je vais lui dire qu'il
+ 
+
+545
+00:09:59,880 --> 00:10:01,430
+donc même chose je vais lui dire qu'il
+invoque un acteur faites pas gaffe au
+
+546
+00:10:01,430 --> 00:10:01,440
+invoque un acteur faites pas gaffe au
+ 
+
+547
+00:10:01,440 --> 00:10:06,410
+invoque un acteur faites pas gaffe au
+vocabulaire on vous expliquerai ça après
+
+548
+00:10:06,410 --> 00:10:06,420
+
+ 
+
+549
+00:10:06,420 --> 00:10:08,030
+
+l'implémentation je me moque je dis
+
+550
+00:10:08,030 --> 00:10:08,040
+l'implémentation je me moque je dis
+ 
+
+551
+00:10:08,040 --> 00:10:09,530
+l'implémentation je me moque je dis
+juste ok à un moment donné je vais
+
+552
+00:10:09,530 --> 00:10:09,540
+juste ok à un moment donné je vais
+ 
+
+553
+00:10:09,540 --> 00:10:10,490
+juste ok à un moment donné je vais
+vouloir appeler une méthode qui
+
+554
+00:10:10,490 --> 00:10:10,500
+vouloir appeler une méthode qui
+ 
+
+555
+00:10:10,500 --> 00:10:12,650
+vouloir appeler une méthode qui
+s'appelle fetchmarst of
+
+556
+00:10:12,650 --> 00:10:12,660
+s'appelle fetchmarst of
+ 
+
+557
+00:10:12,660 --> 00:10:14,389
+s'appelle fetchmarst of
+et donc la rebelote cette chose là peut
+
+558
+00:10:14,389 --> 00:10:14,399
+et donc la rebelote cette chose là peut
+ 
+
+559
+00:10:14,399 --> 00:10:16,730
+et donc la rebelote cette chose là peut
+soit échouer soit réussir
+
+560
+00:10:16,730 --> 00:10:16,740
+soit échouer soit réussir
+ 
+
+561
+00:10:16,740 --> 00:10:18,530
+soit échouer soit réussir
+si elle réussit on revient en disque
+
+562
+00:10:18,530 --> 00:10:18,540
+si elle réussit on revient en disque
+ 
+
+563
+00:10:18,540 --> 00:10:19,670
+si elle réussit on revient en disque
+data parce qu'on a de la nouvelle
+
+564
+00:10:19,670 --> 00:10:19,680
+data parce qu'on a de la nouvelle
+ 
+
+565
+00:10:19,680 --> 00:10:22,670
+data parce qu'on a de la nouvelle
+interfacée si ça échoue on va sur le
+
+566
+00:10:22,670 --> 00:10:22,680
+interfacée si ça échoue on va sur le
+ 
+
+567
+00:10:22,680 --> 00:10:24,290
+interfacée si ça échoue on va sur le
+même écran là je la joue simple on fait
+
+568
+00:10:24,290 --> 00:10:24,300
+même écran là je la joue simple on fait
+ 
+
+569
+00:10:24,300 --> 00:10:25,610
+même écran là je la joue simple on fait
+un peu naïf pour gagner du temps sur le
+
+570
+00:10:25,610 --> 00:10:25,620
+un peu naïf pour gagner du temps sur le
+ 
+
+571
+00:10:25,620 --> 00:10:27,290
+un peu naïf pour gagner du temps sur le
+sur le Talk
+
+572
+00:10:27,290 --> 00:10:27,300
+sur le Talk
+ 
+
+573
+00:10:27,300 --> 00:10:31,009
+sur le Talk
+et là en une minute on a recodé la
+
+574
+00:10:31,009 --> 00:10:31,019
+et là en une minute on a recodé la
+ 
+
+575
+00:10:31,019 --> 00:10:33,350
+et là en une minute on a recodé la
+logique de l'application sans les
+
+576
+00:10:33,350 --> 00:10:33,360
+logique de l'application sans les
+ 
+
+577
+00:10:33,360 --> 00:10:35,930
+logique de l'application sans les
+défauts qu'elle avait dans le sens où on
+
+578
+00:10:35,930 --> 00:10:35,940
+défauts qu'elle avait dans le sens où on
+ 
+
+579
+00:10:35,940 --> 00:10:37,190
+défauts qu'elle avait dans le sens où on
+peut se retrouver à un moment donné
+
+580
+00:10:37,190 --> 00:10:37,200
+peut se retrouver à un moment donné
+ 
+
+581
+00:10:37,200 --> 00:10:39,590
+peut se retrouver à un moment donné
+uniquement dans un état et un seul et à
+
+582
+00:10:39,590 --> 00:10:39,600
+uniquement dans un état et un seul et à
+ 
+
+583
+00:10:39,600 --> 00:10:40,430
+uniquement dans un état et un seul et à
+l'inverse on ne peut pas se retrouver
+
+584
+00:10:40,430 --> 00:10:40,440
+l'inverse on ne peut pas se retrouver
+ 
+
+585
+00:10:40,440 --> 00:10:43,910
+l'inverse on ne peut pas se retrouver
+dans un état vide impossible on a les
+
+586
+00:10:43,910 --> 00:10:43,920
+dans un état vide impossible on a les
+ 
+
+587
+00:10:43,920 --> 00:10:45,350
+dans un état vide impossible on a les
+événements de succès d'erreurs qui sont
+
+588
+00:10:45,350 --> 00:10:45,360
+événements de succès d'erreurs qui sont
+ 
+
+589
+00:10:45,360 --> 00:10:49,130
+événements de succès d'erreurs qui sont
+pris en compte on a un événement de le
+
+590
+00:10:49,130 --> 00:10:49,140
+pris en compte on a un événement de le
+ 
+
+591
+00:10:49,140 --> 00:10:50,690
+pris en compte on a un événement de le
+fait je meurs qui permet de rajouter de
+
+592
+00:10:50,690 --> 00:10:50,700
+fait je meurs qui permet de rajouter de
+ 
+
+593
+00:10:50,700 --> 00:10:52,850
+fait je meurs qui permet de rajouter de
+la donnée mais qui n'est appelable que
+
+594
+00:10:52,850 --> 00:10:52,860
+la donnée mais qui n'est appelable que
+ 
+
+595
+00:10:52,860 --> 00:10:54,530
+la donnée mais qui n'est appelable que
+depuis l'écran display data mais pas
+
+596
+00:10:54,530 --> 00:10:54,540
+depuis l'écran display data mais pas
+ 
+
+597
+00:10:54,540 --> 00:10:56,630
+depuis l'écran display data mais pas
+depuis les autres
+
+598
+00:10:56,630 --> 00:10:56,640
+depuis les autres
+ 
+
+599
+00:10:56,640 --> 00:10:59,870
+depuis les autres
+ça paraît assez solide
+
+600
+00:10:59,870 --> 00:10:59,880
+
+ 
+
+601
+00:10:59,880 --> 00:11:02,690
+
+quand on a ça l'éditeur qu'on a devant
+
+602
+00:11:02,690 --> 00:11:02,700
+quand on a ça l'éditeur qu'on a devant
+ 
+
+603
+00:11:02,700 --> 00:11:04,190
+quand on a ça l'éditeur qu'on a devant
+les yeux il me permet d'exploiter ce
+
+604
+00:11:04,190 --> 00:11:04,200
+les yeux il me permet d'exploiter ce
+ 
+
+605
+00:11:04,200 --> 00:11:05,630
+les yeux il me permet d'exploiter ce
+qu'on appelle donc la cette machine soit
+
+606
+00:11:05,630 --> 00:11:05,640
+qu'on appelle donc la cette machine soit
+ 
+
+607
+00:11:05,640 --> 00:11:08,150
+qu'on appelle donc la cette machine soit
+en Jason soit en javascript
+
+608
+00:11:08,150 --> 00:11:08,160
+en Jason soit en javascript
+ 
+
+609
+00:11:08,160 --> 00:11:12,470
+en Jason soit en javascript
+je vais récupérer ce code là
+
+610
+00:11:12,470 --> 00:11:12,480
+
+ 
+
+611
+00:11:12,480 --> 00:11:15,170
+
+et maintenant on peut se mettre à côté
+
+612
+00:11:15,170 --> 00:11:15,180
+et maintenant on peut se mettre à côté
+ 
+
+613
+00:11:15,180 --> 00:11:17,150
+et maintenant on peut se mettre à côté
+au passage
+
+614
+00:11:17,150 --> 00:11:17,160
+au passage
+ 
+
+615
+00:11:17,160 --> 00:11:18,470
+au passage
+maintenant qu'on a la logique maintenant
+
+616
+00:11:18,470 --> 00:11:18,480
+maintenant qu'on a la logique maintenant
+ 
+
+617
+00:11:18,480 --> 00:11:19,730
+maintenant qu'on a la logique maintenant
+qu'on sait ce qu'on veut qu'on connaît
+
+618
+00:11:19,730 --> 00:11:19,740
+qu'on sait ce qu'on veut qu'on connaît
+ 
+
+619
+00:11:19,740 --> 00:11:22,370
+qu'on sait ce qu'on veut qu'on connaît
+comportement on est à on est à ça de
+
+620
+00:11:22,370 --> 00:11:22,380
+comportement on est à on est à ça de
+ 
+
+621
+00:11:22,380 --> 00:11:23,810
+comportement on est à on est à ça de
+faire du TDD c'est-à-dire une des
+
+622
+00:11:23,810 --> 00:11:23,820
+faire du TDD c'est-à-dire une des
+ 
+
+623
+00:11:23,820 --> 00:11:26,269
+faire du TDD c'est-à-dire une des
+développements donc si on a la statue de
+
+624
+00:11:26,269 --> 00:11:26,279
+développements donc si on a la statue de
+ 
+
+625
+00:11:26,279 --> 00:11:28,069
+développements donc si on a la statue de
+la vraie ou Cypress ou Player ou peu
+
+626
+00:11:28,069 --> 00:11:28,079
+la vraie ou Cypress ou Player ou peu
+ 
+
+627
+00:11:28,079 --> 00:11:29,509
+la vraie ou Cypress ou Player ou peu
+importe c'est assez facile d'implémenter
+
+628
+00:11:29,509 --> 00:11:29,519
+importe c'est assez facile d'implémenter
+ 
+
+629
+00:11:29,519 --> 00:11:31,190
+importe c'est assez facile d'implémenter
+les tests tout de suite et d'implémenter
+
+630
+00:11:31,190 --> 00:11:31,200
+les tests tout de suite et d'implémenter
+ 
+
+631
+00:11:31,200 --> 00:11:35,030
+les tests tout de suite et d'implémenter
+après ça ça vous de voir
+
+632
+00:11:35,030 --> 00:11:35,040
+après ça ça vous de voir
+ 
+
+633
+00:11:35,040 --> 00:11:37,730
+après ça ça vous de voir
+donc ça c'est mon éditeur de code vscode
+
+634
+00:11:37,730 --> 00:11:37,740
+donc ça c'est mon éditeur de code vscode
+ 
+
+635
+00:11:37,740 --> 00:11:40,610
+donc ça c'est mon éditeur de code vscode
+vous connaissez tous j'ai repris plus ou
+
+636
+00:11:40,610 --> 00:11:40,620
+vous connaissez tous j'ai repris plus ou
+ 
+
+637
+00:11:40,620 --> 00:11:42,410
+vous connaissez tous j'ai repris plus ou
+moins le même composant qu'on avait dans
+
+638
+00:11:42,410 --> 00:11:42,420
+moins le même composant qu'on avait dans
+ 
+
+639
+00:11:42,420 --> 00:11:43,730
+moins le même composant qu'on avait dans
+les tout à l'heure j'ai juste rajouté un
+
+640
+00:11:43,730 --> 00:11:43,740
+les tout à l'heure j'ai juste rajouté un
+ 
+
+641
+00:11:43,740 --> 00:11:45,230
+les tout à l'heure j'ai juste rajouté un
+peu CSS pour que ça soit un peu un peu
+
+642
+00:11:45,230 --> 00:11:45,240
+peu CSS pour que ça soit un peu un peu
+ 
+
+643
+00:11:45,240 --> 00:11:47,030
+peu CSS pour que ça soit un peu un peu
+un peu visible et donc on se retrouve
+
+644
+00:11:47,030 --> 00:11:47,040
+un peu visible et donc on se retrouve
+ 
+
+645
+00:11:47,040 --> 00:11:49,370
+un peu visible et donc on se retrouve
+devant l'application quand on charge la
+
+646
+00:11:49,370 --> 00:11:49,380
+devant l'application quand on charge la
+ 
+
+647
+00:11:49,380 --> 00:11:50,449
+devant l'application quand on charge la
+première fois on a un écran de
+
+648
+00:11:50,449 --> 00:11:50,459
+première fois on a un écran de
+ 
+
+649
+00:11:50,459 --> 00:11:52,790
+première fois on a un écran de
+chargement la donnée arrive la liste
+
+650
+00:11:52,790 --> 00:11:52,800
+chargement la donnée arrive la liste
+ 
+
+651
+00:11:52,800 --> 00:11:54,410
+chargement la donnée arrive la liste
+s'affiche de données et on a un bouton
+
+652
+00:11:54,410 --> 00:11:54,420
+s'affiche de données et on a un bouton
+ 
+
+653
+00:11:54,420 --> 00:11:55,430
+s'affiche de données et on a un bouton
+pour fait de chez un peu plus de données
+
+654
+00:11:55,430 --> 00:11:55,440
+pour fait de chez un peu plus de données
+ 
+
+655
+00:11:55,440 --> 00:11:58,009
+pour fait de chez un peu plus de données
+si je clique dessus on a le fameux écran
+
+656
+00:11:58,009 --> 00:11:58,019
+si je clique dessus on a le fameux écran
+ 
+
+657
+00:11:58,019 --> 00:12:00,590
+si je clique dessus on a le fameux écran
+de chargement ça rajoute de la donnée et
+
+658
+00:12:00,590 --> 00:12:00,600
+de chargement ça rajoute de la donnée et
+ 
+
+659
+00:12:00,600 --> 00:12:11,990
+de chargement ça rajoute de la donnée et
+on a de nouveau le City etc etc
+
+660
+00:12:11,990 --> 00:12:12,000
+
+ 
+
+661
+00:12:12,000 --> 00:12:17,030
+
+donc ma fameuse machine
+
+662
+00:12:17,030 --> 00:12:17,040
+
+ 
+
+663
+00:12:17,040 --> 00:12:18,590
+
+ça se construit avec un fichier
+
+664
+00:12:18,590 --> 00:12:18,600
+ça se construit avec un fichier
+ 
+
+665
+00:12:18,600 --> 00:12:20,269
+ça se construit avec un fichier
+JavaScript typescript ce que vous voulez
+
+666
+00:12:20,269 --> 00:12:20,279
+JavaScript typescript ce que vous voulez
+ 
+
+667
+00:12:20,279 --> 00:12:22,730
+JavaScript typescript ce que vous voulez
+peu importe ça marche dans tous les
+
+668
+00:12:22,730 --> 00:12:22,740
+peu importe ça marche dans tous les
+ 
+
+669
+00:12:22,740 --> 00:12:24,769
+peu importe ça marche dans tous les
+côtés on va l'appeler faites machine
+
+670
+00:12:24,769 --> 00:12:24,779
+côtés on va l'appeler faites machine
+ 
+
+671
+00:12:24,779 --> 00:12:27,949
+côtés on va l'appeler faites machine
+comme c'était le cas sur l'éditeur et on
+
+672
+00:12:27,949 --> 00:12:27,959
+comme c'était le cas sur l'éditeur et on
+ 
+
+673
+00:12:27,959 --> 00:12:30,650
+comme c'était le cas sur l'éditeur et on
+va coller la chose qui m'a été récupérée
+
+674
+00:12:30,650 --> 00:12:30,660
+va coller la chose qui m'a été récupérée
+ 
+
+675
+00:12:30,660 --> 00:12:34,670
+va coller la chose qui m'a été récupérée
+voilà donc c'est assez simple je vais
+
+676
+00:12:34,670 --> 00:12:34,680
+voilà donc c'est assez simple je vais
+ 
+
+677
+00:12:34,680 --> 00:12:36,889
+voilà donc c'est assez simple je vais
+vous faire le la navigation juste
+
+678
+00:12:36,889 --> 00:12:36,899
+vous faire le la navigation juste
+ 
+
+679
+00:12:36,899 --> 00:12:46,310
+vous faire le la navigation juste
+importer ce qui manque
+
+680
+00:12:46,310 --> 00:12:46,320
+
+ 
+
+681
+00:12:46,320 --> 00:12:49,009
+
+ok donc cette chose là évidemment
+
+682
+00:12:49,009 --> 00:12:49,019
+ok donc cette chose là évidemment
+ 
+
+683
+00:12:49,019 --> 00:12:51,170
+ok donc cette chose là évidemment
+vouloir l'exporter
+
+684
+00:12:51,170 --> 00:12:51,180
+vouloir l'exporter
+ 
+
+685
+00:12:51,180 --> 00:12:52,200
+vouloir l'exporter
+donc
+
+686
+00:12:52,200 --> 00:12:52,210
+donc
+ 
+
+687
+00:12:52,210 --> 00:12:55,550
+donc
+[Musique]
+
+688
+00:12:55,550 --> 00:12:55,560
+
+ 
+
+689
+00:12:55,560 --> 00:12:58,250
+
+j'utilise la librairie state on y
+
+690
+00:12:58,250 --> 00:12:58,260
+j'utilise la librairie state on y
+ 
+
+691
+00:12:58,260 --> 00:13:00,650
+j'utilise la librairie state on y
+reviendra après qui exporte une méthode
+
+692
+00:13:00,650 --> 00:13:00,660
+reviendra après qui exporte une méthode
+ 
+
+693
+00:13:00,660 --> 00:13:02,990
+reviendra après qui exporte une méthode
+crée une machine et qui en fait va se
+
+694
+00:13:02,990 --> 00:13:03,000
+crée une machine et qui en fait va se
+ 
+
+695
+00:13:03,000 --> 00:13:05,210
+crée une machine et qui en fait va se
+contenter de consommer uniquement ce que
+
+696
+00:13:05,210 --> 00:13:05,220
+contenter de consommer uniquement ce que
+ 
+
+697
+00:13:05,220 --> 00:13:06,710
+contenter de consommer uniquement ce que
+j'ai généré depuis l'éditeur je vais pas
+
+698
+00:13:06,710 --> 00:13:06,720
+j'ai généré depuis l'éditeur je vais pas
+ 
+
+699
+00:13:06,720 --> 00:13:08,210
+j'ai généré depuis l'éditeur je vais pas
+y toucher je vais juste m'occuper de
+
+700
+00:13:08,210 --> 00:13:08,220
+y toucher je vais juste m'occuper de
+ 
+
+701
+00:13:08,220 --> 00:13:09,610
+y toucher je vais juste m'occuper de
+l'implémenter après dans mon composant
+
+702
+00:13:09,610 --> 00:13:09,620
+l'implémenter après dans mon composant
+ 
+
+703
+00:13:09,620 --> 00:13:11,889
+l'implémenter après dans mon composant
+donc un a dit
+
+704
+00:13:11,889 --> 00:13:11,899
+donc un a dit
+ 
+
+705
+00:13:11,899 --> 00:13:13,670
+donc un a dit
+c'est basique c'est juste pour éviter
+
+706
+00:13:13,670 --> 00:13:13,680
+c'est basique c'est juste pour éviter
+ 
+
+707
+00:13:13,680 --> 00:13:14,690
+c'est basique c'est juste pour éviter
+les conflits si jamais il y a plusieurs
+
+708
+00:13:14,690 --> 00:13:14,700
+les conflits si jamais il y a plusieurs
+ 
+
+709
+00:13:14,700 --> 00:13:16,210
+les conflits si jamais il y a plusieurs
+machines dans la page ce genre de choses
+
+710
+00:13:16,210 --> 00:13:16,220
+machines dans la page ce genre de choses
+ 
+
+711
+00:13:16,220 --> 00:13:18,829
+machines dans la page ce genre de choses
+on a l'état initial que on a décrit tout
+
+712
+00:13:18,829 --> 00:13:18,839
+on a l'état initial que on a décrit tout
+ 
+
+713
+00:13:18,839 --> 00:13:20,269
+on a l'état initial que on a décrit tout
+à l'heure donc c'est l'état initialoding
+
+714
+00:13:20,269 --> 00:13:20,279
+à l'heure donc c'est l'état initialoding
+ 
+
+715
+00:13:20,279 --> 00:13:22,569
+à l'heure donc c'est l'état initialoding
+et ensuite on a une succession de
+
+716
+00:13:22,569 --> 00:13:22,579
+et ensuite on a une succession de
+ 
+
+717
+00:13:22,579 --> 00:13:25,790
+et ensuite on a une succession de
+déclaration d'État donc on a l'état
+
+718
+00:13:25,790 --> 00:13:25,800
+déclaration d'État donc on a l'état
+ 
+
+719
+00:13:25,800 --> 00:13:27,769
+déclaration d'État donc on a l'état
+initial Loding l'état display data
+
+720
+00:13:27,769 --> 00:13:27,779
+initial Loding l'état display data
+ 
+
+721
+00:13:27,779 --> 00:13:31,550
+initial Loding l'état display data
+l'état de felure et Lodi mort
+
+722
+00:13:31,550 --> 00:13:31,560
+l'état de felure et Lodi mort
+ 
+
+723
+00:13:31,560 --> 00:13:33,670
+l'état de felure et Lodi mort
+à chaque fois dans chaque État on voit
+
+724
+00:13:33,670 --> 00:13:33,680
+à chaque fois dans chaque État on voit
+ 
+
+725
+00:13:33,680 --> 00:13:36,650
+à chaque fois dans chaque État on voit
+soit des services appelés comme on a pu
+
+726
+00:13:36,650 --> 00:13:36,660
+soit des services appelés comme on a pu
+ 
+
+727
+00:13:36,660 --> 00:13:37,970
+soit des services appelés comme on a pu
+l'implémenter là soit des événements
+
+728
+00:13:37,970 --> 00:13:37,980
+l'implémenter là soit des événements
+ 
+
+729
+00:13:37,980 --> 00:13:41,030
+l'implémenter là soit des événements
+possibles uniquement depuis ces états-là
+
+730
+00:13:41,030 --> 00:13:41,040
+possibles uniquement depuis ces états-là
+ 
+
+731
+00:13:41,040 --> 00:13:42,310
+possibles uniquement depuis ces états-là
+donc typiquement et Michel Loding
+
+732
+00:13:42,310 --> 00:13:42,320
+donc typiquement et Michel Loding
+ 
+
+733
+00:13:42,320 --> 00:13:44,090
+donc typiquement et Michel Loding
+automatiquement il va invoquer un
+
+734
+00:13:44,090 --> 00:13:44,100
+automatiquement il va invoquer un
+ 
+
+735
+00:13:44,100 --> 00:13:45,650
+automatiquement il va invoquer un
+service qui s'appelle festof encore une
+
+736
+00:13:45,650 --> 00:13:45,660
+service qui s'appelle festof encore une
+ 
+
+737
+00:13:45,660 --> 00:13:47,449
+service qui s'appelle festof encore une
+fois l'implémentation on s'en moque on
+
+738
+00:13:47,449 --> 00:13:47,459
+fois l'implémentation on s'en moque on
+ 
+
+739
+00:13:47,459 --> 00:13:48,230
+fois l'implémentation on s'en moque on
+sait juste qu'à un moment donné on va
+
+740
+00:13:48,230 --> 00:13:48,240
+sait juste qu'à un moment donné on va
+ 
+
+741
+00:13:48,240 --> 00:13:50,090
+sait juste qu'à un moment donné on va
+vouloir appeler ce truc là si jamais ça
+
+742
+00:13:50,090 --> 00:13:50,100
+vouloir appeler ce truc là si jamais ça
+ 
+
+743
+00:13:50,100 --> 00:13:51,949
+vouloir appeler ce truc là si jamais ça
+réussit on va vouloir aller sur les tas
+
+744
+00:13:51,949 --> 00:13:51,959
+réussit on va vouloir aller sur les tas
+ 
+
+745
+00:13:51,959 --> 00:13:53,389
+réussit on va vouloir aller sur les tas
+qui s'appelle display data qui est juste
+
+746
+00:13:53,389 --> 00:13:53,399
+qui s'appelle display data qui est juste
+ 
+
+747
+00:13:53,399 --> 00:13:54,829
+qui s'appelle display data qui est juste
+en dessous sinon il va aller sur l'état
+
+748
+00:13:54,829 --> 00:13:54,839
+en dessous sinon il va aller sur l'état
+ 
+
+749
+00:13:54,839 --> 00:13:57,470
+en dessous sinon il va aller sur l'état
+de login
+
+750
+00:13:57,470 --> 00:13:57,480
+
+ 
+
+751
+00:13:57,480 --> 00:13:59,090
+
+l'état display data lui il invoque rien
+
+752
+00:13:59,090 --> 00:13:59,100
+l'état display data lui il invoque rien
+ 
+
+753
+00:13:59,100 --> 00:14:01,670
+l'état display data lui il invoque rien
+il a juste un événement le fait je me
+
+754
+00:14:01,670 --> 00:14:01,680
+il a juste un événement le fait je me
+ 
+
+755
+00:14:01,680 --> 00:14:04,190
+il a juste un événement le fait je me
+replise si jamais cet événement est
+
+756
+00:14:04,190 --> 00:14:04,200
+replise si jamais cet événement est
+ 
+
+757
+00:14:04,200 --> 00:14:05,870
+replise si jamais cet événement est
+appelé quelque part on va vouloir aller
+
+758
+00:14:05,870 --> 00:14:05,880
+appelé quelque part on va vouloir aller
+ 
+
+759
+00:14:05,880 --> 00:14:07,730
+appelé quelque part on va vouloir aller
+sur l'état lodimor qui est juste en
+
+760
+00:14:07,730 --> 00:14:07,740
+sur l'état lodimor qui est juste en
+ 
+
+761
+00:14:07,740 --> 00:14:08,870
+sur l'état lodimor qui est juste en
+dessous
+
+762
+00:14:08,870 --> 00:14:08,880
+dessous
+ 
+
+763
+00:14:08,880 --> 00:14:11,290
+dessous
+qui lui-même invoque un service etc etc
+
+764
+00:14:11,290 --> 00:14:11,300
+qui lui-même invoque un service etc etc
+ 
+
+765
+00:14:11,300 --> 00:14:13,490
+qui lui-même invoque un service etc etc
+encore une fois je touche à rien
+
+766
+00:14:13,490 --> 00:14:13,500
+encore une fois je touche à rien
+ 
+
+767
+00:14:13,500 --> 00:14:15,110
+encore une fois je touche à rien
+j'aurais pu le coder à la main c'est
+
+768
+00:14:15,110 --> 00:14:15,120
+j'aurais pu le coder à la main c'est
+ 
+
+769
+00:14:15,120 --> 00:14:16,370
+j'aurais pu le coder à la main c'est
+pour relativement facile c'est un peu
+
+770
+00:14:16,370 --> 00:14:16,380
+pour relativement facile c'est un peu
+ 
+
+771
+00:14:16,380 --> 00:14:19,250
+pour relativement facile c'est un peu
+verbeux mais bon ça se fait
+
+772
+00:14:19,250 --> 00:14:19,260
+verbeux mais bon ça se fait
+ 
+
+773
+00:14:19,260 --> 00:14:20,269
+verbeux mais bon ça se fait
+et cette machine là maintenant je
+
+774
+00:14:20,269 --> 00:14:20,279
+et cette machine là maintenant je
+ 
+
+775
+00:14:20,279 --> 00:14:21,170
+et cette machine là maintenant je
+pourrais la récupérer depuis mon
+
+776
+00:14:21,170 --> 00:14:21,180
+pourrais la récupérer depuis mon
+ 
+
+777
+00:14:21,180 --> 00:14:23,090
+pourrais la récupérer depuis mon
+composant
+
+778
+00:14:23,090 --> 00:14:23,100
+composant
+ 
+
+779
+00:14:23,100 --> 00:14:24,430
+composant
+donc
+
+780
+00:14:24,430 --> 00:14:24,440
+donc
+ 
+
+781
+00:14:24,440 --> 00:14:26,810
+donc
+je vais aller chercher un hook qui
+
+782
+00:14:26,810 --> 00:14:26,820
+je vais aller chercher un hook qui
+ 
+
+783
+00:14:26,820 --> 00:14:31,850
+je vais aller chercher un hook qui
+s'appelle machine de la même librairie
+
+784
+00:14:31,850 --> 00:14:31,860
+
+ 
+
+785
+00:14:31,860 --> 00:14:33,290
+
+donc là en l'occurrence en vue donc je
+
+786
+00:14:33,290 --> 00:14:33,300
+donc là en l'occurrence en vue donc je
+ 
+
+787
+00:14:33,300 --> 00:14:34,970
+donc là en l'occurrence en vue donc je
+vais utiliser ça je vais aller chercher
+
+788
+00:14:34,970 --> 00:14:34,980
+vais utiliser ça je vais aller chercher
+ 
+
+789
+00:14:34,980 --> 00:14:42,829
+vais utiliser ça je vais aller chercher
+ma machine
+
+790
+00:14:42,829 --> 00:14:42,839
+
+ 
+
+791
+00:14:42,839 --> 00:14:48,230
+
+je suis au dessus
+
+792
+00:14:48,230 --> 00:14:48,240
+
+ 
+
+793
+00:14:48,240 --> 00:14:50,509
+
+OK
+
+794
+00:14:50,509 --> 00:14:50,519
+
+ 
+
+795
+00:14:50,519 --> 00:14:52,550
+
+et je vais l'instant ici donc dans une
+
+796
+00:14:52,550 --> 00:14:52,560
+et je vais l'instant ici donc dans une
+ 
+
+797
+00:14:52,560 --> 00:14:54,650
+et je vais l'instant ici donc dans une
+dans le déconstante je vais récupérer
+
+798
+00:14:54,650 --> 00:14:54,660
+dans le déconstante je vais récupérer
+ 
+
+799
+00:14:54,660 --> 00:14:58,490
+dans le déconstante je vais récupérer
+des choses depuis mon fameux machine et
+
+800
+00:14:58,490 --> 00:14:58,500
+des choses depuis mon fameux machine et
+ 
+
+801
+00:14:58,500 --> 00:15:01,910
+des choses depuis mon fameux machine et
+qui je donne à manger faites machine OK
+
+802
+00:15:01,910 --> 00:15:01,920
+qui je donne à manger faites machine OK
+ 
+
+803
+00:15:01,920 --> 00:15:04,550
+qui je donne à manger faites machine OK
+partant de ça la première élément que je
+
+804
+00:15:04,550 --> 00:15:04,560
+partant de ça la première élément que je
+ 
+
+805
+00:15:04,560 --> 00:15:05,930
+partant de ça la première élément que je
+vais pouvoir récupérer c'est l'état
+
+806
+00:15:05,930 --> 00:15:05,940
+vais pouvoir récupérer c'est l'état
+ 
+
+807
+00:15:05,940 --> 00:15:07,250
+vais pouvoir récupérer c'est l'état
+courant de mon application c'est ce
+
+808
+00:15:07,250 --> 00:15:07,260
+courant de mon application c'est ce
+ 
+
+809
+00:15:07,260 --> 00:15:09,230
+courant de mon application c'est ce
+qu'on veut au final dans quel état je
+
+810
+00:15:09,230 --> 00:15:09,240
+qu'on veut au final dans quel état je
+ 
+
+811
+00:15:09,240 --> 00:15:10,129
+qu'on veut au final dans quel état je
+suis qu'est-ce que je suis censé
+
+812
+00:15:10,129 --> 00:15:10,139
+suis qu'est-ce que je suis censé
+ 
+
+813
+00:15:10,139 --> 00:15:12,650
+suis qu'est-ce que je suis censé
+afficher
+
+814
+00:15:12,650 --> 00:15:12,660
+
+ 
+
+815
+00:15:12,660 --> 00:15:13,810
+
+dans state
+
+816
+00:15:13,810 --> 00:15:13,820
+dans state
+ 
+
+817
+00:15:13,820 --> 00:15:15,949
+dans state
+grâce à cette variable là je vais
+
+818
+00:15:15,949 --> 00:15:15,959
+grâce à cette variable là je vais
+ 
+
+819
+00:15:15,959 --> 00:15:16,970
+grâce à cette variable là je vais
+pouvoir remplacer toutes mes conditions
+
+820
+00:15:16,970 --> 00:15:16,980
+pouvoir remplacer toutes mes conditions
+ 
+
+821
+00:15:16,980 --> 00:15:20,150
+pouvoir remplacer toutes mes conditions
+un peu qwirk là qu'on a sur le côté a
+
+822
+00:15:20,150 --> 00:15:20,160
+un peu qwirk là qu'on a sur le côté a
+ 
+
+823
+00:15:20,160 --> 00:15:22,189
+un peu qwirk là qu'on a sur le côté a
+commencé par la première donc dans stage
+
+824
+00:15:22,189 --> 00:15:22,199
+commencé par la première donc dans stage
+ 
+
+825
+00:15:22,199 --> 00:15:23,269
+commencé par la première donc dans stage
+j'ai une fonction qui s'appelle machiz
+
+826
+00:15:23,269 --> 00:15:23,279
+j'ai une fonction qui s'appelle machiz
+ 
+
+827
+00:15:23,279 --> 00:15:26,829
+j'ai une fonction qui s'appelle machiz
+et qui me permet de nommer
+
+828
+00:15:26,829 --> 00:15:26,839
+et qui me permet de nommer
+ 
+
+829
+00:15:26,839 --> 00:15:29,449
+et qui me permet de nommer
+donc là on retrouve le nom que j'ai tapé
+
+830
+00:15:29,449 --> 00:15:29,459
+donc là on retrouve le nom que j'ai tapé
+ 
+
+831
+00:15:29,459 --> 00:15:31,009
+donc là on retrouve le nom que j'ai tapé
+dans ma machine dans le diagramme tout à
+
+832
+00:15:31,009 --> 00:15:31,019
+dans ma machine dans le diagramme tout à
+ 
+
+833
+00:15:31,019 --> 00:15:32,030
+dans ma machine dans le diagramme tout à
+l'heure que j'aurais pu taper à la main
+
+834
+00:15:32,030 --> 00:15:32,040
+l'heure que j'aurais pu taper à la main
+ 
+
+835
+00:15:32,040 --> 00:15:34,790
+l'heure que j'aurais pu taper à la main
+encore une fois mais c'est déclaratif je
+
+836
+00:15:34,790 --> 00:15:34,800
+encore une fois mais c'est déclaratif je
+ 
+
+837
+00:15:34,800 --> 00:15:35,930
+encore une fois mais c'est déclaratif je
+me moque complètement de comment
+
+838
+00:15:35,930 --> 00:15:35,940
+me moque complètement de comment
+ 
+
+839
+00:15:35,940 --> 00:15:37,189
+me moque complètement de comment
+s'implémenter derrière je sais que s'il
+
+840
+00:15:37,189 --> 00:15:37,199
+s'implémenter derrière je sais que s'il
+ 
+
+841
+00:15:37,199 --> 00:15:38,030
+s'implémenter derrière je sais que s'il
+y a un moment donné la machine décide
+
+842
+00:15:38,030 --> 00:15:38,040
+y a un moment donné la machine décide
+ 
+
+843
+00:15:38,040 --> 00:15:39,470
+y a un moment donné la machine décide
+que je suis dans cet état là soit
+
+844
+00:15:39,470 --> 00:15:39,480
+que je suis dans cet état là soit
+ 
+
+845
+00:15:39,480 --> 00:15:42,290
+que je suis dans cet état là soit
+j'affiche l'écran de chargement
+
+846
+00:15:42,290 --> 00:15:42,300
+j'affiche l'écran de chargement
+ 
+
+847
+00:15:42,300 --> 00:15:43,910
+j'affiche l'écran de chargement
+même chose
+
+848
+00:15:43,910 --> 00:15:43,920
+même chose
+ 
+
+849
+00:15:43,920 --> 00:15:47,050
+même chose
+c'était
+
+850
+00:15:47,050 --> 00:15:47,060
+
+ 
+
+851
+00:15:47,060 --> 00:15:50,629
+
+là je l'ai appelé
+
+852
+00:15:50,629 --> 00:15:50,639
+
+ 
+
+853
+00:15:50,639 --> 00:15:54,350
+
+loading feliard
+
+854
+00:15:54,350 --> 00:15:54,360
+
+ 
+
+855
+00:15:54,360 --> 00:15:56,030
+
+donc même chose je vais l'implémentation
+
+856
+00:15:56,030 --> 00:15:56,040
+donc même chose je vais l'implémentation
+ 
+
+857
+00:15:56,040 --> 00:15:57,530
+donc même chose je vais l'implémentation
+si la machine décide que je suis là
+
+858
+00:15:57,530 --> 00:15:57,540
+si la machine décide que je suis là
+ 
+
+859
+00:15:57,540 --> 00:15:59,870
+si la machine décide que je suis là
+dedans je suis là dedans j'affiche
+
+860
+00:15:59,870 --> 00:15:59,880
+dedans je suis là dedans j'affiche
+ 
+
+861
+00:15:59,880 --> 00:16:09,710
+dedans je suis là dedans j'affiche
+et le dernier
+
+862
+00:16:09,710 --> 00:16:09,720
+
+ 
+
+863
+00:16:09,720 --> 00:16:12,889
+
+ok donc là à priori j'ai branché mon
+
+864
+00:16:12,889 --> 00:16:12,899
+ok donc là à priori j'ai branché mon
+ 
+
+865
+00:16:12,899 --> 00:16:14,150
+ok donc là à priori j'ai branché mon
+composant à la machine en tout cas
+
+866
+00:16:14,150 --> 00:16:14,160
+composant à la machine en tout cas
+ 
+
+867
+00:16:14,160 --> 00:16:15,230
+composant à la machine en tout cas
+chaque fois que la machine va changer
+
+868
+00:16:15,230 --> 00:16:15,240
+chaque fois que la machine va changer
+ 
+
+869
+00:16:15,240 --> 00:16:17,269
+chaque fois que la machine va changer
+d'état je vais pouvoir afficher la
+
+870
+00:16:17,269 --> 00:16:17,279
+d'état je vais pouvoir afficher la
+ 
+
+871
+00:16:17,279 --> 00:16:18,590
+d'état je vais pouvoir afficher la
+section ce qui nous manque maintenant
+
+872
+00:16:18,590 --> 00:16:18,600
+section ce qui nous manque maintenant
+ 
+
+873
+00:16:18,600 --> 00:16:20,210
+section ce qui nous manque maintenant
+c'est être capable de justement passer
+
+874
+00:16:20,210 --> 00:16:20,220
+c'est être capable de justement passer
+ 
+
+875
+00:16:20,220 --> 00:16:22,550
+c'est être capable de justement passer
+d'un état à l'autre pour ça je sais pas
+
+876
+00:16:22,550 --> 00:16:22,560
+d'un état à l'autre pour ça je sais pas
+ 
+
+877
+00:16:22,560 --> 00:16:24,470
+d'un état à l'autre pour ça je sais pas
+si vous vous rappelez mais en étant en
+
+878
+00:16:24,470 --> 00:16:24,480
+si vous vous rappelez mais en étant en
+ 
+
+879
+00:16:24,480 --> 00:16:26,210
+si vous vous rappelez mais en étant en
+commençant par le technical on va
+
+880
+00:16:26,210 --> 00:16:26,220
+commençant par le technical on va
+ 
+
+881
+00:16:26,220 --> 00:16:27,710
+commençant par le technical on va
+vouloir aller chercher de la donnée et
+
+882
+00:16:27,710 --> 00:16:27,720
+vouloir aller chercher de la donnée et
+ 
+
+883
+00:16:27,720 --> 00:16:28,850
+vouloir aller chercher de la donnée et
+c'est ça qui va faire en sorte qu'on va
+
+884
+00:16:28,850 --> 00:16:28,860
+c'est ça qui va faire en sorte qu'on va
+ 
+
+885
+00:16:28,860 --> 00:16:30,410
+c'est ça qui va faire en sorte qu'on va
+aller soit vers le fêlure soit vers le
+
+886
+00:16:30,410 --> 00:16:30,420
+aller soit vers le fêlure soit vers le
+ 
+
+887
+00:16:30,420 --> 00:16:32,689
+aller soit vers le fêlure soit vers le
+display et donc pour ça maintenant il va
+
+888
+00:16:32,689 --> 00:16:32,699
+display et donc pour ça maintenant il va
+ 
+
+889
+00:16:32,699 --> 00:16:33,650
+display et donc pour ça maintenant il va
+falloir que je donne l'implémentation de
+
+890
+00:16:33,650 --> 00:16:33,660
+falloir que je donne l'implémentation de
+ 
+
+891
+00:16:33,660 --> 00:16:34,970
+falloir que je donne l'implémentation de
+cette méthode
+
+892
+00:16:34,970 --> 00:16:34,980
+cette méthode
+ 
+
+893
+00:16:34,980 --> 00:16:36,110
+cette méthode
+c'est pas la machine qui va aller
+
+894
+00:16:36,110 --> 00:16:36,120
+c'est pas la machine qui va aller
+ 
+
+895
+00:16:36,120 --> 00:16:38,329
+c'est pas la machine qui va aller
+chercher c'est pas aux composants de
+
+896
+00:16:38,329 --> 00:16:38,339
+chercher c'est pas aux composants de
+ 
+
+897
+00:16:38,339 --> 00:16:39,769
+chercher c'est pas aux composants de
+l'implémenter dans le template en
+
+898
+00:16:39,769 --> 00:16:39,779
+l'implémenter dans le template en
+ 
+
+899
+00:16:39,779 --> 00:16:42,410
+l'implémenter dans le template en
+revanche quand il lance sa machine il
+
+900
+00:16:42,410 --> 00:16:42,420
+revanche quand il lance sa machine il
+ 
+
+901
+00:16:42,420 --> 00:16:43,670
+revanche quand il lance sa machine il
+sait qu'à ce moment là dans la
+
+902
+00:16:43,670 --> 00:16:43,680
+sait qu'à ce moment là dans la
+ 
+
+903
+00:16:43,680 --> 00:16:45,710
+sait qu'à ce moment là dans la
+chronologie il va vouloir utiliser un
+
+904
+00:16:45,710 --> 00:16:45,720
+chronologie il va vouloir utiliser un
+ 
+
+905
+00:16:45,720 --> 00:16:47,569
+chronologie il va vouloir utiliser un
+service de données donc j'ai juste à
+
+906
+00:16:47,569 --> 00:16:47,579
+service de données donc j'ai juste à
+ 
+
+907
+00:16:47,579 --> 00:16:49,970
+service de données donc j'ai juste à
+déclarer un message en l'occurrence je
+
+908
+00:16:49,970 --> 00:16:49,980
+déclarer un message en l'occurrence je
+ 
+
+909
+00:16:49,980 --> 00:16:50,990
+déclarer un message en l'occurrence je
+veux implémenter quelque chose qui
+
+910
+00:16:50,990 --> 00:16:51,000
+veux implémenter quelque chose qui
+ 
+
+911
+00:16:51,000 --> 00:16:52,850
+veux implémenter quelque chose qui
+s'appelle French touffe et je vais juste
+
+912
+00:16:52,850 --> 00:16:52,860
+s'appelle French touffe et je vais juste
+ 
+
+913
+00:16:52,860 --> 00:16:54,650
+s'appelle French touffe et je vais juste
+donner à manger la méthode fetch du
+
+914
+00:16:54,650 --> 00:16:54,660
+donner à manger la méthode fetch du
+ 
+
+915
+00:16:54,660 --> 00:16:57,110
+donner à manger la méthode fetch du
+Jumper qu'on a juste au dessus
+
+916
+00:16:57,110 --> 00:16:57,120
+Jumper qu'on a juste au dessus
+ 
+
+917
+00:16:57,120 --> 00:16:58,550
+Jumper qu'on a juste au dessus
+si on revient à la machine on avait une
+
+918
+00:16:58,550 --> 00:16:58,560
+si on revient à la machine on avait une
+ 
+
+919
+00:16:58,560 --> 00:17:00,650
+si on revient à la machine on avait une
+autre un autre État qui a inventé un
+
+920
+00:17:00,650 --> 00:17:00,660
+autre un autre État qui a inventé un
+ 
+
+921
+00:17:00,660 --> 00:17:02,230
+autre un autre État qui a inventé un
+service il s'appelle fetch mortstuff
+
+922
+00:17:02,230 --> 00:17:02,240
+service il s'appelle fetch mortstuff
+ 
+
+923
+00:17:02,240 --> 00:17:05,750
+service il s'appelle fetch mortstuff
+même chose je reviens je déclare cette
+
+924
+00:17:05,750 --> 00:17:05,760
+même chose je reviens je déclare cette
+ 
+
+925
+00:17:05,760 --> 00:17:07,850
+même chose je reviens je déclare cette
+variable cette fonction là je lui donne
+
+926
+00:17:07,850 --> 00:17:07,860
+variable cette fonction là je lui donne
+ 
+
+927
+00:17:07,860 --> 00:17:10,789
+variable cette fonction là je lui donne
+à manger la même
+
+928
+00:17:10,789 --> 00:17:10,799
+
+ 
+
+929
+00:17:10,799 --> 00:17:12,590
+
+on voit maintenant que loading est
+
+930
+00:17:12,590 --> 00:17:12,600
+on voit maintenant que loading est
+ 
+
+931
+00:17:12,600 --> 00:17:14,390
+on voit maintenant que loading est
+horror sont plus utilisés déjà les
+
+932
+00:17:14,390 --> 00:17:14,400
+horror sont plus utilisés déjà les
+ 
+
+933
+00:17:14,400 --> 00:17:16,010
+horror sont plus utilisés déjà les
+dégager
+
+934
+00:17:16,010 --> 00:17:16,020
+dégager
+ 
+
+935
+00:17:16,020 --> 00:17:19,929
+dégager
+et on peut tester un truc
+
+936
+00:17:19,929 --> 00:17:19,939
+et on peut tester un truc
+ 
+
+937
+00:17:19,939 --> 00:17:23,329
+et on peut tester un truc
+donc là si on se refait le diagramme
+
+938
+00:17:23,329 --> 00:17:23,339
+donc là si on se refait le diagramme
+ 
+
+939
+00:17:23,339 --> 00:17:26,510
+donc là si on se refait le diagramme
+on est dans l'écran initial on a
+
+940
+00:17:26,510 --> 00:17:26,520
+on est dans l'écran initial on a
+ 
+
+941
+00:17:26,520 --> 00:17:27,590
+on est dans l'écran initial on a
+l'implémentation de cette méthode là
+
+942
+00:17:27,590 --> 00:17:27,600
+l'implémentation de cette méthode là
+ 
+
+943
+00:17:27,600 --> 00:17:29,530
+l'implémentation de cette méthode là
+donc ça va chercher la donnée
+
+944
+00:17:29,530 --> 00:17:29,540
+donc ça va chercher la donnée
+ 
+
+945
+00:17:29,540 --> 00:17:31,669
+donc ça va chercher la donnée
+succès fait lueur peu importe on passe
+
+946
+00:17:31,669 --> 00:17:31,679
+succès fait lueur peu importe on passe
+ 
+
+947
+00:17:31,679 --> 00:17:33,770
+succès fait lueur peu importe on passe
+sur l'état suivant si on est en succès
+
+948
+00:17:33,770 --> 00:17:33,780
+sur l'état suivant si on est en succès
+ 
+
+949
+00:17:33,780 --> 00:17:35,330
+sur l'état suivant si on est en succès
+on va vouloir un moment donné réagir à
+
+950
+00:17:35,330 --> 00:17:35,340
+on va vouloir un moment donné réagir à
+ 
+
+951
+00:17:35,340 --> 00:17:37,370
+on va vouloir un moment donné réagir à
+cet événement là pour réagir à cet
+
+952
+00:17:37,370 --> 00:17:37,380
+cet événement là pour réagir à cet
+ 
+
+953
+00:17:37,380 --> 00:17:39,070
+cet événement là pour réagir à cet
+événement là c'est simple aussi le
+
+954
+00:17:39,070 --> 00:17:39,080
+événement là c'est simple aussi le
+ 
+
+955
+00:17:39,080 --> 00:17:40,850
+événement là c'est simple aussi le
+hookeuse machine me donne une deuxième
+
+956
+00:17:40,850 --> 00:17:40,860
+hookeuse machine me donne une deuxième
+ 
+
+957
+00:17:40,860 --> 00:17:43,549
+hookeuse machine me donne une deuxième
+variable qui s'appelle scène qui est une
+
+958
+00:17:43,549 --> 00:17:43,559
+variable qui s'appelle scène qui est une
+ 
+
+959
+00:17:43,559 --> 00:17:45,710
+variable qui s'appelle scène qui est une
+méthode finalement on va pouvoir appeler
+
+960
+00:17:45,710 --> 00:17:45,720
+méthode finalement on va pouvoir appeler
+ 
+
+961
+00:17:45,720 --> 00:17:47,750
+méthode finalement on va pouvoir appeler
+à la place de la méthode fetch qu'on a
+
+962
+00:17:47,750 --> 00:17:47,760
+à la place de la méthode fetch qu'on a
+ 
+
+963
+00:17:47,760 --> 00:17:51,110
+à la place de la méthode fetch qu'on a
+implémenté qu'on a liqué dans le tempête
+
+964
+00:17:51,110 --> 00:17:51,120
+implémenté qu'on a liqué dans le tempête
+ 
+
+965
+00:17:51,120 --> 00:17:53,090
+implémenté qu'on a liqué dans le tempête
+donc je scène un événement et ça va être
+
+966
+00:17:53,090 --> 00:17:53,100
+donc je scène un événement et ça va être
+ 
+
+967
+00:17:53,100 --> 00:17:54,890
+donc je scène un événement et ça va être
+cet événement il porte le nom qu'on a
+
+968
+00:17:54,890 --> 00:17:54,900
+cet événement il porte le nom qu'on a
+ 
+
+969
+00:17:54,900 --> 00:17:58,490
+cet événement il porte le nom qu'on a
+défini dans la machine
+
+970
+00:17:58,490 --> 00:17:58,500
+
+ 
+
+971
+00:17:58,500 --> 00:18:00,610
+
+donc là voilà
+
+972
+00:18:00,610 --> 00:18:00,620
+donc là voilà
+ 
+
+973
+00:18:00,620 --> 00:18:03,230
+donc là voilà
+il a plus de détails d'implémentation il
+
+974
+00:18:03,230 --> 00:18:03,240
+il a plus de détails d'implémentation il
+ 
+
+975
+00:18:03,240 --> 00:18:04,250
+il a plus de détails d'implémentation il
+ne fait que réagir à ce que dit la
+
+976
+00:18:04,250 --> 00:18:04,260
+ne fait que réagir à ce que dit la
+ 
+
+977
+00:18:04,260 --> 00:18:05,930
+ne fait que réagir à ce que dit la
+machine il est complètement dingue c'est
+
+978
+00:18:05,930 --> 00:18:05,940
+machine il est complètement dingue c'est
+ 
+
+979
+00:18:05,940 --> 00:18:10,669
+machine il est complètement dingue c'est
+ce qu'on veut c'est le l'idiome
+
+980
+00:18:10,669 --> 00:18:10,679
+
+ 
+
+981
+00:18:10,679 --> 00:18:12,890
+
+la page
+
+982
+00:18:12,890 --> 00:18:12,900
+la page
+ 
+
+983
+00:18:12,900 --> 00:18:16,450
+la page
+et ça foire
+
+984
+00:18:16,450 --> 00:18:16,460
+
+ 
+
+985
+00:18:16,460 --> 00:18:21,289
+
+merci je recharge login
+
+986
+00:18:21,289 --> 00:18:21,299
+merci je recharge login
+ 
+
+987
+00:18:21,299 --> 00:18:24,950
+merci je recharge login
+j'ai mon citier
+
+988
+00:18:24,950 --> 00:18:24,960
+j'ai mon citier
+ 
+
+989
+00:18:24,960 --> 00:18:27,890
+j'ai mon citier
+donc là en 5 minutes de temps on a
+
+990
+00:18:27,890 --> 00:18:27,900
+donc là en 5 minutes de temps on a
+ 
+
+991
+00:18:27,900 --> 00:18:29,390
+donc là en 5 minutes de temps on a
+complètement changé l'implémentation du
+
+992
+00:18:29,390 --> 00:18:29,400
+complètement changé l'implémentation du
+ 
+
+993
+00:18:29,400 --> 00:18:31,490
+complètement changé l'implémentation du
+template du composant ça fonctionne
+
+994
+00:18:31,490 --> 00:18:31,500
+template du composant ça fonctionne
+ 
+
+995
+00:18:31,500 --> 00:18:33,770
+template du composant ça fonctionne
+c'est ma table si demain je décide de
+
+996
+00:18:33,770 --> 00:18:33,780
+c'est ma table si demain je décide de
+ 
+
+997
+00:18:33,780 --> 00:18:34,970
+c'est ma table si demain je décide de
+revenir dans ma machine et de changer
+
+998
+00:18:34,970 --> 00:18:34,980
+revenir dans ma machine et de changer
+ 
+
+999
+00:18:34,980 --> 00:18:37,250
+revenir dans ma machine et de changer
+l'implémentation soit je peux le faire
+
+1000
+00:18:37,250 --> 00:18:37,260
+l'implémentation soit je peux le faire
+ 
+
+1001
+00:18:37,260 --> 00:18:43,070
+l'implémentation soit je peux le faire
+ça va rien casser
+
+1002
+00:18:43,070 --> 00:18:43,080
+
+ 
+
+1003
+00:18:43,080 --> 00:18:44,750
+
+maintenant un peu plus en détail j'ai
+
+1004
+00:18:44,750 --> 00:18:44,760
+maintenant un peu plus en détail j'ai
+ 
+
+1005
+00:18:44,760 --> 00:18:46,549
+maintenant un peu plus en détail j'ai
+déjà un peu expliqué les règles rapides
+
+1006
+00:18:46,549 --> 00:18:46,559
+déjà un peu expliqué les règles rapides
+ 
+
+1007
+00:18:46,559 --> 00:18:48,250
+déjà un peu expliqué les règles rapides
+de cette machine
+
+1008
+00:18:48,250 --> 00:18:48,260
+de cette machine
+ 
+
+1009
+00:18:48,260 --> 00:18:51,770
+de cette machine
+j'ai 111 récupérer une page de doc de
+
+1010
+00:18:51,770 --> 00:18:51,780
+j'ai 111 récupérer une page de doc de
+ 
+
+1011
+00:18:51,780 --> 00:18:53,810
+j'ai 111 récupérer une page de doc de
+x-test qui est je trouve qui est plutôt
+
+1012
+00:18:53,810 --> 00:18:53,820
+x-test qui est je trouve qui est plutôt
+ 
+
+1013
+00:18:53,820 --> 00:18:55,909
+x-test qui est je trouve qui est plutôt
+bien faite
+
+1014
+00:18:55,909 --> 00:18:55,919
+bien faite
+ 
+
+1015
+00:18:55,919 --> 00:18:57,289
+bien faite
+donc je vous ai déjà dit que le States
+
+1016
+00:18:57,289 --> 00:18:57,299
+donc je vous ai déjà dit que le States
+ 
+
+1017
+00:18:57,299 --> 00:18:59,150
+donc je vous ai déjà dit que le States
+décrit un état à un moment donné de
+
+1018
+00:18:59,150 --> 00:18:59,160
+décrit un état à un moment donné de
+ 
+
+1019
+00:18:59,160 --> 00:19:01,250
+décrit un état à un moment donné de
+l'application on peut être que dans un
+
+1020
+00:19:01,250 --> 00:19:01,260
+l'application on peut être que dans un
+ 
+
+1021
+00:19:01,260 --> 00:19:04,010
+l'application on peut être que dans un
+seul État à un moment donné la cette
+
+1022
+00:19:04,010 --> 00:19:04,020
+seul État à un moment donné la cette
+ 
+
+1023
+00:19:04,020 --> 00:19:05,330
+seul État à un moment donné la cette
+machine elle a un nombre fini d'État
+
+1024
+00:19:05,330 --> 00:19:05,340
+machine elle a un nombre fini d'État
+ 
+
+1025
+00:19:05,340 --> 00:19:06,710
+machine elle a un nombre fini d'État
+donc là typiquement sur l'exemple de
+
+1026
+00:19:06,710 --> 00:19:06,720
+donc là typiquement sur l'exemple de
+ 
+
+1027
+00:19:06,720 --> 00:19:08,630
+donc là typiquement sur l'exemple de
+droite le chien il a que deux états
+
+1028
+00:19:08,630 --> 00:19:08,640
+droite le chien il a que deux états
+ 
+
+1029
+00:19:08,640 --> 00:19:10,310
+droite le chien il a que deux états
+possibles soit il dort soit il est
+
+1030
+00:19:10,310 --> 00:19:10,320
+possibles soit il dort soit il est
+ 
+
+1031
+00:19:10,320 --> 00:19:12,049
+possibles soit il dort soit il est
+réveillé en tout cas dans cette cité de
+
+1032
+00:19:12,049 --> 00:19:12,059
+réveillé en tout cas dans cette cité de
+ 
+
+1033
+00:19:12,059 --> 00:19:14,510
+réveillé en tout cas dans cette cité de
+machines
+
+1034
+00:19:14,510 --> 00:19:14,520
+
+ 
+
+1035
+00:19:14,520 --> 00:19:17,330
+
+on passe d'un state à un autre en
+
+1036
+00:19:17,330 --> 00:19:17,340
+on passe d'un state à un autre en
+ 
+
+1037
+00:19:17,340 --> 00:19:18,890
+on passe d'un state à un autre en
+envoyant des événements donc le French
+
+1038
+00:19:18,890 --> 00:19:18,900
+envoyant des événements donc le French
+ 
+
+1039
+00:19:18,900 --> 00:19:22,250
+envoyant des événements donc le French
+more please c'est un événement et on les
+
+1040
+00:19:22,250 --> 00:19:22,260
+more please c'est un événement et on les
+ 
+
+1041
+00:19:22,260 --> 00:19:23,570
+more please c'est un événement et on les
+branche directement à des états donc si
+
+1042
+00:19:23,570 --> 00:19:23,580
+branche directement à des états donc si
+ 
+
+1043
+00:19:23,580 --> 00:19:24,710
+branche directement à des états donc si
+je le fais je me repli si je l'appelle
+
+1044
+00:19:24,710 --> 00:19:24,720
+je le fais je me repli si je l'appelle
+ 
+
+1045
+00:19:24,720 --> 00:19:26,630
+je le fais je me repli si je l'appelle
+sur un autre état que le disque data ça
+
+1046
+00:19:26,630 --> 00:19:26,640
+sur un autre état que le disque data ça
+ 
+
+1047
+00:19:26,640 --> 00:19:27,650
+sur un autre état que le disque data ça
+fonctionnera pas du tout et c'est
+
+1048
+00:19:27,650 --> 00:19:27,660
+fonctionnera pas du tout et c'est
+ 
+
+1049
+00:19:27,660 --> 00:19:28,789
+fonctionnera pas du tout et c'est
+justement ce qu'on veut on peut pas
+
+1050
+00:19:28,789 --> 00:19:28,799
+justement ce qu'on veut on peut pas
+ 
+
+1051
+00:19:28,799 --> 00:19:29,990
+justement ce qu'on veut on peut pas
+faire le Gremlins avec l'interface c'est
+
+1052
+00:19:29,990 --> 00:19:30,000
+faire le Gremlins avec l'interface c'est
+ 
+
+1053
+00:19:30,000 --> 00:19:33,130
+faire le Gremlins avec l'interface c'est
+pas possible
+
+1054
+00:19:33,130 --> 00:19:33,140
+
+ 
+
+1055
+00:19:33,140 --> 00:19:36,650
+
+une state machine n'a qu'un seul état
+
+1056
+00:19:36,650 --> 00:19:36,660
+une state machine n'a qu'un seul état
+ 
+
+1057
+00:19:36,660 --> 00:19:38,450
+une state machine n'a qu'un seul état
+initial il y a un point d'entrée c'est
+
+1058
+00:19:38,450 --> 00:19:38,460
+initial il y a un point d'entrée c'est
+ 
+
+1059
+00:19:38,460 --> 00:19:39,529
+initial il y a un point d'entrée c'est
+logique on peut pas en avoir plusieurs
+
+1060
+00:19:39,529 --> 00:19:39,539
+logique on peut pas en avoir plusieurs
+ 
+
+1061
+00:19:39,539 --> 00:19:41,330
+logique on peut pas en avoir plusieurs
+de toute façon voilà donc là en
+
+1062
+00:19:41,330 --> 00:19:41,340
+de toute façon voilà donc là en
+ 
+
+1063
+00:19:41,340 --> 00:19:43,190
+de toute façon voilà donc là en
+l'occurrence le chien attend par contre
+
+1064
+00:19:43,190 --> 00:19:43,200
+l'occurrence le chien attend par contre
+ 
+
+1065
+00:19:43,200 --> 00:19:45,590
+l'occurrence le chien attend par contre
+on peut avoir plusieurs états finaux un
+
+1066
+00:19:45,590 --> 00:19:45,600
+on peut avoir plusieurs états finaux un
+ 
+
+1067
+00:19:45,600 --> 00:19:47,870
+on peut avoir plusieurs états finaux un
+état final c'est un moment donné ma
+
+1068
+00:19:47,870 --> 00:19:47,880
+état final c'est un moment donné ma
+ 
+
+1069
+00:19:47,880 --> 00:19:49,549
+état final c'est un moment donné ma
+machine pour potentiellement à une durée
+
+1070
+00:19:49,549 --> 00:19:49,559
+machine pour potentiellement à une durée
+ 
+
+1071
+00:19:49,559 --> 00:19:50,750
+machine pour potentiellement à une durée
+de vie elle s'arrête une machine à café
+
+1072
+00:19:50,750 --> 00:19:50,760
+de vie elle s'arrête une machine à café
+ 
+
+1073
+00:19:50,760 --> 00:19:52,150
+de vie elle s'arrête une machine à café
+par exemple c'est une tête machine
+
+1074
+00:19:52,150 --> 00:19:52,160
+par exemple c'est une tête machine
+ 
+
+1075
+00:19:52,160 --> 00:19:54,650
+par exemple c'est une tête machine
+j'allume ma machine je mets du café je
+
+1076
+00:19:54,650 --> 00:19:54,660
+j'allume ma machine je mets du café je
+ 
+
+1077
+00:19:54,660 --> 00:19:56,510
+j'allume ma machine je mets du café je
+mets mon filtre j'allume ça coule une
+
+1078
+00:19:56,510 --> 00:19:56,520
+mets mon filtre j'allume ça coule une
+ 
+
+1079
+00:19:56,520 --> 00:19:57,950
+mets mon filtre j'allume ça coule une
+fois que c'est coulé ça s'arrête et ta
+
+1080
+00:19:57,950 --> 00:19:57,960
+fois que c'est coulé ça s'arrête et ta
+ 
+
+1081
+00:19:57,960 --> 00:20:00,110
+fois que c'est coulé ça s'arrête et ta
+finale on n'a pas besoin d'attendre quoi
+
+1082
+00:20:00,110 --> 00:20:00,120
+finale on n'a pas besoin d'attendre quoi
+ 
+
+1083
+00:20:00,120 --> 00:20:05,150
+finale on n'a pas besoin d'attendre quoi
+que ce soit
+
+1084
+00:20:05,150 --> 00:20:05,160
+
+ 
+
+1085
+00:20:05,160 --> 00:20:06,890
+
+si on va un peu plus loin on a un
+
+1086
+00:20:06,890 --> 00:20:06,900
+si on va un peu plus loin on a un
+ 
+
+1087
+00:20:06,900 --> 00:20:08,330
+si on va un peu plus loin on a un
+concept qui s'appelle les States charts
+
+1088
+00:20:08,330 --> 00:20:08,340
+concept qui s'appelle les States charts
+ 
+
+1089
+00:20:08,340 --> 00:20:10,010
+concept qui s'appelle les States charts
+donc ça c'est un terme que vous reverrez
+
+1090
+00:20:10,010 --> 00:20:10,020
+donc ça c'est un terme que vous reverrez
+ 
+
+1091
+00:20:10,020 --> 00:20:11,630
+donc ça c'est un terme que vous reverrez
+un petit peu mais par abus de langage
+
+1092
+00:20:11,630 --> 00:20:11,640
+un petit peu mais par abus de langage
+ 
+
+1093
+00:20:11,640 --> 00:20:12,710
+un petit peu mais par abus de langage
+tout le monde dit cette machine mais
+
+1094
+00:20:12,710 --> 00:20:12,720
+tout le monde dit cette machine mais
+ 
+
+1095
+00:20:12,720 --> 00:20:14,390
+tout le monde dit cette machine mais
+pour information les States charts ce
+
+1096
+00:20:14,390 --> 00:20:14,400
+pour information les States charts ce
+ 
+
+1097
+00:20:14,400 --> 00:20:15,529
+pour information les States charts ce
+sont des steppes machines un peu plus
+
+1098
+00:20:15,529 --> 00:20:15,539
+sont des steppes machines un peu plus
+ 
+
+1099
+00:20:15,539 --> 00:20:17,390
+sont des steppes machines un peu plus
+avancés donc là typiquement on peut
+
+1100
+00:20:17,390 --> 00:20:17,400
+avancés donc là typiquement on peut
+ 
+
+1101
+00:20:17,400 --> 00:20:19,610
+avancés donc là typiquement on peut
+arriver dans un cas où on a des une
+
+1102
+00:20:19,610 --> 00:20:19,620
+arriver dans un cas où on a des une
+ 
+
+1103
+00:20:19,620 --> 00:20:20,990
+arriver dans un cas où on a des une
+hiérarchie de steak donc dans un state
+
+1104
+00:20:20,990 --> 00:20:21,000
+hiérarchie de steak donc dans un state
+ 
+
+1105
+00:20:21,000 --> 00:20:22,909
+hiérarchie de steak donc dans un state
+on a plusieurs autres stations on a une
+
+1106
+00:20:22,909 --> 00:20:22,919
+on a plusieurs autres stations on a une
+ 
+
+1107
+00:20:22,919 --> 00:20:24,950
+on a plusieurs autres stations on a une
+relation parents-enfants ça peut être
+
+1108
+00:20:24,950 --> 00:20:24,960
+relation parents-enfants ça peut être
+ 
+
+1109
+00:20:24,960 --> 00:20:26,029
+relation parents-enfants ça peut être
+utile dans certains dans certains cas
+
+1110
+00:20:26,029 --> 00:20:26,039
+utile dans certains dans certains cas
+ 
+
+1111
+00:20:26,039 --> 00:20:27,470
+utile dans certains dans certains cas
+typiquement avec le chien quand il est
+
+1112
+00:20:27,470 --> 00:20:27,480
+typiquement avec le chien quand il est
+ 
+
+1113
+00:20:27,480 --> 00:20:29,330
+typiquement avec le chien quand il est
+en train de marcher il peut aussi faire
+
+1114
+00:20:29,330 --> 00:20:29,340
+en train de marcher il peut aussi faire
+ 
+
+1115
+00:20:29,340 --> 00:20:31,070
+en train de marcher il peut aussi faire
+d'autres choses en même temps
+
+1116
+00:20:31,070 --> 00:20:31,080
+d'autres choses en même temps
+ 
+
+1117
+00:20:31,080 --> 00:20:33,110
+d'autres choses en même temps
+on a aussi les états qu'on dit
+
+1118
+00:20:33,110 --> 00:20:33,120
+on a aussi les états qu'on dit
+ 
+
+1119
+00:20:33,120 --> 00:20:34,490
+on a aussi les états qu'on dit
+parallèles donc là typiquement encore
+
+1120
+00:20:34,490 --> 00:20:34,500
+parallèles donc là typiquement encore
+ 
+
+1121
+00:20:34,500 --> 00:20:35,330
+parallèles donc là typiquement encore
+une fois il reprennent l'exemple du
+
+1122
+00:20:35,330 --> 00:20:35,340
+une fois il reprennent l'exemple du
+ 
+
+1123
+00:20:35,340 --> 00:20:37,310
+une fois il reprennent l'exemple du
+chien qui est en train de marcher il a à
+
+1124
+00:20:37,310 --> 00:20:37,320
+chien qui est en train de marcher il a à
+ 
+
+1125
+00:20:37,320 --> 00:20:38,630
+chien qui est en train de marcher il a à
+la fois l'activité qui occupe son
+
+1126
+00:20:38,630 --> 00:20:38,640
+la fois l'activité qui occupe son
+ 
+
+1127
+00:20:38,640 --> 00:20:40,490
+la fois l'activité qui occupe son
+cerveau on va dire et sa queue qui bouge
+
+1128
+00:20:40,490 --> 00:20:40,500
+cerveau on va dire et sa queue qui bouge
+ 
+
+1129
+00:20:40,500 --> 00:20:42,650
+cerveau on va dire et sa queue qui bouge
+dans tous les sens c'est parallèle c'est
+
+1130
+00:20:42,650 --> 00:20:42,660
+dans tous les sens c'est parallèle c'est
+ 
+
+1131
+00:20:42,660 --> 00:20:46,640
+dans tous les sens c'est parallèle c'est
+pas en séquence ça marche aussi
+
+1132
+00:20:46,640 --> 00:20:46,650
+
+ 
+
+1133
+00:20:46,650 --> 00:20:50,330
+
+[Musique]
+
+1134
+00:20:50,330 --> 00:20:50,340
+
+ 
+
+1135
+00:20:50,340 --> 00:20:53,570
+
+donc la librairie que j'ai utilisé c'est
+
+1136
+00:20:53,570 --> 00:20:53,580
+donc la librairie que j'ai utilisé c'est
+ 
+
+1137
+00:20:53,580 --> 00:20:56,990
+donc la librairie que j'ai utilisé c'est
+la plus grosse librairie en front pour
+
+1138
+00:20:56,990 --> 00:20:57,000
+la plus grosse librairie en front pour
+ 
+
+1139
+00:20:57,000 --> 00:20:58,730
+la plus grosse librairie en front pour
+utiliser les 7 machines pour ne pas dire
+
+1140
+00:20:58,730 --> 00:20:58,740
+utiliser les 7 machines pour ne pas dire
+ 
+
+1141
+00:20:58,740 --> 00:21:01,250
+utiliser les 7 machines pour ne pas dire
+la seule il y en a d'autres mais elles
+
+1142
+00:21:01,250 --> 00:21:01,260
+la seule il y en a d'autres mais elles
+ 
+
+1143
+00:21:01,260 --> 00:21:03,110
+la seule il y en a d'autres mais elles
+sont soit pas maintenues soit beaucoup
+
+1144
+00:21:03,110 --> 00:21:03,120
+sont soit pas maintenues soit beaucoup
+ 
+
+1145
+00:21:03,120 --> 00:21:05,710
+sont soit pas maintenues soit beaucoup
+moins complète en termes de futur
+
+1146
+00:21:05,710 --> 00:21:05,720
+moins complète en termes de futur
+ 
+
+1147
+00:21:05,720 --> 00:21:07,730
+moins complète en termes de futur
+je vous ai mis le lien du site si vous
+
+1148
+00:21:07,730 --> 00:21:07,740
+je vous ai mis le lien du site si vous
+ 
+
+1149
+00:21:07,740 --> 00:21:09,830
+je vous ai mis le lien du site si vous
+voulez aller voir à quoi ça ressemble et
+
+1150
+00:21:09,830 --> 00:21:09,840
+voulez aller voir à quoi ça ressemble et
+ 
+
+1151
+00:21:09,840 --> 00:21:11,330
+voulez aller voir à quoi ça ressemble et
+ça a été créé par David courschild qui
+
+1152
+00:21:11,330 --> 00:21:11,340
+ça a été créé par David courschild qui
+ 
+
+1153
+00:21:11,340 --> 00:21:13,310
+ça a été créé par David courschild qui
+s'appelle David kepiano c'est pas son
+
+1154
+00:21:13,310 --> 00:21:13,320
+s'appelle David kepiano c'est pas son
+ 
+
+1155
+00:21:13,320 --> 00:21:14,510
+s'appelle David kepiano c'est pas son
+nom tout le monde pense que c'est son
+
+1156
+00:21:14,510 --> 00:21:14,520
+nom tout le monde pense que c'est son
+ 
+
+1157
+00:21:14,520 --> 00:21:15,289
+nom tout le monde pense que c'est son
+nom de famille mais c'est pas le cas
+
+1158
+00:21:15,289 --> 00:21:15,299
+nom de famille mais c'est pas le cas
+ 
+
+1159
+00:21:15,299 --> 00:21:17,450
+nom de famille mais c'est pas le cas
+c'est un ancien Microsoft il a quitté
+
+1160
+00:21:17,450 --> 00:21:17,460
+c'est un ancien Microsoft il a quitté
+ 
+
+1161
+00:21:17,460 --> 00:21:18,650
+c'est un ancien Microsoft il a quitté
+Microsoft justement pour monter une box
+
+1162
+00:21:18,650 --> 00:21:18,660
+Microsoft justement pour monter une box
+ 
+
+1163
+00:21:18,660 --> 00:21:20,390
+Microsoft justement pour monter une box
+qui s'appelle stakee il a monté il y a
+
+1164
+00:21:20,390 --> 00:21:20,400
+qui s'appelle stakee il a monté il y a
+ 
+
+1165
+00:21:20,400 --> 00:21:22,669
+qui s'appelle stakee il a monté il y a
+un an je crois ou deux et l'idée c'est
+
+1166
+00:21:22,669 --> 00:21:22,679
+un an je crois ou deux et l'idée c'est
+ 
+
+1167
+00:21:22,679 --> 00:21:24,310
+un an je crois ou deux et l'idée c'est
+justement de de
+
+1168
+00:21:24,310 --> 00:21:24,320
+justement de de
+ 
+
+1169
+00:21:24,320 --> 00:21:26,150
+justement de de
+progresser encore sur la prévention de
+
+1170
+00:21:26,150 --> 00:21:26,160
+progresser encore sur la prévention de
+ 
+
+1171
+00:21:26,160 --> 00:21:27,230
+progresser encore sur la prévention de
+la librairie de proposer des services
+
+1172
+00:21:27,230 --> 00:21:27,240
+la librairie de proposer des services
+ 
+
+1173
+00:21:27,240 --> 00:21:28,310
+la librairie de proposer des services
+d'ailleurs donc l'éditeur que vous avez
+
+1174
+00:21:28,310 --> 00:21:28,320
+d'ailleurs donc l'éditeur que vous avez
+ 
+
+1175
+00:21:28,320 --> 00:21:30,890
+d'ailleurs donc l'éditeur que vous avez
+vu visuel c'est un produit statique qui
+
+1176
+00:21:30,890 --> 00:21:30,900
+vu visuel c'est un produit statique qui
+ 
+
+1177
+00:21:30,900 --> 00:21:32,330
+vu visuel c'est un produit statique qui
+est gratuit pour des projets publics
+
+1178
+00:21:32,330 --> 00:21:32,340
+est gratuit pour des projets publics
+ 
+
+1179
+00:21:32,340 --> 00:21:34,789
+est gratuit pour des projets publics
+mais on peut très facilement avoir un
+
+1180
+00:21:34,789 --> 00:21:34,799
+mais on peut très facilement avoir un
+ 
+
+1181
+00:21:34,799 --> 00:21:36,710
+mais on peut très facilement avoir un
+produit payant pour avoir des figures en
+
+1182
+00:21:36,710 --> 00:21:36,720
+produit payant pour avoir des figures en
+ 
+
+1183
+00:21:36,720 --> 00:21:37,850
+produit payant pour avoir des figures en
+plus
+
+1184
+00:21:37,850 --> 00:21:37,860
+plus
+ 
+
+1185
+00:21:37,860 --> 00:21:39,529
+plus
+donc cette librairie là le chère à la
+
+1186
+00:21:39,529 --> 00:21:39,539
+donc cette librairie là le chère à la
+ 
+
+1187
+00:21:39,539 --> 00:21:40,909
+donc cette librairie là le chère à la
+fois laisser machine et les 7 charts
+
+1188
+00:21:40,909 --> 00:21:40,919
+fois laisser machine et les 7 charts
+ 
+
+1189
+00:21:40,919 --> 00:21:44,029
+fois laisser machine et les 7 charts
+donc je vous remets les les intérêts des
+
+1190
+00:21:44,029 --> 00:21:44,039
+donc je vous remets les les intérêts des
+ 
+
+1191
+00:21:44,039 --> 00:21:46,730
+donc je vous remets les les intérêts des
+stats cette librairie là elle est
+
+1192
+00:21:46,730 --> 00:21:46,740
+stats cette librairie là elle est
+ 
+
+1193
+00:21:46,740 --> 00:21:47,930
+stats cette librairie là elle est
+disponible dans tous les frameworks
+
+1194
+00:21:47,930 --> 00:21:47,940
+disponible dans tous les frameworks
+ 
+
+1195
+00:21:47,940 --> 00:21:50,330
+disponible dans tous les frameworks
+principaux donc réac angularsvelt vu etc
+
+1196
+00:21:50,330 --> 00:21:50,340
+principaux donc réac angularsvelt vu etc
+ 
+
+1197
+00:21:50,340 --> 00:21:52,310
+principaux donc réac angularsvelt vu etc
+etc il y a aussi une variante qui
+
+1198
+00:21:52,310 --> 00:21:52,320
+etc il y a aussi une variante qui
+ 
+
+1199
+00:21:52,320 --> 00:21:53,990
+etc il y a aussi une variante qui
+s'appelle FSM si ça vous intéresse si
+
+1200
+00:21:53,990 --> 00:21:54,000
+s'appelle FSM si ça vous intéresse si
+ 
+
+1201
+00:21:54,000 --> 00:21:55,190
+s'appelle FSM si ça vous intéresse si
+vous êtes dans un dans un environnement
+
+1202
+00:21:55,190 --> 00:21:55,200
+vous êtes dans un dans un environnement
+ 
+
+1203
+00:21:55,200 --> 00:21:58,190
+vous êtes dans un dans un environnement
+très contraint FSM c'est xtent mais
+
+1204
+00:21:58,190 --> 00:21:58,200
+très contraint FSM c'est xtent mais
+ 
+
+1205
+00:21:58,200 --> 00:21:59,390
+très contraint FSM c'est xtent mais
+juste pour la partie state machine on
+
+1206
+00:21:59,390 --> 00:21:59,400
+juste pour la partie state machine on
+ 
+
+1207
+00:21:59,400 --> 00:22:00,350
+juste pour la partie state machine on
+s'occupe pas du tout des têtes charts
+
+1208
+00:22:00,350 --> 00:22:00,360
+s'occupe pas du tout des têtes charts
+ 
+
+1209
+00:22:00,360 --> 00:22:01,010
+s'occupe pas du tout des têtes charts
+donc c'est beaucoup plus light
+
+1210
+00:22:01,010 --> 00:22:01,020
+donc c'est beaucoup plus light
+ 
+
+1211
+00:22:01,020 --> 00:22:03,789
+donc c'est beaucoup plus light
+évidemment à télécharger et exécuter
+
+1212
+00:22:03,789 --> 00:22:03,799
+évidemment à télécharger et exécuter
+ 
+
+1213
+00:22:03,799 --> 00:22:05,810
+évidemment à télécharger et exécuter
+et stati il y a aussi développé une
+
+1214
+00:22:05,810 --> 00:22:05,820
+et stati il y a aussi développé une
+ 
+
+1215
+00:22:05,820 --> 00:22:09,470
+et stati il y a aussi développé une
+extension vs code qui en fait est plus
+
+1216
+00:22:09,470 --> 00:22:09,480
+extension vs code qui en fait est plus
+ 
+
+1217
+00:22:09,480 --> 00:22:11,149
+extension vs code qui en fait est plus
+ou moins le stati Editor mais embarqué
+
+1218
+00:22:11,149 --> 00:22:11,159
+ou moins le stati Editor mais embarqué
+ 
+
+1219
+00:22:11,159 --> 00:22:13,430
+ou moins le stati Editor mais embarqué
+dans vscode je vais vous montrer ça
+
+1220
+00:22:13,430 --> 00:22:13,440
+dans vscode je vais vous montrer ça
+ 
+
+1221
+00:22:13,440 --> 00:22:16,490
+dans vscode je vais vous montrer ça
+après
+
+1222
+00:22:16,490 --> 00:22:16,500
+
+ 
+
+1223
+00:22:16,500 --> 00:22:19,310
+
+je vais vous montrer ça maintenant
+
+1224
+00:22:19,310 --> 00:22:19,320
+je vais vous montrer ça maintenant
+ 
+
+1225
+00:22:19,320 --> 00:22:21,289
+je vais vous montrer ça maintenant
+donc là j'ai mon vscode encore une fois
+
+1226
+00:22:21,289 --> 00:22:21,299
+donc là j'ai mon vscode encore une fois
+ 
+
+1227
+00:22:21,299 --> 00:22:23,330
+donc là j'ai mon vscode encore une fois
+j'ai l'extension qui a installée je vais
+
+1228
+00:22:23,330 --> 00:22:23,340
+j'ai l'extension qui a installée je vais
+ 
+
+1229
+00:22:23,340 --> 00:22:23,930
+j'ai l'extension qui a installée je vais
+vous montrer ça je pense que vous
+
+1230
+00:22:23,930 --> 00:22:23,940
+vous montrer ça je pense que vous
+ 
+
+1231
+00:22:23,940 --> 00:22:24,610
+vous montrer ça je pense que vous
+connaissez tous comment ça marche
+
+1232
+00:22:24,610 --> 00:22:24,620
+connaissez tous comment ça marche
+ 
+
+1233
+00:22:24,620 --> 00:22:26,570
+connaissez tous comment ça marche
+automatiquement il y a des actions qui
+
+1234
+00:22:26,570 --> 00:22:26,580
+automatiquement il y a des actions qui
+ 
+
+1235
+00:22:26,580 --> 00:22:28,490
+automatiquement il y a des actions qui
+sont qui sont mises au dessus alors
+
+1236
+00:22:28,490 --> 00:22:28,500
+sont qui sont mises au dessus alors
+ 
+
+1237
+00:22:28,500 --> 00:22:31,010
+sont qui sont mises au dessus alors
+l'inspecteur c'est sympa mais c'est un
+
+1238
+00:22:31,010 --> 00:22:31,020
+l'inspecteur c'est sympa mais c'est un
+ 
+
+1239
+00:22:31,020 --> 00:22:32,810
+l'inspecteur c'est sympa mais c'est un
+peu limité en fait c'est le l'ancien
+
+1240
+00:22:32,810 --> 00:22:32,820
+peu limité en fait c'est le l'ancien
+ 
+
+1241
+00:22:32,820 --> 00:22:35,090
+peu limité en fait c'est le l'ancien
+inspecteur l'ancien visualiseur de cette
+
+1242
+00:22:35,090 --> 00:22:35,100
+inspecteur l'ancien visualiseur de cette
+ 
+
+1243
+00:22:35,100 --> 00:22:38,149
+inspecteur l'ancien visualiseur de cette
+machine on va dire de i7 qui est qui va
+
+1244
+00:22:38,149 --> 00:22:38,159
+machine on va dire de i7 qui est qui va
+ 
+
+1245
+00:22:38,159 --> 00:22:39,350
+machine on va dire de i7 qui est qui va
+être déprécié à un moment donné ce qui
+
+1246
+00:22:39,350 --> 00:22:39,360
+être déprécié à un moment donné ce qui
+ 
+
+1247
+00:22:39,360 --> 00:22:40,010
+être déprécié à un moment donné ce qui
+est intéressant c'est surtout le
+
+1248
+00:22:40,010 --> 00:22:40,020
+est intéressant c'est surtout le
+ 
+
+1249
+00:22:40,020 --> 00:22:43,669
+est intéressant c'est surtout le
+l'éditeur donc là à partir du code que
+
+1250
+00:22:43,669 --> 00:22:43,679
+l'éditeur donc là à partir du code que
+ 
+
+1251
+00:22:43,679 --> 00:22:44,930
+l'éditeur donc là à partir du code que
+vous voyez à gauche automatiquement
+
+1252
+00:22:44,930 --> 00:22:44,940
+vous voyez à gauche automatiquement
+ 
+
+1253
+00:22:44,940 --> 00:22:46,669
+vous voyez à gauche automatiquement
+l'extension à générer le diagramme qui
+
+1254
+00:22:46,669 --> 00:22:46,679
+l'extension à générer le diagramme qui
+ 
+
+1255
+00:22:46,679 --> 00:22:48,529
+l'extension à générer le diagramme qui
+est à droite
+
+1256
+00:22:48,529 --> 00:22:48,539
+est à droite
+ 
+
+1257
+00:22:48,539 --> 00:22:50,029
+est à droite
+on retrouve exactement la même interface
+
+1258
+00:22:50,029 --> 00:22:50,039
+on retrouve exactement la même interface
+ 
+
+1259
+00:22:50,039 --> 00:22:53,029
+on retrouve exactement la même interface
+c'est typiquement uniframe quoi on
+
+1260
+00:22:53,029 --> 00:22:53,039
+c'est typiquement uniframe quoi on
+ 
+
+1261
+00:22:53,039 --> 00:22:54,169
+c'est typiquement uniframe quoi on
+retrouve les mêmes états les mêmes
+
+1262
+00:22:54,169 --> 00:22:54,179
+retrouve les mêmes états les mêmes
+ 
+
+1263
+00:22:54,179 --> 00:22:56,149
+retrouve les mêmes états les mêmes
+événements etc et ce qui est intéressant
+
+1264
+00:22:56,149 --> 00:22:56,159
+événements etc et ce qui est intéressant
+ 
+
+1265
+00:22:56,159 --> 00:22:57,649
+événements etc et ce qui est intéressant
+c'est que on peut voir ici qu'au
+
+1266
+00:22:57,649 --> 00:22:57,659
+c'est que on peut voir ici qu'au
+ 
+
+1267
+00:22:57,659 --> 00:22:59,210
+c'est que on peut voir ici qu'au
+automatiquement il m'a rajouté un
+
+1268
+00:22:59,210 --> 00:22:59,220
+automatiquement il m'a rajouté un
+ 
+
+1269
+00:22:59,220 --> 00:23:01,730
+automatiquement il m'a rajouté un
+commentaire en fait c'est il stock le
+
+1270
+00:23:01,730 --> 00:23:01,740
+commentaire en fait c'est il stock le
+ 
+
+1271
+00:23:01,740 --> 00:23:03,890
+commentaire en fait c'est il stock le
+layout l'organisation que j'ai décidé de
+
+1272
+00:23:03,890 --> 00:23:03,900
+layout l'organisation que j'ai décidé de
+ 
+
+1273
+00:23:03,900 --> 00:23:05,750
+layout l'organisation que j'ai décidé de
+dans ma machine donc je la perds pas à
+
+1274
+00:23:05,750 --> 00:23:05,760
+dans ma machine donc je la perds pas à
+ 
+
+1275
+00:23:05,760 --> 00:23:06,350
+dans ma machine donc je la perds pas à
+chaque fois que je reviens parce que
+
+1276
+00:23:06,350 --> 00:23:06,360
+chaque fois que je reviens parce que
+ 
+
+1277
+00:23:06,360 --> 00:23:08,810
+chaque fois que je reviens parce que
+comme vous avez pu voir l'hôtel c'est
+
+1278
+00:23:08,810 --> 00:23:08,820
+comme vous avez pu voir l'hôtel c'est
+ 
+
+1279
+00:23:08,820 --> 00:23:10,130
+comme vous avez pu voir l'hôtel c'est
+pas fou ce sera amélioré dans le temps
+
+1280
+00:23:10,130 --> 00:23:10,140
+pas fou ce sera amélioré dans le temps
+ 
+
+1281
+00:23:10,140 --> 00:23:11,710
+pas fou ce sera amélioré dans le temps
+mais bon pour l'instant c'est pas génial
+
+1282
+00:23:11,710 --> 00:23:11,720
+mais bon pour l'instant c'est pas génial
+ 
+
+1283
+00:23:11,720 --> 00:23:13,610
+mais bon pour l'instant c'est pas génial
+mais ce qui est surtout cool c'est que
+
+1284
+00:23:13,610 --> 00:23:13,620
+mais ce qui est surtout cool c'est que
+ 
+
+1285
+00:23:13,620 --> 00:23:15,529
+mais ce qui est surtout cool c'est que
+bah je peux créer une machine de zéro
+
+1286
+00:23:15,529 --> 00:23:15,539
+bah je peux créer une machine de zéro
+ 
+
+1287
+00:23:15,539 --> 00:23:17,810
+bah je peux créer une machine de zéro
+depuis vscode je peux même la mettre à
+
+1288
+00:23:17,810 --> 00:23:17,820
+depuis vscode je peux même la mettre à
+ 
+
+1289
+00:23:17,820 --> 00:23:19,850
+depuis vscode je peux même la mettre à
+jour donc là si j'écris un truc à la fin
+
+1290
+00:23:19,850 --> 00:23:19,860
+jour donc là si j'écris un truc à la fin
+ 
+
+1291
+00:23:19,860 --> 00:23:21,770
+jour donc là si j'écris un truc à la fin
+on peut voir qu'à gauche mon état a été
+
+1292
+00:23:21,770 --> 00:23:21,780
+on peut voir qu'à gauche mon état a été
+ 
+
+1293
+00:23:21,780 --> 00:23:23,750
+on peut voir qu'à gauche mon état a été
+mis à jour je peux tirer des nouveaux
+
+1294
+00:23:23,750 --> 00:23:23,760
+mis à jour je peux tirer des nouveaux
+ 
+
+1295
+00:23:23,760 --> 00:23:26,029
+mis à jour je peux tirer des nouveaux
+des nouveaux événements etc etc enfin
+
+1296
+00:23:26,029 --> 00:23:26,039
+des nouveaux événements etc etc enfin
+ 
+
+1297
+00:23:26,039 --> 00:23:28,370
+des nouveaux événements etc etc enfin
+c'est très très
+
+1298
+00:23:28,370 --> 00:23:28,380
+c'est très très
+ 
+
+1299
+00:23:28,380 --> 00:23:31,070
+c'est très très
+très powerful si je mets à jour ma
+
+1300
+00:23:31,070 --> 00:23:31,080
+très powerful si je mets à jour ma
+ 
+
+1301
+00:23:31,080 --> 00:23:32,570
+très powerful si je mets à jour ma
+machine depuis le code c'est la même
+
+1302
+00:23:32,570 --> 00:23:32,580
+machine depuis le code c'est la même
+ 
+
+1303
+00:23:32,580 --> 00:23:35,510
+machine depuis le code c'est la même
+chose le diagramme se met à jour et on a
+
+1304
+00:23:35,510 --> 00:23:35,520
+chose le diagramme se met à jour et on a
+ 
+
+1305
+00:23:35,520 --> 00:23:37,070
+chose le diagramme se met à jour et on a
+vraiment une relation synchronisée entre
+
+1306
+00:23:37,070 --> 00:23:37,080
+vraiment une relation synchronisée entre
+ 
+
+1307
+00:23:37,080 --> 00:23:40,330
+vraiment une relation synchronisée entre
+les deux quoi
+
+1308
+00:23:40,330 --> 00:23:40,340
+
+ 
+
+1309
+00:23:40,340 --> 00:23:42,909
+
+autre truc sympa avec cette extension là
+
+1310
+00:23:42,909 --> 00:23:42,919
+autre truc sympa avec cette extension là
+ 
+
+1311
+00:23:42,919 --> 00:23:45,470
+autre truc sympa avec cette extension là
+si jamais
+
+1312
+00:23:45,470 --> 00:23:45,480
+si jamais
+ 
+
+1313
+00:23:45,480 --> 00:23:48,890
+si jamais
+je suis en type script sur le projet il
+
+1314
+00:23:48,890 --> 00:23:48,900
+je suis en type script sur le projet il
+ 
+
+1315
+00:23:48,900 --> 00:23:51,590
+je suis en type script sur le projet il
+suffit juste que je rajoute cette petite
+
+1316
+00:23:51,590 --> 00:23:51,600
+suffit juste que je rajoute cette petite
+ 
+
+1317
+00:23:51,600 --> 00:23:53,930
+suffit juste que je rajoute cette petite
+propriété
+
+1318
+00:23:53,930 --> 00:23:53,940
+propriété
+ 
+
+1319
+00:23:53,940 --> 00:23:55,310
+propriété
+pour que automatiquement quand je
+
+1320
+00:23:55,310 --> 00:23:55,320
+pour que automatiquement quand je
+ 
+
+1321
+00:23:55,320 --> 00:23:57,529
+pour que automatiquement quand je
+sauvegarde il me génère un fichier juste
+
+1322
+00:23:57,529 --> 00:23:57,539
+sauvegarde il me génère un fichier juste
+ 
+
+1323
+00:23:57,539 --> 00:24:00,289
+sauvegarde il me génère un fichier juste
+à côté qui en fait et la génération du
+
+1324
+00:24:00,289 --> 00:24:00,299
+à côté qui en fait et la génération du
+ 
+
+1325
+00:24:00,299 --> 00:24:02,270
+à côté qui en fait et la génération du
+type de ma machine ce qui veut dire que
+
+1326
+00:24:02,270 --> 00:24:02,280
+type de ma machine ce qui veut dire que
+ 
+
+1327
+00:24:02,280 --> 00:24:03,529
+type de ma machine ce qui veut dire que
+depuis mon composant depuis le pain
+
+1328
+00:24:03,529 --> 00:24:03,539
+depuis mon composant depuis le pain
+ 
+
+1329
+00:24:03,539 --> 00:24:05,090
+depuis mon composant depuis le pain
+n'importe quelle fonction je vais
+
+1330
+00:24:05,090 --> 00:24:05,100
+n'importe quelle fonction je vais
+ 
+
+1331
+00:24:05,100 --> 00:24:07,090
+n'importe quelle fonction je vais
+consommer master machine j'aurais
+
+1332
+00:24:07,090 --> 00:24:07,100
+consommer master machine j'aurais
+ 
+
+1333
+00:24:07,100 --> 00:24:09,850
+consommer master machine j'aurais
+l'auto-complétion et et
+
+1334
+00:24:09,850 --> 00:24:09,860
+l'auto-complétion et et
+ 
+
+1335
+00:24:09,860 --> 00:24:11,630
+l'auto-complétion et et
+un Link si vous voulez sur la machine
+
+1336
+00:24:11,630 --> 00:24:11,640
+un Link si vous voulez sur la machine
+ 
+
+1337
+00:24:11,640 --> 00:24:13,190
+un Link si vous voulez sur la machine
+sur le nom des états le nom des
+
+1338
+00:24:13,190 --> 00:24:13,200
+sur le nom des états le nom des
+ 
+
+1339
+00:24:13,200 --> 00:24:14,570
+sur le nom des états le nom des
+événements les pelotes que je peux
+
+1340
+00:24:14,570 --> 00:24:14,580
+événements les pelotes que je peux
+ 
+
+1341
+00:24:14,580 --> 00:24:16,370
+événements les pelotes que je peux
+envoyer toutes les signatures qu'on
+
+1342
+00:24:16,370 --> 00:24:16,380
+envoyer toutes les signatures qu'on
+ 
+
+1343
+00:24:16,380 --> 00:24:26,810
+envoyer toutes les signatures qu'on
+pourrait imaginer dans la cette machine
+
+1344
+00:24:26,810 --> 00:24:26,820
+
+ 
+
+1345
+00:24:26,820 --> 00:24:31,730
+
+ok parce que ça marche toujours
+
+1346
+00:24:31,730 --> 00:24:31,740
+
+ 
+
+1347
+00:24:31,740 --> 00:24:35,149
+
+yes
+
+1348
+00:24:35,149 --> 00:24:35,159
+
+ 
+
+1349
+00:24:35,159 --> 00:24:36,430
+
+nouveau concept
+
+1350
+00:24:36,430 --> 00:24:36,440
+nouveau concept
+ 
+
+1351
+00:24:36,440 --> 00:24:38,810
+nouveau concept
+la problématique qu'avec cette librairie
+
+1352
+00:24:38,810 --> 00:24:38,820
+la problématique qu'avec cette librairie
+ 
+
+1353
+00:24:38,820 --> 00:24:39,890
+la problématique qu'avec cette librairie
+là c'est que il faut réapprendre
+
+1354
+00:24:39,890 --> 00:24:39,900
+là c'est que il faut réapprendre
+ 
+
+1355
+00:24:39,900 --> 00:24:41,690
+là c'est que il faut réapprendre
+beaucoup de vocabulaire si vous vous y
+
+1356
+00:24:41,690 --> 00:24:41,700
+beaucoup de vocabulaire si vous vous y
+ 
+
+1357
+00:24:41,700 --> 00:24:42,950
+beaucoup de vocabulaire si vous vous y
+mettez je sais que ça va être pénible je
+
+1358
+00:24:42,950 --> 00:24:42,960
+mettez je sais que ça va être pénible je
+ 
+
+1359
+00:24:42,960 --> 00:24:45,350
+mettez je sais que ça va être pénible je
+suis avec vous il faut réapprendre un
+
+1360
+00:24:45,350 --> 00:24:45,360
+suis avec vous il faut réapprendre un
+ 
+
+1361
+00:24:45,360 --> 00:24:47,570
+suis avec vous il faut réapprendre un
+peu tout le vocabulaire donc contexte et
+
+1362
+00:24:47,570 --> 00:24:47,580
+peu tout le vocabulaire donc contexte et
+ 
+
+1363
+00:24:47,580 --> 00:24:50,390
+peu tout le vocabulaire donc contexte et
+action c'est plus ou moins un steak
+
+1364
+00:24:50,390 --> 00:24:50,400
+action c'est plus ou moins un steak
+ 
+
+1365
+00:24:50,400 --> 00:24:53,870
+action c'est plus ou moins un steak
+management dans les sept machines
+
+1366
+00:24:53,870 --> 00:24:53,880
+management dans les sept machines
+ 
+
+1367
+00:24:53,880 --> 00:24:56,570
+management dans les sept machines
+parce que si on revient sur la sur notre
+
+1368
+00:24:56,570 --> 00:24:56,580
+parce que si on revient sur la sur notre
+ 
+
+1369
+00:24:56,580 --> 00:24:58,690
+parce que si on revient sur la sur notre
+éditeur on a
+
+1370
+00:24:58,690 --> 00:24:58,700
+éditeur on a
+ 
+
+1371
+00:24:58,700 --> 00:25:01,610
+éditeur on a
+visualisé un comportement en termes du X
+
+1372
+00:25:01,610 --> 00:25:01,620
+visualisé un comportement en termes du X
+ 
+
+1373
+00:25:01,620 --> 00:25:03,490
+visualisé un comportement en termes du X
+comportement d'applications
+
+1374
+00:25:03,490 --> 00:25:03,500
+comportement d'applications
+ 
+
+1375
+00:25:03,500 --> 00:25:05,750
+comportement d'applications
+on va chercher de la donnée à un moment
+
+1376
+00:25:05,750 --> 00:25:05,760
+on va chercher de la donnée à un moment
+ 
+
+1377
+00:25:05,760 --> 00:25:07,789
+on va chercher de la donnée à un moment
+donné sur une API ça a du sens de la
+
+1378
+00:25:07,789 --> 00:25:07,799
+donné sur une API ça a du sens de la
+ 
+
+1379
+00:25:07,799 --> 00:25:09,409
+donné sur une API ça a du sens de la
+garder sous la main à côté et pouvoir
+
+1380
+00:25:09,409 --> 00:25:09,419
+garder sous la main à côté et pouvoir
+ 
+
+1381
+00:25:09,419 --> 00:25:10,789
+garder sous la main à côté et pouvoir
+réagir à cette donnée là potentiellement
+
+1382
+00:25:10,789 --> 00:25:10,799
+réagir à cette donnée là potentiellement
+ 
+
+1383
+00:25:10,799 --> 00:25:13,190
+réagir à cette donnée là potentiellement
+mettre des conditions etc et donc du
+
+1384
+00:25:13,190 --> 00:25:13,200
+mettre des conditions etc et donc du
+ 
+
+1385
+00:25:13,200 --> 00:25:15,110
+mettre des conditions etc et donc du
+coup pour ça il y a cette petite
+
+1386
+00:25:15,110 --> 00:25:15,120
+coup pour ça il y a cette petite
+ 
+
+1387
+00:25:15,120 --> 00:25:16,250
+coup pour ça il y a cette petite
+propriété là qui s'appelle le contexte
+
+1388
+00:25:16,250 --> 00:25:16,260
+propriété là qui s'appelle le contexte
+ 
+
+1389
+00:25:16,260 --> 00:25:19,210
+propriété là qui s'appelle le contexte
+contexte c'est le State typiquement
+
+1390
+00:25:19,210 --> 00:25:19,220
+contexte c'est le State typiquement
+ 
+
+1391
+00:25:19,220 --> 00:25:23,930
+contexte c'est le State typiquement
+donc typiquement dans à l'endroit où je
+
+1392
+00:25:23,930 --> 00:25:23,940
+donc typiquement dans à l'endroit où je
+ 
+
+1393
+00:25:23,940 --> 00:25:25,250
+donc typiquement dans à l'endroit où je
+vais déclarer l'invocation de mon
+
+1394
+00:25:25,250 --> 00:25:25,260
+vais déclarer l'invocation de mon
+ 
+
+1395
+00:25:25,260 --> 00:25:27,529
+vais déclarer l'invocation de mon
+service qui va récupérer ma données je
+
+1396
+00:25:27,529 --> 00:25:27,539
+service qui va récupérer ma données je
+ 
+
+1397
+00:25:27,539 --> 00:25:29,450
+service qui va récupérer ma données je
+vais pouvoir dire ok une fois que tu
+
+1398
+00:25:29,450 --> 00:25:29,460
+vais pouvoir dire ok une fois que tu
+ 
+
+1399
+00:25:29,460 --> 00:25:31,010
+vais pouvoir dire ok une fois que tu
+l'as cette donnée là j'ai envie que tu
+
+1400
+00:25:31,010 --> 00:25:31,020
+l'as cette donnée là j'ai envie que tu
+ 
+
+1401
+00:25:31,020 --> 00:25:32,149
+l'as cette donnée là j'ai envie que tu
+la stock
+
+1402
+00:25:32,149 --> 00:25:32,159
+la stock
+ 
+
+1403
+00:25:32,159 --> 00:25:34,310
+la stock
+pour ça il y a une méthode qui s'appelle
+
+1404
+00:25:34,310 --> 00:25:34,320
+pour ça il y a une méthode qui s'appelle
+ 
+
+1405
+00:25:34,320 --> 00:25:40,149
+pour ça il y a une méthode qui s'appelle
+une fonction qui s'appelle
+
+1406
+00:25:40,149 --> 00:25:40,159
+
+ 
+
+1407
+00:25:40,159 --> 00:25:43,070
+
+lui sa seule mission c'est d'enregistrer
+
+1408
+00:25:43,070 --> 00:25:43,080
+lui sa seule mission c'est d'enregistrer
+ 
+
+1409
+00:25:43,080 --> 00:25:44,690
+lui sa seule mission c'est d'enregistrer
+des choses dans le contexte donc dans le
+
+1410
+00:25:44,690 --> 00:25:44,700
+des choses dans le contexte donc dans le
+ 
+
+1411
+00:25:44,700 --> 00:25:47,570
+des choses dans le contexte donc dans le
+State de l'application et donc en
+
+1412
+00:25:47,570 --> 00:25:47,580
+State de l'application et donc en
+ 
+
+1413
+00:25:47,580 --> 00:25:48,830
+State de l'application et donc en
+l'occurrence on lui donne une fonction
+
+1414
+00:25:48,830 --> 00:25:48,840
+l'occurrence on lui donne une fonction
+ 
+
+1415
+00:25:48,840 --> 00:25:52,310
+l'occurrence on lui donne une fonction
+qui va retourner un objet et dans cet
+
+1416
+00:25:52,310 --> 00:25:52,320
+qui va retourner un objet et dans cet
+ 
+
+1417
+00:25:52,320 --> 00:25:54,769
+qui va retourner un objet et dans cet
+objet là on va donner du coup la mise à
+
+1418
+00:25:54,769 --> 00:25:54,779
+objet là on va donner du coup la mise à
+ 
+
+1419
+00:25:54,779 --> 00:25:57,049
+objet là on va donner du coup la mise à
+jour du contexte donc si dans mon
+
+1420
+00:25:57,049 --> 00:25:57,059
+jour du contexte donc si dans mon
+ 
+
+1421
+00:25:57,059 --> 00:25:58,850
+jour du contexte donc si dans mon
+contexte je dis à un moment donné je
+
+1422
+00:25:58,850 --> 00:25:58,860
+contexte je dis à un moment donné je
+ 
+
+1423
+00:25:58,860 --> 00:26:00,649
+contexte je dis à un moment donné je
+veux que on stocke m'a donné c'est un
+
+1424
+00:26:00,649 --> 00:26:00,659
+veux que on stocke m'a donné c'est un
+ 
+
+1425
+00:26:00,659 --> 00:26:02,269
+veux que on stocke m'a donné c'est un
+arrêt vide par défaut mais je veux y
+
+1426
+00:26:02,269 --> 00:26:02,279
+arrêt vide par défaut mais je veux y
+ 
+
+1427
+00:26:02,279 --> 00:26:03,529
+arrêt vide par défaut mais je veux y
+mettre des choses
+
+1428
+00:26:03,529 --> 00:26:03,539
+mettre des choses
+ 
+
+1429
+00:26:03,539 --> 00:26:06,289
+mettre des choses
+dans à l'endroit où je vais invoquer mon
+
+1430
+00:26:06,289 --> 00:26:06,299
+dans à l'endroit où je vais invoquer mon
+ 
+
+1431
+00:26:06,299 --> 00:26:08,630
+dans à l'endroit où je vais invoquer mon
+service si jamais je suis en succès donc
+
+1432
+00:26:08,630 --> 00:26:08,640
+service si jamais je suis en succès donc
+ 
+
+1433
+00:26:08,640 --> 00:26:10,490
+service si jamais je suis en succès donc
+je veux aller sur display data avant
+
+1434
+00:26:10,490 --> 00:26:10,500
+je veux aller sur display data avant
+ 
+
+1435
+00:26:10,500 --> 00:26:11,870
+je veux aller sur display data avant
+d'aller sur disque data je vais voir
+
+1436
+00:26:11,870 --> 00:26:11,880
+d'aller sur disque data je vais voir
+ 
+
+1437
+00:26:11,880 --> 00:26:15,110
+d'aller sur disque data je vais voir
+exécuter cette action là et dire OK
+
+1438
+00:26:15,110 --> 00:26:15,120
+exécuter cette action là et dire OK
+ 
+
+1439
+00:26:15,120 --> 00:26:16,970
+exécuter cette action là et dire OK
+je reçois ça en argument donc on reçoit
+
+1440
+00:26:16,970 --> 00:26:16,980
+je reçois ça en argument donc on reçoit
+ 
+
+1441
+00:26:16,980 --> 00:26:18,590
+je reçois ça en argument donc on reçoit
+toujours une copie du contexte actuel et
+
+1442
+00:26:18,590 --> 00:26:18,600
+toujours une copie du contexte actuel et
+ 
+
+1443
+00:26:18,600 --> 00:26:20,230
+toujours une copie du contexte actuel et
+l'événement qui a été appelé pour
+
+1444
+00:26:20,230 --> 00:26:20,240
+l'événement qui a été appelé pour
+ 
+
+1445
+00:26:20,240 --> 00:26:23,390
+l'événement qui a été appelé pour
+générer cette transition là et en sortie
+
+1446
+00:26:23,390 --> 00:26:23,400
+générer cette transition là et en sortie
+ 
+
+1447
+00:26:23,400 --> 00:26:25,789
+générer cette transition là et en sortie
+je veux dire ok le la propriété de Data
+
+1448
+00:26:25,789 --> 00:26:25,799
+je veux dire ok le la propriété de Data
+ 
+
+1449
+00:26:25,799 --> 00:26:28,010
+je veux dire ok le la propriété de Data
+de mon contexte je vais lui assigner le
+
+1450
+00:26:28,010 --> 00:26:28,020
+de mon contexte je vais lui assigner le
+ 
+
+1451
+00:26:28,020 --> 00:26:31,070
+de mon contexte je vais lui assigner le
+pélo que j'ai reçu
+
+1452
+00:26:31,070 --> 00:26:31,080
+
+ 
+
+1453
+00:26:31,080 --> 00:26:35,090
+
+cette logique là on peut la reprendre
+
+1454
+00:26:35,090 --> 00:26:35,100
+cette logique là on peut la reprendre
+ 
+
+1455
+00:26:35,100 --> 00:26:37,669
+cette logique là on peut la reprendre
+et la mettre juste en dessous
+
+1456
+00:26:37,669 --> 00:26:37,679
+et la mettre juste en dessous
+ 
+
+1457
+00:26:37,679 --> 00:26:40,370
+et la mettre juste en dessous
+alors là je la copie colle comme un
+
+1458
+00:26:40,370 --> 00:26:40,380
+alors là je la copie colle comme un
+ 
+
+1459
+00:26:40,380 --> 00:26:42,950
+alors là je la copie colle comme un
+sagouin mais il y a moyen de la de la
+
+1460
+00:26:42,950 --> 00:26:42,960
+sagouin mais il y a moyen de la de la
+ 
+
+1461
+00:26:42,960 --> 00:26:45,049
+sagouin mais il y a moyen de la de la
+mettre en commun dans cette machine il y
+
+1462
+00:26:45,049 --> 00:26:45,059
+mettre en commun dans cette machine il y
+ 
+
+1463
+00:26:45,059 --> 00:26:45,830
+mettre en commun dans cette machine il y
+a moyen de faire plus propre que ça mais
+
+1464
+00:26:45,830 --> 00:26:45,840
+a moyen de faire plus propre que ça mais
+ 
+
+1465
+00:26:45,840 --> 00:26:47,409
+a moyen de faire plus propre que ça mais
+là pour aller vite je le fais comme ça
+
+1466
+00:26:47,409 --> 00:26:47,419
+là pour aller vite je le fais comme ça
+ 
+
+1467
+00:26:47,419 --> 00:26:50,269
+là pour aller vite je le fais comme ça
+et une fois qu'on a fait ça ça veut dire
+
+1468
+00:26:50,269 --> 00:26:50,279
+et une fois qu'on a fait ça ça veut dire
+ 
+
+1469
+00:26:50,279 --> 00:26:52,070
+et une fois qu'on a fait ça ça veut dire
+que à partir du moment où on a fait chez
+
+1470
+00:26:52,070 --> 00:26:52,080
+que à partir du moment où on a fait chez
+ 
+
+1471
+00:26:52,080 --> 00:26:53,390
+que à partir du moment où on a fait chez
+la donnée on l'a bien mise dans le
+
+1472
+00:26:53,390 --> 00:26:53,400
+la donnée on l'a bien mise dans le
+ 
+
+1473
+00:26:53,400 --> 00:26:55,669
+la donnée on l'a bien mise dans le
+contexte depuis composant on peut aller
+
+1474
+00:26:55,669 --> 00:26:55,679
+contexte depuis composant on peut aller
+ 
+
+1475
+00:26:55,679 --> 00:26:58,789
+contexte depuis composant on peut aller
+la récupérer donc là où avant on a
+
+1476
+00:26:58,789 --> 00:26:58,799
+la récupérer donc là où avant on a
+ 
+
+1477
+00:26:58,799 --> 00:27:00,350
+la récupérer donc là où avant on a
+utilisé directement la variable data qui
+
+1478
+00:27:00,350 --> 00:27:00,360
+utilisé directement la variable data qui
+ 
+
+1479
+00:27:00,360 --> 00:27:01,669
+utilisé directement la variable data qui
+venait de la librairie de fait
+
+1480
+00:27:01,669 --> 00:27:01,679
+venait de la librairie de fait
+ 
+
+1481
+00:27:01,679 --> 00:27:03,789
+venait de la librairie de fait
+finalement on va aller pouvoir utiliser
+
+1482
+00:27:03,789 --> 00:27:03,799
+finalement on va aller pouvoir utiliser
+ 
+
+1483
+00:27:03,799 --> 00:27:06,289
+finalement on va aller pouvoir utiliser
+toujours mon state de la machine qui est
+
+1484
+00:27:06,289 --> 00:27:06,299
+toujours mon state de la machine qui est
+ 
+
+1485
+00:27:06,299 --> 00:27:07,549
+toujours mon state de la machine qui est
+retournée
+
+1486
+00:27:07,549 --> 00:27:07,559
+retournée
+ 
+
+1487
+00:27:07,559 --> 00:27:09,529
+retournée
+qui contient mon contexte
+
+1488
+00:27:09,529 --> 00:27:09,539
+qui contient mon contexte
+ 
+
+1489
+00:27:09,539 --> 00:27:12,529
+qui contient mon contexte
+qui contient ma propriété data et là on
+
+1490
+00:27:12,529 --> 00:27:12,539
+qui contient ma propriété data et là on
+ 
+
+1491
+00:27:12,539 --> 00:27:15,350
+qui contient ma propriété data et là on
+voit qu'on peut supprimer cette chose là
+
+1492
+00:27:15,350 --> 00:27:15,360
+voit qu'on peut supprimer cette chose là
+ 
+
+1493
+00:27:15,360 --> 00:27:17,330
+voit qu'on peut supprimer cette chose là
+si on revient sur la machine
+
+1494
+00:27:17,330 --> 00:27:17,340
+si on revient sur la machine
+ 
+
+1495
+00:27:17,340 --> 00:27:19,610
+si on revient sur la machine
+ça marche de nouveau
+
+1496
+00:27:19,610 --> 00:27:19,620
+ça marche de nouveau
+ 
+
+1497
+00:27:19,620 --> 00:27:23,289
+ça marche de nouveau
+c'est magique
+
+1498
+00:27:23,289 --> 00:27:23,299
+
+ 
+
+1499
+00:27:23,299 --> 00:27:25,669
+
+je vais pas aller plus loin dans les
+
+1500
+00:27:25,669 --> 00:27:25,679
+je vais pas aller plus loin dans les
+ 
+
+1501
+00:27:25,679 --> 00:27:27,769
+je vais pas aller plus loin dans les
+futurs de Dick state ou des step machine
+
+1502
+00:27:27,769 --> 00:27:27,779
+futurs de Dick state ou des step machine
+ 
+
+1503
+00:27:27,779 --> 00:27:29,570
+futurs de Dick state ou des step machine
+en général parce que je voulais pas
+
+1504
+00:27:29,570 --> 00:27:29,580
+en général parce que je voulais pas
+ 
+
+1505
+00:27:29,580 --> 00:27:31,490
+en général parce que je voulais pas
+faire un talk avec trop d'informations
+
+1506
+00:27:31,490 --> 00:27:31,500
+faire un talk avec trop d'informations
+ 
+
+1507
+00:27:31,500 --> 00:27:34,070
+faire un talk avec trop d'informations
+mais pour info il est possible de
+
+1508
+00:27:34,070 --> 00:27:34,080
+mais pour info il est possible de
+ 
+
+1509
+00:27:34,080 --> 00:27:35,330
+mais pour info il est possible de
+déclencher ce genre d'action comme je
+
+1510
+00:27:35,330 --> 00:27:35,340
+déclencher ce genre d'action comme je
+ 
+
+1511
+00:27:35,340 --> 00:27:36,710
+déclencher ce genre d'action comme je
+vous ai montré là automatiquement en
+
+1512
+00:27:36,710 --> 00:27:36,720
+vous ai montré là automatiquement en
+ 
+
+1513
+00:27:36,720 --> 00:27:40,010
+vous ai montré là automatiquement en
+entrée ou en sortie d'un état je sais
+
+1514
+00:27:40,010 --> 00:27:40,020
+entrée ou en sortie d'un état je sais
+ 
+
+1515
+00:27:40,020 --> 00:27:41,690
+entrée ou en sortie d'un état je sais
+pas pour vider de la donnée en sortie ou
+
+1516
+00:27:41,690 --> 00:27:41,700
+pas pour vider de la donnée en sortie ou
+ 
+
+1517
+00:27:41,700 --> 00:27:43,850
+pas pour vider de la donnée en sortie ou
+ce que vous voulez peu importe ça existe
+
+1518
+00:27:43,850 --> 00:27:43,860
+ce que vous voulez peu importe ça existe
+ 
+
+1519
+00:27:43,860 --> 00:27:45,529
+ce que vous voulez peu importe ça existe
+il y a un concept qu'on appelle les
+
+1520
+00:27:45,529 --> 00:27:45,539
+il y a un concept qu'on appelle les
+ 
+
+1521
+00:27:45,539 --> 00:27:48,409
+il y a un concept qu'on appelle les
+gardes aussi on a vu que quand on est
+
+1522
+00:27:48,409 --> 00:27:48,419
+gardes aussi on a vu que quand on est
+ 
+
+1523
+00:27:48,419 --> 00:27:50,870
+gardes aussi on a vu que quand on est
+dans la dans la cette machine si je
+
+1524
+00:27:50,870 --> 00:27:50,880
+dans la dans la cette machine si je
+ 
+
+1525
+00:27:50,880 --> 00:28:00,130
+dans la dans la cette machine si je
+reviens dans le diagramme
+
+1526
+00:28:00,130 --> 00:28:00,140
+
+ 
+
+1527
+00:28:00,140 --> 00:28:01,669
+
+tout ce qu'on fait depuis tout à l'heure
+
+1528
+00:28:01,669 --> 00:28:01,679
+tout ce qu'on fait depuis tout à l'heure
+ 
+
+1529
+00:28:01,679 --> 00:28:03,649
+tout ce qu'on fait depuis tout à l'heure
+c'est je suis dans un état je vais sur
+
+1530
+00:28:03,649 --> 00:28:03,659
+c'est je suis dans un état je vais sur
+ 
+
+1531
+00:28:03,659 --> 00:28:06,049
+c'est je suis dans un état je vais sur
+un autre état mais c'est une relation un
+
+1532
+00:28:06,049 --> 00:28:06,059
+un autre état mais c'est une relation un
+ 
+
+1533
+00:28:06,059 --> 00:28:07,970
+un autre état mais c'est une relation un
+il y a il y a pas plusieurs branches
+
+1534
+00:28:07,970 --> 00:28:07,980
+il y a il y a pas plusieurs branches
+ 
+
+1535
+00:28:07,980 --> 00:28:09,830
+il y a il y a pas plusieurs branches
+possible les gardes permettent
+
+1536
+00:28:09,830 --> 00:28:09,840
+possible les gardes permettent
+ 
+
+1537
+00:28:09,840 --> 00:28:11,890
+possible les gardes permettent
+d'implémenter ça si
+
+1538
+00:28:11,890 --> 00:28:11,900
+d'implémenter ça si
+ 
+
+1539
+00:28:11,900 --> 00:28:14,750
+d'implémenter ça si
+admettons je reçois ma données il m'a
+
+1540
+00:28:14,750 --> 00:28:14,760
+admettons je reçois ma données il m'a
+ 
+
+1541
+00:28:14,760 --> 00:28:15,590
+admettons je reçois ma données il m'a
+donné peut avoir plusieurs formes
+
+1542
+00:28:15,590 --> 00:28:15,600
+donné peut avoir plusieurs formes
+ 
+
+1543
+00:28:15,600 --> 00:28:17,750
+donné peut avoir plusieurs formes
+différentes admettons je pourrais très
+
+1544
+00:28:17,750 --> 00:28:17,760
+différentes admettons je pourrais très
+ 
+
+1545
+00:28:17,760 --> 00:28:19,070
+différentes admettons je pourrais très
+bien mettre plusieurs conditions vers
+
+1546
+00:28:19,070 --> 00:28:19,080
+bien mettre plusieurs conditions vers
+ 
+
+1547
+00:28:19,080 --> 00:28:20,750
+bien mettre plusieurs conditions vers
+plusieurs États et dire grâce à des
+
+1548
+00:28:20,750 --> 00:28:20,760
+plusieurs États et dire grâce à des
+ 
+
+1549
+00:28:20,760 --> 00:28:23,149
+plusieurs États et dire grâce à des
+gardes ah ok si la donnée reçue c'est du
+
+1550
+00:28:23,149 --> 00:28:23,159
+gardes ah ok si la donnée reçue c'est du
+ 
+
+1551
+00:28:23,159 --> 00:28:24,769
+gardes ah ok si la donnée reçue c'est du
+type machin je vais là si c'est du type
+
+1552
+00:28:24,769 --> 00:28:24,779
+type machin je vais là si c'est du type
+ 
+
+1553
+00:28:24,779 --> 00:28:27,169
+type machin je vais là si c'est du type
+machin je vais là etc etc donc encore
+
+1554
+00:28:27,169 --> 00:28:27,179
+machin je vais là etc etc donc encore
+ 
+
+1555
+00:28:27,179 --> 00:28:27,890
+machin je vais là etc etc donc encore
+une fois je vais pas vous montrer
+
+1556
+00:28:27,890 --> 00:28:27,900
+une fois je vais pas vous montrer
+ 
+
+1557
+00:28:27,900 --> 00:28:29,390
+une fois je vais pas vous montrer
+maintenant ça a pas d'intérêt c'est
+
+1558
+00:28:29,390 --> 00:28:29,400
+maintenant ça a pas d'intérêt c'est
+ 
+
+1559
+00:28:29,400 --> 00:28:32,049
+maintenant ça a pas d'intérêt c'est
+relativement simple de toute façon
+
+1560
+00:28:32,049 --> 00:28:32,059
+relativement simple de toute façon
+ 
+
+1561
+00:28:32,059 --> 00:28:34,010
+relativement simple de toute façon
+il y a ce qu'on appelle les delights
+
+1562
+00:28:34,010 --> 00:28:34,020
+il y a ce qu'on appelle les delights
+ 
+
+1563
+00:28:34,020 --> 00:28:36,049
+il y a ce qu'on appelle les delights
+transition aussi ça c'est le fait de
+
+1564
+00:28:36,049 --> 00:28:36,059
+transition aussi ça c'est le fait de
+ 
+
+1565
+00:28:36,059 --> 00:28:37,730
+transition aussi ça c'est le fait de
+dire ok je suis dans un état je vais
+
+1566
+00:28:37,730 --> 00:28:37,740
+dire ok je suis dans un état je vais
+ 
+
+1567
+00:28:37,740 --> 00:28:38,870
+dire ok je suis dans un état je vais
+aller dans un autre état mais j'y vais
+
+1568
+00:28:38,870 --> 00:28:38,880
+aller dans un autre état mais j'y vais
+ 
+
+1569
+00:28:38,880 --> 00:28:40,370
+aller dans un autre état mais j'y vais
+dans deux secondes si jamais il se passe
+
+1570
+00:28:40,370 --> 00:28:40,380
+dans deux secondes si jamais il se passe
+ 
+
+1571
+00:28:40,380 --> 00:28:41,630
+dans deux secondes si jamais il se passe
+quoi que ce soit avant je peux l'annuler
+
+1572
+00:28:41,630 --> 00:28:41,640
+quoi que ce soit avant je peux l'annuler
+ 
+
+1573
+00:28:41,640 --> 00:28:43,130
+quoi que ce soit avant je peux l'annuler
+c'est pas grave mais si dans deux
+
+1574
+00:28:43,130 --> 00:28:43,140
+c'est pas grave mais si dans deux
+ 
+
+1575
+00:28:43,140 --> 00:28:44,210
+c'est pas grave mais si dans deux
+secondes il s'est rien passé bah là à ce
+
+1576
+00:28:44,210 --> 00:28:44,220
+secondes il s'est rien passé bah là à ce
+ 
+
+1577
+00:28:44,220 --> 00:28:45,409
+secondes il s'est rien passé bah là à ce
+moment là je vais y aller assez
+
+1578
+00:28:45,409 --> 00:28:45,419
+moment là je vais y aller assez
+ 
+
+1579
+00:28:45,419 --> 00:28:47,690
+moment là je vais y aller assez
+classique comme comportement et ce qui
+
+1580
+00:28:47,690 --> 00:28:47,700
+classique comme comportement et ce qui
+ 
+
+1581
+00:28:47,700 --> 00:28:49,370
+classique comme comportement et ce qui
+est assez cool c'est que ça permet de
+
+1582
+00:28:49,370 --> 00:28:49,380
+est assez cool c'est que ça permet de
+ 
+
+1583
+00:28:49,380 --> 00:28:51,049
+est assez cool c'est que ça permet de
+générer automatiquement les tests parce
+
+1584
+00:28:51,049 --> 00:28:51,059
+générer automatiquement les tests parce
+ 
+
+1585
+00:28:51,059 --> 00:28:52,549
+générer automatiquement les tests parce
+que une fois qu'on a un diagramme
+
+1586
+00:28:52,549 --> 00:28:52,559
+que une fois qu'on a un diagramme
+ 
+
+1587
+00:28:52,559 --> 00:28:54,169
+que une fois qu'on a un diagramme
+logique de tout le comportement de mon
+
+1588
+00:28:54,169 --> 00:28:54,179
+logique de tout le comportement de mon
+ 
+
+1589
+00:28:54,179 --> 00:28:56,149
+logique de tout le comportement de mon
+application et il est relativement il
+
+1590
+00:28:56,149 --> 00:28:56,159
+application et il est relativement il
+ 
+
+1591
+00:28:56,159 --> 00:28:57,409
+application et il est relativement il
+est exhaustif parce qu'on a tous les
+
+1592
+00:28:57,409 --> 00:28:57,419
+est exhaustif parce qu'on a tous les
+ 
+
+1593
+00:28:57,419 --> 00:28:58,850
+est exhaustif parce qu'on a tous les
+états possibles
+
+1594
+00:28:58,850 --> 00:28:58,860
+états possibles
+ 
+
+1595
+00:28:58,860 --> 00:29:02,210
+états possibles
+c'est assez c'est facile en tout cas ça
+
+1596
+00:29:02,210 --> 00:29:02,220
+c'est assez c'est facile en tout cas ça
+ 
+
+1597
+00:29:02,220 --> 00:29:03,289
+c'est assez c'est facile en tout cas ça
+existe un hybride qui permet de le faire
+
+1598
+00:29:03,289 --> 00:29:03,299
+existe un hybride qui permet de le faire
+ 
+
+1599
+00:29:03,299 --> 00:29:05,690
+existe un hybride qui permet de le faire
+qui va calculer automatiquement tous les
+
+1600
+00:29:05,690 --> 00:29:05,700
+qui va calculer automatiquement tous les
+ 
+
+1601
+00:29:05,700 --> 00:29:07,250
+qui va calculer automatiquement tous les
+chemins possibles dans l'application le
+
+1602
+00:29:07,250 --> 00:29:07,260
+chemins possibles dans l'application le
+ 
+
+1603
+00:29:07,260 --> 00:29:09,169
+chemins possibles dans l'application le
+plus court le plus long et tous les
+
+1604
+00:29:09,169 --> 00:29:09,179
+plus court le plus long et tous les
+ 
+
+1605
+00:29:09,179 --> 00:29:10,149
+plus court le plus long et tous les
+entre deux
+
+1606
+00:29:10,149 --> 00:29:10,159
+entre deux
+ 
+
+1607
+00:29:10,159 --> 00:29:13,190
+entre deux
+et si à chaque État on implémente une
+
+1608
+00:29:13,190 --> 00:29:13,200
+et si à chaque État on implémente une
+ 
+
+1609
+00:29:13,200 --> 00:29:15,250
+et si à chaque État on implémente une
+méthode d'insertion
+
+1610
+00:29:15,250 --> 00:29:15,260
+méthode d'insertion
+ 
+
+1611
+00:29:15,260 --> 00:29:17,630
+méthode d'insertion
+typiquement est-ce que j'ai le bon titre
+
+1612
+00:29:17,630 --> 00:29:17,640
+typiquement est-ce que j'ai le bon titre
+ 
+
+1613
+00:29:17,640 --> 00:29:18,649
+typiquement est-ce que j'ai le bon titre
+dans la page est-ce que j'ai le bon
+
+1614
+00:29:18,649 --> 00:29:18,659
+dans la page est-ce que j'ai le bon
+ 
+
+1615
+00:29:18,659 --> 00:29:20,510
+dans la page est-ce que j'ai le bon
+widget etc ma automatiquement il va être
+
+1616
+00:29:20,510 --> 00:29:20,520
+widget etc ma automatiquement il va être
+ 
+
+1617
+00:29:20,520 --> 00:29:21,710
+widget etc ma automatiquement il va être
+capable de lancer tous les chemins
+
+1618
+00:29:21,710 --> 00:29:21,720
+capable de lancer tous les chemins
+ 
+
+1619
+00:29:21,720 --> 00:29:23,210
+capable de lancer tous les chemins
+possibles de l'application avec toutes
+
+1620
+00:29:23,210 --> 00:29:23,220
+possibles de l'application avec toutes
+ 
+
+1621
+00:29:23,220 --> 00:29:24,529
+possibles de l'application avec toutes
+les étapes d'insertion avec toutes les
+
+1622
+00:29:24,529 --> 00:29:24,539
+les étapes d'insertion avec toutes les
+ 
+
+1623
+00:29:24,539 --> 00:29:26,110
+les étapes d'insertion avec toutes les
+fonctions d'insertion et on est sûr que
+
+1624
+00:29:26,110 --> 00:29:26,120
+fonctions d'insertion et on est sûr que
+ 
+
+1625
+00:29:26,120 --> 00:29:28,490
+fonctions d'insertion et on est sûr que
+le l'application est toujours dans un
+
+1626
+00:29:28,490 --> 00:29:28,500
+le l'application est toujours dans un
+ 
+
+1627
+00:29:28,500 --> 00:29:31,250
+le l'application est toujours dans un
+état correct
+
+1628
+00:29:31,250 --> 00:29:31,260
+
+ 
+
+1629
+00:29:31,260 --> 00:29:33,769
+
+ça ça existe aujourd'hui mais
+
+1630
+00:29:33,769 --> 00:29:33,779
+ça ça existe aujourd'hui mais
+ 
+
+1631
+00:29:33,779 --> 00:29:35,450
+ça ça existe aujourd'hui mais
+l'implémentation est pas folle parce que
+
+1632
+00:29:35,450 --> 00:29:35,460
+l'implémentation est pas folle parce que
+ 
+
+1633
+00:29:35,460 --> 00:29:36,710
+l'implémentation est pas folle parce que
+on est obligé de coupler un petit peu de
+
+1634
+00:29:36,710 --> 00:29:36,720
+on est obligé de coupler un petit peu de
+ 
+
+1635
+00:29:36,720 --> 00:29:38,210
+on est obligé de coupler un petit peu de
+la logique de test dans la dans l'Assi
+
+1636
+00:29:38,210 --> 00:29:38,220
+la logique de test dans la dans l'Assi
+ 
+
+1637
+00:29:38,220 --> 00:29:39,710
+la logique de test dans la dans l'Assi
+cette machine de prod ce qui est pas
+
+1638
+00:29:39,710 --> 00:29:39,720
+cette machine de prod ce qui est pas
+ 
+
+1639
+00:29:39,720 --> 00:29:41,269
+cette machine de prod ce qui est pas
+génial mais il bosse depuis un moment
+
+1640
+00:29:41,269 --> 00:29:41,279
+génial mais il bosse depuis un moment
+ 
+
+1641
+00:29:41,279 --> 00:29:43,130
+génial mais il bosse depuis un moment
+maintenant sur la version 5 de quitted
+
+1642
+00:29:43,130 --> 00:29:43,140
+maintenant sur la version 5 de quitted
+ 
+
+1643
+00:29:43,140 --> 00:29:45,049
+maintenant sur la version 5 de quitted
+qui va normalement sortir j'espère dans
+
+1644
+00:29:45,049 --> 00:29:45,059
+qui va normalement sortir j'espère dans
+ 
+
+1645
+00:29:45,059 --> 00:29:46,789
+qui va normalement sortir j'espère dans
+les prochains mois et puis du coup un
+
+1646
+00:29:46,789 --> 00:29:46,799
+les prochains mois et puis du coup un
+ 
+
+1647
+00:29:46,799 --> 00:29:48,950
+les prochains mois et puis du coup un
+découpage total et ça sera beaucoup plus
+
+1648
+00:29:48,950 --> 00:29:48,960
+découpage total et ça sera beaucoup plus
+ 
+
+1649
+00:29:48,960 --> 00:29:53,029
+découpage total et ça sera beaucoup plus
+intéressant à utiliser
+
+1650
+00:29:53,029 --> 00:29:53,039
+
+ 
+
+1651
+00:29:53,039 --> 00:29:55,549
+
+voilà c'était tout pour moi si jamais
+
+1652
+00:29:55,549 --> 00:29:55,559
+voilà c'était tout pour moi si jamais
+ 
+
+1653
+00:29:55,559 --> 00:29:56,750
+voilà c'était tout pour moi si jamais
+vous voulez me contacter je vous ai mis
+
+1654
+00:29:56,750 --> 00:29:56,760
+vous voulez me contacter je vous ai mis
+ 
+
+1655
+00:29:56,760 --> 00:29:57,830
+vous voulez me contacter je vous ai mis
+les liens vous voyez que j'ai beaucoup
+
+1656
+00:29:57,830 --> 00:29:57,840
+les liens vous voyez que j'ai beaucoup
+ 
+
+1657
+00:29:57,840 --> 00:29:59,510
+les liens vous voyez que j'ai beaucoup
+d'imagination sur les sur les noms de
+
+1658
+00:29:59,510 --> 00:29:59,520
+d'imagination sur les sur les noms de
+ 
+
+1659
+00:29:59,520 --> 00:30:03,049
+d'imagination sur les sur les noms de
+mes comptes je suis front engineer chez
+
+1660
+00:30:03,049 --> 00:30:03,059
+mes comptes je suis front engineer chez
+ 
+
+1661
+00:30:03,059 --> 00:30:04,250
+mes comptes je suis front engineer chez
+back market aujourd'hui on est au
+
+1662
+00:30:04,250 --> 00:30:04,260
+back market aujourd'hui on est au
+ 
+
+1663
+00:30:04,260 --> 00:30:07,389
+back market aujourd'hui on est au
+bassinfo à Bordeaux salut
+
+1664
+00:30:07,389 --> 00:30:07,399
+bassinfo à Bordeaux salut
+ 
+
+1665
+00:30:07,399 --> 00:30:09,769
+bassinfo à Bordeaux salut
+et voilà c'est tout pour moi si vous
+
+1666
+00:30:09,769 --> 00:30:09,779
+et voilà c'est tout pour moi si vous
+ 
+
+1667
+00:30:09,779 --> 00:30:11,210
+et voilà c'est tout pour moi si vous
+voulez donner un feedback vous avez le
+
+1668
+00:30:11,210 --> 00:30:11,220
+voulez donner un feedback vous avez le
+ 
+
+1669
+00:30:11,220 --> 00:30:12,110
+voulez donner un feedback vous avez le
+QR code qui est là ou le lien qui est
+
+1670
+00:30:12,110 --> 00:30:12,120
+QR code qui est là ou le lien qui est
+ 
+
+1671
+00:30:12,120 --> 00:30:17,220
+QR code qui est là ou le lien qui est
+juste en dessous merci beaucoup
+
+1672
+00:30:17,220 --> 00:30:17,230
+
+ 
+
+1673
+00:30:17,230 --> 00:30:22,430
+
+[Applaudissements]
+
+1674
+00:30:22,430 --> 00:30:22,440
+[Applaudissements]
+ 
+
+1675
+00:30:22,440 --> 00:30:37,010
+[Applaudissements]
+est-ce que vous avez des questions
+
+1676
+00:30:37,010 --> 00:30:37,020
+
+ 
+
+1677
+00:30:37,020 --> 00:30:39,649
+
+merci beaucoup pour la présentation je
+
+1678
+00:30:39,649 --> 00:30:39,659
+merci beaucoup pour la présentation je
+ 
+
+1679
+00:30:39,659 --> 00:30:42,350
+merci beaucoup pour la présentation je
+voulais savoir en terme d'État comment
+
+1680
+00:30:42,350 --> 00:30:42,360
+voulais savoir en terme d'État comment
+ 
+
+1681
+00:30:42,360 --> 00:30:45,289
+voulais savoir en terme d'État comment
+ça s'intègre avec des stores est-ce
+
+1682
+00:30:45,289 --> 00:30:45,299
+ça s'intègre avec des stores est-ce
+ 
+
+1683
+00:30:45,299 --> 00:30:46,970
+ça s'intègre avec des stores est-ce
+qu'il y a la possibilité d'engrais ou
+
+1684
+00:30:46,970 --> 00:30:46,980
+qu'il y a la possibilité d'engrais ou
+ 
+
+1685
+00:30:46,980 --> 00:30:49,370
+qu'il y a la possibilité d'engrais ou
+faut faire sa manuellement parce que tu
+
+1686
+00:30:49,370 --> 00:30:49,380
+faut faire sa manuellement parce que tu
+ 
+
+1687
+00:30:49,380 --> 00:30:50,930
+faut faire sa manuellement parce que tu
+nous as montré toute la partie contexte
+
+1688
+00:30:50,930 --> 00:30:50,940
+nous as montré toute la partie contexte
+ 
+
+1689
+00:30:50,940 --> 00:30:52,909
+nous as montré toute la partie contexte
+est-ce que c'est on peut combiner ça
+
+1690
+00:30:52,909 --> 00:30:52,919
+est-ce que c'est on peut combiner ça
+ 
+
+1691
+00:30:52,919 --> 00:30:56,110
+est-ce que c'est on peut combiner ça
+avec un store pignables x Redux
+
+1692
+00:30:56,110 --> 00:30:56,120
+avec un store pignables x Redux
+ 
+
+1693
+00:30:56,120 --> 00:30:58,549
+avec un store pignables x Redux
+ça reste du JS derrière donc il y a pas
+
+1694
+00:30:58,549 --> 00:30:58,559
+ça reste du JS derrière donc il y a pas
+ 
+
+1695
+00:30:58,559 --> 00:31:01,130
+ça reste du JS derrière donc il y a pas
+d'incompatibilité en soi après ça dépend
+
+1696
+00:31:01,130 --> 00:31:01,140
+d'incompatibilité en soi après ça dépend
+ 
+
+1697
+00:31:01,140 --> 00:31:03,649
+d'incompatibilité en soi après ça dépend
+du design que tu veux xtate gère un
+
+1698
+00:31:03,649 --> 00:31:03,659
+du design que tu veux xtate gère un
+ 
+
+1699
+00:31:03,659 --> 00:31:05,090
+du design que tu veux xtate gère un
+contexte si j'ai un state mais c'est pas
+
+1700
+00:31:05,090 --> 00:31:05,100
+contexte si j'ai un state mais c'est pas
+ 
+
+1701
+00:31:05,100 --> 00:31:06,590
+contexte si j'ai un state mais c'est pas
+c'est pas pour ça qu'il faut gérer tout
+
+1702
+00:31:06,590 --> 00:31:06,600
+c'est pas pour ça qu'il faut gérer tout
+ 
+
+1703
+00:31:06,600 --> 00:31:07,430
+c'est pas pour ça qu'il faut gérer tout
+le contexte de l'application à
+
+1704
+00:31:07,430 --> 00:31:07,440
+le contexte de l'application à
+ 
+
+1705
+00:31:07,440 --> 00:31:09,049
+le contexte de l'application à
+l'intérieur c'est bien de justement
+
+1706
+00:31:09,049 --> 00:31:09,059
+l'intérieur c'est bien de justement
+ 
+
+1707
+00:31:09,059 --> 00:31:11,269
+l'intérieur c'est bien de justement
+coupler la logique en termes de
+
+1708
+00:31:11,269 --> 00:31:11,279
+coupler la logique en termes de
+ 
+
+1709
+00:31:11,279 --> 00:31:13,010
+coupler la logique en termes de
+transition et d'état avec la donnée qui
+
+1710
+00:31:13,010 --> 00:31:13,020
+transition et d'état avec la donnée qui
+ 
+
+1711
+00:31:13,020 --> 00:31:15,409
+transition et d'état avec la donnée qui
+est manipulée mais ça a pas vocation à
+
+1712
+00:31:15,409 --> 00:31:15,419
+est manipulée mais ça a pas vocation à
+ 
+
+1713
+00:31:15,419 --> 00:31:17,330
+est manipulée mais ça a pas vocation à
+gérer toute le l'état de l'application
+
+1714
+00:31:17,330 --> 00:31:17,340
+gérer toute le l'état de l'application
+ 
+
+1715
+00:31:17,340 --> 00:31:20,149
+gérer toute le l'état de l'application
+donc avoir un store à côté qui va gérer
+
+1716
+00:31:20,149 --> 00:31:20,159
+donc avoir un store à côté qui va gérer
+ 
+
+1717
+00:31:20,159 --> 00:31:21,409
+donc avoir un store à côté qui va gérer
+le reste de la donnée de l'application
+
+1718
+00:31:21,409 --> 00:31:21,419
+le reste de la donnée de l'application
+ 
+
+1719
+00:31:21,419 --> 00:31:23,630
+le reste de la donnée de l'application
+ça a du sens les faire interagir entre
+
+1720
+00:31:23,630 --> 00:31:23,640
+ça a du sens les faire interagir entre
+ 
+
+1721
+00:31:23,640 --> 00:31:24,830
+ça a du sens les faire interagir entre
+eux parce que des fois c'est nécessaire
+
+1722
+00:31:24,830 --> 00:31:24,840
+eux parce que des fois c'est nécessaire
+ 
+
+1723
+00:31:24,840 --> 00:31:26,330
+eux parce que des fois c'est nécessaire
+c'est tout à fait possible avec les
+
+1724
+00:31:26,330 --> 00:31:26,340
+c'est tout à fait possible avec les
+ 
+
+1725
+00:31:26,340 --> 00:31:27,769
+c'est tout à fait possible avec les
+services comme je les montre tout à
+
+1726
+00:31:27,769 --> 00:31:27,779
+services comme je les montre tout à
+ 
+
+1727
+00:31:27,779 --> 00:31:28,909
+services comme je les montre tout à
+l'heure là j'allais fait de chez la
+
+1728
+00:31:28,909 --> 00:31:28,919
+l'heure là j'allais fait de chez la
+ 
+
+1729
+00:31:28,919 --> 00:31:30,350
+l'heure là j'allais fait de chez la
+donnée mais j'aurais très bien pu
+
+1730
+00:31:30,350 --> 00:31:30,360
+donnée mais j'aurais très bien pu
+ 
+
+1731
+00:31:30,360 --> 00:31:32,210
+donnée mais j'aurais très bien pu
+appeler une méthode du store ou peu
+
+1732
+00:31:32,210 --> 00:31:32,220
+appeler une méthode du store ou peu
+ 
+
+1733
+00:31:32,220 --> 00:31:34,190
+appeler une méthode du store ou peu
+importe voilà le service c'est une
+
+1734
+00:31:34,190 --> 00:31:34,200
+importe voilà le service c'est une
+ 
+
+1735
+00:31:34,200 --> 00:31:35,769
+importe voilà le service c'est une
+fonction qu'on va appeler pour
+
+1736
+00:31:35,769 --> 00:31:35,779
+fonction qu'on va appeler pour
+ 
+
+1737
+00:31:35,779 --> 00:31:38,210
+fonction qu'on va appeler pour
+une fonction synchrone en général auquel
+
+1738
+00:31:38,210 --> 00:31:38,220
+une fonction synchrone en général auquel
+ 
+
+1739
+00:31:38,220 --> 00:31:40,190
+une fonction synchrone en général auquel
+on attend un retour une action c'est une
+
+1740
+00:31:40,190 --> 00:31:40,200
+on attend un retour une action c'est une
+ 
+
+1741
+00:31:40,200 --> 00:31:42,169
+on attend un retour une action c'est une
+axe un fire and forget typiquement
+
+1742
+00:31:42,169 --> 00:31:42,179
+axe un fire and forget typiquement
+ 
+
+1743
+00:31:42,179 --> 00:31:43,610
+axe un fire and forget typiquement
+j'appelle une action mais j'attends pas
+
+1744
+00:31:43,610 --> 00:31:43,620
+j'appelle une action mais j'attends pas
+ 
+
+1745
+00:31:43,620 --> 00:31:44,510
+j'appelle une action mais j'attends pas
+forcément de retour je passe à la suite
+
+1746
+00:31:44,510 --> 00:31:44,520
+forcément de retour je passe à la suite
+ 
+
+1747
+00:31:44,520 --> 00:31:46,789
+forcément de retour je passe à la suite
+donc en fonction du cas que tu veux si
+
+1748
+00:31:46,789 --> 00:31:46,799
+donc en fonction du cas que tu veux si
+ 
+
+1749
+00:31:46,799 --> 00:31:48,649
+donc en fonction du cas que tu veux si
+je sais pas en passant d'un état un
+
+1750
+00:31:48,649 --> 00:31:48,659
+je sais pas en passant d'un état un
+ 
+
+1751
+00:31:48,659 --> 00:31:50,630
+je sais pas en passant d'un état un
+autre tu veux déclencher un dispatch
+
+1752
+00:31:50,630 --> 00:31:50,640
+autre tu veux déclencher un dispatch
+ 
+
+1753
+00:31:50,640 --> 00:31:52,490
+autre tu veux déclencher un dispatch
+dans un store par exemple bah tu peux
+
+1754
+00:31:52,490 --> 00:31:52,500
+dans un store par exemple bah tu peux
+ 
+
+1755
+00:31:52,500 --> 00:31:53,389
+dans un store par exemple bah tu peux
+soit utiliser le service parce que tu
+
+1756
+00:31:53,389 --> 00:31:53,399
+soit utiliser le service parce que tu
+ 
+
+1757
+00:31:53,399 --> 00:31:54,710
+soit utiliser le service parce que tu
+attends le retour soit tu déclenches une
+
+1758
+00:31:54,710 --> 00:31:54,720
+attends le retour soit tu déclenches une
+ 
+
+1759
+00:31:54,720 --> 00:31:56,470
+attends le retour soit tu déclenches une
+action c'est à toi de voir
+
+1760
+00:31:56,470 --> 00:31:56,480
+action c'est à toi de voir
+ 
+
+1761
+00:31:56,480 --> 00:32:07,909
+action c'est à toi de voir
+ok merci beaucoup
+
+1762
+00:32:07,909 --> 00:32:07,919
+
+ 
+
+1763
+00:32:07,919 --> 00:32:10,370
+
+merci quelle est l'expérience de
+
+1764
+00:32:10,370 --> 00:32:10,380
+merci quelle est l'expérience de
+ 
+
+1765
+00:32:10,380 --> 00:32:11,990
+merci quelle est l'expérience de
+débogage
+
+1766
+00:32:11,990 --> 00:32:12,000
+débogage
+ 
+
+1767
+00:32:12,000 --> 00:32:14,450
+débogage
+de la lime
+
+1768
+00:32:14,450 --> 00:32:14,460
+de la lime
+ 
+
+1769
+00:32:14,460 --> 00:32:17,990
+de la lime
+ID c'est vrai que j'en ai pas parlé
+
+1770
+00:32:17,990 --> 00:32:18,000
+
+ 
+
+1771
+00:32:18,000 --> 00:32:19,789
+
+je dirais je vais commencer par le gros
+
+1772
+00:32:19,789 --> 00:32:19,799
+je dirais je vais commencer par le gros
+ 
+
+1773
+00:32:19,799 --> 00:32:24,169
+je dirais je vais commencer par le gros
+défaut il y a un c'est que quand on a
+
+1774
+00:32:24,169 --> 00:32:24,179
+défaut il y a un c'est que quand on a
+ 
+
+1775
+00:32:24,179 --> 00:32:25,730
+défaut il y a un c'est que quand on a
+mal codé la logique nous quand on n'est
+
+1776
+00:32:25,730 --> 00:32:25,740
+mal codé la logique nous quand on n'est
+ 
+
+1777
+00:32:25,740 --> 00:32:28,310
+mal codé la logique nous quand on n'est
+pas en tête script et qu'on demande une
+
+1778
+00:32:28,310 --> 00:32:28,320
+pas en tête script et qu'on demande une
+ 
+
+1779
+00:32:28,320 --> 00:32:30,049
+pas en tête script et qu'on demande une
+action impossible une action qui
+
+1780
+00:32:30,049 --> 00:32:30,059
+action impossible une action qui
+ 
+
+1781
+00:32:30,059 --> 00:32:30,950
+action impossible une action qui
+n'existe pas parce qu'elle est pas
+
+1782
+00:32:30,950 --> 00:32:30,960
+n'existe pas parce qu'elle est pas
+ 
+
+1783
+00:32:30,960 --> 00:32:32,389
+n'existe pas parce qu'elle est pas
+déclarée ou un état qui n'existe pas
+
+1784
+00:32:32,389 --> 00:32:32,399
+déclarée ou un état qui n'existe pas
+ 
+
+1785
+00:32:32,399 --> 00:32:33,710
+déclarée ou un état qui n'existe pas
+parce qu'on s'est trompé dans le on a
+
+1786
+00:32:33,710 --> 00:32:33,720
+parce qu'on s'est trompé dans le on a
+ 
+
+1787
+00:32:33,720 --> 00:32:35,630
+parce qu'on s'est trompé dans le on a
+fait une typo quoi typiquement on n'a
+
+1788
+00:32:35,630 --> 00:32:35,640
+fait une typo quoi typiquement on n'a
+ 
+
+1789
+00:32:35,640 --> 00:32:37,250
+fait une typo quoi typiquement on n'a
+pas de trucs qui nous dit Hey tu es
+
+1790
+00:32:37,250 --> 00:32:37,260
+pas de trucs qui nous dit Hey tu es
+ 
+
+1791
+00:32:37,260 --> 00:32:39,049
+pas de trucs qui nous dit Hey tu es
+nulle part c'est bizarre il se passe
+
+1792
+00:32:39,049 --> 00:32:39,059
+nulle part c'est bizarre il se passe
+ 
+
+1793
+00:32:39,059 --> 00:32:41,090
+nulle part c'est bizarre il se passe
+rien quoi donc là des fois on peut se
+
+1794
+00:32:41,090 --> 00:32:41,100
+rien quoi donc là des fois on peut se
+ 
+
+1795
+00:32:41,100 --> 00:32:42,470
+rien quoi donc là des fois on peut se
+retrouver pendant 5 minutes à chercher
+
+1796
+00:32:42,470 --> 00:32:42,480
+retrouver pendant 5 minutes à chercher
+ 
+
+1797
+00:32:42,480 --> 00:32:45,169
+retrouver pendant 5 minutes à chercher
+le pourquoi du comment la typo si on en
+
+1798
+00:32:45,169 --> 00:32:45,179
+le pourquoi du comment la typo si on en
+ 
+
+1799
+00:32:45,179 --> 00:32:46,490
+le pourquoi du comment la typo si on en
+tas de script la question se pose pas
+
+1800
+00:32:46,490 --> 00:32:46,500
+tas de script la question se pose pas
+ 
+
+1801
+00:32:46,500 --> 00:32:48,049
+tas de script la question se pose pas
+parce que tout est auto complété on se
+
+1802
+00:32:48,049 --> 00:32:48,059
+parce que tout est auto complété on se
+ 
+
+1803
+00:32:48,059 --> 00:32:49,090
+parce que tout est auto complété on se
+fait pour le coup rappeler à l'ordre
+
+1804
+00:32:49,090 --> 00:32:49,100
+fait pour le coup rappeler à l'ordre
+ 
+
+1805
+00:32:49,100 --> 00:32:51,470
+fait pour le coup rappeler à l'ordre
+mais ça c'est le dos le défaut quand on
+
+1806
+00:32:51,470 --> 00:32:51,480
+mais ça c'est le dos le défaut quand on
+ 
+
+1807
+00:32:51,480 --> 00:32:55,690
+mais ça c'est le dos le défaut quand on
+est en js sinon à part ça il y a un
+
+1808
+00:32:55,690 --> 00:32:55,700
+est en js sinon à part ça il y a un
+ 
+
+1809
+00:32:55,700 --> 00:32:57,769
+est en js sinon à part ça il y a un
+une un autre package qui s'appelle
+
+1810
+00:32:57,769 --> 00:32:57,779
+une un autre package qui s'appelle
+ 
+
+1811
+00:32:57,779 --> 00:33:01,190
+une un autre package qui s'appelle
+inspecte at x-taxe et qui en fait
+
+1812
+00:33:01,190 --> 00:33:01,200
+inspecte at x-taxe et qui en fait
+ 
+
+1813
+00:33:01,200 --> 00:33:04,610
+inspecte at x-taxe et qui en fait
+branche le visualiseur à la page web de
+
+1814
+00:33:04,610 --> 00:33:04,620
+branche le visualiseur à la page web de
+ 
+
+1815
+00:33:04,620 --> 00:33:06,470
+branche le visualiseur à la page web de
+l'application ce qui fait qu'en fait en
+
+1816
+00:33:06,470 --> 00:33:06,480
+l'application ce qui fait qu'en fait en
+ 
+
+1817
+00:33:06,480 --> 00:33:07,850
+l'application ce qui fait qu'en fait en
+temps réel on est en train d'utiliser
+
+1818
+00:33:07,850 --> 00:33:07,860
+temps réel on est en train d'utiliser
+ 
+
+1819
+00:33:07,860 --> 00:33:09,169
+temps réel on est en train d'utiliser
+l'application et on a le visualiseur
+
+1820
+00:33:09,169 --> 00:33:09,179
+l'application et on a le visualiseur
+ 
+
+1821
+00:33:09,179 --> 00:33:10,970
+l'application et on a le visualiseur
+juste à côté qui permet de voir dans
+
+1822
+00:33:10,970 --> 00:33:10,980
+juste à côté qui permet de voir dans
+ 
+
+1823
+00:33:10,980 --> 00:33:12,649
+juste à côté qui permet de voir dans
+quel état on est l'état du contexte etc
+
+1824
+00:33:12,649 --> 00:33:12,659
+quel état on est l'état du contexte etc
+ 
+
+1825
+00:33:12,659 --> 00:33:14,450
+quel état on est l'état du contexte etc
+on a la chronologie des événements etc
+
+1826
+00:33:14,450 --> 00:33:14,460
+on a la chronologie des événements etc
+ 
+
+1827
+00:33:14,460 --> 00:33:17,330
+on a la chronologie des événements etc
+donc c'est du coup assez stress forum
+
+1828
+00:33:17,330 --> 00:33:17,340
+donc c'est du coup assez stress forum
+ 
+
+1829
+00:33:17,340 --> 00:33:18,710
+donc c'est du coup assez stress forum
+j'espère j'espère qu'un jour ils vont le
+
+1830
+00:33:18,710 --> 00:33:18,720
+j'espère j'espère qu'un jour ils vont le
+ 
+
+1831
+00:33:18,720 --> 00:33:19,789
+j'espère j'espère qu'un jour ils vont le
+développer en tant que Dave tool
+
+1832
+00:33:19,789 --> 00:33:19,799
+développer en tant que Dave tool
+ 
+
+1833
+00:33:19,799 --> 00:33:22,970
+développer en tant que Dave tool
+officiel mais aujourd'hui c'est un juste
+
+1834
+00:33:22,970 --> 00:33:22,980
+officiel mais aujourd'hui c'est un juste
+ 
+
+1835
+00:33:22,980 --> 00:33:24,110
+officiel mais aujourd'hui c'est un juste
+un package japonais dessus c'est assez
+
+1836
+00:33:24,110 --> 00:33:24,120
+un package japonais dessus c'est assez
+ 
+
+1837
+00:33:24,120 --> 00:33:26,269
+un package japonais dessus c'est assez
+facile à faire
+
+1838
+00:33:26,269 --> 00:33:26,279
+facile à faire
+ 
+
+1839
+00:33:26,279 --> 00:33:31,970
+facile à faire
+ok merci
+
+1840
+00:33:31,970 --> 00:33:31,980
+
+ 
+
+1841
+00:33:31,980 --> 00:33:34,850
+
+merci beaucoup
+
+1842
+00:33:34,850 --> 00:33:34,860
+merci beaucoup
+ 
+
+1843
+00:33:34,860 --> 00:33:40,739
+merci beaucoup
+[Applaudissements]
+
