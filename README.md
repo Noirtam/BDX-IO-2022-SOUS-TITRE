@@ -57,10 +57,10 @@ flowchart TB
 
 
 ## Liste des conférences
-* [ ] <q>Contribuer à l'Open Source ? Yes, you can!</q> - Anne-Laure Gaillard <details><summary>En savoir plus https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/En%20attente%20de%20validation%20steaker</summary>
-  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/En%20attente%20de%20validation%20steaker
+* [x] <q>Contribuer à l'Open Source ? Yes, you can!</q> - Anne-Laure Gaillard <details><summary>En savoir plus https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/YouTube</summary>
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/YouTube
   * Vidéo Youtube : https://www.youtube.com/watch?v=gyhR5m4RgyE
-  * [Fichier sous-titre ./final/contributer-open-source.srt](./final/contributer-open-source.srt)
+  * [Fichier sous-titre français ./final/contributer-open-source.srt](./final/contributer-open-source.srt)
 
 </details>
 
