@@ -42,38 +42,38 @@ flowchart TB
 ```
 
 ## Liste des conférences
-* <q>Contribuer à l'Open Source ? Yes, you can!</q> - Anne-Laure Gaillard
-  * Etat : `En attente de validation speaker`
+* [ ] <q>Contribuer à l'Open Source ? Yes, you can!</q> - Anne-Laure Gaillard
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/En%20attente%20de%20validation%20steaker
   * Vidéo Youtube : https://www.youtube.com/watch?v=gyhR5m4RgyE
   * [Fichier sous-titre ./final/contributer-open-source.srt](./final/contributer-open-source.srt)
 
-* <q>Introduction aux Design Tokens</q> - François Garrigues
-  * Etat : `Autogeneré`
+* [ ] <q>Introduction aux Design Tokens</q> - François Garrigues
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere
   * Vidéo Youtube : https://www.youtube.com/watch?v=7BoFBcrXY1g
   * fichier autogéné : [autogenere/introduction-aux-design-tokens.srt](autogenere/introduction-aux-design-tokens.srt)
 
-* <q>Comment inclure l’inclusivité dès les premières étapes de conception d'un service ou d'un produit digital</q> - Noémie M. Rivière
-  * Etat : `autogénéré`
+* [ ] <q>Comment inclure l’inclusivité dès les premières étapes de conception d'un service ou d'un produit digital</q> - Noémie M. Rivière
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere
   * Vidéo youtube : https://www.youtube.com/watch?v=KNlVkRs9a94
   * Fichier autogénéré : [./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt](./autogenere/comment-inclure-l-inclusitie-des-les-premieres-etates.srt)
 
-* <q>Syndrome de l'Imposteur, l'arbre qui cache la forêt</q> - Boris Schapira
-  * Etat : `autogénéré`
+* [ ] <q>Syndrome de l'Imposteur, l'arbre qui cache la forêt</q> - Boris Schapira
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere
   * Vidéo youtube : https://www.youtube.com/watch?v=vS2WKdWRNqo
   * Fichier autogénéré : [./autogenere/syndrome-de-l-imposteur-l-arbre-qui-cache-la-foret.srt](./autogenere/syndrome-de-l-imposteur-l-arbre-qui-cache-la-foret.srt)
 
-* <q>Rendez l’agilité aux développeur·se·s !</q> - Fanny Klauk
-  * Etat : `autogénéré`
+* [ ] <q>Rendez l’agilité aux développeur·se·s !</q> - Fanny Klauk
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere
   * Vidéo youtube : https://www.youtube.com/watch?v=Ib2uoz2JTeY
   * Fichier autogénéré : [./autogenere/rendez-l-agilite-aux-developpeur·se·s.srt](./autogenere/rendez-l-agilite-aux-developpeur·se·s.srt)
   
-* <q>Mon application en Serverless</q> - Marie Minasyan
-  * Etat : `autogénéré`
+* [ ] <q>Mon application en Serverless</q> - Marie Minasyan
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere
   * Vidéo youtube : https://www.youtube.com/watch?v=8kGkIlcaV0Q
   * Fichier autogénéré : [./autogenere/mon-application-en-serverless.srt](./autogenere/mon-application-en-serverless.srt)
 
-* <q>Test me up, before you Go-Go</q> - Nicolas Comet
-  * Etat : `autogénéré`
+* [ ] <q>Test me up, before you Go-Go</q> - Nicolas Comet
+  * Etat : https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere
   * Vidéo youtube : https://www.youtube.com/watch?v=8wguarCwSII
   * Fichier autogénéré : [./autogenere/test-me-up-before-you-Go-Go.srt](./autogenere/test-me-up-before-you-Go-Go.srt)
 
