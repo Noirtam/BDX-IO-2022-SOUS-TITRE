@@ -133,8 +133,8 @@ sequenceDiagram
   * Fichier autogénéré : [./autogenere/Et_s_il_suffisait_de_documenter_pour_tester_-_Sebastien_Fauvel.fr-orig.srt](./autogenere/Et_s_il_suffisait_de_documenter_pour_tester_-_Sebastien_Fauvel.fr-orig.srt)
 </details>
 
-* [ ] <q>Gestion de la dette d architecture dans un contexte d hypercroissance </q> - Cyril Beslay<details><summary>En savoir plus https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere</summary>
-  * Fichier autogénéré : [./autogenere/Gestion_de_la_dette_d_architecture_dans_un_contexte_d_hypercroissance_-_Cyril_Beslay.fr-orig.srt](./autogenere/Gestion_de_la_dette_d_architecture_dans_un_contexte_d_hypercroissance_-_Cyril_Beslay.fr-orig.srt)
+* [x] <q>Gestion de la dette d architecture dans un contexte d hypercroissance </q> - Cyril Beslay<details><summary>En savoir plus https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere</summary>
+  * [Fichier sous-titre français ./final/Gestion_de_la_dette_d_architecture_dans_un_contexte_d_hypercroissance_-_Cyril_Beslay.fr.srt](./final/Gestion_de_la_dette_d_architecture_dans_un_contexte_d_hypercroissance_-_Cyril_Beslay.fr.srt)
 </details>
 
 * [ ] <q>Introduction au DevSecOps </q> - Arthur Havlicek<details><summary>En savoir plus https://github.com/Noirtam/BDX-IO-2022-SOUS-TITRE/labels/autogenere</summary>
