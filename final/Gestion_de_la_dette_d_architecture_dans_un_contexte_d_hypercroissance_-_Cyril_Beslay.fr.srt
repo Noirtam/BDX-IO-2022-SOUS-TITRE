@@ -1,0 +1,1956 @@
+1
+00:00:00,000 --> 00:00:19,520
+ Bonjour, bienvenue à tous. Merci d'être venu assister à ce dernier talk de la matinée.
+
+2
+00:00:19,520 --> 00:00:26,360
+ Et merci, un grand merci à l'organisation de BDX IO, déjà pour l'organisation et
+
+3
+00:00:26,360 --> 00:00:33,560
+ de me donner la chance de partager sur aujourd'hui ce sujet qui est la gestion de la dette d'architecture
+
+4
+00:00:33,560 --> 00:00:41,080
+ et dans un contexte particulier qui est un contexte d'hyper-croissance. Qui suis-je pour vous parler
+
+5
+00:00:41,080 --> 00:00:47,960
+ de ça? Je m'appelle Cyril, dans le côté personnel, j'ai 33 ans, j'habite à Bordeaux,
+
+6
+00:00:47,960 --> 00:00:54,720
+ je suis heureux papa d'une petite fille. Et dans le côté professionnel, je suis architecte chez ManoMano
+
+7
+00:00:54,720 --> 00:01:01,120
+ dans une équipe de six architectes. Et vous pouvez me retrouver sur internet, sur mon blog,
+
+8
+00:01:01,120 --> 00:01:10,520
+ en cherchant mon pseudo, sur GitHub, Twitter, etc. Donc ManoMano, pour vous expliquer un petit peu
+
+9
+00:01:10,520 --> 00:01:17,039
+ l'entreprise, c'est une marketplace de bricolage et de jardinage. Et c'est le leader européen
+
+10
+00:01:17,039 --> 00:01:21,680
+ dans ce marché. C'est une ancienne startup qui s'est transformée en scale-up et qui aujourd'hui
+
+11
+00:01:21,680 --> 00:01:27,280
+ est une unicorn, donc il y a énormément évolué. Et donc mon expérience dans cette société
+
+12
+00:01:27,280 --> 00:01:37,360
+ traverse trois, quatre années depuis 2019 et la société a énormément évolué. Par exemple,
+
+13
+00:01:37,360 --> 00:01:42,560
+ dans les équipes techniques, on est passé à peu près de 200 personnes à 500 personnes en trois
+
+14
+00:01:42,560 --> 00:01:48,680
+ ans. On a ouvert huit nouveaux marchés sur six pays dans lesquels on était déjà implantés,
+
+15
+00:01:48,680 --> 00:01:56,480
+ où on s'est implantés. Et donc cette hyper-croissance en termes de business a aussi naturellement créé
+
+16
+00:01:56,480 --> 00:02:05,520
+ de la dette technique pour nous permettre finalement d'être toujours concurrentiel sur le marché et
+
+17
+00:02:05,520 --> 00:02:10,920
+ d'accélérer pour délivrer rapidement certaines fonctionnalités, certains services pour augmenter
+
+18
+00:02:10,920 --> 00:02:17,600
+ notre business. Donc aujourd'hui, je vais vous parler de dette technique et plus particulièrement de
+
+19
+00:02:17,600 --> 00:02:22,760
+ dette d'architecture. Ensuite, on verra quelle est la théorie et quelles sont les bonnes pratiques
+
+20
+00:02:22,760 --> 00:02:29,160
+ pour la manager. Et enfin, je vous expliquerai comment chez ManoMano on a abordé ce sujet et comment
+
+21
+00:02:29,160 --> 00:02:35,720
+ on essaie de le gérer aujourd'hui. Avant de vous parler de dette d'architecture, j'ai besoin de
+
+22
+00:02:35,720 --> 00:02:42,320
+ vous parler de dette technique et d'introduire ce concept. Donc c'est un concept de développement
+
+23
+00:02:42,320 --> 00:02:48,760
+ logiciel qui a été inventé en 1992 par Warren Cunningham. Donc si vous ne connaissez pas ce monsieur
+
+24
+00:02:48,760 --> 00:02:54,920
+ dans le monde de l'informatique, c'est quelqu'un qui a créé le concept de Wiki, qui a co-créé
+
+25
+00:02:54,920 --> 00:03:00,560
+ l'extrême programming et qui a aussi participé à la réduction du manifesto agile, donc une pointure.
+
+26
+00:03:00,560 --> 00:03:08,840
+ Et en 1992, il a créé ce concept-là, concept qui sera adopté dix ans plus tard, le temps que les
+
+27
+00:03:08,840 --> 00:03:14,120
+ gens comprennent ce que c'est et se rendent compte qu'ils en ont tous. Je vais prendre sa définition
+
+28
+00:03:14,120 --> 00:03:20,240
+ en anglais que je vais vous traduire. La dette technique, c'est le coût des retouches supplémentaires
+
+29
+00:03:20,240 --> 00:03:26,360
+ qui sont causées par un choix d'une solution simple aujourd'hui, plutôt qu'utiliser une meilleure
+
+30
+00:03:26,360 --> 00:03:33,000
+ approche qui parfois est plus complexe mais qui aussi prendrait plus de temps. Exemple,
+
+31
+00:03:33,000 --> 00:03:38,400
+ assez simple. Dans mon application de gestion de congé, je dois gérer les jours ferriers,
+
+32
+00:03:38,400 --> 00:03:43,880
+ et j'ai une possibilité, c'est de mettre en jour en dur les jours ferriers de l'année en cours.
+
+33
+00:03:43,880 --> 00:03:48,880
+ C'est une solution qui est facile, peu coûteuse, mais je sais très bien que chaque année, ça va
+
+34
+00:03:48,880 --> 00:03:53,680
+ nécessiter du travail supplémentaire, retoucher mon code, redéployer. Et il existe une autre solution
+
+35
+00:03:53,680 --> 00:03:59,120
+ qui est plus pérenne mais plus coûteuse à mettre en place, comme par exemple l'utilisation
+
+36
+00:03:59,120 --> 00:04:06,000
+ d'un filet de configuration ou d'une base de données de configuration. Donc voilà, la dette
+
+37
+00:04:06,000 --> 00:04:10,640
+ technique, c'est ça. Si c'était aussi facile, j'aurais terminé aujourd'hui ma conférence et
+
+38
+00:04:10,640 --> 00:04:17,839
+ on ne se poserait pas plus de questions. Mais finalement, dans une entreprise, on parle beaucoup
+
+39
+00:04:17,839 --> 00:04:22,200
+ de dette technique mais on ne sait pas trop ce que c'est, on ne sait pas trop à quel moment il faut
+
+40
+00:04:22,200 --> 00:04:26,680
+ la regarder, à quel moment il faut prendre des options et des choix qui créent de la dette technique.
+
+41
+00:04:26,680 --> 00:04:31,760
+ Et donc c'est un petit peu les questions auxquelles je vais essayer de répondre aujourd'hui. Mais avant,
+
+42
+00:04:31,760 --> 00:04:39,560
+ je voudrais faire une analogie avec la dette financière dans le monde réel. Quand vous voulez
+
+43
+00:04:39,560 --> 00:04:45,120
+ en fait, vous avez un projet, mais vous voulez l'accélérer en termes de cash, vous allez se
+
+44
+00:04:45,120 --> 00:04:50,240
+ contracter un crédit et donc une dette. Si vous voulez acheter une maison en cash, souvent vous
+
+45
+00:04:50,240 --> 00:04:53,760
+ pourrez le faire quand vous serez à la retraite, le temps d'accumuler tout ça. Donc c'est un
+
+46
+00:04:53,760 --> 00:04:59,440
+ moyen finalement de contracter une dette et d'accélérer un projet plutôt que d'attendre.
+
+47
+00:04:59,440 --> 00:05:03,960
+ Donc finalement, parfois la dette, elle peut être bénéfique et on le verra au cours de cette
+
+48
+00:05:03,960 --> 00:05:14,760
+ conférence. Mais quand on parle d'une dette financière, on parle de dossier, on parle d'intérêt et
+
+49
+00:05:14,760 --> 00:05:22,240
+ il y a une banque. Finalement, est-ce que les équipes techniques sont de bonnes payeuses vis-à-vis de
+
+50
+00:05:22,240 --> 00:05:28,200
+ ces intérêts, vis-à-vis de cette dette qu'on cumule au cours du temps et comment gérer cette
+
+51
+00:05:28,200 --> 00:05:32,520
+ dette alors que finalement, il n'y a pas une autorité de contrôle qui dit Cyril, tu as 100 000 euros
+
+52
+00:05:32,520 --> 00:05:38,120
+ d'encours, chaque mois tu dois rembourser 1000 euros. Est-ce que c'est un choix finalement de
+
+53
+00:05:38,120 --> 00:05:41,680
+ souscrire de la dette technique et est-ce que c'est un choix libre ou est-ce que c'est un choix sous
+
+54
+00:05:41,680 --> 00:05:46,440
+ contrainte? Et enfin, est-ce qu'il y a des bons moments et quand contracter une dette technique?
+
+55
+00:05:46,440 --> 00:05:54,120
+ Donc maintenant que vous savez un petit peu plus ce que c'est la dette technique et je pense que
+
+56
+00:05:54,120 --> 00:06:00,360
+ vous en avez déjà entendu parler, de manière globale, la dette technique inclut aussi une
+
+57
+00:06:00,360 --> 00:06:06,720
+ composante qui est la dette d'architecture. Il existe finalement plusieurs types de
+
+58
+00:06:06,720 --> 00:06:11,480
+ dette technique. On parle souvent de la plus connue pour moi qui s'appelle aussi de dette technique
+
+59
+00:06:11,480 --> 00:06:19,400
+ qui est vraiment dans le dur, dans le code, dans le manque de coverage de tests, dans l'infrastructure
+
+60
+00:06:19,400 --> 00:06:23,960
+ qui n'est pas à jour, celle-là on la connaît bien. On parle souvent un peu moins de dette
+
+61
+00:06:23,960 --> 00:06:30,120
+ fonctionnelle alors que c'est un concept qui existe aussi, c'est quand votre produit ne couvre pas
+
+62
+00:06:30,120 --> 00:06:35,000
+ tous les besoins fonctionnels ou présente des bugs. On a aussi une dette en termes de sécurité si
+
+63
+00:06:35,000 --> 00:06:42,000
+ notre système est fragile. On peut avoir une dette légale vis-à-vis des lois comme la RGPD et on
+
+64
+00:06:42,000 --> 00:06:46,560
+ peut avoir une dette d'architecture qui est une dette qui est plus globale et finalement pas centrée
+
+65
+00:06:46,560 --> 00:06:54,360
+ sur une seule ligne de code ou un composant. Dans la littérature, il n'y a pas de définition
+
+66
+00:06:54,360 --> 00:06:59,880
+ stricte de la dette d'architecture. Donc chez ManoMano, on a réfléchi et on est arrivé à cette
+
+67
+00:06:59,880 --> 00:07:06,640
+ traduction, cette définition, dans un composant ou un process fonctionnel. C'est l'écart entre le
+
+68
+00:07:06,640 --> 00:07:12,720
+ système actuel, tel qu'on le connaît, et les principes d'architecture et les standards de l'entreprise.
+
+69
+00:07:12,720 --> 00:07:17,360
+ Il y a quelques mots importants dans cette définition pour nous. Le premier, c'est principe
+
+70
+00:07:17,360 --> 00:07:21,840
+ et standard, c'est-à-dire qu'on ne peut pas mesurer la dette si on ne sait pas quel est la cible.
+
+71
+00:07:21,840 --> 00:07:31,560
+ Et la notion d'écart qui finalement, on essaie de la mesurer et de la prendre en compte dans nos
+
+72
+00:07:31,560 --> 00:07:38,880
+ choix finalement stratégiques. Je vais vous donner un exemple de dette d'architecture. Le
+
+73
+00:07:38,880 --> 00:07:47,200
+ pattern de circuit breaker permet de protéger dans une architecture, de se protéger de l'échec
+
+74
+00:07:47,200 --> 00:07:54,159
+ d'un composant externe et d'éviter de cascader en fait l'incident dans tous nos systèmes. Donc
+
+75
+00:07:54,159 --> 00:08:00,040
+ par exemple chez ManoMano, on a une règle qui est tout à peu à l'API vers un service externe à
+
+76
+00:08:00,040 --> 00:08:06,360
+ notre système, doit implémenter le pattern circuit breaker pour pouvoir se protéger. Et donc si
+
+77
+00:08:06,360 --> 00:08:12,000
+ une équipe qui développe une API pourra appeler par exemple la poste pour avoir les temps et
+
+78
+00:08:12,000 --> 00:08:16,640
+ coût de livraison, mais qu'elle n'implémentent pas de circuit breaker, on a une dette d'architecture
+
+79
+00:08:16,640 --> 00:08:23,680
+ qui n'as respecte pas les standards. Deuxième exemple chez ManoMano, on aime bien faire des
+
+80
+00:08:23,680 --> 00:08:30,160
+ POC pour tester un petit peu la trait du marché, la trait du client sur certaines fonctionnalités.
+
+81
+00:08:30,160 --> 00:08:35,240
+ Et donc par exemple on pourrait faire un POC en machine learning pour la recommandation des
+
+82
+00:08:35,240 --> 00:08:40,159
+ produits comme ça sur une page produit. C'est une bonne idée, ça suit pas forcément les
+
+83
+00:08:40,159 --> 00:08:44,200
+ standards parce que du machine learning à une époque on n'en faisait pas, on savait pas maîtriser
+
+84
+00:08:44,200 --> 00:08:48,520
+ la technologie et on n'avait pas forcément les compétences pour le faire. Mais c'est pas un problème,
+
+85
+00:08:48,520 --> 00:08:54,160
+ on décide d'accélérer, sauf que six mois plus tard le POC est toujours là, l'équipe a changé et on
+
+86
+00:08:54,160 --> 00:08:59,160
+ sait pas du tout maintenir ce système. Donc c'est une dette d'architecture due à plusieurs causes,
+
+87
+00:08:59,160 --> 00:09:06,959
+ mais c'est une dette d'architecture. Il existe plein de types de dette d'architecture, c'est
+
+88
+00:09:06,959 --> 00:09:12,760
+ une liste non exhaustive, ça peut être comme la définition de World Cunningham un choix facile
+
+89
+00:09:12,760 --> 00:09:17,280
+ limité d'une solution aujourd'hui par rapport à une meilleure approche, mais on parle pas de code,
+
+90
+00:09:17,280 --> 00:09:21,680
+ on parle plutôt d'un choix d'architecture. Par exemple dans une architecture micro-service,
+
+91
+00:09:21,680 --> 00:09:27,000
+ si vous accédez à la base de données d'un copain sans passer par son API, c'est pas bien,
+
+92
+00:09:27,000 --> 00:09:32,040
+ c'est une dette d'architecture. Vous pouvez faire des mauvais choix de frein mort, des mauvais choix
+
+93
+00:09:32,040 --> 00:09:36,520
+ d'outils, vous pouvez avoir un produit qui stagne alors que finalement le contexte est très évolutif
+
+94
+00:09:36,520 --> 00:09:42,240
+ et il ne répond plus du tout au besoin du contexte. Ça peut être un projet de migration qui n'est pas
+
+95
+00:09:42,240 --> 00:09:47,040
+ terminé et finalement vous vous retrouvez avec deux ou trois systèmes en parallèle. Et ça peut être
+
+96
+00:09:47,040 --> 00:09:50,840
+ aussi la création et le changement de standard. À chaque fois que vous avez des nouveaux standards,
+
+97
+00:09:50,840 --> 00:09:58,200
+ vous avez de la dette qui s'accumule par déviation avec ces standards. Pour la dette technique pure,
+
+98
+00:09:58,200 --> 00:10:03,720
+ c'est quelque chose qui est de plus en plus connu, qui est de plus en plus outillé et finalement on
+
+99
+00:10:03,720 --> 00:10:08,160
+ est capable avec une analyse statique et des règles qui disent ça c'est bien, ça c'est pas bien,
+
+100
+00:10:08,160 --> 00:10:13,240
+ d'avoir des outils comme sonar cube par exemple qui sont capables de mesurer en continu la dette
+
+101
+00:10:13,240 --> 00:10:20,800
+ technique et de même l'estimer selon par exemple ici 67 jours pour résorber la dette. C'est un effet
+
+102
+00:10:20,800 --> 00:10:25,680
+ fort pour la résorber qui est souvent incrementale. C'est à dire que je prends une règle, je vais
+
+103
+00:10:25,680 --> 00:10:30,560
+ traiter dans mon code cette règle et à chaque fois que j'ai des points que je dois corriger et qui
+
+104
+00:10:30,560 --> 00:10:35,520
+ est assez faible. Vous pouvez prendre un point corriger pendant un jour ou deux et vous avez réduit la
+
+105
+00:10:35,520 --> 00:10:41,640
+ dette. Pour la dette d'architecture, c'est un petit peu plus compliqué. Finalement on peut pas
+
+106
+00:10:41,640 --> 00:10:47,800
+ faire d'analyse statique, c'est très difficile de définir des règles qui sont automatisables. Il y a
+
+107
+00:10:47,800 --> 00:10:53,959
+ des outils qui essaient de le faire comme Arkane par exemple ou sonarcraft qui sont capables sur des
+
+108
+00:10:53,959 --> 00:10:58,719
+ points particuliers de détecter des problèmes d'architecture et de dette d'architecture mais
+
+109
+00:10:58,719 --> 00:11:03,040
+ souvent ils sont immatures, difficiles à prendre en main et ils sont considérés inutiles par les
+
+110
+00:11:03,040 --> 00:11:09,560
+ gens qui se utilisent. C'est aussi très difficile de quantifier l'impact, de prioriser et en fait on
+
+111
+00:11:09,560 --> 00:11:16,439
+ sait jamais pas recommencer. Avant de rentrer un peu plus dans le détail du management, j'aimerais
+
+112
+00:11:16,440 --> 00:11:21,800
+ revenir sur les causes et les conséquences de cette dette d'architecture et là je me suis inspiré
+
+113
+00:11:21,800 --> 00:11:29,480
+ de tout ce qui est littérature et article sur quels sont les causes principales de la dette d'architecture.
+
+114
+00:11:29,480 --> 00:11:35,640
+ Il y a des causes qui sont externes à l'équipe et qui sont très difficilement contrôlables et il y a
+
+115
+00:11:35,640 --> 00:11:41,800
+ des causes qui sont internes à l'équipe et sur laquelle on peut un peu plus s'agir. Je ne vais pas
+
+116
+00:11:41,800 --> 00:11:46,719
+ me faire des amis mais la cause principale externe de création de dette d'architecture c'est le business.
+
+117
+00:11:46,719 --> 00:11:53,800
+ On l'a vu c'est pas forcément négatif parfois il faut accélérer sinon l'entreprise ne survit pas
+
+118
+00:11:53,800 --> 00:11:58,400
+ parce qu'elle n'est pas compétitive sur le marché mais tout ce qui est pression, déléracourci,
+
+119
+00:11:58,400 --> 00:12:05,079
+ domaine qui évolue à t-il ou manque de visibilité sur le long terme ça va créer de la dette d'architecture.
+
+120
+00:12:05,079 --> 00:12:10,680
+ Une deuxième raison aussi c'est si vous ne définissez pas vos standards d'architecture,
+
+121
+00:12:10,680 --> 00:12:15,560
+ si vous ne dites pas ça c'est bien ça c'est pas bien, les gens ne peuvent pas suivre vos standards
+
+122
+00:12:15,560 --> 00:12:19,479
+ et du coup vous avez un système qui est très hétérogène et qui ne suit pas forcément des
+
+123
+00:12:19,479 --> 00:12:27,120
+ principes d'architecture. Et enfin le temps qui passe, vous avez tous en tête le serveur cobol que
+
+124
+00:12:27,120 --> 00:12:31,359
+ personne ne maintient que personne ne veut redémarrer, le temps qui passe crée de la dette
+
+125
+00:12:31,359 --> 00:12:35,240
+ parce que les gens changent parce que les organisations changent et qu'on ne peut pas maintenir
+
+126
+00:12:35,240 --> 00:12:42,480
+ tout à jour. Il y a aussi des causes internes à l'équipe, le manque de connaissance ou de
+
+127
+00:12:42,480 --> 00:12:48,600
+ compétences peut créer des problèmes d'architecture, des mauvaises décisions que ce soit par l'équipe
+
+128
+00:12:48,600 --> 00:12:54,720
+ ou par les architectes ou surtout l'enchaînement de mauvaises décisions crée aussi de la dette
+
+129
+00:12:54,720 --> 00:13:01,160
+ d'architecture. Et enfin le manque d'anticipation si vous êtes développeur si vous êtes architecte
+
+130
+00:13:01,160 --> 00:13:04,960
+ quand vous vous dites je veux faire ça et que vous ne posez pas de questions, vous n'arrivez pas
+
+131
+00:13:04,960 --> 00:13:09,280
+ à anticiper le lendemain et le surlendemain et finalement votre système ne va pas être modulaire
+
+132
+00:13:09,280 --> 00:13:13,840
+ et vous devrez le casser et l'adapter à chaque fois et ça peut être assez lourd.
+
+133
+00:13:13,840 --> 00:13:23,640
+ Et la dernière cause aussi de création de dette c'est les facteurs humains. Vous avez tous quelqu'un
+
+134
+00:13:23,640 --> 00:13:27,880
+ dans votre équipe qui est très têtu et qui n'a pas envie de suivre les standards et qui va
+
+135
+00:13:27,880 --> 00:13:33,280
+ utiliser un autre langage pour faire le développement, on les connaît et c'est des facteurs de création
+
+136
+00:13:33,280 --> 00:13:40,120
+ de dette aussi. Attention la dette n'est pas forcément volontaire, parfois c'est des choix,
+
+137
+00:13:40,120 --> 00:13:44,600
+ on veut aller vite, on gère ça plus tard, on fait un choix de ne pas suivre le standard,
+
+138
+00:13:44,600 --> 00:13:50,560
+ parfois c'est aussi involontaire. Par manque d'expérience, par manque de standards, par manque
+
+139
+00:13:50,560 --> 00:13:54,920
+ de connaissances du futur, donc il ne faut pas forcément incriminer les gens quand il y a de
+
+140
+00:13:54,920 --> 00:14:02,120
+ la dette, ça peut être aussi involontaire. Parlons maintenant de symptômes et de conséquences.
+
+141
+00:14:02,120 --> 00:14:08,240
+ Pourquoi symptômes? Parce que j'aime bien l'analogie avec le médical, quand vous allez chez les
+
+142
+00:14:08,240 --> 00:14:13,080
+ médecins et que vous dites j'ai de la fièvre, je tousse, ce sont des symptômes qui vont permettre
+
+143
+00:14:13,080 --> 00:14:19,400
+ au médecin de réduire la quantité de maladies possibles et finalement d'identifier par probabilité
+
+144
+00:14:19,400 --> 00:14:24,960
+ la maladie que vous avez. Un petit peu pareil dans le monde informatique, quand on a certains symptômes,
+
+145
+00:14:24,960 --> 00:14:30,600
+ parfois on peut les rattacher à une cause et là quand vous voyez des symptômes du genre,
+
+146
+00:14:30,600 --> 00:14:36,280
+ il n'y a que John qui s'agirait ça ou le temps pour résoudre un bug passe de un jour à une semaine
+
+147
+00:14:36,280 --> 00:14:41,240
+ où la complexité est très excessive, vous avez trois systèmes en même temps, ça commence à faire
+
+148
+00:14:41,240 --> 00:14:45,400
+ beaucoup de symptômes qui sentent mauvais et sûrement il y a une grosse part de dette dans
+
+149
+00:14:45,400 --> 00:14:53,000
+ ce composant ou cette partie du système. Les conséquences, elles ne sont pas top. Aujourd'hui on parle
+
+150
+00:14:53,000 --> 00:14:57,720
+ de conséquences négatives, l'augmentation des coûts pour les nouvelles fonctionnalités,
+
+151
+00:14:57,720 --> 00:15:03,800
+ l'augmentation des bugs, des risques, des incidents en production, l'augmentation du niveau de compétence
+
+152
+00:15:03,800 --> 00:15:09,560
+ requis, la diminution de la qualité du produit, vous allez finir avec un produit que personne ne
+
+153
+00:15:09,560 --> 00:15:13,480
+ voudra, vous ne pourrez pas ajouter de nouveautés et vous ne serez plus concurrentiels sur le marché.
+
+154
+00:15:13,480 --> 00:15:25,120
+ Ok, j'espère que vous êtes convaincu que la dette d'architecture c'est pas forcément bon ou mauvais,
+
+155
+00:15:25,120 --> 00:15:31,920
+ mais il faut la gérer. Voyons maintenant les fondements théoriques de sa gestion et aussi
+
+156
+00:15:31,920 --> 00:15:34,720
+ quelques bonnes pratiques, quelques bonnes pratiques qu'on met en place sur ManoMano,
+
+157
+00:15:34,720 --> 00:15:39,360
+ mais que vous pouvez mettre en place dès lundi dans vos entreprises. Attention,
+
+158
+00:15:39,360 --> 00:15:42,960
+ c'est un management de la dette d'architecture, mais vous verrez il y a certains principes qui
+
+159
+00:15:42,960 --> 00:15:46,640
+ permettent aussi de réduire la dette technique, la dette de sécurité et toutes types de dette.
+
+160
+00:15:46,640 --> 00:15:56,080
+ Je reviens sur mon anagis avec le crédit financier. Quand vous souscrivez un crédit à la banque,
+
+161
+00:15:56,080 --> 00:15:59,840
+ il y a toujours cette autorité qui vous dit qu'il faut payer tous les mois, si vous payez pas,
+
+162
+00:15:59,840 --> 00:16:04,960
+ elle vous appelle, etc. Dans le monde informatique, c'est un peu plus difficile. Il n'y a personne
+
+163
+00:16:04,960 --> 00:16:08,800
+ pour vous rappeler qu'il faut payer à la dette, par contre vous la payez et vous n'avez pas le choix,
+
+164
+00:16:08,800 --> 00:16:13,360
+ vous dérivez sur vos plannings, le système est très complexe, vous avez plus de bugs et en fait,
+
+165
+00:16:13,360 --> 00:16:17,840
+ vous payez les intérêts de cette dette naturellement et vous y êtes forcé, vous les subissez.
+
+166
+00:16:17,840 --> 00:16:23,560
+ Et dans le monde réel, si vous accumulez de la dette, au bout d'un moment, on va vous dire,
+
+167
+00:16:23,560 --> 00:16:27,560
+ vous avez atteint votre taux d'endettement, vous ne pouvez plus souscrire de dette. Dans le
+
+168
+00:16:27,560 --> 00:16:31,560
+ monde informatique, ce n'est pas vrai. Vous allez accumuler, accumuler, accumuler de la dette jusqu'à
+
+169
+00:16:31,560 --> 00:16:35,680
+ arriver à un point de banque route où finalement, vous êtes obligé de tout jeter parce que le temps
+
+170
+00:16:35,680 --> 00:16:40,400
+ que vous passez à maintenir le système, il est plus long que le temps que vous passez à ajouter
+
+171
+00:16:40,400 --> 00:16:47,439
+ des fonctionnalités. Donc là, il faut tout jeter et tout refaire. Le management de la dette,
+
+172
+00:16:47,439 --> 00:16:53,240
+ ça passe par deux axes. Premièrement, on va essayer de contrôler sa création pour la réduire
+
+173
+00:16:53,240 --> 00:16:57,880
+ et ensuite on va essayer de réduire celle qui est existante et qu'on a identifiée.
+
+174
+00:16:57,880 --> 00:17:05,960
+ Pour le contrôle de la création de la dette, on a plusieurs stratégies. Vous allez me dire,
+
+175
+00:17:05,960 --> 00:17:12,400
+ c'est mauvais, on crée pas de dette. Oui, mais finalement, on ne saisit pas d'opportunités,
+
+176
+00:17:12,400 --> 00:17:16,680
+ d'accélération, d'innovation et vous allez mettre trois ans pour sortir le plus beau produit du
+
+177
+00:17:16,680 --> 00:17:20,760
+ monde sauf que vous serez en retard de deux ans sur les concurrents. Donc il faut de la dette,
+
+178
+00:17:20,760 --> 00:17:26,520
+ c'est nécessaire aussi. Voici quelques bonnes pratiques pour réduire la création de la dette
+
+179
+00:17:26,520 --> 00:17:30,920
+ ou du moins quand vous l'identifiez en gardez trace et pouvoir la réduire plus tard.
+
+180
+00:17:30,920 --> 00:17:37,880
+ Alors ça paraît fou, mais si vous réfléchissez à l'architecture et vous faites un peu de
+
+181
+00:17:37,880 --> 00:17:41,560
+ conception, il y aura moins de dette. Je le dis parce que ce n'est pas toujours le cas,
+
+182
+00:17:41,560 --> 00:17:45,080
+ parfois on va aller très vite et on commence à coder alors qu'on n'a même pas réfléchi à ce qu'on
+
+183
+00:17:45,080 --> 00:17:51,240
+ fait. Vous pouvez aussi anticiper les besoins fonctionnels. Poser des questions à vos équipes
+
+184
+00:17:51,240 --> 00:17:54,640
+ produits et business, poser des questions sur comment ça va être dans ces six mois,
+
+185
+00:17:54,640 --> 00:17:59,040
+ comment vous le voyez et en fait ça peut changer des paternes très importants dans votre
+
+186
+00:17:59,040 --> 00:18:04,560
+ architecture sur des relations un n, un 1 et le fait de l'anticiper vous permettra de moins créer
+
+187
+00:18:04,560 --> 00:18:12,120
+ de dette dans le futur. Chez ManoMano, on a un système de ADR, architecture décision récord.
+
+188
+00:18:12,120 --> 00:18:15,879
+ En fait à chaque fois qu'on a un débat, chaque fois qu'on a une décision à prendre en termes
+
+189
+00:18:15,879 --> 00:18:22,560
+ d'architecture, on la note. On note non seulement le statut, accepté, rejetté, on note le contexte.
+
+190
+00:18:22,560 --> 00:18:26,639
+ Pourquoi on a pris cette décision? Quel était le contexte à ce moment-là? Le contexte aujourd'hui
+
+191
+00:18:26,640 --> 00:18:31,680
+ n'est pas forcément le même contexte que dans un an et on note la décision et les conséquences
+
+192
+00:18:31,680 --> 00:18:36,920
+ qu'elle peut avoir. Je vous prie de croire que six mois plus tard, un an plus tard, quand l'équipe
+
+193
+00:18:36,920 --> 00:18:41,880
+ a changé et qu'on sait pas pourquoi on a fait du MongoDB ou du PostgreSQL, trouver ce petit
+
+194
+00:18:41,880 --> 00:18:48,720
+ document ça peut sauver des vies. Et enfin, quand le choix est volontaire, n'hésitez pas à créer
+
+195
+00:18:48,720 --> 00:18:53,880
+ des tickets de dette. Dans Gira, vous pouvez créer une typologie dette technique, vous créer des tickets
+
+196
+00:18:53,880 --> 00:18:59,040
+ de dette et vous suivez l'évolution de votre dette d'architecture et technique dans votre système.
+
+197
+00:18:59,040 --> 00:19:08,000
+ Passons maintenant à la réduction de la dette. On a plusieurs stratégies. La première, c'est
+
+198
+00:19:08,000 --> 00:19:15,360
+ une stratégie active. On veut attaquer la dette. J'aime bien la règle du Boy Scoot. Donc, toujours
+
+199
+00:19:15,360 --> 00:19:21,080
+ laisser un endroit dans un état plus propre que celui où vous l'avez trouvé. Petit exemple,
+
+200
+00:19:21,080 --> 00:19:26,600
+ vous développez une fonctionnalité dans un composant ou un process métier un peu complexe. Pourquoi ne
+
+201
+00:19:26,600 --> 00:19:32,360
+ pas en profiter pour écrire la documentation de ce process? Ne pas avoir de documentation,
+
+202
+00:19:32,360 --> 00:19:36,320
+ c'est aussi de la dette d'architecture parce que ça augmente le temps de compréhension,
+
+203
+00:19:36,320 --> 00:19:45,480
+ d'analyser d'un bac. Allouer 20% de votre temps de chaque sprint pour attaquer la dette technique,
+
+204
+00:19:45,480 --> 00:19:49,120
+ mais aussi attaquer la dette d'architecture. Revoir où est-ce qu'il y a des petits points
+
+205
+00:19:49,120 --> 00:19:52,520
+ de contact avec d'autres équipes qui ne fonctionnent pas? Revoir la documentation,
+
+206
+00:19:52,520 --> 00:20:00,479
+ revoir les déviations avec les standards, ça marche très bien. Et si vous ne le faisiez pas
+
+207
+00:20:00,479 --> 00:20:05,239
+ déjà, investir encore plus de temps dans le design d'architecture, mais pour aussi corriger
+
+208
+00:20:05,239 --> 00:20:13,280
+ cette dette. Ensuite, on peut plutôt avoir une posture réactive. La dette, j'en subis des conséquences
+
+209
+00:20:13,280 --> 00:20:19,639
+ et je vais essayer de la résorber. Vous pouvez avoir de la correction opportuniste. Il y a un
+
+210
+00:20:19,639 --> 00:20:24,920
+ nouveau gros projet dans votre système. Vous savez que vous allez passer 2 mois, 3 mois, 6 mois,
+
+211
+00:20:24,920 --> 00:20:29,639
+ même si c'est en agile. Pourquoi pas inclure une petite partie de correction de cette dette
+
+212
+00:20:29,639 --> 00:20:35,040
+ d'architecture et augmenter un peu les estimations pour en profiter pour nettoyer le système.
+
+213
+00:20:35,040 --> 00:20:40,920
+ Vous avez aussi la méthode un peu plus difficile, c'est que je gêle mes nouvelles fonctionnalités.
+
+214
+00:20:40,920 --> 00:20:45,360
+ Je vais voir mes équipes produites et je leur dis que c'est tellement le bas arc, il nous
+
+215
+00:20:45,360 --> 00:20:49,400
+ me fout 3 mois avec deux équipes pour tout corriger et ensuite on pourra reprendre les
+
+216
+00:20:49,400 --> 00:20:55,120
+ fonctionnalités. Il y a un point de crise, mais parfois c'est nécessaire. Et enfin,
+
+217
+00:20:55,120 --> 00:20:59,840
+ quand vous changez d'un langage à un autre, par exemple chez ManoManou, on va subit une grosse
+
+218
+00:20:59,840 --> 00:21:04,360
+ transformation PHP vers d'autres langages. Il y a des systèmes qui ont été entièrement réécris,
+
+219
+00:21:04,360 --> 00:21:09,720
+ donc c'est une bonne opportunité pour mettre les choses à plat, re-suivre les standards et du
+
+220
+00:21:09,720 --> 00:21:18,520
+ coup réduire cette dette d'architecture. Ici, vous avez un exemple avec deux équipes qui gèrent
+
+221
+00:21:18,520 --> 00:21:22,640
+ la dette de manière différente. En rouge, vous avez à chaque fois qu'on crée un ticket de
+
+222
+00:21:22,640 --> 00:21:28,160
+ dette, en vert, à chaque fois qu'on le résout. Et donc à gauche, vous avez une équipe qui travaille
+
+223
+00:21:28,160 --> 00:21:32,440
+ de manière un peu réactive avec des temps de crise. On accumule de la dette et en atro,
+
+224
+00:21:32,440 --> 00:21:37,160
+ on fait un sprint de correction. Et sur la droite, vous avez une équipe qui intègre dans
+
+225
+00:21:37,160 --> 00:21:42,680
+ chacun de ces sprints 20 % de temps et qui résorbe la dette au fur et à mesure pour en avoir quasiment pas.
+
+226
+00:21:42,680 --> 00:21:51,000
+ La dernière stratégie que j'aime bien, c'est la stratégie passive. J'ai de la dette dans un coin.
+
+227
+00:21:51,000 --> 00:21:57,160
+ Par contre, je sais que cette partie du système ne va pas trop évoluer et finalement le rapport
+
+228
+00:21:57,160 --> 00:22:03,440
+ entre le coût à investir par rapport au petit risque n'est pas assez intéressant pour que je
+
+229
+00:22:03,440 --> 00:22:08,480
+ m'occupe de cette dette. Donc je l'ai identifiée, je l'ai caractérisée, mais je la délaisse parce
+
+230
+00:22:08,480 --> 00:22:14,640
+ que finalement, ça me coûte trop cher de la résombe. Et un dernier point de détail que je
+
+231
+00:22:14,640 --> 00:22:22,040
+ voudrais apporter, c'est beaucoup plus simple. De tout jeter, tout refaire, de zéro. Souvent,
+
+232
+00:22:22,040 --> 00:22:24,800
+ ça prend un peu plus de temps, mais c'est beaucoup plus simple. Par contre, les équipes
+
+233
+00:22:24,800 --> 00:22:29,160
+ ne l'apprennent pas forcément. C'est beaucoup plus intéressant et enrichissant en termes de
+
+234
+00:22:29,160 --> 00:22:33,960
+ compétences et en termes de compréhension de ce qu'on fait, d'améliorer petit à petit dans une
+
+235
+00:22:33,960 --> 00:22:38,600
+ amélioration continue plutôt que de tout jeter, repartir de zéro et en apprendre.
+
+236
+00:22:38,600 --> 00:22:48,600
+ Ok. Donc on sait ce que c'est la dette technique, la dette d'architecture, les causes et les conséquences.
+
+237
+00:22:48,600 --> 00:22:52,720
+ On sait à peu près comment la manager en théorie, comment on fait chez nous.
+
+238
+00:22:52,720 --> 00:22:59,440
+ Donc chez Mme Manu, on a essayé de construire un framework. Un framework, c'est des outils plus
+
+239
+00:22:59,440 --> 00:23:04,760
+ d'une méthodologie pour identifier cette dette, la mesurer et pour apprendre les choix stratégiques.
+
+240
+00:23:04,760 --> 00:23:10,880
+ Comme je vous l'ai dit tout à l'heure, en trois ans, j'ai vécu une grosse transformation de
+
+241
+00:23:10,880 --> 00:23:16,040
+ l'entreprise et de son commerce, mais c'était aussi une grosse transformation de l'architecture et
+
+242
+00:23:16,040 --> 00:23:22,000
+ de l'infrastructure. On est passé d'une solution on-promise sur du cloud. On est passé de deux
+
+243
+00:23:22,000 --> 00:23:27,360
+ monolithes à 350 microservices et la diversité des technologies et des langages a évolué.
+
+244
+00:23:27,360 --> 00:23:33,360
+ Et si ça vous intéresse, je vous invite à lire des nos articles sur Medium qui parlent de cette
+
+245
+00:23:33,360 --> 00:23:42,480
+ Odyssey IT qui a été assez challenging pour les équipes. Avant de vous raconter comment on gère
+
+246
+00:23:42,480 --> 00:23:46,880
+ aujourd'hui, je pense que c'est intéressant de vous raconter quelques histoires de dette qu'on a
+
+247
+00:23:46,880 --> 00:23:55,600
+ rencontré dans le passé ou aujourd'hui. ManoMano a été fondé en 2013. A cette époque-là, il y avait
+
+248
+00:23:55,600 --> 00:24:02,120
+ très peu de personnes. En 2016, après trois ans d'existence, il a été décidé au sein de l'entreprise de
+
+249
+00:24:02,120 --> 00:24:07,400
+ faire neuf mois de gel fonctionnel. On n'ajoute aucune fonctionnalité. Il faut qu'on renforce
+
+250
+00:24:07,400 --> 00:24:13,960
+ tout notre système. Il y a dix développeurs qui ont travaillé pour passer d'un PHP vite fait sans
+
+251
+00:24:13,960 --> 00:24:20,240
+ test à une solution plus propre avec un framework symphonie, avec des standards beaucoup plus forts.
+
+252
+00:24:20,240 --> 00:24:28,080
+ C'est une solution. Le business l'a compris, mais on veut éviter ça aujourd'hui. Un autre exemple,
+
+253
+00:24:28,080 --> 00:24:33,120
+ il y a deux ans, on a lancé un service pour les marchands, sauf que la facturation de ce service-là,
+
+254
+00:24:33,120 --> 00:24:39,080
+ on le faisait à la main dans un Google Sheet parce que finalement, le coût d'automatiser la facture
+
+255
+00:24:39,080 --> 00:24:43,040
+ alors qu'on n'avait pas encore testé la traite du marché et qu'on avait un retour d'investissement
+
+256
+00:24:43,040 --> 00:24:48,440
+ assez faible sur le fait d'automatiser la facture, nous a dit on prend un choix de créer cette dette
+
+257
+00:24:48,440 --> 00:24:53,280
+ pour aller plus vite. Et trois ans plus tard, ce système tourne toujours, mais il atteint ses limites.
+
+258
+00:24:53,280 --> 00:24:57,520
+ Je ne sais pas si vous le saviez, mais dans Google Sheet, on peut avoir que 5 millions de cellules.
+
+259
+00:24:57,520 --> 00:25:01,000
+ Donc quand vous avez des millions et des millions de commandes, ça ne passe plus.
+
+260
+00:25:01,000 --> 00:25:09,440
+ Donc notre site IO, voyons un petit peu tout ça, dit c'est bizarre. J'ai l'impression qu'on a beaucoup
+
+261
+00:25:09,440 --> 00:25:15,080
+ de dettes techniques d'architecture, je ne la vois pas et j'ai l'impression qu'elle s'accumule et
+
+262
+00:25:15,080 --> 00:25:22,400
+ qu'elle nous coûte. Équipe d'architectes, comment vous faites? Donc on se pose entre nous,
+
+263
+00:25:22,400 --> 00:25:28,040
+ on étudie un petit peu l'état de l'art. Il y a pas mal de thèses et d'articles et de conférences
+
+264
+00:25:28,040 --> 00:25:33,160
+ sur la dette technique, sur la dette d'architecture un petit peu moins, et on essaie de confronter aussi
+
+265
+00:25:33,160 --> 00:25:38,480
+ les visions des différentes entreprises de différents marchands. On en arrive à la création
+
+266
+00:25:38,480 --> 00:25:42,200
+ d'un framework qui est toujours en cours de construction, en cours d'amélioration et dont je
+
+267
+00:25:42,200 --> 00:25:48,800
+ vous parle aujourd'hui. Pas de secret, on a la même approche, une approche pour contrôler la création
+
+268
+00:25:48,800 --> 00:25:55,160
+ de la dette, une approche pour contrôler, pour réduire la dette existante. Dans le contrôle de la
+
+269
+00:25:55,160 --> 00:26:01,640
+ création de la dette, on a défini nos standards. Ce que vous voyez ici, c'est la Mano Tech Matrix
+
+270
+00:26:01,640 --> 00:26:06,840
+ avec des liens qui permettent d'aller vers des guidelines. Ces guidelines définissent des standards
+
+271
+00:26:06,840 --> 00:26:11,800
+ dans différents domaines. Ça peut être l'expérience développeur, des principes d'architecture, de
+
+272
+00:26:11,800 --> 00:26:17,320
+ sécurité, d'agilité. C'est assez large, mais l'idée, c'est de dire quand il manque un standard,
+
+273
+00:26:17,320 --> 00:26:23,159
+ on le définit ensemble. Ça peut être rédigé par n'importe qui, et c'est validé par des experts du
+
+274
+00:26:23,159 --> 00:26:27,399
+ domaine et ensuite par toute la tech. Toute la tech peut avoir des commentaires sur les standards.
+
+275
+00:26:27,399 --> 00:26:33,159
+ Et comme on a une entreprise qui évolue beaucoup, ces standards peuvent évoluer aussi. Quand on
+
+276
+00:26:33,160 --> 00:26:41,480
+ introduit GraphQL au lieu de reste, les standards évoluent. Attention, chez ManoMano on a des standards,
+
+277
+00:26:41,480 --> 00:26:47,480
+ ce ne sont pas les mêmes partout. Donc, c'est important de définir ces standards parce que les
+
+278
+00:26:47,480 --> 00:26:52,880
+ choix d'assumer de la dette ou pas dépendent du contexte dans lequel vous êtes. Chez ManoMano,
+
+279
+00:26:52,880 --> 00:26:56,680
+ on peut se permettre de faire des pocs en production, on fait plus de vente et puis on
+
+280
+00:26:56,680 --> 00:27:00,840
+ prend le temps après de corriger cette dette. Chez Airbus, si vous ne suivez pas les standards,
+
+281
+00:27:00,840 --> 00:27:06,439
+ votre avion ne décollera pas et les impacts financiers et physiques sont beaucoup plus importants.
+
+282
+00:27:06,439 --> 00:27:13,679
+ Deuxième outil qu'on n'a pas du tout inventé qui vient de la société Toftworks, c'est le tech
+
+283
+00:27:13,679 --> 00:27:20,360
+ radar. C'est un outil qui interne, qui nous permet de valider l'arrivée d'une nouvelle technologie
+
+284
+00:27:20,360 --> 00:27:26,840
+ ou d'un nouveau principe d'architecture chez ManoMano avec des étapes très pragmatiques et
+
+285
+00:27:26,840 --> 00:27:32,080
+ des attentes en termes d'industrialisation, d'experts, de temps en production, de documentation.
+
+286
+00:27:32,080 --> 00:27:38,199
+ Ça permet d'empêcher qu'il y ait des nouvelles technologies qui arrivent au sein de l'entreprise
+
+287
+00:27:38,199 --> 00:27:42,600
+ et qu'on ait un système très hétérogène avec beaucoup d'aides d'architecture et des composants
+
+288
+00:27:42,600 --> 00:27:48,600
+ qu'on ne sait plus maîtrise. Passons maintenant à la réduction de la dette existante.
+
+289
+00:27:48,600 --> 00:27:55,240
+ Quand on a expliqué à nos CTO qu'on aurait toujours de la dette et qu'on ne pouvait pas,
+
+290
+00:27:55,240 --> 00:28:00,840
+ c'était irréaliste qu'on arriverait à zéro, au début il n'a pas compris. En fait, on lui a
+
+291
+00:28:00,840 --> 00:28:04,640
+ expliqué que c'était nécessaire et qu'il valait mieux l'identifier et la contrôler et même
+
+292
+00:28:04,640 --> 00:28:10,680
+ prendre des choix comme la délaisser ou la résorber. L'idée, c'est de contrôler la dette
+
+293
+00:28:10,680 --> 00:28:16,680
+ en la réduisant, mais pour l'améliorer, il faut pouvoir la mesurer. C'est pour ça qu'on
+
+294
+00:28:16,680 --> 00:28:21,880
+ essaie de mettre des choses en place. On a une première approche qui a été poussée
+
+295
+00:28:21,880 --> 00:28:28,640
+ finalement par des équipes, des individus, qui est de dire qu'on fait une matrice valeur versus
+
+296
+00:28:28,640 --> 00:28:34,520
+ effort et on essaie de placer des post-it. Chaque post-it, c'est un élément de dette qu'on a
+
+297
+00:28:34,520 --> 00:28:41,720
+ identifié et qu'on aimerait prioriser. Et donc s'il a une haute valeur pour l'entreprise et que
+
+298
+00:28:41,720 --> 00:28:45,240
+ finalement l'effort est faible, on le met à gauche, on va le faire tout de suite en haut à gauche.
+
+299
+00:28:45,240 --> 00:28:49,000
+ Sinon, on peut le mettre en haut à droite, on le fera un peu plus tard. Et finalement,
+
+300
+00:28:49,000 --> 00:28:51,960
+ ceux qui sont en bas à droite, ils n'ont pas de valeur et ils coûtent très cher à résorber.
+
+301
+00:28:51,960 --> 00:28:57,160
+ Et donc, on les laisse, on les délaisse. Mais cette approche, elle était très
+
+302
+00:28:57,160 --> 00:29:02,560
+ centrée sur les équipes. On avait du mal à avoir une vision globale de l'entreprise et
+
+303
+00:29:02,560 --> 00:29:08,640
+ chaque équipe avait un peu sa manière de noter. Donc, on a voulu homogéniser un petit peu tout ça.
+
+304
+00:29:08,640 --> 00:29:14,960
+ Donc, la seconde approche, c'est une récolte donnée par méthode qualitatif. Je vous l'ai dit tout
+
+305
+00:29:14,960 --> 00:29:18,400
+ à l'heure, la dette technique, on peut faire de l'analyse statique, la dette d'architecture,
+
+306
+00:29:18,400 --> 00:29:23,360
+ elle est beaucoup plus difficile à identifier automatiquement. L'idée, c'est de faire des
+
+307
+00:29:23,360 --> 00:29:27,680
+ entretiens en deux parties avec les équipes techniques. Souvent, les managers, les techleads,
+
+308
+00:29:27,680 --> 00:29:32,920
+ et parfois toute l'équipe. Et en deux parties. Donc, la première partie, c'est une discussion
+
+309
+00:29:32,920 --> 00:29:37,880
+ ouverte. Qu'est-ce que la dette d'architecture? Prendre un peu de recul par rapport à son système,
+
+310
+00:29:37,880 --> 00:29:42,760
+ repenser son système, non pas comme un ensemble de deux éléments qui discutent ensemble,
+
+311
+00:29:42,760 --> 00:29:48,600
+ mais au sein de tout ManoMano. Et finalement, faire monter des gens en compétence sur qu'est-ce que
+
+312
+00:29:48,600 --> 00:29:53,320
+ la dette d'architecture est posée des questions assez ouvertes. Et la deuxième partie, on le verra
+
+313
+00:29:53,320 --> 00:29:59,120
+ plus tard, c'est la notation des composants. Sur la première partie, on pose des questions
+
+314
+00:29:59,120 --> 00:30:04,480
+ très très ouvertes. Ok, on redémarre de zéro. Comment vous faites? Est-ce que vous avez des
+
+315
+00:30:04,480 --> 00:30:08,960
+ échanges avec d'autres équipes ou d'autres parties du système qui sont très complexes,
+
+316
+00:30:08,960 --> 00:30:14,280
+ très fragiles? Généralement, c'est un symptôme. Est-ce que vous avez pris les gros raccourcis par
+
+317
+00:30:14,280 --> 00:30:19,040
+ rapport à la guideline qui dit que les API, c'est telle norme et telle norme? Comme ça,
+
+318
+00:30:19,040 --> 00:30:24,560
+ les gens le savent. Et ça peut être aussi un point sur la dépendance par rapport à l'extérieur,
+
+319
+00:30:24,560 --> 00:30:28,320
+ par rapport à des API extérieurs, par rapport à des librais open source qu'on n'a pas maintenu à
+
+320
+00:30:28,320 --> 00:30:34,400
+ jour. L'idée, c'est vraiment d'ouvrir la discussion et de faire comprendre qu'il y a de la
+
+321
+00:30:34,400 --> 00:30:41,480
+ dette qu'on n'a pas forcément en visibilité. Généralement, après ce premier entretien,
+
+322
+00:30:41,480 --> 00:30:46,400
+ on pensait que tel et tel système avait un peu de dette et en fait on a énormément de dette.
+
+323
+00:30:46,400 --> 00:30:52,520
+ Pas grave, ça fait partie de notre processus. L'idée, c'est d'identifier. Donc plus on la
+
+324
+00:30:52,520 --> 00:30:58,000
+ voit, mieux on peut la contrôler. Ensuite, il faut la caractériser. Est-ce que cette dette
+
+325
+00:30:58,000 --> 00:31:07,280
+ elle est grave ou pas? Et on a mis en place un scoring. Chez ManoManou, on essaie de construire des
+
+326
+00:31:07,280 --> 00:31:13,040
+ cartes qu'on appelle des architectures building blocks. Ça vient du taux-gâff et qui permet
+
+327
+00:31:13,040 --> 00:31:18,880
+ de regrouper des éléments du système par petites parties qui fonctionnent ensemble et qui répondent
+
+328
+00:31:18,880 --> 00:31:23,720
+ à un besoin fonctionnel. Ça peut être un microservice parfois, ça peut être plusieurs microservices
+
+329
+00:31:23,720 --> 00:31:31,000
+ et une entité externe. Donc on a des building blocks sur lesquels on va noter le sentiment,
+
+330
+00:31:31,000 --> 00:31:36,560
+ parce que c'est un sentiment, de dette d'architecture. Donc quel est le risque que cela crée des problèmes
+
+331
+00:31:36,560 --> 00:31:42,000
+ dans le futur? Un petit peu, est-ce que ça sent mauvais ou pas? Quand cela risque-t-il d'arriver?
+
+332
+00:31:42,000 --> 00:31:48,200
+ Est-ce que l'impact sur l'utilisateur final est important ou pas? Quel est l'écart vis-à-vis de nos
+
+333
+00:31:48,200 --> 00:31:53,360
+ standards? Et enfin, quel est le score de la dernière fois pour suivre un petit peu l'évolution de la
+
+334
+00:31:53,360 --> 00:32:00,040
+ dette parce que c'est important aussi. Donc exemple, sur un architecture building block chez ManoMano
+
+335
+00:32:00,040 --> 00:32:07,679
+ qui est la génération de factures pour un service, le risque est assez élevé parce qu'on sait qu'on
+
+336
+00:32:07,679 --> 00:32:15,399
+ a des problèmes dans notre système. Le temps dans lequel cela va créer des problèmes, il est assez
+
+337
+00:32:15,399 --> 00:32:19,199
+ long parce que finalement, il n'y a pas d'évolution sur ce système. Il tourne aujourd'hui et on a
+
+338
+00:32:19,200 --> 00:32:24,960
+ estimé qu'il pouvait tourner encore pendant deux ans, trois ans sans problème. L'impact pour
+
+339
+00:32:24,960 --> 00:32:29,840
+ l'utilisateur est assez faible parce qu'il concerne une partie de la population. La déviation,
+
+340
+00:32:29,840 --> 00:32:34,040
+ on sait qu'elle n'est pas très bonne parce que c'est un projet qu'on a voulu sortir vite et
+
+341
+00:32:34,040 --> 00:32:40,200
+ du coup, on a pris des gros raccourcis. Et enfin, on a l'ancien score. Donc, ça nous donne un score
+
+342
+00:32:40,200 --> 00:32:47,160
+ moyen par architecture building block qui peut varier de 0 à 10. Donc, 10 est une forme très
+
+343
+00:32:47,160 --> 00:32:52,680
+ mauvais. Et chez ManoManou, on essaie de mettre des curseurs. Donc, entre 0 et 2, ça veut dire qu'on
+
+344
+00:32:52,680 --> 00:32:59,520
+ n'a pas de dette, ça va bien. Entre 2 et 6, on a de la dette, on va le surveiller et on va surtout
+
+345
+00:32:59,520 --> 00:33:05,360
+ surveiller l'évolution de cette dette. Et au-dessus de 6, c'est critique. Il y a un problème sur
+
+346
+00:33:05,360 --> 00:33:10,440
+ cette partie du système et on veut lever une alerte et même aller enquêter, analyser un peu
+
+347
+00:33:10,440 --> 00:33:15,280
+ plus pour pouvoir peut-être estimer la résorption de cette dette, le coût de la résorption de cette
+
+348
+00:33:15,280 --> 00:33:27,200
+ dette. Donc, dans notre carte d'architecture building block, on vient positionner sur une partie du
+
+349
+00:33:27,200 --> 00:33:34,600
+ système, un score d'architecture, de dette d'architecture qui va de 0 à 10 et qui est le
+
+350
+00:33:34,600 --> 00:33:44,360
+ résultat des entretiens qu'on a eus avec les équipes. Ce qui permet sur une carte comme ici de voir
+
+351
+00:33:44,360 --> 00:33:49,679
+ un petit peu les parties où la dette est verte, les parties où la dette est jeune et les parties où
+
+352
+00:33:49,679 --> 00:33:55,240
+ il y a un problème et donc c'est rouge. Et ça permet assez rapidement sur une partie du système
+
+353
+00:33:55,240 --> 00:34:02,320
+ d'avoir de la visibilité sur cette dette d'architecture. On essaie de travailler sur une
+
+354
+00:34:02,320 --> 00:34:07,760
+ vue organisationnelle pour que notre CTO, par exemple, puisse avoir une vue de tout ManoMano,
+
+355
+00:34:07,760 --> 00:34:14,480
+ regroupée par équipes, business units, entités et se dire, ok, cette partie-là, il va falloir
+
+356
+00:34:14,480 --> 00:34:18,199
+ que j'investisse dans le futur parce qu'on a beaucoup de dette d'architecture. Et donc,
+
+357
+00:34:18,199 --> 00:34:23,840
+ l'idée c'est de montrer avec des tailles de cellules ou des couleurs une vue vraiment très
+
+358
+00:34:23,840 --> 00:34:28,120
+ organisationnelle et très très haut niveau qui t'a rentré dans le détail après parce que finalement,
+
+359
+00:34:28,120 --> 00:34:33,480
+ on a le détail de chaque building block et même dans les équipes, on peut avoir des tickets et
+
+360
+00:34:33,480 --> 00:34:40,440
+ donc des tailles encore plus intéressantes sur cette dette d'architecture. Donc ça,
+
+361
+00:34:40,440 --> 00:34:45,840
+ c'est en construction. Donc ce que je vous montre, c'est juste un schéma de notre essi.
+
+362
+00:34:45,840 --> 00:34:53,400
+ Ensuite, il faut prioriser. C'est-à-dire qu'on a scouré notre niveau de dette d'architecture.
+
+363
+00:34:53,400 --> 00:34:58,000
+ Donc on va présenter ces cartes, on va présenter les alertes au CTO dans certains cas et au
+
+364
+00:34:58,000 --> 00:35:02,600
+ directeur technique de chaque partie. L'idée c'est de pouvoir prendre des décisions sur
+
+365
+00:35:02,600 --> 00:35:10,480
+ quelle dette on veut résorber, où on veut mettre l'effort le trimestre prochain et finalement
+
+366
+00:35:10,480 --> 00:35:14,960
+ d'apporter de la visibilité sur cette dette. Ensuite, on s'est rendu compte qu'il fallait aussi
+
+367
+00:35:14,960 --> 00:35:21,560
+ sensibiliser le business. Chez Malomanu, on travaille avec la méthode safe, donc par trimestre avec un
+
+368
+00:35:21,560 --> 00:35:26,520
+ PI planning. Et pendant le PI planning où finalement, on décide ce qu'on va faire pendant le trimestre,
+
+369
+00:35:26,520 --> 00:35:31,839
+ il y a toujours une petite bataille, on veut rajouter des fonctionnalités ou on veut corriger des choses
+
+370
+00:35:31,840 --> 00:35:36,120
+ techniques ou faire des évolutions techniques. Et en fait, on s'est rendu compte que le business
+
+371
+00:35:36,120 --> 00:35:40,720
+ ne comprenait pas forcément la notion de dette technique et dette d'architecture. Et donc il fallait
+
+372
+00:35:40,720 --> 00:35:46,040
+ les sensibiliser sur le fait qu'ils en sont parfois les créateurs, qu'elle est parfois bénéfique,
+
+373
+00:35:46,040 --> 00:35:50,320
+ mais qu'il faut nous donner du temps pour la résorber cette dette. Sinon, on va ralentir,
+
+374
+00:35:50,320 --> 00:35:56,800
+ ralentir et on pourra encore moins répondre à leurs besoins. Une fois que certains éléments ont
+
+375
+00:35:56,800 --> 00:36:03,840
+ été choisis pour être résorbés, parce qu'on veut une stratégie active ou réactive surtout, on va
+
+376
+00:36:03,840 --> 00:36:08,920
+ segmenter les tâches de résorption de dette par petits morceaux. Comme dans l'agilité,
+
+377
+00:36:08,920 --> 00:36:13,000
+ c'est une tâche trop grosse à estimer, finalement on la découpe en petits morceaux et on essaie
+
+378
+00:36:13,000 --> 00:36:18,840
+ d'y aller petit à petit en corrigant la dette par rapport à un standard, en corrigant la dette
+
+379
+00:36:18,840 --> 00:36:23,920
+ par rapport à deux composants, puis après un seul composant, voilà, on le découpe pour pouvoir l'estimer
+
+380
+00:36:23,920 --> 00:36:29,520
+ et finalement le planifier dans notre trimestre. Et ce travail là, l'idée c'est de le faire chaque
+
+381
+00:36:29,520 --> 00:36:36,680
+ trimestre, de collecter cette dette et finalement d'avoir des indicateurs sur l'augmentation,
+
+382
+00:36:36,680 --> 00:36:44,200
+ la diminution de la dette et un peu l'état de notre système dans le temps. L'idée c'est de le
+
+383
+00:36:44,200 --> 00:36:50,200
+ partager avec le business aussi et de dire que si la dette est trop importante, peut-être que cette
+
+384
+00:36:50,200 --> 00:36:54,319
+ partie du système là, il faut prendre un petit peu de temps pour la nettoyer. On parle pas forcément
+
+385
+00:36:54,319 --> 00:36:59,200
+ de gel, mais on parle d'un effort supplémentaire pour résorber la dette. Dans le monde réel,
+
+386
+00:36:59,200 --> 00:37:07,359
+ vous avez cette capacité d'endettement qui a 35%, les banques normalement ne respectent cette règle.
+
+387
+00:37:07,359 --> 00:37:14,520
+ On pourrait avoir un peu le même système chez Malmanu en disant, si un composant a plus de 6 ou 7
+
+388
+00:37:14,520 --> 00:37:20,720
+ de scores de dette, alors il y a une alerte, on discute avec le business et on réduit la capacité
+
+389
+00:37:20,720 --> 00:37:26,920
+ à faire de nouvelles fonctionnalités. Donc c'est un fraymore qui est en cours de construction,
+
+390
+00:37:26,920 --> 00:37:31,680
+ qui est en cours de mise en place, de test et donc j'aurai beaucoup plus de retour d'expérience dans
+
+391
+00:37:31,680 --> 00:37:40,080
+ 6 mois, dans un an, mais on en a déjà reconnu certains. Donc notre CTO pensait que la dette
+
+392
+00:37:40,080 --> 00:37:45,120
+ technique et la dette d'architecture étaient mauvaises et en fait elle n'est pas toujours, elle est
+
+393
+00:37:45,120 --> 00:37:48,520
+ nécessaire, surtout dans un contexte d'hyper-croissance comme Malmanu où on veut lancer beaucoup de
+
+394
+00:37:48,520 --> 00:37:53,240
+ produits chaque année, beaucoup de nouveaux services. Donc il faut un peu casser cette idée-là.
+
+395
+00:37:53,240 --> 00:38:00,240
+ Combattre les idées reçues sur la cause de la dette, elle est toujours volontaire, ce genre de choses.
+
+396
+00:38:00,240 --> 00:38:07,040
+ Arrêter de tout mettre sous le tapis de la dette technique et d'architecture, finalement on met
+
+397
+00:38:07,040 --> 00:38:12,520
+ tout sous le tapis, on ne sait pas ce qu'il y a vraiment dessous et le but de notre remord c'est
+
+398
+00:38:12,520 --> 00:38:17,000
+ justement de dire ok on a de la dette mais on la contrôle, on la maîtrise, on sait où aller,
+
+399
+00:38:17,000 --> 00:38:20,880
+ on sait pourquoi celle-là on l'a délaissée et pourquoi celle-là on est en train de la rétourner.
+
+400
+00:38:20,880 --> 00:38:26,000
+ Sur les critères de score, ils sont inspirés de différents articles, inspirés de discussions
+
+401
+00:38:26,000 --> 00:38:30,400
+ qu'on a eu entre nous. Ils peuvent être amenés à évoluer si ils ne sont pas assez pragmatiques
+
+402
+00:38:30,400 --> 00:38:36,120
+ pour les équipes ou si ils sont trop compliqués à maintenir de manière pérenne dans le temps et
+
+403
+00:38:36,120 --> 00:38:43,279
+ que ce n'est pas assez facile à utiliser. On pourrait aussi ajouter une note business, c'est-à-dire
+
+404
+00:38:43,279 --> 00:38:49,440
+ l'équipe produit, l'équipe métier, une visibilité sur l'équipe technique qui gère cette partie du
+
+405
+00:38:49,440 --> 00:38:53,440
+ système et direz j'ai l'impression que c'est très lent, j'ai l'impression qu'il y a beaucoup de bugs,
+
+406
+00:38:53,440 --> 00:38:59,720
+ j'ai l'impression pareil, un ressenti sur les symptômes de cette dette d'architecture et donc
+
+407
+00:38:59,720 --> 00:39:03,240
+ peut-être ajouter une note qui ne vient pas de l'équipe technique mais qui vient de l'équipe business.
+
+408
+00:39:03,240 --> 00:39:10,080
+ Et bien sûr, yter et améliorer, chaque trimestre on va essayer d'utiliser cette
+
+409
+00:39:10,080 --> 00:39:16,399
+ ce framework et tous ces outils mais l'idée c'est de les améliorer pour qu'ils répondent exactement à nos besoins.
+
+410
+00:39:16,399 --> 00:39:26,479
+ Voilà, donc voilà comment on fait chez ManoMano. Ce que je vous propose c'est de vous donner quelques
+
+411
+00:39:26,480 --> 00:39:33,760
+ points clés à retenir vis-à-vis de cette expérience. Premièrement, définir ces standards et ces
+
+412
+00:39:33,760 --> 00:39:37,760
+ principes d'architecture c'est hyper important, on le faisait pas au début, il y a beaucoup d'entreprises
+
+413
+00:39:37,760 --> 00:39:43,600
+ qui ne font pas et qui font confiance aux équipes, c'est bien, ça marche mais si c'est partagé, déjà
+
+414
+00:39:43,600 --> 00:39:48,440
+ il y a un élan de communauté et de partage des bonnes pratiques et en plus ça permet de mesurer
+
+415
+00:39:48,440 --> 00:39:54,560
+ l'écart à la cible. Il faut démystifier la dette dans toute l'entreprise et pas seulement dans la
+
+416
+00:39:54,560 --> 00:40:02,360
+ partie tech, il faut l'identifier et la caractériser et ceci de manière régulière. Il faut adopter
+
+417
+00:40:02,360 --> 00:40:06,400
+ différentes stratégies parce que si vous voulez tout le temps résorber la dette, c'est une grosse erreur
+
+418
+00:40:06,400 --> 00:40:12,120
+ en termes de marché et enfin il faut pas hésiter à construire ces propres outils. Aujourd'hui les
+
+419
+00:40:12,120 --> 00:40:18,279
+ outils sont inexistants ou difficiles à utiliser donc n'hésitez pas à porter votre propre approche,
+
+420
+00:40:18,279 --> 00:40:22,400
+ à vous inspirer d'autres entreprises et à construire des outils qui vous permettent de
+
+421
+00:40:22,400 --> 00:40:30,080
+ répondre à cette besoin de visibilité. Je tiens à remercier trois personnes que je ne connais pas
+
+422
+00:40:30,080 --> 00:40:35,640
+ personnellement mais qui sont des chercheurs et dont le travail principal est de travailler sur
+
+423
+00:40:35,640 --> 00:40:40,320
+ la dette technique et pour eux trois particulièrement plus sur la dette d'architecture. Je vous invite
+
+424
+00:40:40,320 --> 00:40:44,560
+ si vous voulez compléter cette conférence à lire leurs articles et leurs thèses qui sont très
+
+425
+00:40:44,560 --> 00:40:47,960
+ intéressantes sur le sujet avec des retours d'expérience d'autres entreprises aussi.
+
+426
+00:40:47,960 --> 00:40:53,080
+ Keia Patel du Michigan, Roberto Verdechet d'Amsterdam et Antonio Martini d'Oslo.
+
+427
+00:40:53,080 --> 00:41:00,760
+ Si cette histoire vous a plu et que vous avez envie de travailler sur ce framework et de rejoindre
+
+428
+00:41:00,760 --> 00:41:05,160
+ ManoMano, on cherche des architectes pour rejoindre notre équipe donc n'hésitez pas à venir
+
+429
+00:41:05,160 --> 00:41:09,400
+ discuter avec moi, n'hésitez pas à venir sur notre stand aujourd'hui, on est très ouvert à la
+
+430
+00:41:09,400 --> 00:41:17,000
+ discussion. Merci beaucoup, n'hésitez pas à donner vos commentaires, ça me permettra d'évoluer et de
+
+431
+00:41:17,000 --> 00:41:20,960
+ vous proposer encore de meilleures conférences dans les années à venir et si vous avez des questions
+
+432
+00:41:20,960 --> 00:41:22,520
+ je suis tout à fait ouvert à en discuter.
+
+433
+00:41:22,520 --> 00:41:50,759
+ Bonjour, merci déjà pour la conférence, c'était très très intéressant. Moi j'ai une question,
+
+434
+00:41:50,760 --> 00:41:56,120
+ aujourd'hui je travaille dans un contexte où la plupart des projets ne sont pas portés en
+
+435
+00:41:56,120 --> 00:42:01,520
+ interne, ils sont portés par des sociétés externes sous forme de prestations de ça,
+
+436
+00:42:01,520 --> 00:42:09,520
+ c'est très compliqué en fait d'essayer de leur apporter des bonnes pratiques et de les
+
+437
+00:42:09,520 --> 00:42:14,560
+ contraindre dans un cadre un peu une cohérence globale. Comment est-ce qu'on peut suivre la
+
+438
+00:42:14,560 --> 00:42:20,960
+ dette des entreprises partenaires qui nous fournissent des services?
+
+439
+00:42:20,960 --> 00:42:24,759
+ Est-ce que tu parles de solutions où tu as accès à tout, aux codes sources etc ou de solutions en
+
+440
+00:42:24,759 --> 00:42:31,440
+ SASS? C'est un système un petit peu hybride donc il y a effectivement du SASS et il y a aussi des
+
+441
+00:42:31,440 --> 00:42:38,480
+ solutions où on a la propriété intellectuelle du code source mais pas forcément le contrôle sur
+
+442
+00:42:38,480 --> 00:42:45,400
+ les équipes de dev. Pour les solutions SASS il n'y a pas de magie, il faut faire confiance à ces
+
+443
+00:42:45,400 --> 00:42:50,800
+ entreprises pour gérer au mieux la dette. Par contre dans le choix des solutions SASS tu peux définir
+
+444
+00:42:50,800 --> 00:42:56,960
+ quelles sont tes standards en termes d'interaction technique, par exemple tu veux communiquer par API
+
+445
+00:42:56,960 --> 00:43:01,480
+ sécurisé plutôt que par fichiers FTP, ça peut être des standards que tu définis finalement pour
+
+446
+00:43:01,480 --> 00:43:06,720
+ choisir des solutions SASS et des partenaires qui ont à peu près la même vision que toi de la dette.
+
+447
+00:43:06,720 --> 00:43:12,359
+ Ça c'est pour les solutions SASS, pour les solutions qui sont développées en externe ou par
+
+448
+00:43:12,359 --> 00:43:17,480
+ des prestes à terre interne mais où tu n'as pas énormément de contrôle sur la qualité du code,
+
+449
+00:43:17,480 --> 00:43:24,200
+ pareil définir tes standards et dire en fait on acceptera la livraison de ce produit là que si
+
+450
+00:43:24,200 --> 00:43:30,520
+ ça respecte ces standards là que soient standards d'architecture donc on veut que vous livrez des
+
+451
+00:43:30,520 --> 00:43:34,959
+ microservices qui ont une seule responsabilité, on veut que vous faisiez de facier de l'event,
+
+452
+00:43:34,960 --> 00:43:41,400
+ drive architecture et ça se ressent dans le livrab. Ça demandera un temps d'analyse de votre côté
+
+453
+00:43:41,400 --> 00:43:48,040
+ parce que c'est de l'analyse subjective et humaine donc ça demandera un temps d'analyse mais
+
+454
+00:43:48,040 --> 00:43:52,440
+ finalement si vous trouvez une déviation par rapport au standard vous pouvez finalement refuser ou
+
+455
+00:43:52,440 --> 00:43:58,760
+ demander une amélioration de ce code. Et sur la dette technique il y a beaucoup d'outils comme son
+
+456
+00:43:58,760 --> 00:44:04,040
+ arcube où là vous définissez vos règles. Dans son arcube on peut aussi définir des règles personnelles
+
+457
+00:44:04,040 --> 00:44:09,080
+ qui vont analyser le code statiquement selon vos règles et en fait ça peut être une bonne approche
+
+458
+00:44:09,080 --> 00:44:14,759
+ aussi pour forcer des bonnes pratiques à se retrouver dans le code dont vous n'avez pas à mettre.
+
+459
+00:44:22,360 --> 00:44:26,160
+ Bonjour déjà, merci beaucoup pour cette conf qu'est un très bel effort de vulgarisation
+
+460
+00:44:26,160 --> 00:44:30,520
+ et d'humilité je pense par rapport à ce qui est fait derrière. J'avais une question surtout
+
+461
+00:44:30,520 --> 00:44:35,880
+ par rapport au standard donc on a bien compris que cette mesure des standards et le questionnaire
+
+462
+00:44:35,880 --> 00:44:40,520
+ l'entretien menait à savoir si on suait les standards et j'ai senti qu'il y avait aussi
+
+463
+00:44:40,520 --> 00:44:46,640
+ l'idée de le standard est peut-être mal suivi mais aussi mal défini. Est-ce que vous arrivez à
+
+464
+00:44:46,640 --> 00:44:54,880
+ faire une rétroaction justement de ce benchmark sur le changement des standards déjà avec votre
+
+465
+00:44:54,880 --> 00:45:01,920
+ cadre? Alors non mais c'est une très bonne idée effectivement il y a des moments où dans
+
+466
+00:45:01,920 --> 00:45:06,520
+ certaines équipes on nous dit oui on n'a pas suivi le standard mais en fait on n'est pas d'accord
+
+467
+00:45:06,520 --> 00:45:12,880
+ avec le standard et on pense que ça apporte ça ça ça et parfois ils ont raison. Ce qui est difficile
+
+468
+00:45:12,880 --> 00:45:17,800
+ c'est d'avoir des standards qui sont communs à tout le monde et parfois c'est intéressant de
+
+469
+00:45:17,800 --> 00:45:25,000
+ d'écouter ces retours là justement pour faire évoluer les standards. Je prends un exemple en fait sur
+
+470
+00:45:25,000 --> 00:45:31,160
+ les API on avait défini quand vous l'avez utilisé des timestamps dans les payloads Gison donc c'est
+
+471
+00:45:31,160 --> 00:45:37,040
+ défini par toute la communauté et validé même si il y a eu des gros débats et après deux ans on
+
+472
+00:45:37,040 --> 00:45:42,600
+ a eu tellement de retours sur le fait qu'on ne veut pas suivre ce standard on n'y arrive pas qu'on
+
+473
+00:45:42,600 --> 00:45:47,160
+ a changé d'avis et on est passé sur des normes ISO 86.01 qui rendent beaucoup plus lisible par
+
+474
+00:45:47,160 --> 00:45:52,120
+ exemple et pour les tests et pour le coût des fonctionnels donc ça nous est déjà arrivé dans
+
+475
+00:45:52,120 --> 00:45:57,759
+ le passé de revoir nos standards et on est très ouvert à les faire évoluer comme j'ai dit nos
+
+476
+00:45:57,759 --> 00:46:03,200
+ équipes techniques sont de plus en plus compétentes notre marché évolue les technologies évoluent par
+
+477
+00:46:03,200 --> 00:46:06,839
+ contre dans la construction de ce fray mort qui est dans les entretiens on n'en a pas forcément
+
+478
+00:46:06,840 --> 00:46:20,880
+ tenu compte comme une question précise mais c'est une bonne idée. Dernière question. Merci Cyril. Ma
+
+479
+00:46:20,880 --> 00:46:24,960
+ question est plus sur les outils est ce que donc tu nous as dit que c'était assez récent chez Mano
+
+480
+00:46:24,960 --> 00:46:29,400
+ Mano est ce que vous allez peut-être publier ce fray mort quelque part et mettre à disposition
+
+481
+00:46:29,400 --> 00:46:34,240
+ les outils genre les scorecards pour pouvoir y térer dessus les tester aussi. Je ne sais pas.
+
+482
+00:46:34,240 --> 00:46:42,160
+ Sur les outils il y a un outil dont je n'ai pas parlé qui s'appelle radiologiste qui permet
+
+483
+00:46:42,160 --> 00:46:46,839
+ en fait un petit peu comme sonar cube de mettre en place des règles qui correspondent à nos
+
+484
+00:46:46,839 --> 00:46:53,040
+ standards et qui viennent non pas sourcer uniquement le code mais aussi toute sa infrastructure et donc
+
+485
+00:46:53,040 --> 00:46:57,319
+ qui peuvent détecter des problèmes d'architecture sur un service axé d'un autre base de données par
+
+486
+00:46:57,319 --> 00:47:01,839
+ exemple et donc cet outil faut que j'en parle avec les personnes mais je pense qu'il y a une volonté
+
+487
+00:47:01,840 --> 00:47:07,680
+ un petit peu de le montrer et peut-être de l'open sourcer donc celui là pourquoi pas sur le framework
+
+488
+00:47:07,680 --> 00:47:11,840
+ de scoring et la méthodologie je pense qu'on n'est pas assez matur aujourd'hui on a besoin d'un peu
+
+489
+00:47:11,840 --> 00:47:32,240
+ plus de travail et je sais pas si c'est la volonté de l'entreprise ou pas. Merci à tous.
+
